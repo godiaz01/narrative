@@ -1,0 +1,1219 @@
+
+<!DOCTYPE html>
+<html class="no-js" lang="en-US">
+	<head>
+		<title>The Search - The Sun Magazine</title>
+
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		
+		<meta name="viewport" content="width=device-width, minimum-scale=1.0">
+
+		<link rel="dns-prefetch" href="//ajax.googleapis.com">
+		<link rel="dns-prefetch" href="//use.typekit.net">
+		
+		<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/modernizr.js"></script>
+		<script src="https://www.google.com/recaptcha/api.js"
+				async defer>
+		</script>
+
+		<script>(function(d) { var config = { kitId: 'kzw7ebk', scriptTimeout: 3000, async: true }, h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s) })(document);</script>
+
+
+				
+		<link rel="apple-touch-icon" sizes="57x57" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-57x57.png?v=2016">
+		<link rel="apple-touch-icon" sizes="60x60" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-60x60.png?v=2016">
+		<link rel="apple-touch-icon" sizes="72x72" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-72x72.png?v=2016">
+		<link rel="apple-touch-icon" sizes="76x76" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-76x76.png?v=2016">
+		<link rel="apple-touch-icon" sizes="114x114" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-114x114.png?v=2016">
+		<link rel="apple-touch-icon" sizes="120x120" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-120x120.png?v=2016">
+		<link rel="apple-touch-icon" sizes="144x144" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-144x144.png?v=2016">
+		<link rel="apple-touch-icon" sizes="152x152" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-152x152.png?v=2016">
+		<link rel="apple-touch-icon" sizes="180x180" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-180x180.png?v=2016">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-32x32.png?v=2016" sizes="32x32">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/android-chrome-192x192.png?v=2016" sizes="192x192">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-96x96.png?v=2016" sizes="96x96">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-16x16.png?v=2016" sizes="16x16">
+		<link rel="mask-icon" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/safari-pinned-tab.svg?v=2016" color="#444444">
+		<link rel="shortcut icon" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon.ico?v=2016">
+		<meta name="apple-mobile-web-app-title" content="The Sun Magazine">
+		<meta name="application-name" content="The Sun Magazine">
+		<meta name="msapplication-TileColor" content="#fcc330">
+		<meta name="msapplication-TileImage" content="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/mstile-144x144.png?v=2016">
+		<meta name="theme-color" content="#ffffff">
+
+				<link rel="stylesheet" type="text/css" href="https://cloud.typography.com/6578674/659928/css/fonts.css" />
+		<link rel="stylesheet" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/css/style.css">
+
+																		<meta property="og:site_name" content="The Sun Magazine">
+		<meta property="og:type" content="article">
+		<meta property="og:url" content="https://www.thesunmagazine.org/issues/265/the-search">
+		<meta property="og:image" content="http://www.thesunmagazine.org/files/import/issue/265.jpg">
+		<meta property="og:title" content="The Search - The Sun Magazine">
+		<meta property="og:description" content="A swarm of state aircraft were flying grids over the rugged valley where I live, looking for signs of Larry&amp;rsquo;s downed plane: broken trees, an oil slick in a lake, a signal fire. Like most others, I went about my work, expecting the search planes to find Larry and the children soon, refusing to indulge bad thoughts while there was still hope for good news.">
+		<meta property="fb:app_id" content="158741778010551">
+
+						<link rel="image_src" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.comhttp://www.thesunmagazine.org/files/import/issue/265.jpg">
+
+												<meta name="twitter:card" content="summary">
+		<meta name="twitter:title" content="The Search - The Sun Magazine">
+		<meta name="twitter:description" content="A swarm of state aircraft were flying grids over the rugged valley where I live, looking for signs of Larry&amp;rsquo;s downed plane: broken trees, an oil slick in a lake, a signal fire. Like most others, I went about my work, expecting the search planes to find Larry and the children soon, refusing to indulge bad thoughts while there was still hope for good news.">
+		<meta name="twitter:image" content="http://www.thesunmagazine.org/files/import/issue/265.jpg">
+		<meta name="twitter:site" content="@thesunmagazine">
+
+				<link rel="publisher" href="https://plus.google.com/113792980827145858211">
+        
+		<meta name="Description" content="A swarm of state aircraft were flying grids over the rugged valley where I live, looking for signs of Larry&amp;rsquo;s downed plane: broken trees, an oil slick in a lake, a signal fire. Like most others, I went about my work, expecting the search planes to find Larry and the children soon, refusing to indulge bad thoughts while there was still hope for good news.">
+
+		
+		<!-- Google Tag Manager -->
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-TKBHCCG');</script>
+		<!-- End Google Tag Manager -->
+
+		<!-- Google Analytics -->
+		<script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+            ga('create', 'UA-2351127-1', 'auto');  // Replace with your property ID.
+            ga('send', 'pageview');
+            ga('require', 'ecommerce');   // Load the ecommerce plug-in.
+		</script>
+		<!-- End Google Analytics -->
+	</head>
+	<body id="">
+
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TKBHCCG"
+		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+		<header class="header" data-offset-start="80">
+		<div class="header-utilities">
+				<ul class="header-utilities-user list-inline list-inline-tight xxsmall">
+							<li>
+					<span class="header-utilities-user-intro">Already A Subscriber?</span> &nbsp;
+					<a href="https://www.thesunmagazine.org/subscriber/login" class="link-text link-alt">Sign In</a>
+				</li>
+					</ul>
+		<a href="https://www.thesunmagazine.org/shop/cart" class="header-utilities-cart  link-alt link-icon tiny">
+			<span class="i"><svg><use xlink:href="#i-cart"></use></svg></span>
+			<span class="cart-item-count">
+									0 Items
+				
+			</span>
+		</a>
+			</div>
+
+		<div class="header-bar">
+		<h1 class="header-logo logo">
+			<a href="/">
+				<img src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/img/logo-thesun.svg" class="logo-thesun" alt="The Sun Magazine">
+				<img src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/img/logo-tagline.svg" class="logo-tagline" alt="">
+			</a>
+		</h1>
+
+		<ul class="header-nav">
+			
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/read" 	   class='current '>
+	   Read	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/issues/current" 	   class=''>
+	   Current Issue	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/archives" 	   class=''>
+	   Archives	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/featured" 	   class=''>
+	   Featured Selections	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/topics" 	   class=''>
+	   Browse Topics	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/sections" 	   class=''>
+	   Browse Sections	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/connect" 	   class=''>
+	   Connect	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/news" 	   class=''>
+	   News from <em>The Sun</em>	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" 	   class=''>
+	   Write a Letter to the Editor	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/discussion-groups" 	   class=''>
+	   Discussion & Writing Groups	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/make-a-suggestion" 	   class=''>
+	   Make a Suggestion	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/submit" 	   class=''>
+	   Submit	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/shop" 	   class=''>
+	   Shop	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/giftsub" 	   class=''>
+	   Gift Subscriptions	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/issues" 	   class=''>
+	   Issues	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+											
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/donatemenu" 	   class='highlight'>
+	   Donate	</a>
+		
+	</li>
+
+		<li class=" last">
+														<a href="/SubscribeNav1" 					   class=''>
+						Subscribe					</a>
+									
+	</li>
+
+
+		</ul>
+
+		<button class="header-nav-toggle"><svg><use xlink:href="#i-menu" class="i-menu"></use><use xlink:href="#i-close" class="i-close"></use></svg></button>
+		<button class="header-search-toggle" data-form-wrapper=".header-search"><svg><use xlink:href="#i-magnifier" class="i-magnifier"></use><use xlink:href="#i-close" class="i-close"></use></svg></button>
+	</div>
+
+		<div class="header-search">
+		<div class="header-search-content">
+			<form action="https://www.thesunmagazine.org/search" class="form form-search" method="get">
+				<h2 class="alt-ff brand-link">Search Our 40 Years of Archives</h2>
+				<ul class="form-search-fields form-fields form-fields-inline">
+					<li><input type="text" name="q" value=""></li>
+					<li class="form-fields-inline-button"><button class="b b-1 b-padding-tight b-loading"><svg><use xlink:href="#i-loading"></use></svg>Search</button></li>
+				</ul>
+
+				<div class="header-search-content-shortcuts">
+					<h6 class="search-advanced alt-ff"><a class="js-handle-advanced" href="https://www.thesunmagazine.org/search?advanced=1">Advanced Search</a></h6>
+					<br>
+					<h6 class="alt-ff">Popular Pages</h6>
+					<ul class="list-inline-border list-inline-tight xxsmall"><li class=" first"><a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a></li><li class=""><a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a></li><li class=""><a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a></li><li class=""><a href="https://www.thesunmagazine.org/sections/quotations" 	   class=''>
+	   Quotations	</a></li><li class=""><a href="https://www.thesunmagazine.org/sections/readers-write" 	   class=''>
+	   Readers Write	</a></li><li class=" last"><a href="https://www.thesunmagazine.org/sections/poetry" 	   class=''>
+	   Poetry	</a></li></ul>				</div>
+			</form>
+		</div>
+	</div>
+</header>
+
+	<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+	<script type="text/javascript">
+		$(document).ready(function() {
+			$('.js-handle-advanced').on('click', function (e) {
+				e.preventDefault();
+				var getSearchValue = $('.form-search-fields input').val();
+				var getURL = $(this).attr('href');
+				var newURL = getURL + '&q=' + getSearchValue;
+				window.location.href = newURL;
+			});
+		});
+	</script>
+
+		<div class="container-hidden">
+		<div class="container">
+
+				
+	
+	<article class="article ">
+		<header class="block-content block-content-l1 block-content-center">
+						<div class="block-content-header">
+				<h6 class="b-content-section heading-square"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+				<h1 class="block-content-title">The Search</h1>
+
+				
+				<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/winston-smith">Winston Smith</a></li><li><a href="/issues/265">January 1998</a></li></ul>
+
+			</div>
+
+								</header>
+
+				<div class="article-body link-text-wrap">
+																		<p><span class="dropcap">I</span> spent the morning transplanting lilacs from an abandoned homestead to my garden. Over the past several months, my garden had become a refuge from a world that seemed a terrible failure. But now it was a struggle to pay attention to what I was doing: the world droned insistently overhead as plane after plane flew by and cruised along the mountains. A swarm of state aircraft were flying grids over the rugged valley where I live, looking for signs of Larry&rsquo;s downed plane: broken trees, an oil slick in a lake, a signal fire. Like most others, I went about my work, expecting the search planes to find Larry and the children soon, refusing to indulge bad thoughts while there was still hope for good news.</p>
+
+<p>The day before, Larry and his fianc&eacute;e, Bev, had flown in on their private plane to visit Larry&rsquo;s sister Lila and her children. After they&rsquo;d landed at the tiny airport, Larry agreed to take the three children up for a quick spin, to look at the valley from above. Bev got out of the plane to wait with Lila, and Larry, his two nieces, and his nephew taxied down the runway and climbed quickly into the air, heading off toward the snow-covered peaks.</p>
+
+<p>Lila and Bev sat on the hood of Lila&rsquo;s car and chatted for half an hour. The plane didn&rsquo;t return. The car&rsquo;s hood cooled. A full hour passed. Quietly anxious, they went into town to check on supper, which Lila had put in the oven before leaving for the airport. When they got back to the airport, the light was nearly gone, and the plane still hadn&rsquo;t returned.</p>
+
+<p>That was twenty-four hours ago. Now dusk had come again, and still nothing had been found. I drove out to the airport &mdash; one hangar beside an airstrip &mdash; to see if I could help. &ldquo;We don&rsquo;t have any idea where to start,&rdquo; the search coordinator told me. There was no signal from the plane&rsquo;s emergency-locater transmitter, but since Larry had only gone up for a brief jaunt he might not have turned it on. Nobody had any idea in what direction the plane had been flying when it vanished. To the east, the wilderness stretched for miles, all forest and rugged peaks. Farther south, the mountains were gentler but the forests no less thick. The area to the southwest was more heavily logged, with many clear-cuts, but was still a huge region of rolling hills and patches of timber.</p>
+
+<p>Night came, and more folks from town dropped by the airport to see if there was any news. Wearing only shorts and a T-shirt, I began to shiver in the chill breeze blowing down from above the tree line: though days in the valley were warm, winter had not yet left the nearby peaks. Lila said the kids had been dressed lightly. If they were alive, and at a higher elevation, their second night in the wild was going to be long and cold.</p>
+
+<p>I went home and sat in the bright light of my warm living room and talked with my own children, asking them about ten-year-old Angela, the only one of the three missing kids I didn&rsquo;t know. They told me she was a bubbly, happy girl who liked to hug people. Her younger brother, Jesse, was six, the same age as my youngest boy, and rode his bike to our house often. Only a few days before, he had dropped by to advise me on the pigpen I was building. The eldest, Sierra, was a beautiful young woman, a senior at the high school where, until a few months before, I&rsquo;d been principal.</p>
+
+<p>I went outside and stood in the chill. Though the nearest mountain range was only five miles from town, its trails &mdash; all of them rated in guides as &ldquo;strenuous&rdquo; &mdash; didn&rsquo;t get a lot of traffic. If my kids were up in those mountains, maybe hurt, I wouldn&rsquo;t hang around waiting for someone to tell me where to look. It would take outrageous luck to stumble upon the plane on foot in that vast wilderness, but if luck was all we had, then we had to try it.</p>
+
+<p>&nbsp;</p>
+
+<p><span class="dropcap">I</span> called Bill, a local doctor and avid hiker. He said he&rsquo;d already been out with a professional wilderness guide named Gary, whom I hadn&rsquo;t met. Now they were planning to search a quadrant where a psychic had said the downed plane would be found. I was welcome to join them.</p>
+
+<p>Before dawn we loaded our packs and left. We had no specific destination in mind; we weren&rsquo;t trying to get somewhere, but to see &mdash; thoroughly and in detail &mdash; every place we went. We fought through cedar thickets, crawled through deadfall, and tore through underbrush. If Larry&rsquo;s plane was down in this heavy timber, we could walk within thirty yards and not notice it. And thirty yards was a tiny distance in the enormous expanse of these mountains.</p>
+
+<p>I found a logging road and followed it for almost a mile until new growth reduced it to a trail choked with lupine, paintbrush, clematis, wild rose, and gooseberries &mdash; all in bloom. The blossoms had attracted thousands of butterflies that fluttered among the flowers like delicate confetti. On top of this, hundreds of Neotropical birds had returned from South America, and the forest&rsquo;s winter silence had given way to their singing. I felt almost guilty for having wandered into such beauty on such a mission.</p>
+
+<p>Toward dark, we broke out of the thick brush onto a rocky outcrop, where we made camp, built a small fire, and fixed supper. During the meal, I got to know Gary better. He said he&rsquo;d guided groups through this range before, but most of his business was in Arizona during the winter. &ldquo;Not many people want hikes this difficult,&rdquo; he said, laughing. His scruffy beard enhanced my impression of him as independent and introspective. He had met <a href="/contributors/edward-abbey">Edward Abbey</a>, and his anecdotes about the author&rsquo;s dying days were an unexpected treat. Then Gary asked what had happened at the high school; he had heard that I was no longer the principal there. &ldquo;People tell me that the controversy made them sick,&rdquo; he said. &ldquo;It made them want to move away.&rdquo;</p>
+
+<p>Bill said, &ldquo;The guy I rent my office from told me the real problem was that you were trying to make this the best school in America, and we couldn&rsquo;t have something like that.&rdquo; He laughed, his blue eyes glittering.</p>
+
+<p>I was practicing having no opinion. The conflict &mdash; a battle between myself and the superintendent &mdash; had divided the town enough already. I had avoided saying much to anyone except the school-board trustees, who had asked me to provide formal documentation against my boss. I had done so. It had seemed clear to me, in my naivet&eacute;, that it was up to the board to take action against him, but the board had failed.</p>
+
+<p>Many years before, I&rsquo;d come home from Vietnam an angry young man, unstable and full of questions. I&rsquo;d been drawn to classrooms as one of the few places where people gathered to take life seriously, to ask questions in earnest. Now I had been forced out on the basis of false allegations the superintendent himself had brought. I thought I knew the precise moment he had decided to get rid of me: He was telling me a story, in front of a prominent local businessman, about when he&rsquo;d been the superintendent of a reservation school. He said he used to take the Native American school-board members to Title VII meetings in Washington, D.C., and that part of his job there had been securing black prostitutes for them. &ldquo;Those Indians really like black hookers,&rdquo; he said, laughing.</p>
+
+<p>It was a test. To pass, I had to laugh, showing that, behind closed doors, we could talk &ldquo;like men.&rdquo;</p>
+
+<p>&ldquo;Did you use federal funds?&rdquo; I asked, straight-faced.</p>
+
+<p>He glared at me and changed the subject.</p>
+
+<p>A few days later, a student swore at a teacher and was kicked out of class. The superintendent directed me to suspend the boy, which I did. The boy then went to the superintendent to complain, and the superintendent readmitted him on the spot, agreeing that I had been unreasonable. Such incidents soon became an almost daily occurrence.</p>
+
+<p>&nbsp;</p>
+
+<p><span class="dropcap">A</span>fter dinner, I left Bill and Gary and went to sit on the rocks and listen to the forest and the incessant drone of aircraft. A National Guard chopper flew directly over us. Despite their undeniable presence, the pilots&rsquo; powerful technology placed them in a different world, one far from the wilderness where the plane had gone down. But our primitive hiking was no better, being too slow for an area so vast. Larry and the children were lost somewhere between the two approaches.</p>
+
+<p>The next day, we hiked steadily across the steep hillsides into remote areas where we would never have gone just for pleasure. When we got back to town, tired, footsore, and scratched from fighting branches, we learned that two dozen possible sightings were being investigated. Aircraft were coming from around the state. The roar of engines overhead was constant.</p>
+
+<p>The search was officially in the hands of the state aviators, the county sheriff said, and until there was a confirmed sighting, he couldn&rsquo;t authorize a ground search. So, like us, people began searching without authorization. The next day, more than a hundred of them were hiking in the mountains, following hunches and intuition. When another day ended without success, the searchers became more systematic. They assembled huge contour maps and bulletin boards, and lashed tarps together to form an ad hoc command center. They gathered reports and formulated plans, marking off areas that had already been searched, and checking to see what other areas were likely crash sites. A woman who, a few months before, had led a petition drive against me, taking an angry message door-to-door, now set up a food pantry in the airport hangar. She cooked casseroles and solicited contributions. Delivery trucks stopped <em>en route</em> to grocery stores and restaurants to leave cases of fruit and soda. Soon a field commissary was in full operation: chili, roast beef, stew, sandwiches, cookies, and soft drinks. Volunteers called their jobs to say they couldn&rsquo;t come in, and, the following day, nearly five hundred people went out searching.</p>
+
+<p>An organization was arising spontaneously. People who knew the terrain best naturally became leaders and began assigning crews to search specific areas. Horsemen scouted places that their horses could reach, and a bicycle club rode the miles of logging roads. The search gained momentum as people saw what they could do and did it.</p>
+
+<p>&nbsp;</p>
+
+<p><span class="dropcap">T</span>he effort to find the plane was repeatedly compared to the recent conflict at the school. The difference was that the crusade against me had been brought about largely by one man: the superintendent. Without fail, he had supported any parents and students who challenged my decisions, even though this repeatedly required him to waive board policy. He never talked to me about these decisions. I usually heard the results from the kids themselves, whom he was quick to tell that I was the problem.</p>
+
+<p>To alleviate disagreement between us, I began checking with him first, even on routine matters. For example, after some students had talked back to me and refused to leave a dance when I caught them smoking, he told me to &ldquo;roll the bastards out of here for ten days.&rdquo; This surprised me; a ten-day suspension was a tough punishment. But to avoid arguing, I called the kids in and suspended them. When their parents came to school to complain, the superintendent readmitted the students on the spot, leaving unchallenged the parents&rsquo; accusation that I had suspended their kids because I &ldquo;didn&rsquo;t like Indians.&rdquo;</p>
+
+<p>For a long time I was confused by his actions, and all my attempts to pin him down were stymied. If I questioned him, he asked me a seemingly unrelated question in return. If I pressed, he got angry but still didn&rsquo;t answer. Meanwhile, my authority was fast becoming a joke. The word was out among teachers and students that the superintendent didn&rsquo;t like me and would take anyone&rsquo;s side against me. When I pointed out to him that he was breaking state law, violating board policy, and ignoring board directives, he said he would need to think about it; the next morning, I found a stack of reprimands on my desk ordering me, in essence, to stop doing things I hadn&rsquo;t done. As a friend put it, &ldquo;He&rsquo;s sticking out your neck so he can chop off your head.&rdquo;</p>
+
+<p>The superintendent told a tribal member on staff that I was afraid of the political power of Indians. He told tribal politicians that I didn&rsquo;t like them and would thwart their plans. He told several teachers that I wanted to get rid of them. He told the students that I was trying to take away their privileges. It was a time-honored route to power: teach people they have an enemy, teach them to fear, to hate, and then offer yourself as their only hope.</p>
+
+<p>When the board confronted the superintendent about his abuses, he responded by sending supporters into the community with a petition to keep him on. Convinced this man was willing to take their side against those in power, many people were glad to help him.</p>
+
+<p>Though the conflict was becoming more and more public, I avoided saying anything to anybody except the board trustees, to whom I provided formal documentation of my allegations. As a result, the public heard only the superintendent&rsquo;s side of the story. From hopeful beginnings as an educator, I&rsquo;d reached a point where all my energy was devoted to defending myself from shabby little lies told by a man who had spent his life, as far as I could tell, studying fear and weakness.</p>
+
+<p>The superintendent unearthed enemies of current school-board trustees and offered them a chance to settle old scores. He found former trustees whose dreams for the school had failed, and appealed to their resentments. He sought out people who were hungry to be taken seriously and praised them. Those who weren&rsquo;t motivated by bribes or flattery, he threatened. The community was quickly polarized. The people who defended him felt their connection to power would be jeopardized if he left. Those who feared him felt their careers were in danger. The tension became palpable. Townspeople not involved in the conflict were astonished at how suddenly and how passionately their neighbors had mobilized against each other. An old man who&rsquo;d lived in town all his life said to me, &ldquo;I&rsquo;ve never seen anything like this.&rdquo; Naming one of the superintendent&rsquo;s strongest supporters, he said, &ldquo;That man has never stood up for anybody before. I&rsquo;m the only friend he&rsquo;s ever had. But he kicked me out of his house because I said the superintendent wasn&rsquo;t right.&rdquo;</p>
+
+<p>Soon the superintendent was campaigning openly against the board that had hired him. His allies began a movement to recall the board chairman, alleging that, by talking to the superintendent in private, he had violated open-meeting laws. One of the chairman&rsquo;s old foes, a businessman who until recently had been on the school board, bought radio ads and called his own town meeting. Hundreds of people showed up, many just to find out what the hubbub was about. The businessman accused the board chairman of having &ldquo;an agenda.&rdquo; A newcomer to town tried to point out that nobody seemed to have any real information, and the businessman told him to shut up.</p>
+
+<p>&nbsp;</p>
+
+<p><span class="dropcap">T</span>he search for the lost children now brought up feelings just as powerful. Everywhere I went, people tried to draw a connection between the two events. They wanted to believe that the community could pull itself together to do good things as well as bad ones. &ldquo;Isn&rsquo;t this amazing?&rdquo; a friend commented, gesturing at the crowd buzzing around the airport. I agreed, but I remained distrustful of the town.</p>
+
+<p>There were still no reports about the children. It was eerie: they had simply vanished. People couldn&rsquo;t fight the sense that it was taking too long. There was hope, but the odds that the kids were alive out there somewhere were getting worse by the hour.</p>
+
+<p>In the evening, when it became too dark to search, folks gathered at Lila&rsquo;s. She had purchased an old hotel and was remodeling it as an art gallery and bed-and-breakfast. Some people brought guitars and flutes, and we sang over the hum of the search planes. A possible tragedy was in some ways becoming a blessing. Neighbors who had lived in the same valley all their lives but never gotten to know one another now found themselves on search parties together, struggling over the hard terrain, helping each other along. Some who had lived at the foot of the mountains for decades without climbing them now were spending hour after hour hiking through flower-carpeted meadows, awestruck by the raw beauty they had been too busy to notice.</p>
+
+<p>Only a few months before, people had put comparable energy into hatred and fighting. They had gathered on the street outside board meetings, plotting strategies and imagining conspiracies. When it came time for the board to decide whether to renew the superintendent&rsquo;s contract for another year, the entire town was in an uproar. So many people showed up for the meeting, it had to be held in the school gymnasium. Going in, three of the five board members were furious with the superintendent. They had evidence that he was no longer working for them, but acting on his own.</p>
+
+<p>The meeting had the atmosphere of a football game or a tent revival. Neither I nor the board members who sided with me had lobbied anyone to attend the meeting, but the superintendent&rsquo;s supporters were out in force and having a rowdy good time. Most of the people were strangers to me; I hadn&rsquo;t seen them at the school or at school-sponsored activities. Every time the superintendent spoke, no matter how silly or irrelevant his comments, the crowd cheered. And every time one of the board members asked him a hard question, the crowd booed. The uncertain board faced a room full of true believers.</p>
+
+<p>Reading the passions of the crowd, two board members began playing for popularity. Fans of the superintendent stood up and gave testimonials. A state senator running for reelection made a speech in favor of democracy. The crowd became more hostile the more powerful it felt.</p>
+
+<p>The superintendent spoke in a grand manner: he was here to save the children, but evil people were trying to stop him. Whenever the chairman tried to address specific questions to the superintendent, the audience hooted him down. Clearly, they hadn&rsquo;t come to listen. They were righteous crusaders out to save the town by destroying its enemies.</p>
+
+<p>When it became apparent that I could no longer have any formal role in the town&rsquo;s life, I stood up to leave. I&rsquo;d been sitting at the bottom of the bleachers in the center of the gym, where I could answer questions from the board as needed. As I left, a woman climbed down the bleachers behind me and began beating on me with her fists. Turning, I saw her face twisted with hatred. She was yelling something that I couldn&rsquo;t hear over the roar of the crowd. She was too weak to hurt me, but she wanted to. We&rsquo;d never met.</p>
+
+<p>In the end, the board trustees lost their nerve and voted unanimously to rehire the superintendent. After the meeting, one of them told me, &ldquo;If we&rsquo;d done anything else, we wouldn&rsquo;t have gotten out of there alive.&rdquo;</p>
+
+<p>That night in that gym, in that little town in the middle of nowhere, I saw the law vanish, replaced by the volatile will of the mob.</p>
+
+<p>Now I had to decide what to do next. I could have launched a political campaign against the superintendent, but I thought about the times in my life when I&rsquo;d lashed out at someone who had threatened me &mdash; passing on stories I wasn&rsquo;t sure were true, making accusations based partly on suppositions. Driven by fear of defeat or humiliation, it&rsquo;s easy to spread hatred. Nobody in town was doing anything that, to some degree, I hadn&rsquo;t done myself. But I didn&rsquo;t want to do it anymore. Rather than let him fire me, I resigned.</p>
+
+<p>&nbsp;</p>
+
+<p><span class="dropcap">O</span>n the sixth day of the search, I left early in the morning to explore a creek drainage. The hike wasn&rsquo;t long, but the trail was steep. As I trudged upward through groves of pine and fir, I occasionally met other searchers and had short, welcome conversations. These woods were more full of people now than ever before in history, yet somehow they were still peaceful.</p>
+
+<p>I kept going until I reached the timberline, thousands of feet above the valley. In the aspen draws below, I could see search parties fanning out through thickets, or stopping for sandwiches beside alpine creeks. I stayed there a long time, no longer really looking for the downed plane.</p>
+
+<p>On the seventh day, the air search was officially called off. The aircraft on loan had to be returned. By then, searchers had stopped looking for signal fires and begun looking for gatherings of bears, ravens, and other scavengers. There was no longer any rational hope that the children were still alive.</p>
+
+<p>A few nights later, a weary, heartbroken band of searchers &mdash; out of resources, time, money, and energy &mdash; gathered after sunset to pray and share stories about the missing children. Gone were the psychics, with their histrionic proclamations. Gone were the newspeople, with their flat-footed questions. Gone were the search planes, with their aching roar. But <em>we</em> were still here, so we planned to continue searching. And together, without pride or pretense, we prayed.</p>
+
+<p>A little past noon on Sunday, the tenth day of the search, one of the few remaining pilots spotted the plane&rsquo;s wreckage from a helicopter. It appeared Larry had flown into a broad canyon, only to find it rising too quickly for the small, heavily loaded plane to climb out. His plane had crashed into a cliff and fallen upside down onto a glacier. The craft&rsquo;s light-colored underside was nearly invisible on the vast expanse of ice.</p>
+
+<p>All the passengers had died on impact.</p>
+
+<p>The people of the valley had been unable to help the children, but, in the world&rsquo;s terrible way, the children had helped the people of the valley. For the space of ten days, a few hundred souls had united against our only real enemy &mdash; human suffering. In trying to find the lost children, we had glimpsed something else we were missing: ourselves.</p>
+														</div>
+
+
+				
+<div class="sharing-bar article-sharing">
+	<div class="sharing-bar-first">
+		<a href="javascript:window.print();" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-printer"></use></svg> <span>Print</span></a>
+	</div>
+
+	<div class="sharing-bar-second">
+		<span class="alt-ff xsmall">Share:</span>
+		<a href="https://www.facebook.com/sharer/sharer.php?u=https://www.thesunmagazine.org/issues/265/the-search" target="_blank" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-facebook"></use></svg> <span>Facebook</span></a>
+		<a href="https://twitter.com/share?url=https://www.thesunmagazine.org/issues/265/the-search&amp;via=thesunmagazine" target="_blank" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-twitter"></use></svg> <span>Twitter</span></a>
+		<a href="#" class="b b-1 b-padding-tight xsmall js-toggle-mail-form"><svg><use xlink:href="#i-email"></use></svg> <span>Email</span></a>
+	</div>
+</div>
+
+<div class="send-to-friend-message-container">
+	<div class="alert alert-success xsmall">Thank you for sharing <em>The Sun</em>.</div>
+</div>
+
+<form method="post" action="/ajax/articles/send-to-a-friend" class="form fill-grey send-to-friend-form">
+		<input type="hidden" id="form_url" name="form[url]" value="https://www.thesunmagazine.org/issues/265/the-search" />
+
+	<ul class="form-fields">
+		<li><label for="form_sender_name"><span class="label-text">Your Full Name</span><span class="label-asterisk">*</span></label><input type="text" id="form_sender_name" name="form[sender_name]" required="required" /></li>
+		<li><label for="form_sender_email"><span class="label-text">Your Email Address</span><span class="label-asterisk">*</span></label><input type="email" id="form_sender_email" name="form[sender_email]" required="required" /></li>
+		<li><label for="form_recipient_name"><span class="label-text">Friend’s Name</span><span class="label-asterisk">*</span></label><input type="text" id="form_recipient_name" name="form[recipient_name]" required="required" /></li>
+		<li><label for="form_recipient_email"><span class="label-text">Friend’s Email Address</span><span class="label-asterisk">*</span></label><input type="email" id="form_recipient_email" name="form[recipient_email]" required="required" /></li>
+		<li><label for="form_message"><span class="label-text">Personalized Message</span></label><textarea id="form_message" name="form[message]"></textarea></li>
+	</ul>
+<div class="send-to-friend-message-container">
+	<div class="alert alert-error xsmall">Something went wrong. Please try again.</div>
+</div>
+
+<div class="g-recaptcha" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs"></div>
+<div class="form-actions"><button type="submit" id="form_submit" name="form[submit]"	class="form-actions-b-primary b b-1 b-loading xsmall"><svg><use xlink:href="#i-loading"></use></svg>
+		Submit
+	</button></div>
+<input type="hidden" id="form__token" name="form[_token]" value="1efc3b7c51c933c703db6265f3118a551e7b761f" /></form>
+
+<br>
+
+
+
+										<footer class="article-contributor contributors">
+									
+
+<div class="block-contributor">
+		
+
+		<div class="block-contributor-content">
+		<div class="block-contributor-bio small">
+			<p><strong><span class="smallcaps">Winston Smith</span></strong> is the pseudonym of a writer based in the western United States.</p><a href="/contributors/winston-smith" class="block-contributor-link link-alt small">More From This Contributor&nbsp;&#9656;</a>		</div>
+	</div>
+</div>
+
+							</footer>
+						</article>
+
+
+				    <div class="paywall-subscription block-product">
+			<div class="columns">
+			<div class="paywall-banner span3 cta cta-l1">
+				<div class="cta-intro">
+					<h5 class="cta-title alt-ff">One Free Selection Left </h5>
+					<p class="cta-text xsmall"><a class="link-alt" href="https://www.thesunmagazine.org/subscriber/login" data-label="Already a subscriber?">Already a subscriber? Sign in ▸</a><br><br>Read two free selections from <em>The Sun</em> each month.</p>
+				</div>
+			</div>
+			<div class="paywall-banner span9 note note-1 text-center">
+				<h4 class="cta-title alt-ff">Subscribe to <em>The Sun</em> and save 45%</h4>
+				<p class="cta-text xsmall">Subscribers get full access to the current issue and more than 40 years of archives.</p>
+				<a class="b b-1 xsmall cta-trigger"  href="/subscribe1" data-label="Subscribe" data-ctatitle="Subscribe">Subscribe</a>
+			</div>
+		</div>
+
+		<div class="columns">
+			<div class="span12 paywall-cta-bottom">
+				<p>
+					<span class="cta-title-issue">Buy the January 1998 issue for $5.95</span>
+					<span class="xsmall">Order now to get instant access to this issue, and we’ll also send you a print copy.</span>
+					<a class="b b-5 xsmall corona"  href="#" data-product-type="issues" data-id="265" data-label="Order Now ▸">Order Now ▸</a>
+				</p>
+			</div>
+		</div>
+
+		
+
+</div>
+	
+	
+	
+	<div class="spacer"></div>
+	
+
+
+
+		
+		<div class="article-correspondence-cta">
+		<div class="cta cta-l1" data-url="https://www.thesunmagazine.org/letter-to-the-editor">
+			<div class="cta-intro">
+				<h5 class="cta-title alt-ff">Thinking about writing us a letter?</h5>
+				<p class="cta-text">Give in to the temptation. We love getting mail. <br><span class="xsmall">(Of course, we reserve the right to edit.)</span></p>
+			</div>
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" class="cta-button b b-4 b-padding-tight small" data-label="Write Us A Letter!">Write Us A Letter!</a>
+		</div>
+	</div>
+	
+
+			<div class="article-also layout-item-large full-bar fill-grey-mid-light">
+		<div class="layout-item-intro">
+			<h2>Also In This Issue</h2>
+			<a href="/issues/265" class="xsmall link-alt">January 1998&nbsp;&#9656;</a>
+		</div>
+		<div class="issue-articles-l1">
+			<div class="issue-articles-l1-content1">
+				
+<div class="cover cover-l1 block-product">
+	<div>
+							<a href="/issues/265" class="cover-thumb">
+				
+				<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 728'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/import/issue/265.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/560x728r/import/issue/265.jpg
+	 alt=""
+	 class="lazy">
+
+			</a>
+		
+
+													<!-- <a href="/issues/265" data-product-type="issues" data-id="265" data-role="order" class="js-buy-single corona cover-button b b-1 b-full xsmall" data-label="Buy This Issue &#9656;">
+								Buy This Issue&nbsp;&#9656;
+			</a> -->
+			<a href="/issues/265" data-product-type="issues" data-id="265" class="js-buy-single corona cover-button b b-1 b-full xsmall" data-label="Buy This Issue &#9656;">
+								Buy This Issue&nbsp;&#9656;
+			</a>
+					
+					</div>
+</div>
+			</div>
+			<div class="issue-articles-l1-content2">
+				<div class="articles-l3">
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/readers-write">Readers Write</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/265/hats">Hats</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/our-readers">Our Readers</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/fiction">Fiction</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/265/sunday-driving">Sunday Driving</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/lolly-winston">Lolly Winston</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/sy-safranskys-notebook">Sy Safransky&#039;s Notebook</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/265/sy-safranskys-notebook-issue-265">January 1998</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/sy-safransky">Sy Safransky</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/265/in-defense-of-original-sin">In Defense Of Original Sin</a></h3>
+					<p class="block-content-subtitle subtitle">The Neglected Genius Of American Spirituality</p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/john-taylor-gatto">John Taylor Gatto</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+									</div>
+			</div>
+		</div>
+	</div>
+	
+
+			<div class="article-related layout-item-large full-bar fill-pattern-light">
+		<div class="layout-item-intro">
+			<h2>Related Selections</h2>
+			<ul class="list-inline list-inline-tight"><li><a href="/topics/friendship" class="xsmall link-alt link-text">Friendship</a></li><li><a href="/topics/education" class="xsmall link-alt link-text">Education</a></li><li><a href="/topics/social-justice" class="xsmall link-alt link-text">Social Justice</a></li></ul>		</div>
+
+		<div class="articles-l2">
+							
+
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/437/the-hurricane">The Hurricane</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/sparrow">Sparrow</a></li><li><a href="/issues/437">May 2012</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/437" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 727'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/140x182r/import/issue/437.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/import/issue/437.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/308/o-my-little-breath-o-my-little-heart">O My Little Breath, O My Little Heart</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/genie-zeiger">Genie Zeiger</a></li><li><a href="/issues/308">August 2001</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/308" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 725'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/141x182r/import/issue/308.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/281x364r/import/issue/308.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/readers-write">Readers Write</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/242/the-impossible">The Impossible</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/our-readers">Our Readers</a></li><li><a href="/issues/242">February 1996</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/242" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 563 728'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/141x182r/2016-11/242.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/282x364r/2016-11/242.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/poetry">Poetry</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/98/fall-from-grace">Fall From Grace</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/thomas-rain-crowe">Thomas Rain Crowe</a></li><li><a href="/issues/98">January 1984</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/98" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 725'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/141x182r/import/issue/098.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/281x364r/import/issue/098.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+					</div>
+	</div>
+	
+	
+					<form id="newsletterForm" method="post" action="https://www.thesunmagazine.org/newsletter" data-url-send="https://www.thesunmagazine.org/newsletter" class="form form-newsletter fill-grey" enctype="multipart/form-data" target="_blank">
+
+
+
+		<div class="form-newsletter-intro">
+			<h3 class="alt-ff large">Sign Up For Our Newsletter</h3>
+			<p>We’ll let you know about new website selections, upcoming events, special offers, and more.</p>
+		</div>
+
+		<ul class="form-newsletter-fields form-fields form-fields-inline">
+			<li>
+				<input name="name" type="text" maxlength="500" id="name" placeholder="Your Name">
+			</li>
+			<li>
+				<input name="email" type="text" maxlength="500" id="email" placeholder="Your E-mail">
+			</li>
+
+			<li class="form-fields-inline-button">
+				<button disabled="disabled" class="form-newsletter-send b b-4 b-padding-tight b-loading g-recaptcha" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs" data-callback="recaptcha_callback" name="SubmitButton" id="SubmitButton">
+					<svg><use xlink:href="#i-loading"></use></svg>
+					Sign&nbsp;Up
+				</button>
+			</li>
+		</ul>
+	</form>
+	<script id="hiddenlpsubmitdiv" style="display: none;"></script>
+
+
+
+<footer class="footer brand-grey-dark">
+			<div class="footer-first">
+		<h3 class="footer-tagline">Independent, Reader-Supported Publishing</h3>
+		<p class="footer-desc">In each issue of <em>The Sun</em> you’ll find some of the most radically intimate and socially conscious writing being published today. In an age of media conglomerates, we’re something of an oddity: an ad-free, independent, reader-supported magazine.</p>
+		<ul class="footer-nav list-inline-border xsmall">
+			
+		<li class=" first">
+			<a href="https://www.thesunmagazine.org/about" 	   class=''>
+	   About <em>the Sun</em>	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/staff" 	   class=''>
+	   Staff	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/find-the-sun" 	   class=''>
+	   Find <em>The Sun</em>&nbsp;&nbsp;in a Store Near You	</a>
+		
+	</li>
+
+
+		</ul>
+	</div>
+	
+		<div class="footer-second">
+		<ul class="footer-second-social list-inline">
+			<li><a href="https://www.facebook.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-facebook"></use></svg></span> Like Us</a></li>
+			<li><a href="https://twitter.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-twitter"></use></svg></span> Follow Us</a></li>
+			<li><a href="https://instagram.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-instagram"></use></svg></span> Take a Look</a></li>
+		</ul>
+
+		<div class="footer-second-content">
+			<ul class="footer-nav list-inline-border xsmall">
+				
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/" 	   class='current '>
+	   Home	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/privacy-policy" 	   class=''>
+	   Privacy Policy	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/terms-of-use" 	   class=''>
+	   Terms of Use	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/site-map" 	   class=''>
+	   Site Map	</a>
+		
+	</li>
+
+
+			</ul>
+			<p class="footer-copyright xxsmall">Copyright &copy; 1974–2020 <em>The Sun</em>. All rights reserved.</p>
+		</div>
+	</div>
+</footer>
+
+
+
+<div class="offset-nav">
+	<ul>
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/read" 	   class='current '>
+	   Read	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/issues/current" 	   class=''>
+	   Current Issue	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/archives" 	   class=''>
+	   Archives	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/featured" 	   class=''>
+	   Featured Selections	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/topics" 	   class=''>
+	   Browse Topics	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/sections" 	   class=''>
+	   Browse Sections	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/connect" 	   class=''>
+	   Connect	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/news" 	   class=''>
+	   News from <em>The Sun</em>	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" 	   class=''>
+	   Write a Letter to the Editor	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/discussion-groups" 	   class=''>
+	   Discussion & Writing Groups	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/make-a-suggestion" 	   class=''>
+	   Make a Suggestion	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/submit" 	   class=''>
+	   Submit	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/shop" 	   class=''>
+	   Shop	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/giftsub" 	   class=''>
+	   Gift Subscriptions	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/issues" 	   class=''>
+	   Issues	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+											
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/donatemenu" 	   class='highlight'>
+	   Donate	</a>
+		
+	</li>
+
+		<li class=" last">
+														<a href="/SubscribeNav1" 					   class=''>
+						Subscribe					</a>
+									
+	</li>
+
+
+					<li>
+				<a href="https://www.thesunmagazine.org/shop/cart">Cart ( <span class="cart-item-count">  0  </span>)</a>
+			</li>
+			<li><a href="https://www.thesunmagazine.org/subscriber/login" class="link-header-logout link-alt">Sign In</a></li>
+			</ul>
+	<ul>
+		<li class=" first">
+			<a href="https://www.thesunmagazine.org/about" 	   class=''>
+	   About <em>the Sun</em>	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/staff" 	   class=''>
+	   Staff	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/find-the-sun" 	   class=''>
+	   Find <em>The Sun</em>&nbsp;&nbsp;in a Store Near You	</a>
+		
+	</li>
+
+</ul>
+	<ul>
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/" 	   class='current '>
+	   Home	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/privacy-policy" 	   class=''>
+	   Privacy Policy	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/terms-of-use" 	   class=''>
+	   Terms of Use	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/site-map" 	   class=''>
+	   Site Map	</a>
+		
+	</li>
+
+</ul>
+</div>
+
+<div id="buy-popup-message" class="buy-popup mfp-hide white-popup white-popup-block">
+	<a class="popup-modal-dismiss" href="#"></a>
+	<h5>Due to fulfillment challenges related to the novel coronavirus, print copies are temporarily unavailable for individual sale. We are offering free PDFs until we are able to resume print sales.</h5>
+	<p>Enter your e-mail address below to download this issue.</p>
+	<form method="post" id="download-single" action="https://www.thesunmagazine.org/issue/pdfFree/531.pdf">
+		<label for="email"><span class="label-text">E-mail</span><span class="label-asterisk">*</span></label>
+		<input class="buy-single-email" id="email" type="email" name="email">
+		<button type="send" class="form-buy-issue-send b b-3 b-padding-tight b-loading">Send</button>
+		<button class="form-buy-issue-download b b-3 b-padding-tight b-loading">Download pdf</button>
+		<button type="send" class="popup-modal-dismiss b b-2 b-padding-tight b-loading">Close</button>
+		<div class="g-recaptcha" style="text-align: center" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs"></div>
+
+	</form>
+</div>
+
+			<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/plugins.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/site.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/newsletter.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/js/articles.js"></script>
+		</div>
+		</div>
+
+				<script>
+		(function (doc) {
+			var scripts = doc.getElementsByTagName('script');
+			var script = scripts[scripts.length - 1];
+			var xhr = new XMLHttpRequest();
+			xhr.onload = function () {
+				var div = doc.createElement('div');
+				div.innerHTML = this.responseText;
+				div.style.display = 'none';
+				script.parentNode.insertBefore(div, script);
+			}
+			xhr.open('get', '/theme/thesun//assets/build/img/sprite/sprite.svg', true);
+			xhr.send();
+		})(document);
+
+
+
+		</script>
+
+		<script>
+			// Submit function
+            function recaptcha_callback() {
+						var getUrl = $('.form-newsletter').data( "url-send" ),
+							getName = $('input#name').val(),
+							getEmail = $('input#email').val();
+						$.ajax({
+								type: "POST",
+								url: getUrl,
+								data: {
+									name: getName,
+									email: getEmail,
+									grecaptcharesponse: grecaptcha.getResponse()
+								}
+							}).done(function(response) {
+								console.log(response);
+									$('.form-fields').fadeOut(800, function () {
+										$('.form-fields').empty().append('<div class="newsletter-confirm-message">Thank you for signing up to receive news from <em>The Sun</em>. Your first newsletter will arrive soon.<div>').fadeIn(800);
+									});
+							});
+			}
+
+		</script>
+
+		<script>
+			function getUrlCode() {
+				var url_string = window.location.href;
+				var url = new URL(url_string);
+				var c = url.searchParams.get('promotion\_key');
+				if (typeof c !== 'undefined' && c !== null) {
+					setCookie("promotion_code",c);
+				}
+			}
+
+			function setCookie(cname, cvalue) {
+				document.cookie = cname + "=" + cvalue + ";" + "path=/";
+			}
+
+			function getCookie(cname) {
+				var name = cname + "=";
+				var decodedCookie = decodeURIComponent(document.cookie);
+				var ca = decodedCookie.split(';');
+				for(var i = 0; i <ca.length; i++) {
+					var c = ca[i];
+					while (c.charAt(0) == ' ') {
+						c = c.substring(1);
+					}
+					if (c.indexOf(name) == 0) {
+						return c.substring(name.length, c.length);
+					}
+				}
+				return "";
+			}
+			window.addEventListener( "load", getUrlCode );
+		</script>
+
+
+	</body>
+</html>

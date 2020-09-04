@@ -1,0 +1,1277 @@
+
+<!DOCTYPE html>
+<html class="no-js" lang="en-US">
+	<head>
+		<title>Go Fly A Kite - The Sun Magazine</title>
+
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		
+		<meta name="viewport" content="width=device-width, minimum-scale=1.0">
+
+		<link rel="dns-prefetch" href="//ajax.googleapis.com">
+		<link rel="dns-prefetch" href="//use.typekit.net">
+		
+		<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/modernizr.js"></script>
+		<script src="https://www.google.com/recaptcha/api.js"
+				async defer>
+		</script>
+
+		<script>(function(d) { var config = { kitId: 'kzw7ebk', scriptTimeout: 3000, async: true }, h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s) })(document);</script>
+
+
+				
+		<link rel="apple-touch-icon" sizes="57x57" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-57x57.png?v=2016">
+		<link rel="apple-touch-icon" sizes="60x60" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-60x60.png?v=2016">
+		<link rel="apple-touch-icon" sizes="72x72" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-72x72.png?v=2016">
+		<link rel="apple-touch-icon" sizes="76x76" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-76x76.png?v=2016">
+		<link rel="apple-touch-icon" sizes="114x114" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-114x114.png?v=2016">
+		<link rel="apple-touch-icon" sizes="120x120" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-120x120.png?v=2016">
+		<link rel="apple-touch-icon" sizes="144x144" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-144x144.png?v=2016">
+		<link rel="apple-touch-icon" sizes="152x152" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-152x152.png?v=2016">
+		<link rel="apple-touch-icon" sizes="180x180" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-180x180.png?v=2016">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-32x32.png?v=2016" sizes="32x32">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/android-chrome-192x192.png?v=2016" sizes="192x192">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-96x96.png?v=2016" sizes="96x96">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-16x16.png?v=2016" sizes="16x16">
+		<link rel="mask-icon" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/safari-pinned-tab.svg?v=2016" color="#444444">
+		<link rel="shortcut icon" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon.ico?v=2016">
+		<meta name="apple-mobile-web-app-title" content="The Sun Magazine">
+		<meta name="application-name" content="The Sun Magazine">
+		<meta name="msapplication-TileColor" content="#fcc330">
+		<meta name="msapplication-TileImage" content="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/mstile-144x144.png?v=2016">
+		<meta name="theme-color" content="#ffffff">
+
+				<link rel="stylesheet" type="text/css" href="https://cloud.typography.com/6578674/659928/css/fonts.css" />
+		<link rel="stylesheet" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/css/style.css">
+
+																		<meta property="og:site_name" content="The Sun Magazine">
+		<meta property="og:type" content="article">
+		<meta property="og:url" content="https://www.thesunmagazine.org/issues/410/go-fly-a-kite">
+		<meta property="og:image" content="http://www.thesunmagazine.org/files/2016-07/410-18-hawkins-preview.jpg">
+		<meta property="og:title" content="Go Fly A Kite - The Sun Magazine">
+		<meta property="og:description" content="I was on a trip back home to northern California &amp;mdash; part work, part vacation &amp;mdash; and I had a terrible head cold. My research for a magazine article on the wine country north of San Francisco had brought me to a chilly town on the edge of the San Andreas Fault, a place populated by a combination of wealthy tourists, ranch hands, and hippie holdouts.">
+		<meta property="fb:app_id" content="158741778010551">
+
+						<link rel="image_src" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.comhttp://www.thesunmagazine.org/files/2016-07/410-18-hawkins-preview.jpg">
+
+												<meta name="twitter:card" content="summary">
+		<meta name="twitter:title" content="Go Fly A Kite - The Sun Magazine">
+		<meta name="twitter:description" content="I was on a trip back home to northern California &amp;mdash; part work, part vacation &amp;mdash; and I had a terrible head cold. My research for a magazine article on the wine country north of San Francisco had brought me to a chilly town on the edge of the San Andreas Fault, a place populated by a combination of wealthy tourists, ranch hands, and hippie holdouts.">
+		<meta name="twitter:image" content="http://www.thesunmagazine.org/files/2016-07/410-18-hawkins-preview.jpg">
+		<meta name="twitter:site" content="@thesunmagazine">
+
+				<link rel="publisher" href="https://plus.google.com/113792980827145858211">
+        
+		<meta name="Description" content="I was on a trip back home to northern California &amp;mdash; part work, part vacation &amp;mdash; and I had a terrible head cold. My research for a magazine article on the wine country north of San Francisco had brought me to a chilly town on the edge of the San Andreas Fault, a place populated by a combination of wealthy tourists, ranch hands, and hippie holdouts.">
+
+		
+		<!-- Google Tag Manager -->
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-TKBHCCG');</script>
+		<!-- End Google Tag Manager -->
+
+		<!-- Google Analytics -->
+		<script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+            ga('create', 'UA-2351127-1', 'auto');  // Replace with your property ID.
+            ga('send', 'pageview');
+            ga('require', 'ecommerce');   // Load the ecommerce plug-in.
+		</script>
+		<!-- End Google Analytics -->
+	</head>
+	<body id="">
+
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TKBHCCG"
+		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+		<header class="header" data-offset-start="80">
+		<div class="header-utilities">
+				<ul class="header-utilities-user list-inline list-inline-tight xxsmall">
+							<li>
+					<span class="header-utilities-user-intro">Already A Subscriber?</span> &nbsp;
+					<a href="https://www.thesunmagazine.org/subscriber/login" class="link-text link-alt">Sign In</a>
+				</li>
+					</ul>
+		<a href="https://www.thesunmagazine.org/shop/cart" class="header-utilities-cart  link-alt link-icon tiny">
+			<span class="i"><svg><use xlink:href="#i-cart"></use></svg></span>
+			<span class="cart-item-count">
+									0 Items
+				
+			</span>
+		</a>
+			</div>
+
+		<div class="header-bar">
+		<h1 class="header-logo logo">
+			<a href="/">
+				<img src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/img/logo-thesun.svg" class="logo-thesun" alt="The Sun Magazine">
+				<img src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/img/logo-tagline.svg" class="logo-tagline" alt="">
+			</a>
+		</h1>
+
+		<ul class="header-nav">
+			
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/read" 	   class='current '>
+	   Read	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/issues/current" 	   class=''>
+	   Current Issue	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/archives" 	   class=''>
+	   Archives	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/featured" 	   class=''>
+	   Featured Selections	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/topics" 	   class=''>
+	   Browse Topics	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/sections" 	   class=''>
+	   Browse Sections	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/connect" 	   class=''>
+	   Connect	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/news" 	   class=''>
+	   News from <em>The Sun</em>	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" 	   class=''>
+	   Write a Letter to the Editor	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/discussion-groups" 	   class=''>
+	   Discussion & Writing Groups	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/make-a-suggestion" 	   class=''>
+	   Make a Suggestion	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/submit" 	   class=''>
+	   Submit	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/shop" 	   class=''>
+	   Shop	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/giftsub" 	   class=''>
+	   Gift Subscriptions	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/issues" 	   class=''>
+	   Issues	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+											
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/donatemenu" 	   class='highlight'>
+	   Donate	</a>
+		
+	</li>
+
+		<li class=" last">
+														<a href="/SubscribeNav1" 					   class=''>
+						Subscribe					</a>
+									
+	</li>
+
+
+		</ul>
+
+		<button class="header-nav-toggle"><svg><use xlink:href="#i-menu" class="i-menu"></use><use xlink:href="#i-close" class="i-close"></use></svg></button>
+		<button class="header-search-toggle" data-form-wrapper=".header-search"><svg><use xlink:href="#i-magnifier" class="i-magnifier"></use><use xlink:href="#i-close" class="i-close"></use></svg></button>
+	</div>
+
+		<div class="header-search">
+		<div class="header-search-content">
+			<form action="https://www.thesunmagazine.org/search" class="form form-search" method="get">
+				<h2 class="alt-ff brand-link">Search Our 40 Years of Archives</h2>
+				<ul class="form-search-fields form-fields form-fields-inline">
+					<li><input type="text" name="q" value=""></li>
+					<li class="form-fields-inline-button"><button class="b b-1 b-padding-tight b-loading"><svg><use xlink:href="#i-loading"></use></svg>Search</button></li>
+				</ul>
+
+				<div class="header-search-content-shortcuts">
+					<h6 class="search-advanced alt-ff"><a class="js-handle-advanced" href="https://www.thesunmagazine.org/search?advanced=1">Advanced Search</a></h6>
+					<br>
+					<h6 class="alt-ff">Popular Pages</h6>
+					<ul class="list-inline-border list-inline-tight xxsmall"><li class=" first"><a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a></li><li class=""><a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a></li><li class=""><a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a></li><li class=""><a href="https://www.thesunmagazine.org/sections/quotations" 	   class=''>
+	   Quotations	</a></li><li class=""><a href="https://www.thesunmagazine.org/sections/readers-write" 	   class=''>
+	   Readers Write	</a></li><li class=" last"><a href="https://www.thesunmagazine.org/sections/poetry" 	   class=''>
+	   Poetry	</a></li></ul>				</div>
+			</form>
+		</div>
+	</div>
+</header>
+
+	<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+	<script type="text/javascript">
+		$(document).ready(function() {
+			$('.js-handle-advanced').on('click', function (e) {
+				e.preventDefault();
+				var getSearchValue = $('.form-search-fields input').val();
+				var getURL = $(this).attr('href');
+				var newURL = getURL + '&q=' + getSearchValue;
+				window.location.href = newURL;
+			});
+		});
+	</script>
+
+		<div class="container-hidden">
+		<div class="container">
+
+				
+	
+	<article class="article ">
+		<header class="block-content block-content-l1 block-content-center">
+						<div class="block-content-header">
+				<h6 class="b-content-section heading-square"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+				<h1 class="block-content-title">Go Fly A Kite</h1>
+
+				
+				<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/frances-lefkowitz">Frances Lefkowitz</a></li><li><a href="/issues/410">February 2010</a></li></ul>
+
+			</div>
+
+																			
+
+				<figure class="block-content-photo block-content-photo-large photo photo-outset-center-large">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 1961 1960'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/1180x1181r/photos/410-18-hawkins.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/2360x2361r/photos/410-18-hawkins.jpg
+	 alt="410 - Hawkins - Lefkowitz"
+	 class="lazy">
+
+										<figcaption>
+
+						
+																				<div class="photo-credit">
+								&copy;&nbsp;<a href="/contributors/ira-j-hawkins">Ira J. Hawkins</a>
+							</div>
+																		</figcaption>
+									</figure>
+
+					</header>
+
+				<div class="article-body link-text-wrap">
+																		<p><strong><span class="large">I was on a trip</span></strong> back home to northern California &mdash; part work, part vacation &mdash; and I had a terrible head cold. My research for a magazine article on the wine country north of San Francisco had brought me to a chilly town on the edge of the San Andreas Fault, a place populated by a combination of wealthy tourists, ranch hands, and hippie holdouts. There, alongside the gift shops, the feed store, and the yoga studio, I stumbled across an herbal apothecary with a hand-painted sign that read, &ldquo;Garden of Eden.&rdquo; I stepped into this garden to buy some echinacea to supplement the Sudafed and Tylenol I was already taking. (When feeling this low, I discriminate against no potential cure.) The shopkeeper &mdash; whose long, graying brown hair identified her as one of the holdouts &mdash; watched me peruse her shelves, then asked, with a surprising French accent, what my symptoms were.</p>
+
+<p>&ldquo;If you like,&rdquo; she told me, &ldquo;I can mix up a custom tincture for your problems.&rdquo;</p>
+
+<p>She grew or collected all the herbs herself, she said, and she seemed to know what she was doing, so I offered up my symptoms to her: sore throat, congestion, headache, fatigue. With that, she turned to her workbench, a two-tiered table covered with large bottles full of various mud-colored extracts, and began to pour and mix. But my problems didn&rsquo;t end with my cold symptoms.</p>
+
+<p>&ldquo;Oh, yeah,&rdquo; I said to the hair spilling down her back, &ldquo;and my love life is a shambles, and I lose interest in anything I pursue, and I don&rsquo;t know where to call home. You got anything for that?&rdquo;</p>
+
+<p>Eden &mdash; it turned out that was her name on the sign; not the name her mother had given her, but the name she had given herself &mdash; smiled as she turned to me with a handful of colored paper slips and asked me to choose one for the label. And as she wrote out the directions (&ldquo;Half a dropper three times a day, with prayer&rdquo;) on the saffron paper I&rsquo;d selected, she told me that she was studying an ancient healing tradition.</p>
+
+<p>&ldquo;Do you know the Sufis?&rdquo; she asked.</p>
+
+<p>&ldquo;I know they do a lot of dancing,&rdquo; I replied. It was all I knew about Sufis. Once, when visiting one of my childhood homes as an adult, I&rsquo;d come upon a Sufi commune whose inhabitants whirled like the dervishes they were. They had moved into the house on Norwich Street in San Francisco where my earliest memories had taken place: eating a parsley sandwich from a floating pie pan in the bathtub; slamming the window on my finger; reminding my older brother in the middle of the night to turn the pillow over to the cool side.</p>
+
+<p>&ldquo;Sufism is the mystical form of Islam,&rdquo; Eden explained. &ldquo;In a healing we don&rsquo;t dance; we breathe and chant and pray to Allah &mdash; though if you&rsquo;re not comfortable using that word, you can pray to whoever you want.&rdquo; Then she offered to give me a free healing; she was in the student-teaching phase of her program and needed to practice. &ldquo;The healing could address some of those other concerns you mentioned,&rdquo; she said with a little smile.</p>
+
+<p>&ldquo;I&rsquo;m not really religious,&rdquo; I told her. &ldquo;I&rsquo;m not even what you would call &lsquo;spiritual.&rsquo;&nbsp;&rdquo; I gave her a brief rundown of how my parents &mdash; one Catholic, one Jewish &mdash; had abandoned their religions at a young age and didn&rsquo;t have time to figure out what to tell their children before we started popping out: one, two, three. &ldquo;But they did manage to teach us awe and humility,&rdquo; I said, &ldquo;so I&rsquo;ve never had the gall to <em>dis</em>believe in the possibility that something benevolent, or at least concerned, might be trying to orchestrate behind the scenes.&rdquo;</p>
+
+<p>If pressed, I would have to call myself an agnostic &mdash; an I-don&rsquo;t-knower who doesn&rsquo;t quite discount magic and luck and coincidence; someone who, just in case, picks pennies off the ground if they&rsquo;re facing up and makes wishes on stars, moons, planets, and anything else that twinkles in the night sky. What I don&rsquo;t believe in is congregations. As a child I watched teenagers, grown-ups, and whole families join the Hare Krishnas, est [Erhard Seminars Training], Scientology, Lifespring, Synanon, the Moonies, and various other groups that liked to accost you as you walked along Mission Street, offering free personality tests or spice-dusted popcorn. An imperviousness to cults is a blessing when one waits for you on every street corner, hoping to catch you in the aftermath of a fight with your lover or your mother or your boss &mdash; or other times when you might be particularly susceptible to kindness. So my skin was perhaps unnecessarily tough, sealing me off from hucksters but also from strange-sounding disciplines &mdash; Reiki, shiatsu, Feldenkrais &mdash; that might have done me some good.</p>
+
+<p>I&rsquo;d come of age in the center of the New Age &mdash; San Francisco in the 1970s and &rsquo;80s &mdash; and was currently an editor at a magazine called <em>New Age</em>, which required me to take seriously all kinds of theories and practices I didn&rsquo;t believe in. Through it all my resistance had remained firm, but that day something in me melted just a bit. It was time, I supposed, to cast off at least a piece of the armor I&rsquo;d been wearing for most of my life and try something new. Plus it was free.</p>
+
+<p>&ldquo;OK,&rdquo; I told her, through the haze of my head cold. &ldquo;I&rsquo;ll give it a try.&rdquo; We arranged a healing session for the following week, and Eden suggested a date &mdash; February 26 &mdash; that, as coincidence or God or the stars would have it, happened to be my thirty-ninth birthday.</p>
+
+<p>&nbsp;</p>
+
+<p><strong><span class="large">In other parts</span></strong> of the country February is dreary and cold, a month of bare branches against a gray sky, but in northern California it is a time of pink and white blossoms emerging from moist, vibrant green. It wasn&rsquo;t until my first semester at a New England college that I understood what my high-school English teachers had meant when they&rsquo;d said winter is a symbol for death. In California things die in summer, when the rains stop and the heat bleaches the grass to a pale, crispy brown. Winter, by contrast, is the season when water pumps life into rivers and fields, creating rich black soils covered with improbable shades of green. Now, after twenty-some years on the East Coast, I almost couldn&rsquo;t adjust to the lush vitality humming all around me. I spent much of my time trying to convince myself that I had a right to partake in such beauty and opulence.</p>
+
+<p>In New England people would ask me why I&rsquo;d ever left San Francisco, that city of light and charm. But for me San Francisco is the place where I grew up poor and learned to be a Have Not; a city of sadness and divorce and impossible dreams; a city drenched in cold, damp fog, while just over the bridge &mdash; any bridge &mdash; the sun is shining and anything is possible. I&rsquo;d stayed away for decades, afraid that whatever fragile sense of possibility I had created for myself would not survive a return to my birthplace. But the small town in Maine where I&rsquo;d finally settled had started to feel too cozy, and I missed this Northwestern landscape: the soft, sloping hills going down to the Pacific; the foggy wind that whipped through the valleys; the green-and-cream streetcars and bright gray sidewalks of the city. This was the geography imprinted upon me at my most impressionable age, and I had begun to yearn to see it again.</p>
+
+<p>As soon as I&rsquo;d stepped off the plane in San Francisco, though, the wavering had begun. No one was there to pick me up &mdash; it just wasn&rsquo;t done in our family &mdash; and on the bus from the airport I closed my eyes against the city and even the bridge, not opening them until we&rsquo;d passed into Marin County, then Sonoma, where both my father and younger brother had settled. Neither father nor brother met me at the bus station, and I took a five-dollar taxi ride to my brother&rsquo;s house, where he lived with his wife and two young girls. And with a hollow thud I was &ldquo;home,&rdquo; trying with all my might to remind myself of my right, and my desire, to be here.</p>
+
+<p>&nbsp;</p>
+
+<p><strong><span class="large">On the morning</span></strong> of my birthday Eden and I sat in her little shop with the door locked and the <span class="smallcaps">CLOSED</span> sign in the window. The sun was out, and the sky was clear, but the damp chill of the ocean air seeped under the door and through the threads of our sweaters. She had asked me to come up with a concern &mdash; physical or emotional &mdash; that I wanted to work on, and so I was confronted with the eternal question <em>What seems to be the problem?</em> Though I&rsquo;d been having on-and-off pain in my lower back for some years and a lifetime of insomnia and digestive complaints, I wanted to focus on the one problem that felt most impossible to solve. I&rsquo;d spent the week tracing my ailments back to their origins, trying to describe this mother of all problems, the Big Kahuna from which all the others had hatched. But it&rsquo;s hard to condense a life&rsquo;s worth of troubles into words, and once you&rsquo;ve done it, those troubles can come off sounding petty.</p>
+
+<p>Mine had mostly to do with poverty. They refer to poor kids these days as &ldquo;at risk,&rdquo; but when I was a child, the word was &ldquo;deprived,&rdquo; and there was something accurate, if condescending, about the concept of deprivation. I grew up wanting many things, including a safe and reliable home where the family ate dinner together every night and the kids had to call to ask permission to miss a meal or arrive late. But even after I got out from under the laws and habits and necessities of poverty, even after I got jobs and apartments and stereos, I still couldn&rsquo;t shake the sense of scarcity. I no longer <em>had</em> to live in poverty, but I chose to dwell there nonetheless, because I knew no other way to live.</p>
+
+<p>&ldquo;My problem is in my head,&rdquo; I told Eden, who regarded me with a serene, closed-mouth smile. &ldquo;Or, at least, that&rsquo;s where it started, but then it spread out to every part of my body, like a cancer. It&rsquo;s not actually a thing; it&rsquo;s an idea, or a belief, really. In fact it&rsquo;s a lie. But it <em>feels</em> so real that it might as well be a physical disease.&rdquo;</p>
+
+<p>&ldquo;And what is the belief?&rdquo; Eden asked.</p>
+
+<p>&ldquo;That things that are possible for other people are not possible for me. That I am excluded.&rdquo;</p>
+
+<p><em>Honestly,</em> I thought to myself, <em>haven&rsquo;t I gotten rid of this ridiculous theory yet?</em> After all these years I was bored of my own way of seeing the world, and the evidence no longer supported it. Back East I had a decent car and a good job, with health insurance and a retirement account. I owned a small sailboat and a surfboard and made use of both. I&rsquo;d spent my summer vacation in France &mdash; flying into Paris, then surfing the beaches down the Atlantic coast to Biarritz. The article I was currently working on &mdash; about the vineyards, restaurants, and spas of the wine country &mdash; would go on to earn me a nomination for a prestigious award for food writing. But this other version of myself was fragile and tenuous, especially in my old setting.</p>
+
+<p>&ldquo;Excluded from what?&rdquo; Eden asked, her tone somewhere between compassion and incredulity. Sometimes I forgot that I looked normal on the outside, and that this &ldquo;exclusion principle&rdquo; was invisible to others, no matter how pervasive it felt to me.</p>
+
+<p>&ldquo;Everything,&rdquo; I said, trying to convey how deep this belief went. &ldquo;A husband. A home. Nice underwear. Dinner parties with stimulating conversation. Vacations abroad. A garden with nasturtiums and sunflowers .&nbsp;.&nbsp;.&rdquo; As I was listing these things, I realized that I actually <em>had</em> some of them, but curiously that didn&rsquo;t stop me from feeling they were out of my reach. I always chose the off-brand, on-sale, low-cost version; either that or I won a scholarship, a pity prize. So even when I got hold of the car, the surfboard, the vacation, it felt cheapened, and I went on yearning. In my hands possessions and accomplishments felt insubstantial, as elusive as smoke.</p>
+
+<p>&nbsp;</p>
+
+<p><strong><span class="large">In reflexology</span></strong> it&rsquo;s the feet; in chiropractic it&rsquo;s the spine; but in Sufism it&rsquo;s the heart that acts as a template for what&rsquo;s going on with the rest of you. Touching her hand to her chest, Eden explained that Sufis believe the space surrounding your heart contains connections to every other part of your body and mind. We closed our eyes and breathed deeply for a few minutes; then she asked me how my heart felt. Over the next hour and a half she would return to that question again and again, forcing me delicately &mdash; like a pediatrician with a nervous child &mdash; to pay attention to my feelings in a way that I had never done before.</p>
+
+<p>&ldquo;It hurts a little&rdquo; was my first response. &ldquo;It feels kind of tight.&rdquo;</p>
+
+<p>In my previous attempts to seek help from professionals &mdash; ones with degrees and licenses &mdash; I&rsquo;d been asked many times how I felt about this or that. &ldquo;And how does that make you feel?&rdquo; they&rsquo;d ask, especially when I was trying to get <em>their</em> opinion on something. &ldquo;Angry,&rdquo; I might respond, or, &ldquo;Disappointed.&rdquo; It was always an emotional feeling they were after. But when Eden asked me how I felt, she was inquiring into my <em>physical</em> condition. &ldquo;Sore,&rdquo; I said, my palm on my chest between my breasts. &ldquo;A bit warm.&rdquo; Talk therapy had helped me identify and articulate problems and even come up with explanations and solutions for them, but how does your mind convince your body, your whole self, to follow its logic? How do you get an idea &mdash; however good or right it may be &mdash; to penetrate all the way down through skin and muscle into the marrow of the bones, the place where blood is made and then sent out to all the organs? Perhaps this Sufi emphasis on physical sensation would do what years of mental fretting and figuring could not.</p>
+
+<p>We breathed deeply while Eden talked me through a series of visualizations. First she wanted me to imagine my connection to the core of the earth. &ldquo;Think of your tailbone stretching into the trunk of a tree,&rdquo; she said, &ldquo;or a strong rope with an anchor, grounding you all the way down to the solid heart of the planet.&rdquo;</p>
+
+<p>The tree image didn&rsquo;t work for me, so I tried several ropes, mostly nautical, including a thick, worn hemp line and a silky white braid. But I couldn&rsquo;t find one that would take me all the way down into the core of the earth. It was too late, anyway; we were moving on. It was time to reach up like the branches of a tree to the infinite sky, to open up to the light and the heavens. I had no more luck going above than I did below: my imagination was held captive by my cynicism.</p>
+
+<p>Now we began to chant. It wasn&rsquo;t a rhythmic chant. We had one word, <em>Allah</em>, and we said it in many different ways: sometimes in rapid succession; sometimes drawing out the two lush syllables, rolling them around in our mouths before exhaling them in long, slow breaths. We said this buttery word over and over for a few minutes straight, and then we came back to it like a rest stop throughout the session whenever we got distracted or overwhelmed.</p>
+
+<p>&ldquo;Now, tell me about your problem,&rdquo; Eden said. &ldquo;Where do you feel it?&rdquo;</p>
+
+<p>&ldquo;Right here,&rdquo; I said, and I surprised myself by pointing to my lower back. Until that moment, I&rsquo;d thought it was in my head.</p>
+
+<p>&ldquo;What does it feel like?&rdquo; she asked.</p>
+
+<p>&ldquo;Like something is tied to me there,&rdquo; I said, aware suddenly of a tugging at my lower back, restraining me. I could shake my torso and wave my arms and legs, but all that movement would get me nowhere, because my sacrum &mdash; the part of the body that the ancient Greeks called the &ldquo;holy bone&rdquo; &mdash; was being pulled back and down, fastening me to the ground.</p>
+
+<p>&ldquo;What&rsquo;s tying you down?&rdquo; Eden asked, in her French pediatrician&rsquo;s voice.</p>
+
+<p>And now an image came to me, to my body and my mind at the same time, so that I both saw and felt it. Unlike the tree trunk or the boat lines, this picture came easily and felt right. It wasn&rsquo;t, as Eden suggested, a rope or a chain tying me down. It was something seemingly benign: kite string. Hundreds of pieces of thin white kite string were attached to the small of my back &mdash; the very spot that had been giving me chronic, sometimes acute pain since I&rsquo;d fallen down a flight of stairs seven or eight years earlier. Kite string may be lightweight, but enough of it could keep someone immobilized, like Gulliver tied up by the Lilliputians in the illustrated <em>Gulliver&rsquo;s Travels</em> that we&rsquo;d had in my family&rsquo;s collection of books. And this kite string had something on it that magnified its power: each strand was coated in glass, like the strings of the Korean fighting kites I&rsquo;d seen as a child, lunging at each other in the fierce wind above San Francisco&rsquo;s marina. The kites, manipulated by calm, masterful men who stood in the grassy field there, would literally cut each other off at the string, sending the losing kite out to sea. Back in our neighborhood schoolyard, my brothers and I would try to make our own kites with sticks and rags and the cardboard tubes from rolls of toilet paper. Then, if we could get them aloft, we&rsquo;d try to get them to fight.</p>
+
+<p>Eden and I took some more deep breaths, bringing our word, <em>Allah</em>, in and out, rolling it over the teeth and the tongue, gargling with it in the throat. We spent many minutes with this image of the kite strings, feeling the tightness, the pain and frustration of trying to move forward and up but being able only to wriggle sideways, with limbs flailing, like a beetle on its back. Then Eden asked, &ldquo;What would it feel like if you didn&rsquo;t have the strings pulling you down?&rdquo;</p>
+
+<p><em>Ping. Ping, ping, ping.</em> As soon as she said this, they started popping one by one, thin coatings of glass shattering in tiny showers, like miniature fireworks. With each <em>ping</em> I felt lighter, till I was rising up, just as a kite should. Soon all the strings had snapped, and I was flying fast and high, but not so high that I might be carried away. A long, soft piece of fabric, like the tails on our schoolyard kites, tethered me loosely but securely to someone or something on the ground, so I could swoop and soar in the wind but not have to worry about getting lost. I was like a dog with the longest, softest leash in the world, free but safe, connected to some masterful presence on the ground who was both in command and benevolent.</p>
+
+<p>&ldquo;Allah. Allah. Aaaaallah,&rdquo; we said. Then, from high above, where I was flying like a kite, I looked down to see the rough brown sands of a northern-California beach. The beaches in this part of the state are not brimming with bikinis, surfboards, and volleyballs. Most of the year &mdash; including summer, when the coast gets foggy and windy &mdash; you&rsquo;re more likely to be wearing long pants and a sweat shirt than a bathing suit. But these harsh, pigeon-colored sands are the beaches of my childhood, and I have fond memories of salty logs burning into orange embers in a driftwood fire, of the pounding and shushing of the waves hitting the sand and receding. As I looked down at those beaches from above Eden&rsquo;s garden, my body remembered how it had felt on those family outings, when excitement and safety and adventure and belonging were in perfect balance. All of my wants were fulfilled, and I could, without thinking about it, lean into the world and rely on it to support me. Regardless of the mistakes and accidents involved, my parents and my brothers and I belonged together. This was my time of great wealth, when I had everything I needed &mdash; hot dogs, campfire, brothers, parents &mdash; and it was enough.</p>
+
+<p>&ldquo;Now, Frances,&rdquo; Eden said, in the gentle voice of a nurse waking a patient, &ldquo;I want you to ask God what he wants to make for you.&rdquo;</p>
+
+<p>I didn&rsquo;t quite understand why Eden used the word <em>make</em>. Maybe there was some ambiguity in French, like there is in Spanish, between the verbs &ldquo;to make&rdquo; and &ldquo;to do.&rdquo; But I didn&rsquo;t want to break out of my reverie to ask for a clarification. So I said tentatively, &ldquo;God, what do you want for me?&rdquo;</p>
+
+<p>&ldquo;Ask him what he wants to <em>give</em> you,&rdquo; nudged Eden.</p>
+
+<p>I did, and as the words left my mouth, I heard God laughing. It was a giggle, kind of feminine, not at all cruel. I didn&rsquo;t so much hear it as feel it in my body. This creature &mdash; a skinny, dark, little Gandhi-like person who went by the name &ldquo;God&rdquo; &mdash; was laughing at me for asking such a ridiculous question. I, too, began to laugh.</p>
+
+<p>&ldquo;What is he saying?&rdquo; Eden wanted to know.</p>
+
+<p>&ldquo;He&rsquo;s laughing,&rdquo; I told her. &ldquo;He&rsquo;s saying, &lsquo;What do I want to give you? Silly girl, I&rsquo;ve already given it to you.&rsquo;&nbsp;&rdquo;</p>
+
+<p>And indeed he had, thirty-nine years ago to the day. He, she, it; love, luck, magic; biology, evolution, accident; or perhaps some combination of all these and more had gotten together and given me a life. My mission was simply to flesh out the story; to inhabit it to my true potential; to stop wanting and start being.</p>
+
+<p><em>Holy moly,</em> I thought, in my cold, damp state of enlightenment. <em>Have I gone cultish at last?</em></p>
+
+<p>Had I finally become infected by all the perky self-help and vaguely Eastern spiritual books I&rsquo;d had to review for the magazine? Was I having what people I considered flakes might call a &ldquo;spiritual moment&rdquo;? Did I believe suddenly that my poverty had been just a figment of my imagination? That all along I&rsquo;d actually been rich and &ldquo;blessed&rdquo; (whatever the hell that means) but had simply never realized it? Was I becoming one of those pseudo-Buddhist California &ldquo;prospertarians&rdquo; who can&rsquo;t open their mouths without the word <em>abundance</em> dropping out? Who say that world hunger is just a state of mind, and if we all stopped believing in it, it would cease to be? Who subscribe to the philosophy that you can get everything you want &mdash; including cash, a winning touchdown, and an exciting yet reliable husband &mdash; just by imagining you already have it and being grateful? Who declare that &ldquo;there are no accidents,&rdquo; that &ldquo;everything happens for a reason,&rdquo; and that all you have to do in life is &ldquo;put it out there, and the universe will provide&rdquo;?</p>
+
+<p>No, I had not converted to New Age optimism. I was still relatively safe from the dangers of enlightenment. In fact, as I hugged Eden goodbye and walked out of her garden, I was feeling as pragmatic as ever. I had simply begun to realize, through low-level hypnosis or guided meditation or whatever this Sufi healing really was, that it was a pitiful waste to spend my days and nights on this very solid earth wallowing in the misty elusiveness of want; that there is no white-hot circle of fame or love or plenty where everything is finally perfect; that people always desire what they don&rsquo;t have.</p>
+
+<p>From the shop I drove out to a trail head on a nearby ridge. A notorious forest fire had blasted through these hills a decade earlier, and all around me the charred trees loomed. The smell of ash was long gone, however, replaced by an invigorating sage aroma from the wild shrubs that cover these coastal slopes, and by a sea-salt musk rising up from the ocean somewhere below me, just out of my sight. &ldquo;There are ninety-nine names for Allah but only one God,&rdquo; Eden had told me, and the name she&rsquo;d seen streaming into my heart like a shaft of light was number eighteen: Allah al-Fattah, the Opener. At the end of our session, we&rsquo;d looked up Allah al-Fattah in one of her books: &ldquo;When we find ourselves confronted with a totally new view of ourselves,&rdquo; she&rsquo;d read, &ldquo;we may have to take a leap of faith into the unknown, which can feel like annihilation.&rdquo; Allah al-Fattah had appeared to help me open to my new self, Eden had declared, and I could call on him by saying his name aloud sixty times.</p>
+
+<p>So, as I walked up the slope of the trail, I said this name over and over, trying to get to sixty. I said the name to the thriving green trees and the bare, blackened trunks alike. &ldquo;Allah al-Fattah,&rdquo; I said, calling on this thing that I did not believe in but nonetheless hoped would help me annihilate &mdash; oh, what a tantalizing idea &mdash; my old self. The idea that I might be able to open up to this world, and the world to me, made me giddy. Hiding behind that giddiness, however, was a slim pessimism readying itself for the crash. Would this spell soon wear off, or would my new attitude be the one that would finally settle in and take root?</p>
+
+<p>Life is not a book. It doesn&rsquo;t get divided into fifteen cleverly titled chapters and an epilogue, with a mounting conflict, epiphany, and resolution. Instead we take a step backward for every one we take forward, and often what we think is an epiphany turns out to be a fleeting moment of inanity. I&rsquo;d had great realizations before, instances of clarity when I could see that the world was neither for me nor against me. And little by little I&rsquo;d inched forward &mdash; or sideways, like a crab, looking back while moving on a diagonal. By now I understood that my problems were both inside me and outside me; that psychology and economics and belief all played a role; that the world was unfair but not unworkable. Many people had it worse than I did, and some had it better, but in the end I could get most of what I wanted. And though I still didn&rsquo;t believe in God, no matter what name or number he went by, I was willing to accept help from any force that might be drifting around in the clouds.</p>
+
+<p>&ldquo;Allah al-Fattah. Allah al-Fattah,&rdquo; I said, following the trail to a clearing on the western face of the ridge. The ocean was somewhere out there in front of me, but a thick layer of fog concealed it. &ldquo;Allah al-Fattah,&rdquo; I said, turning back to the trail, matching my words to my footsteps, my footsteps to my breath.</p>
+
+<hr />
+<p><em>&ldquo;Go Fly a Kite&rdquo; will appear in </em>To Have Not: A Memoir. &copy;<em>2010 by Frances Lefkowitz; due out this spring from MacAdam/Cage.</em></p>
+
+<p class="text-right"><em>&mdash; Ed.</em></p>
+														</div>
+
+
+				
+<div class="sharing-bar article-sharing">
+	<div class="sharing-bar-first">
+		<a href="javascript:window.print();" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-printer"></use></svg> <span>Print</span></a>
+	</div>
+
+	<div class="sharing-bar-second">
+		<span class="alt-ff xsmall">Share:</span>
+		<a href="https://www.facebook.com/sharer/sharer.php?u=https://www.thesunmagazine.org/issues/410/go-fly-a-kite" target="_blank" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-facebook"></use></svg> <span>Facebook</span></a>
+		<a href="https://twitter.com/share?url=https://www.thesunmagazine.org/issues/410/go-fly-a-kite&amp;via=thesunmagazine" target="_blank" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-twitter"></use></svg> <span>Twitter</span></a>
+		<a href="#" class="b b-1 b-padding-tight xsmall js-toggle-mail-form"><svg><use xlink:href="#i-email"></use></svg> <span>Email</span></a>
+	</div>
+</div>
+
+<div class="send-to-friend-message-container">
+	<div class="alert alert-success xsmall">Thank you for sharing <em>The Sun</em>.</div>
+</div>
+
+<form method="post" action="/ajax/articles/send-to-a-friend" class="form fill-grey send-to-friend-form">
+		<input type="hidden" id="form_url" name="form[url]" value="https://www.thesunmagazine.org/issues/410/go-fly-a-kite" />
+
+	<ul class="form-fields">
+		<li><label for="form_sender_name"><span class="label-text">Your Full Name</span><span class="label-asterisk">*</span></label><input type="text" id="form_sender_name" name="form[sender_name]" required="required" /></li>
+		<li><label for="form_sender_email"><span class="label-text">Your Email Address</span><span class="label-asterisk">*</span></label><input type="email" id="form_sender_email" name="form[sender_email]" required="required" /></li>
+		<li><label for="form_recipient_name"><span class="label-text">Friend’s Name</span><span class="label-asterisk">*</span></label><input type="text" id="form_recipient_name" name="form[recipient_name]" required="required" /></li>
+		<li><label for="form_recipient_email"><span class="label-text">Friend’s Email Address</span><span class="label-asterisk">*</span></label><input type="email" id="form_recipient_email" name="form[recipient_email]" required="required" /></li>
+		<li><label for="form_message"><span class="label-text">Personalized Message</span></label><textarea id="form_message" name="form[message]"></textarea></li>
+	</ul>
+<div class="send-to-friend-message-container">
+	<div class="alert alert-error xsmall">Something went wrong. Please try again.</div>
+</div>
+
+<div class="g-recaptcha" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs"></div>
+<div class="form-actions"><button type="submit" id="form_submit" name="form[submit]"	class="form-actions-b-primary b b-1 b-loading xsmall"><svg><use xlink:href="#i-loading"></use></svg>
+		Submit
+	</button></div>
+<input type="hidden" id="form__token" name="form[_token]" value="c39ced47155fc1727e43c3fb6968e0e906b9626f" /></form>
+
+<br>
+
+
+
+										<footer class="article-contributor contributors">
+									
+
+<div class="block-contributor">
+		
+
+		<div class="block-contributor-content">
+		<div class="block-contributor-bio small">
+			<p><strong><span class="smallcaps">Frances Lefkowitz</span></strong> was born poor in San Francisco, then attended an Ivy League college on scholarship and discovered the downside of upward mobility. Her journey is recounted in her memoir <em>To Have Not</em>, due out this spring from MacAdam/Cage.</p><a href="/contributors/frances-lefkowitz" class="block-contributor-link link-alt small">More From This Contributor&nbsp;&#9656;</a>		</div>
+	</div>
+</div>
+
+							</footer>
+						</article>
+
+
+				    <div class="paywall-subscription block-product">
+			<div class="columns">
+			<div class="paywall-banner span3 cta cta-l1">
+				<div class="cta-intro">
+					<h5 class="cta-title alt-ff">One Free Selection Left </h5>
+					<p class="cta-text xsmall"><a class="link-alt" href="https://www.thesunmagazine.org/subscriber/login" data-label="Already a subscriber?">Already a subscriber? Sign in ▸</a><br><br>Read two free selections from <em>The Sun</em> each month.</p>
+				</div>
+			</div>
+			<div class="paywall-banner span9 note note-1 text-center">
+				<h4 class="cta-title alt-ff">Subscribe to <em>The Sun</em> and save 45%</h4>
+				<p class="cta-text xsmall">Subscribers get full access to the current issue and more than 40 years of archives.</p>
+				<a class="b b-1 xsmall cta-trigger"  href="/subscribe1" data-label="Subscribe" data-ctatitle="Subscribe">Subscribe</a>
+			</div>
+		</div>
+
+		<div class="columns">
+			<div class="span12 paywall-cta-bottom">
+				<p>
+					<span class="cta-title-issue">Buy the February 2010 issue for $5.95</span>
+					<span class="xsmall">Order now to get instant access to this issue, and we’ll also send you a print copy.</span>
+					<a class="b b-5 xsmall corona"  href="#" data-product-type="issues" data-id="410" data-label="Order Now ▸">Order Now ▸</a>
+				</p>
+			</div>
+		</div>
+
+		
+
+</div>
+	
+	
+	
+	<div class="spacer"></div>
+	
+
+
+
+			<div class="article-correspondence layout-item fill-pattern-light">
+		<div class="layout-item-intro">
+			<h2>Correspondence</h2>
+			<a class="xsmall link-alt" href="https://www.thesunmagazine.org/letter-to-the-editor">Write a Letter to the Editor&nbsp;&#9656;</a>
+		</div>
+
+		<div id="article-correspondences" class="correspondences correspondences-collapsed">
+								<div class="block-correspondence" id="885">
+		<blockquote class="quote-2">
+			<p>In &ldquo;<a href="/article/4385">Go Fly a Kite</a>&rdquo; [February 2010], a prepublication excerpt from her book <em>To Have Not</em>, Frances Lefkowitz mentions est (Erhard Seminars Training) in a list of what she considers to be fringe organizations. In the final version of her book the author removed the reference to est. For the record, in its time, est made an enormous contribution to the lives of more than half a million people from all over the world, including government leaders, members of the judiciary, and a complete cross section of professions: business, arts and entertainment, the military, the media, and the general population.</p>
+							<p class="quote-2-author">Martin N. Leaf, Esq.<br />Former Counsel to est,<br />an educational corporation<br>New York, New York</p>
+					</blockquote>
+	</div>
+
+								<div class="block-correspondence" id="886">
+		<blockquote class="quote-2">
+			<p>In &ldquo;Go Fly a Kite,&rdquo; Frances Lefkowitz achieves self-discovery, gratitude, and contentment twice: once through her Sufi mentoring, and another time through writing about her experience. The purpose of writing is to affect the heart. Interestingly, Arabic &mdash; the language of Islam&rsquo;s holy book, the Quran &mdash; is written from right to left, toward the heart.</p>
+
+<p>Not only Sufism in particular but Islam in general considers the heart &ldquo;a template for what&rsquo;s going on with the rest of you.&rdquo; This is why Mohammed, the Muslim prophet, stated that the rectification of the heart leads to the rectification of the whole body.</p>
+
+<p>Divine revelation and scripture remind us that our hearts need to be nourished as much as our body needs oxygen to breathe. To restore the purity of the agitated heart, Islam prescribes the remembrance of God: &ldquo;Most verily, in the remembrance of God do hearts find calm&rdquo; (Quran: 12:28). This is achieved through prayers, supplications, and other forms of worship, like the constant mentioning of the name &ldquo;Allah&rdquo; (&ldquo;God&rdquo; in Arabic) or, as Lefkowitz practiced, one of his attributes, such as &ldquo;Al Fattah,&rdquo; the Opener.</p>
+							<p class="quote-2-author">Dina Malki<br>Arlington, Texas</p>
+					</blockquote>
+	</div>
+
+					</div>
+
+				<div class="text-center">
+			<button class="b b-1 xsmall js-b-readmore-correspondence" data-collapsible="#article-correspondences" data-label="Read More Letters">Read More Letters</button>
+		</div>
+			</div>
+    
+		<div class="article-correspondence-cta">
+		<div class="cta cta-l1" data-url="https://www.thesunmagazine.org/letter-to-the-editor">
+			<div class="cta-intro">
+				<h5 class="cta-title alt-ff">Thinking about writing us a letter?</h5>
+				<p class="cta-text">Give in to the temptation. We love getting mail. <br><span class="xsmall">(Of course, we reserve the right to edit.)</span></p>
+			</div>
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" class="cta-button b b-4 b-padding-tight small" data-label="Write Us A Letter!">Write Us A Letter!</a>
+		</div>
+	</div>
+	
+
+			<div class="article-also layout-item-large full-bar fill-grey-mid-light">
+		<div class="layout-item-intro">
+			<h2>Also In This Issue</h2>
+			<a href="/issues/410" class="xsmall link-alt">February 2010&nbsp;&#9656;</a>
+		</div>
+		<div class="issue-articles-l1">
+			<div class="issue-articles-l1-content1">
+				
+<div class="cover cover-l1 block-product">
+	<div>
+							<a href="/issues/410" class="cover-thumb">
+				
+				<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 727'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/import/issue/410.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/561x728r/import/issue/410.jpg
+	 alt=""
+	 class="lazy">
+
+			</a>
+		
+
+													<!-- <a href="/issues/410" data-product-type="issues" data-id="410" data-role="order" class="js-buy-single corona cover-button b b-1 b-full xsmall" data-label="Buy This Issue &#9656;">
+								Buy This Issue&nbsp;&#9656;
+			</a> -->
+			<a href="/issues/410" data-product-type="issues" data-id="410" class="js-buy-single corona cover-button b b-1 b-full xsmall" data-label="Buy This Issue &#9656;">
+								Buy This Issue&nbsp;&#9656;
+			</a>
+					
+					</div>
+</div>
+			</div>
+			<div class="issue-articles-l1-content2">
+				<div class="articles-l3">
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/dog-eared-page">The Dog-Eared Page</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/410/what-makes-a-life-significant"><em>excerpted from</em><br />What Makes A Life Significant</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/william-james">William James</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/fiction">Fiction</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/410/the-arrangement">The Arrangement</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/tenaya-darlington">Tenaya Darlington</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/sun-interview">The Sun Interview</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/410/busted">Busted</a></h3>
+					<p class="block-content-subtitle subtitle">Dean Baker On The Price We’re Still Paying For The Housing Bubble</p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/anna-blackshaw">Anna Blackshaw</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/poetry">Poetry</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/410/the-human-realm">The Human Realm</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/lisa-bellamy">Lisa Bellamy</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+									</div>
+			</div>
+		</div>
+	</div>
+	
+
+			<div class="article-related layout-item-large full-bar fill-pattern-light">
+		<div class="layout-item-intro">
+			<h2>Related Selections</h2>
+			<ul class="list-inline list-inline-tight"><li><a href="/topics/alternative-medicine" class="xsmall link-alt link-text">Alternative Medicine</a></li><li><a href="/topics/islam" class="xsmall link-alt link-text">Islam</a></li><li><a href="/topics/atheism-and-agnosticism" class="xsmall link-alt link-text">Atheism and Agnosticism</a></li></ul>		</div>
+
+		<div class="articles-l2">
+							
+
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/sun-interview">The Sun Interview</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/373/the-myth-of-tough-love-373">The Myth Of Tough Love</a></h3>
+					<p class="block-content-subtitle subtitle">Maia Szalavitz On The Epidemic Abuses Of The Teen-Help Industry</p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/marc-polonsky">Marc Polonsky</a></li><li><a href="/issues/373">January 2007</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/373" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 727'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/140x182r/import/issue/373.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/import/issue/373.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/poetry">Poetry</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/263/self-storage">Self-Storage</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/lee-rossi">Lee Rossi</a></li><li><a href="/issues/263">November 1997</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/263" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 725'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/141x182r/import/issue/263.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/281x364r/import/issue/263.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/sun-interview">The Sun Interview</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/181/suffering-as-grace">Suffering As Grace</a></h3>
+					<p class="block-content-subtitle subtitle">An Interview With Ram Dass</p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/cat-saunders">Cat Saunders</a></li><li><a href="/issues/181">December 1990</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/181" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 725'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/141x182r/import/issue/181.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/281x364r/import/issue/181.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/81/save-the-last-dance-for-me">Save The Last Dance For Me</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/rex-weyler">Rex Weyler</a></li><li><a href="/issues/81">August 1982</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/81" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 725'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/141x182r/import/issue/081.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/281x364r/import/issue/081.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+					</div>
+	</div>
+	
+	
+					<form id="newsletterForm" method="post" action="https://www.thesunmagazine.org/newsletter" data-url-send="https://www.thesunmagazine.org/newsletter" class="form form-newsletter fill-grey" enctype="multipart/form-data" target="_blank">
+
+
+
+		<div class="form-newsletter-intro">
+			<h3 class="alt-ff large">Sign Up For Our Newsletter</h3>
+			<p>We’ll let you know about new website selections, upcoming events, special offers, and more.</p>
+		</div>
+
+		<ul class="form-newsletter-fields form-fields form-fields-inline">
+			<li>
+				<input name="name" type="text" maxlength="500" id="name" placeholder="Your Name">
+			</li>
+			<li>
+				<input name="email" type="text" maxlength="500" id="email" placeholder="Your E-mail">
+			</li>
+
+			<li class="form-fields-inline-button">
+				<button disabled="disabled" class="form-newsletter-send b b-4 b-padding-tight b-loading g-recaptcha" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs" data-callback="recaptcha_callback" name="SubmitButton" id="SubmitButton">
+					<svg><use xlink:href="#i-loading"></use></svg>
+					Sign&nbsp;Up
+				</button>
+			</li>
+		</ul>
+	</form>
+	<script id="hiddenlpsubmitdiv" style="display: none;"></script>
+
+
+
+<footer class="footer brand-grey-dark">
+			<div class="footer-first">
+		<h3 class="footer-tagline">Independent, Reader-Supported Publishing</h3>
+		<p class="footer-desc">In each issue of <em>The Sun</em> you’ll find some of the most radically intimate and socially conscious writing being published today. In an age of media conglomerates, we’re something of an oddity: an ad-free, independent, reader-supported magazine.</p>
+		<ul class="footer-nav list-inline-border xsmall">
+			
+		<li class=" first">
+			<a href="https://www.thesunmagazine.org/about" 	   class=''>
+	   About <em>the Sun</em>	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/staff" 	   class=''>
+	   Staff	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/find-the-sun" 	   class=''>
+	   Find <em>The Sun</em>&nbsp;&nbsp;in a Store Near You	</a>
+		
+	</li>
+
+
+		</ul>
+	</div>
+	
+		<div class="footer-second">
+		<ul class="footer-second-social list-inline">
+			<li><a href="https://www.facebook.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-facebook"></use></svg></span> Like Us</a></li>
+			<li><a href="https://twitter.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-twitter"></use></svg></span> Follow Us</a></li>
+			<li><a href="https://instagram.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-instagram"></use></svg></span> Take a Look</a></li>
+		</ul>
+
+		<div class="footer-second-content">
+			<ul class="footer-nav list-inline-border xsmall">
+				
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/" 	   class='current '>
+	   Home	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/privacy-policy" 	   class=''>
+	   Privacy Policy	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/terms-of-use" 	   class=''>
+	   Terms of Use	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/site-map" 	   class=''>
+	   Site Map	</a>
+		
+	</li>
+
+
+			</ul>
+			<p class="footer-copyright xxsmall">Copyright &copy; 1974–2020 <em>The Sun</em>. All rights reserved.</p>
+		</div>
+	</div>
+</footer>
+
+
+
+<div class="offset-nav">
+	<ul>
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/read" 	   class='current '>
+	   Read	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/issues/current" 	   class=''>
+	   Current Issue	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/archives" 	   class=''>
+	   Archives	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/featured" 	   class=''>
+	   Featured Selections	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/topics" 	   class=''>
+	   Browse Topics	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/sections" 	   class=''>
+	   Browse Sections	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/connect" 	   class=''>
+	   Connect	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/news" 	   class=''>
+	   News from <em>The Sun</em>	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" 	   class=''>
+	   Write a Letter to the Editor	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/discussion-groups" 	   class=''>
+	   Discussion & Writing Groups	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/make-a-suggestion" 	   class=''>
+	   Make a Suggestion	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/submit" 	   class=''>
+	   Submit	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/shop" 	   class=''>
+	   Shop	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/giftsub" 	   class=''>
+	   Gift Subscriptions	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/issues" 	   class=''>
+	   Issues	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+											
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/donatemenu" 	   class='highlight'>
+	   Donate	</a>
+		
+	</li>
+
+		<li class=" last">
+														<a href="/SubscribeNav1" 					   class=''>
+						Subscribe					</a>
+									
+	</li>
+
+
+					<li>
+				<a href="https://www.thesunmagazine.org/shop/cart">Cart ( <span class="cart-item-count">  0  </span>)</a>
+			</li>
+			<li><a href="https://www.thesunmagazine.org/subscriber/login" class="link-header-logout link-alt">Sign In</a></li>
+			</ul>
+	<ul>
+		<li class=" first">
+			<a href="https://www.thesunmagazine.org/about" 	   class=''>
+	   About <em>the Sun</em>	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/staff" 	   class=''>
+	   Staff	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/find-the-sun" 	   class=''>
+	   Find <em>The Sun</em>&nbsp;&nbsp;in a Store Near You	</a>
+		
+	</li>
+
+</ul>
+	<ul>
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/" 	   class='current '>
+	   Home	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/privacy-policy" 	   class=''>
+	   Privacy Policy	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/terms-of-use" 	   class=''>
+	   Terms of Use	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/site-map" 	   class=''>
+	   Site Map	</a>
+		
+	</li>
+
+</ul>
+</div>
+
+<div id="buy-popup-message" class="buy-popup mfp-hide white-popup white-popup-block">
+	<a class="popup-modal-dismiss" href="#"></a>
+	<h5>Due to fulfillment challenges related to the novel coronavirus, print copies are temporarily unavailable for individual sale. We are offering free PDFs until we are able to resume print sales.</h5>
+	<p>Enter your e-mail address below to download this issue.</p>
+	<form method="post" id="download-single" action="https://www.thesunmagazine.org/issue/pdfFree/531.pdf">
+		<label for="email"><span class="label-text">E-mail</span><span class="label-asterisk">*</span></label>
+		<input class="buy-single-email" id="email" type="email" name="email">
+		<button type="send" class="form-buy-issue-send b b-3 b-padding-tight b-loading">Send</button>
+		<button class="form-buy-issue-download b b-3 b-padding-tight b-loading">Download pdf</button>
+		<button type="send" class="popup-modal-dismiss b b-2 b-padding-tight b-loading">Close</button>
+		<div class="g-recaptcha" style="text-align: center" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs"></div>
+
+	</form>
+</div>
+
+			<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/plugins.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/site.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/newsletter.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/js/articles.js"></script>
+		</div>
+		</div>
+
+				<script>
+		(function (doc) {
+			var scripts = doc.getElementsByTagName('script');
+			var script = scripts[scripts.length - 1];
+			var xhr = new XMLHttpRequest();
+			xhr.onload = function () {
+				var div = doc.createElement('div');
+				div.innerHTML = this.responseText;
+				div.style.display = 'none';
+				script.parentNode.insertBefore(div, script);
+			}
+			xhr.open('get', '/theme/thesun//assets/build/img/sprite/sprite.svg', true);
+			xhr.send();
+		})(document);
+
+
+
+		</script>
+
+		<script>
+			// Submit function
+            function recaptcha_callback() {
+						var getUrl = $('.form-newsletter').data( "url-send" ),
+							getName = $('input#name').val(),
+							getEmail = $('input#email').val();
+						$.ajax({
+								type: "POST",
+								url: getUrl,
+								data: {
+									name: getName,
+									email: getEmail,
+									grecaptcharesponse: grecaptcha.getResponse()
+								}
+							}).done(function(response) {
+								console.log(response);
+									$('.form-fields').fadeOut(800, function () {
+										$('.form-fields').empty().append('<div class="newsletter-confirm-message">Thank you for signing up to receive news from <em>The Sun</em>. Your first newsletter will arrive soon.<div>').fadeIn(800);
+									});
+							});
+			}
+
+		</script>
+
+		<script>
+			function getUrlCode() {
+				var url_string = window.location.href;
+				var url = new URL(url_string);
+				var c = url.searchParams.get('promotion\_key');
+				if (typeof c !== 'undefined' && c !== null) {
+					setCookie("promotion_code",c);
+				}
+			}
+
+			function setCookie(cname, cvalue) {
+				document.cookie = cname + "=" + cvalue + ";" + "path=/";
+			}
+
+			function getCookie(cname) {
+				var name = cname + "=";
+				var decodedCookie = decodeURIComponent(document.cookie);
+				var ca = decodedCookie.split(';');
+				for(var i = 0; i <ca.length; i++) {
+					var c = ca[i];
+					while (c.charAt(0) == ' ') {
+						c = c.substring(1);
+					}
+					if (c.indexOf(name) == 0) {
+						return c.substring(name.length, c.length);
+					}
+				}
+				return "";
+			}
+			window.addEventListener( "load", getUrlCode );
+		</script>
+
+
+	</body>
+</html>

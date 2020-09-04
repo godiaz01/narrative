@@ -1,0 +1,1219 @@
+
+<!DOCTYPE html>
+<html class="no-js" lang="en-US">
+	<head>
+		<title>Theo’s Map - The Sun Magazine</title>
+
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		
+		<meta name="viewport" content="width=device-width, minimum-scale=1.0">
+
+		<link rel="dns-prefetch" href="//ajax.googleapis.com">
+		<link rel="dns-prefetch" href="//use.typekit.net">
+		
+		<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/modernizr.js"></script>
+		<script src="https://www.google.com/recaptcha/api.js"
+				async defer>
+		</script>
+
+		<script>(function(d) { var config = { kitId: 'kzw7ebk', scriptTimeout: 3000, async: true }, h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s) })(document);</script>
+
+
+				
+		<link rel="apple-touch-icon" sizes="57x57" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-57x57.png?v=2016">
+		<link rel="apple-touch-icon" sizes="60x60" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-60x60.png?v=2016">
+		<link rel="apple-touch-icon" sizes="72x72" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-72x72.png?v=2016">
+		<link rel="apple-touch-icon" sizes="76x76" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-76x76.png?v=2016">
+		<link rel="apple-touch-icon" sizes="114x114" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-114x114.png?v=2016">
+		<link rel="apple-touch-icon" sizes="120x120" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-120x120.png?v=2016">
+		<link rel="apple-touch-icon" sizes="144x144" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-144x144.png?v=2016">
+		<link rel="apple-touch-icon" sizes="152x152" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-152x152.png?v=2016">
+		<link rel="apple-touch-icon" sizes="180x180" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-180x180.png?v=2016">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-32x32.png?v=2016" sizes="32x32">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/android-chrome-192x192.png?v=2016" sizes="192x192">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-96x96.png?v=2016" sizes="96x96">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-16x16.png?v=2016" sizes="16x16">
+		<link rel="mask-icon" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/safari-pinned-tab.svg?v=2016" color="#444444">
+		<link rel="shortcut icon" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon.ico?v=2016">
+		<meta name="apple-mobile-web-app-title" content="The Sun Magazine">
+		<meta name="application-name" content="The Sun Magazine">
+		<meta name="msapplication-TileColor" content="#fcc330">
+		<meta name="msapplication-TileImage" content="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/mstile-144x144.png?v=2016">
+		<meta name="theme-color" content="#ffffff">
+
+				<link rel="stylesheet" type="text/css" href="https://cloud.typography.com/6578674/659928/css/fonts.css" />
+		<link rel="stylesheet" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/css/style.css">
+
+																		<meta property="og:site_name" content="The Sun Magazine">
+		<meta property="og:type" content="article">
+		<meta property="og:url" content="https://www.thesunmagazine.org/issues/404/theo-s-map">
+		<meta property="og:image" content="http://www.thesunmagazine.org/files/2016-07/404-40-watley-preview.jpg">
+		<meta property="og:title" content="Theo’s Map - The Sun Magazine">
+		<meta property="og:description" content="My friend&amp;rsquo;s uncle scared me. He lived in a dome house he&amp;rsquo;d built from compressed styrofoam blocks, giving it the appearance of an igloo. It had a composting toilet and a dirt floor, and it looked absolutely extraterrestrial on the little plot of ground across the pasture from our Kentucky farm, such that I thought it might simply lift off and head into the Milky Way, leaving the fields of corn behind.">
+		<meta property="fb:app_id" content="158741778010551">
+
+						<link rel="image_src" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.comhttp://www.thesunmagazine.org/files/2016-07/404-40-watley-preview.jpg">
+
+												<meta name="twitter:card" content="summary">
+		<meta name="twitter:title" content="Theo’s Map - The Sun Magazine">
+		<meta name="twitter:description" content="My friend&amp;rsquo;s uncle scared me. He lived in a dome house he&amp;rsquo;d built from compressed styrofoam blocks, giving it the appearance of an igloo. It had a composting toilet and a dirt floor, and it looked absolutely extraterrestrial on the little plot of ground across the pasture from our Kentucky farm, such that I thought it might simply lift off and head into the Milky Way, leaving the fields of corn behind.">
+		<meta name="twitter:image" content="http://www.thesunmagazine.org/files/2016-07/404-40-watley-preview.jpg">
+		<meta name="twitter:site" content="@thesunmagazine">
+
+				<link rel="publisher" href="https://plus.google.com/113792980827145858211">
+        
+		<meta name="Description" content="My friend&amp;rsquo;s uncle scared me. He lived in a dome house he&amp;rsquo;d built from compressed styrofoam blocks, giving it the appearance of an igloo. It had a composting toilet and a dirt floor, and it looked absolutely extraterrestrial on the little plot of ground across the pasture from our Kentucky farm, such that I thought it might simply lift off and head into the Milky Way, leaving the fields of corn behind.">
+
+		
+		<!-- Google Tag Manager -->
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-TKBHCCG');</script>
+		<!-- End Google Tag Manager -->
+
+		<!-- Google Analytics -->
+		<script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+            ga('create', 'UA-2351127-1', 'auto');  // Replace with your property ID.
+            ga('send', 'pageview');
+            ga('require', 'ecommerce');   // Load the ecommerce plug-in.
+		</script>
+		<!-- End Google Analytics -->
+	</head>
+	<body id="">
+
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TKBHCCG"
+		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+		<header class="header" data-offset-start="80">
+		<div class="header-utilities">
+				<ul class="header-utilities-user list-inline list-inline-tight xxsmall">
+							<li>
+					<span class="header-utilities-user-intro">Already A Subscriber?</span> &nbsp;
+					<a href="https://www.thesunmagazine.org/subscriber/login" class="link-text link-alt">Sign In</a>
+				</li>
+					</ul>
+		<a href="https://www.thesunmagazine.org/shop/cart" class="header-utilities-cart  link-alt link-icon tiny">
+			<span class="i"><svg><use xlink:href="#i-cart"></use></svg></span>
+			<span class="cart-item-count">
+									0 Items
+				
+			</span>
+		</a>
+			</div>
+
+		<div class="header-bar">
+		<h1 class="header-logo logo">
+			<a href="/">
+				<img src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/img/logo-thesun.svg" class="logo-thesun" alt="The Sun Magazine">
+				<img src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/img/logo-tagline.svg" class="logo-tagline" alt="">
+			</a>
+		</h1>
+
+		<ul class="header-nav">
+			
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/read" 	   class='current '>
+	   Read	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/issues/current" 	   class=''>
+	   Current Issue	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/archives" 	   class=''>
+	   Archives	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/featured" 	   class=''>
+	   Featured Selections	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/topics" 	   class=''>
+	   Browse Topics	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/sections" 	   class=''>
+	   Browse Sections	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/connect" 	   class=''>
+	   Connect	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/news" 	   class=''>
+	   News from <em>The Sun</em>	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" 	   class=''>
+	   Write a Letter to the Editor	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/discussion-groups" 	   class=''>
+	   Discussion & Writing Groups	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/make-a-suggestion" 	   class=''>
+	   Make a Suggestion	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/submit" 	   class=''>
+	   Submit	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/shop" 	   class=''>
+	   Shop	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/giftsub" 	   class=''>
+	   Gift Subscriptions	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/issues" 	   class=''>
+	   Issues	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+											
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/donatemenu" 	   class='highlight'>
+	   Donate	</a>
+		
+	</li>
+
+		<li class=" last">
+														<a href="/SubscribeNav1" 					   class=''>
+						Subscribe					</a>
+									
+	</li>
+
+
+		</ul>
+
+		<button class="header-nav-toggle"><svg><use xlink:href="#i-menu" class="i-menu"></use><use xlink:href="#i-close" class="i-close"></use></svg></button>
+		<button class="header-search-toggle" data-form-wrapper=".header-search"><svg><use xlink:href="#i-magnifier" class="i-magnifier"></use><use xlink:href="#i-close" class="i-close"></use></svg></button>
+	</div>
+
+		<div class="header-search">
+		<div class="header-search-content">
+			<form action="https://www.thesunmagazine.org/search" class="form form-search" method="get">
+				<h2 class="alt-ff brand-link">Search Our 40 Years of Archives</h2>
+				<ul class="form-search-fields form-fields form-fields-inline">
+					<li><input type="text" name="q" value=""></li>
+					<li class="form-fields-inline-button"><button class="b b-1 b-padding-tight b-loading"><svg><use xlink:href="#i-loading"></use></svg>Search</button></li>
+				</ul>
+
+				<div class="header-search-content-shortcuts">
+					<h6 class="search-advanced alt-ff"><a class="js-handle-advanced" href="https://www.thesunmagazine.org/search?advanced=1">Advanced Search</a></h6>
+					<br>
+					<h6 class="alt-ff">Popular Pages</h6>
+					<ul class="list-inline-border list-inline-tight xxsmall"><li class=" first"><a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a></li><li class=""><a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a></li><li class=""><a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a></li><li class=""><a href="https://www.thesunmagazine.org/sections/quotations" 	   class=''>
+	   Quotations	</a></li><li class=""><a href="https://www.thesunmagazine.org/sections/readers-write" 	   class=''>
+	   Readers Write	</a></li><li class=" last"><a href="https://www.thesunmagazine.org/sections/poetry" 	   class=''>
+	   Poetry	</a></li></ul>				</div>
+			</form>
+		</div>
+	</div>
+</header>
+
+	<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+	<script type="text/javascript">
+		$(document).ready(function() {
+			$('.js-handle-advanced').on('click', function (e) {
+				e.preventDefault();
+				var getSearchValue = $('.form-search-fields input').val();
+				var getURL = $(this).attr('href');
+				var newURL = getURL + '&q=' + getSearchValue;
+				window.location.href = newURL;
+			});
+		});
+	</script>
+
+		<div class="container-hidden">
+		<div class="container">
+
+				
+	
+	<article class="article ">
+		<header class="block-content block-content-l1 block-content-center">
+						<div class="block-content-header">
+				<h6 class="b-content-section heading-square"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+				<h1 class="block-content-title">Theo’s Map</h1>
+
+				
+				<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/compton-gardner">Compton Gardner</a></li><li><a href="/issues/404">August 2009</a></li></ul>
+
+			</div>
+
+																			
+
+				<figure class="block-content-photo block-content-photo-large photo photo-outset-center-large">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 2028 1960'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/1180x1221r/photos/404-40-watley.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/2360x2442r/photos/404-40-watley.jpg
+	 alt="404 - Watley - Gardner"
+	 class="lazy">
+
+										<figcaption>
+
+						
+																				<div class="photo-credit">
+								&copy;&nbsp;<a href="/contributors/louanne-watley">Louanne Watley</a>
+							</div>
+																		</figcaption>
+									</figure>
+
+					</header>
+
+				<div class="article-body link-text-wrap">
+																		<p><strong><span class="large">MY FRIEND&rsquo;S UNCLE</span></strong> scared me. He lived in a dome house he&rsquo;d built from compressed styrofoam blocks, giving it the appearance of an igloo. It had a composting toilet and a dirt floor, and it looked absolutely extraterrestrial on the little plot of ground across the pasture from our Kentucky farm, such that I thought it might simply lift off and head into the Milky Way, leaving the fields of corn behind. When I did chores in the fall, I could see the igloo through the trees, and I sometimes saw Uncle Theo going through odd exercises in front of it, stretching toward the sky, wearing a flak jacket that swallowed his small frame, his face painted with charcoal. I&rsquo;d pretend to bend over and tie my work boot while I spied on him through the spindly grove. More than once it seemed as though Uncle Theo sensed my staring, and he&rsquo;d turn his back to me but keep right on with his rituals, his arms raised to the heavens.</p>
+
+<p>Theo&rsquo;s nephew Franz, my best friend, lived just down the road, and he visited his uncle on Saturday afternoons. That winter I could hear their voices and laughter as they worked to build a fire pit near the igloo. I wanted to meet Uncle Theo for many reasons, not the least of which was to see the naughty cartoons Franz said his uncle had published in &ldquo;gentlemen&rsquo;s magazines.&rdquo; One Friday, as we rode the school bus home from seventh grade, Franz told me Uncle Theo&rsquo;s dome house had a natural refrigerator dug right into the dirt floor, lined with moss and cold bottles of Miller.</p>
+
+<p>&ldquo;You should come over tomorrow,&rdquo; Franz said. &ldquo;Uncle Theo is going to roast mushrooms over the fire pit.&rdquo;</p>
+
+<p>I badly wanted to go, but I was afraid. This was 1981, and in our small farming community strange behavior like Theo&rsquo;s was seen as a sign of a mental defect. On farms the lame calf or crazed hog was put out of its misery, and that same doctrine spilled over into the view of how humans with afflictions should be treated. I thought of the madmen I&rsquo;d seen in movies, their hair on end, eyes wild and glazed. But none of them ever spent Saturdays with their nephews.</p>
+
+<p>As the bus stopped to drop me off, Franz said, &ldquo;Come over after dinner. He&rsquo;s usually napping until then.&rdquo;</p>
+
+<p>I agreed and climbed down the bus steps. Franz waved to me through a billowy cloud of exhaust, smiling as if he had just let go of some heavy burden.</p>
+
+<p>&nbsp;</p>
+
+<p><strong><span class="LARGE">THE NEXT DAY</span></strong> seemed to crawl by. First I finished my chores and worked on an essay for language-arts class. Then I listened to Journey while I tried to draw a cartoon I could show to Uncle Theo, but the two characters ended up looking like monsters, and I worried he&rsquo;d believe I was somehow making fun of him. Anxious, I left the house before dinner and snuck down the little lane that led to the strip of woods separating our land from Uncle Theo&rsquo;s home. It was mid-February, and the sky was gray. I stared through the bare branches at the igloo, the cold wind nipping my face. I had a nervous habit of picking my chapped lips, and I could taste salty blood on my tongue. The igloo was still, wet leaves plastered to the white exterior like dead starfish. I figured Uncle Theo was inside, building up his strength like a hibernating animal.</p>
+
+<p>It was pitch-dark that evening when I left for Theo&rsquo;s. As I groped through the blackness of the woods, arms pawing the cold air before me, I thought about turning back. An owl hooted, and fallen branches snapped under my soles. I broke free of the grove and found myself in the fescue meadow near the igloo. I could smell smoke and see a flame flickering beside the dome, with two silhouettes tromping around it. &ldquo;Hey!&rdquo; I yelled, waving my arms as if I were a stranded castaway. Uncle Theo&rsquo;s eyeglasses flashed, reflecting the fire. I ran over.</p>
+
+<p>&ldquo;Hey,&rdquo; I said again, out of breath as I reached them.</p>
+
+<p>Franz smiled and said to his uncle, &ldquo;This is my friend I was telling you about.&rdquo; I reached out my hand, and Uncle Theo took it loosely, as if I might be contagious. Up close I could see how his shaggy brown hair fell over his right eye. He was shorter than I&rsquo;d expected, his stocky legs like tree trunks, and he smelled like VapoRub. After listening to me babble on about the woods and the darkness, Uncle Theo slipped into his house, and Franz and I warmed our hands by the fire. I assumed I&rsquo;d irritated Theo, but in a few moments he reappeared, carrying a bottle of Miller for himself and two Pepsi-Colas for us. We sat around the fire and ate the woodsy mushrooms with red potatoes and something that tasted like carrots but appeared dark green in the firelight.</p>
+
+<p>When Franz offered to show me the inside of the igloo, Uncle Theo didn&rsquo;t protest, but he also didn&rsquo;t join us. The interior was lit by several lanterns that threw shadows on the walls. By their weak light Franz showed me the in-ground fridge, where plastic baggies held more vegetables. He closed the moss- covered lid proudly. A single bed hung by chains from the wall, and the toilet, which I&rsquo;d thought would be a hole in the ground, looked more like a child&rsquo;s training potty. The finale of the tour was the nudie magazines in which Uncle Theo&rsquo;s cartoons had been published. The lantern light shone off the glossy pages, and we laughed and stared until finally Uncle Theo came inside, told us he was tired, and climbed into his prisonlike bed. In a low mumble he said, &ldquo;I bought you some cookies. They&rsquo;re on the table. You can stay the night if you want.&rdquo;</p>
+
+<p>I ran home across the field and got permission. When I returned, there were two sleeping bags, the same military green as Uncle Theo&rsquo;s jacket, on the floor. Franz motioned for me to be quiet, and we ate cookies and paged through the magazines until we finally fell asleep to the sound of Theo&rsquo;s snoring.</p>
+
+<p>We woke in the morning to the smell of batter on a griddle. Uncle Theo, it turned out, made the best pancakes I&rsquo;d ever tasted. While we sat at his hand-hewn table, on which rested a tiny vial holding a single dead dandelion, he scratched out a portrait of Franz and me stuffing our mouths with pancakes, syrup dripping off our chins.</p>
+
+<p>As I spent more time around Uncle Theo, I found out he was thirty-eight and had been an engineering student at Ohio State University before he&rsquo;d become &ldquo;sick&rdquo; and dropped out. He was a pacifist, and I once saw him carry a spider out of the igloo and place it on the trunk of a maple. Theo loved music, and I can&rsquo;t recall ever being with him and Franz when there wasn&rsquo;t a tape playing or a record spinning. They listened to blues artists I&rsquo;d never heard of. (Until then my musical tastes had leaned toward Tony Orlando and Dawn or John Denver.) Uncle Theo walked everywhere and was a familiar figure on the county roads. Sometimes we&rsquo;d pass him on the school bus, and kids would call him a &ldquo;drugged-out hippie&rdquo; or a &ldquo;retard.&rdquo; I wanted to thump the kids, but I was afraid they&rsquo;d begin picking on me instead. I told myself they didn&rsquo;t know Theo was Franz&rsquo;s uncle, but of course some did. Franz would just sit in his seat and ignore them, and it was then I noticed how much he looked like his uncle: the crease in his brow and his placid yet focused eyes.</p>
+
+<p>&nbsp;</p>
+
+<p><strong><span class="large">EVERY SATURDAY</span></strong> I hung out with Theo and Franz, eating vegetables roasted over the fire and listening to music. They both could play the guitar, and I&rsquo;d sit on a stump and tap my foot. Uncle Theo never said much. He&rsquo;d sleep for extended periods inside the igloo, then awaken, his hair staticky and eyes bloodshot, and set a pot on to boil water for clove tea. Franz told me Theo would sometimes draw for several days straight without sleep. At times Uncle Theo would simply drift out of sight, disappearing into the woods for hours, but he&rsquo;d always show up again to put more edible roots on the fire. Once, when he wandered into the darkness of the pine grove, his outline visible in the moonlight, Franz said, &ldquo;He prefers being in there when he talks to the people in his head.&rdquo;</p>
+
+<p>One afternoon, after Theo and Franz finished a game of chess, Theo reached behind a wooden beam, pulled down a large scroll, and unrolled it, revealing an intricate, hand-drawn map of our town, with off-kilter streets and oddly shaped buildings, the banks and churches slipping to one side as if about to run off the edge. It was incomplete, with some areas only lightly penciled in, but the whole of it was mesmerizing. Franz and I spotted places we knew and called them out to one another. For the first time since I&rsquo;d been around him, Uncle Theo smiled: the gentle, shy grin of a small boy. He took off his glasses and rubbed his eyes, then put them back on and carefully rolled up the drawing. As he tucked it behind the beam for safekeeping, I spotted a .22 caliber pistol up there. It was a shock, seeing the gun: Theo didn&rsquo;t eat meat and never hunted. For the rest of the day I couldn&rsquo;t get the image of the pistol out of my head, and that night, as Franz and I sat by the fire, it seemed as though Uncle Theo would never come out of the woods.</p>
+
+<p>&nbsp;</p>
+
+<p><strong><span class="large">AT THE END</span></strong> of March President Reagan was shot, and unfortunately Uncle Theo bore more than a slight resemblance to John Hinckley, the would-be assassin. People&rsquo;s suspicions of Theo&rsquo;s strange behavior were heightened, and I heard of at least two incidents in town when someone called the police because he was mumbling to himself as he shopped. On the school bus a kid named Russell wouldn&rsquo;t shut up about it. When we passed Uncle Theo walking in the roadside ditch, Russell said, &ldquo;That crazy son of a bitch sure does look like Hinckley.&rdquo; Franz ignored it, but my face flushed, and I told Russell he should keep his mouth shut. For that Franz gave me a wicked slug to the arm and a tight-lipped rebuke: &ldquo;Just mind your own business.&rdquo; For the rest of the ride we didn&rsquo;t talk, and that Saturday I wasn&rsquo;t invited over.</p>
+
+<p>I still spied on Theo, though, and one afternoon I saw sheriff&rsquo;s deputies come to the igloo and knock on the shrunken door, pounding harder and harder until Uncle Theo finally opened up, his eyes squinting against the bright April sun. He shook his head to a barrage of questions. I wanted to run through the woods and defend him, but I stayed put. The cop car backed up and pulled away, and Uncle Theo stood at the door of the igloo without his eyeglasses, staring after the cruiser as if it were driven by creatures from another planet.</p>
+
+<p>In mid-May I saw Theo through the woods, dressed as if it were still a cold March, two or three sweat shirts under his big flak jacket. I was burning weeds along a fence row on my father&rsquo;s orders, the hose nearby, just in case. The fire crackled, engulfing cocklebur as if it were paper and running in a fury up the fence wire until the fuel was spent and the flames died out in a wisp of smoke. Through the trees I saw Uncle Theo bending and picking up leaves and twigs. He was talking, as if calmly instructing himself. I caught snippets of his monologue, which had to do with &ldquo;focus&rdquo; and the fight to keep &ldquo;it&rdquo; on the other side. Uncle Theo circled a large oak tree and turned back toward the igloo, shucking off his jacket, then the sweat-shirt layers, one by one, letting them fall to the ground as he walked away. I started another fire and watched it grow and die.</p>
+
+<p>At school Franz was still avoiding me. One afternoon I waited for him by the bus, and we stepped onto the noisy BlueBird #447 together and sat in the last seat. We didn&rsquo;t talk until the bus pulled out onto the highway.</p>
+
+<p>&ldquo;I&rsquo;m sorry,&rdquo; I said.</p>
+
+<p>Franz nodded, then showed me a book he was reading, a novel that had some sex scenes in it. We were back in sync.</p>
+
+<p>The bus passed a convenience store that Uncle Theo frequented, and there he was by the road, thumbing for a ride and wearing the flak jacket with the sleeves cut off, threads billowing at the armpits. He was skinnier, and the bright sunshine gave his skin a pale glow. Franz lowered his head. I tried to pat his shoulder, but he moved away. I looked out the back window at Uncle Theo doing karate chops into the bright blue sky.</p>
+
+<p><figure class="photo photo-outset-center">
+	<div>
+					<div>
+				<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 1960 1954'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/980x977r/photos/404-43-samour.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/1960x1954r/photos/404-43-samour.jpg
+	 alt="404 - Samour - Gardner"
+	 class="lazy">
+
+									<figcaption>
+																											<div class="photo-credit">
+																			© <a href="https://www.thesunmagazine.org/contributors/carol-samour">
+											Carol
+																						Samour
+										</a>
+																	</div>
+																								</figcaption>
+							</div>
+			</div>
+</figure>
+</p>
+
+<p><strong><span class="large">A WEEK LATER</span></strong> I didn&rsquo;t see Franz all day at school, and I wondered if he was sick. During last period the guidance counselor stopped me on my way to class. &ldquo;You&rsquo;re friends with Franz, right?&rdquo; he asked. I nodded. &ldquo;His uncle committed suicide last night.&rdquo; He seemed ashamed to say anything else. &ldquo;I just thought you should know.&rdquo;</p>
+
+<p>Franz was out of school for a while, and when he did come back, we never really talked, sitting in separate seats on the bus. I wanted more than anything else to comfort him, but it was something I just couldn&rsquo;t do. I felt as if I&rsquo;d taken the best he and Uncle Theo had offered and given nothing in return.</p>
+
+<p>I didn&rsquo;t see Franz at all that summer until a week before we went back to school. He came walking through the woods, wearing the sleeveless flak jacket over a tank top, and for a moment I thought I might be seeing his uncle. He stopped twenty feet away. &ldquo;Hey,&rdquo; he said. &ldquo;You want to have a fire?&rdquo;</p>
+
+<p>That night we did all the things Uncle Theo had done: roasting food; listening to music; even wandering off into the woods, where we found a small rock altar with an old piece of carpet lying before it. There were other rocks arranged in circles all over the woods. &ldquo;He used to talk to himself,&rdquo; said Franz, his voice tight with emotion but flat too, aware this wasn&rsquo;t new information to me.</p>
+
+<p>I wasn&rsquo;t sure what to do. I thought about hugging Franz but worried he might find it strange.</p>
+
+<p>&ldquo;I guess everyone does,&rdquo; said Franz. &ldquo;Talks to themselves, I mean.&rdquo;</p>
+
+<p>We stood in the woods for a long time, our skin sticky from the humid air. Then we walked back to the igloo. Later, after the structure had been taken down bit by bit and a bare circle on the ground was the only thing left, I&rsquo;d remember how the dome house had seemed like the perfect home.</p>
+
+<p>We pulled out the large scroll and sat at the table with it and drank some of Uncle Theo&rsquo;s bitterroot tea. The interior of the igloo was so quiet we could hear a mouse scurry along a rafter. It was eerie at first, and I thought of Uncle Theo&rsquo;s voice and the sound of his big canvas jacket as he walked. But after a while it was comforting to sit at his table, touching the coarse paper and admiring his intricate drawing. We stayed up most of the night, talking about the unfinished parts of the map and what Theo&rsquo;s final vision for it may have been, as if we might finally understand how his mind worked.</p>
+														</div>
+
+
+				
+<div class="sharing-bar article-sharing">
+	<div class="sharing-bar-first">
+		<a href="javascript:window.print();" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-printer"></use></svg> <span>Print</span></a>
+	</div>
+
+	<div class="sharing-bar-second">
+		<span class="alt-ff xsmall">Share:</span>
+		<a href="https://www.facebook.com/sharer/sharer.php?u=https://www.thesunmagazine.org/issues/404/theo-s-map" target="_blank" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-facebook"></use></svg> <span>Facebook</span></a>
+		<a href="https://twitter.com/share?url=https://www.thesunmagazine.org/issues/404/theo-s-map&amp;via=thesunmagazine" target="_blank" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-twitter"></use></svg> <span>Twitter</span></a>
+		<a href="#" class="b b-1 b-padding-tight xsmall js-toggle-mail-form"><svg><use xlink:href="#i-email"></use></svg> <span>Email</span></a>
+	</div>
+</div>
+
+<div class="send-to-friend-message-container">
+	<div class="alert alert-success xsmall">Thank you for sharing <em>The Sun</em>.</div>
+</div>
+
+<form method="post" action="/ajax/articles/send-to-a-friend" class="form fill-grey send-to-friend-form">
+		<input type="hidden" id="form_url" name="form[url]" value="https://www.thesunmagazine.org/issues/404/theo-s-map" />
+
+	<ul class="form-fields">
+		<li><label for="form_sender_name"><span class="label-text">Your Full Name</span><span class="label-asterisk">*</span></label><input type="text" id="form_sender_name" name="form[sender_name]" required="required" /></li>
+		<li><label for="form_sender_email"><span class="label-text">Your Email Address</span><span class="label-asterisk">*</span></label><input type="email" id="form_sender_email" name="form[sender_email]" required="required" /></li>
+		<li><label for="form_recipient_name"><span class="label-text">Friend’s Name</span><span class="label-asterisk">*</span></label><input type="text" id="form_recipient_name" name="form[recipient_name]" required="required" /></li>
+		<li><label for="form_recipient_email"><span class="label-text">Friend’s Email Address</span><span class="label-asterisk">*</span></label><input type="email" id="form_recipient_email" name="form[recipient_email]" required="required" /></li>
+		<li><label for="form_message"><span class="label-text">Personalized Message</span></label><textarea id="form_message" name="form[message]"></textarea></li>
+	</ul>
+<div class="send-to-friend-message-container">
+	<div class="alert alert-error xsmall">Something went wrong. Please try again.</div>
+</div>
+
+<div class="g-recaptcha" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs"></div>
+<div class="form-actions"><button type="submit" id="form_submit" name="form[submit]"	class="form-actions-b-primary b b-1 b-loading xsmall"><svg><use xlink:href="#i-loading"></use></svg>
+		Submit
+	</button></div>
+<input type="hidden" id="form__token" name="form[_token]" value="bc56d0968ff08a6ba3924f193a76935b64da4628" /></form>
+
+<br>
+
+
+
+										<footer class="article-contributor contributors">
+									
+
+<div class="block-contributor">
+		
+
+		<div class="block-contributor-content">
+		<div class="block-contributor-bio small">
+			<p><strong><span class="smallcaps">Compton Gardner</span></strong> is the pseudonym of a writer who finds joy in chopping wood while listening to audio books.</p><a href="/contributors/compton-gardner" class="block-contributor-link link-alt small">More From This Contributor&nbsp;&#9656;</a>		</div>
+	</div>
+</div>
+
+							</footer>
+						</article>
+
+
+				    <div class="paywall-subscription block-product">
+			<div class="columns">
+			<div class="paywall-banner span3 cta cta-l1">
+				<div class="cta-intro">
+					<h5 class="cta-title alt-ff">One Free Selection Left </h5>
+					<p class="cta-text xsmall"><a class="link-alt" href="https://www.thesunmagazine.org/subscriber/login" data-label="Already a subscriber?">Already a subscriber? Sign in ▸</a><br><br>Read two free selections from <em>The Sun</em> each month.</p>
+				</div>
+			</div>
+			<div class="paywall-banner span9 note note-1 text-center">
+				<h4 class="cta-title alt-ff">Subscribe to <em>The Sun</em> and save 45%</h4>
+				<p class="cta-text xsmall">Subscribers get full access to the current issue and more than 40 years of archives.</p>
+				<a class="b b-1 xsmall cta-trigger"  href="/subscribe1" data-label="Subscribe" data-ctatitle="Subscribe">Subscribe</a>
+			</div>
+		</div>
+
+		<div class="columns">
+			<div class="span12 paywall-cta-bottom">
+				<p>
+					<span class="cta-title-issue">Buy the August 2009 issue for $5.95</span>
+					<span class="xsmall">Order now to get instant access to this issue, and we’ll also send you a print copy.</span>
+					<a class="b b-5 xsmall corona"  href="#" data-product-type="issues" data-id="404" data-label="Order Now ▸">Order Now ▸</a>
+				</p>
+			</div>
+		</div>
+
+		
+
+</div>
+	
+	
+	
+	<div class="spacer"></div>
+	
+
+
+
+		
+		<div class="article-correspondence-cta">
+		<div class="cta cta-l1" data-url="https://www.thesunmagazine.org/letter-to-the-editor">
+			<div class="cta-intro">
+				<h5 class="cta-title alt-ff">Thinking about writing us a letter?</h5>
+				<p class="cta-text">Give in to the temptation. We love getting mail. <br><span class="xsmall">(Of course, we reserve the right to edit.)</span></p>
+			</div>
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" class="cta-button b b-4 b-padding-tight small" data-label="Write Us A Letter!">Write Us A Letter!</a>
+		</div>
+	</div>
+	
+
+			<div class="article-also layout-item-large full-bar fill-grey-mid-light">
+		<div class="layout-item-intro">
+			<h2>Also In This Issue</h2>
+			<a href="/issues/404" class="xsmall link-alt">August 2009&nbsp;&#9656;</a>
+		</div>
+		<div class="issue-articles-l1">
+			<div class="issue-articles-l1-content1">
+				
+<div class="cover cover-l1 block-product">
+	<div>
+							<a href="/issues/404" class="cover-thumb">
+				
+				<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 727'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/import/issue/404.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/561x728r/import/issue/404.jpg
+	 alt=""
+	 class="lazy">
+
+			</a>
+		
+
+													<!-- <a href="/issues/404" data-product-type="issues" data-id="404" data-role="order" class="js-buy-single corona cover-button b b-1 b-full xsmall" data-label="Buy This Issue &#9656;">
+								Buy This Issue&nbsp;&#9656;
+			</a> -->
+			<a href="/issues/404" data-product-type="issues" data-id="404" class="js-buy-single corona cover-button b b-1 b-full xsmall" data-label="Buy This Issue &#9656;">
+								Buy This Issue&nbsp;&#9656;
+			</a>
+					
+					</div>
+</div>
+			</div>
+			<div class="issue-articles-l1-content2">
+				<div class="articles-l3">
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/quotations">Quotations</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/404/sunbeams-404">Sunbeams</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/poetry">Poetry</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/404/manifesto">Manifesto</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/joe-wilkins">Joe Wilkins</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/poetry">Poetry</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/404/poems">Poems</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/eric-anderson">Eric Anderson</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/fiction">Fiction</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/404/aftertaste">Aftertaste</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/cynthia-weiner">Cynthia Weiner</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+									</div>
+			</div>
+		</div>
+	</div>
+	
+
+			<div class="article-related layout-item-large full-bar fill-pattern-light">
+		<div class="layout-item-intro">
+			<h2>Related Selections</h2>
+			<ul class="list-inline list-inline-tight"><li><a href="/topics/friendship" class="xsmall link-alt link-text">Friendship</a></li><li><a href="/topics/death" class="xsmall link-alt link-text">Death</a></li><li><a href="/topics/mental-health" class="xsmall link-alt link-text">Mental Health</a></li></ul>		</div>
+
+		<div class="articles-l2">
+							
+
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/readers-write">Readers Write</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/487/high-school">High School</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/our-readers">Our Readers</a></li><li><a href="/issues/487">July 2016</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/487" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 561 728'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/140x182r/2016-06/487.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/281x364r/2016-06/487.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/408/dacia-boulevard">Dacia Boulevard</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/florin-ion-firimita">Florin Ion Firimițã</a></li><li><a href="/issues/408">December 2009</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/408" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 727'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/140x182r/import/issue/408.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/import/issue/408.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/poetry">Poetry</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/397/new-and-fervent-domesticity">A New And Fervent Domesticity Has Seized Me</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/megan-buchanan">Megan Buchanan</a></li><li><a href="/issues/397">January 2009</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/397" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 727'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/140x182r/import/issue/397.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/import/issue/397.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/fiction">Fiction</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/197/the-value-of-trees">The Value Of Trees</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/gillian-kendall">Gillian Kendall</a></li><li><a href="/issues/197">April 1992</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/197" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 725'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/141x182r/import/issue/197.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/281x364r/import/issue/197.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+					</div>
+	</div>
+	
+	
+					<form id="newsletterForm" method="post" action="https://www.thesunmagazine.org/newsletter" data-url-send="https://www.thesunmagazine.org/newsletter" class="form form-newsletter fill-grey" enctype="multipart/form-data" target="_blank">
+
+
+
+		<div class="form-newsletter-intro">
+			<h3 class="alt-ff large">Sign Up For Our Newsletter</h3>
+			<p>We’ll let you know about new website selections, upcoming events, special offers, and more.</p>
+		</div>
+
+		<ul class="form-newsletter-fields form-fields form-fields-inline">
+			<li>
+				<input name="name" type="text" maxlength="500" id="name" placeholder="Your Name">
+			</li>
+			<li>
+				<input name="email" type="text" maxlength="500" id="email" placeholder="Your E-mail">
+			</li>
+
+			<li class="form-fields-inline-button">
+				<button disabled="disabled" class="form-newsletter-send b b-4 b-padding-tight b-loading g-recaptcha" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs" data-callback="recaptcha_callback" name="SubmitButton" id="SubmitButton">
+					<svg><use xlink:href="#i-loading"></use></svg>
+					Sign&nbsp;Up
+				</button>
+			</li>
+		</ul>
+	</form>
+	<script id="hiddenlpsubmitdiv" style="display: none;"></script>
+
+
+
+<footer class="footer brand-grey-dark">
+			<div class="footer-first">
+		<h3 class="footer-tagline">Independent, Reader-Supported Publishing</h3>
+		<p class="footer-desc">In each issue of <em>The Sun</em> you’ll find some of the most radically intimate and socially conscious writing being published today. In an age of media conglomerates, we’re something of an oddity: an ad-free, independent, reader-supported magazine.</p>
+		<ul class="footer-nav list-inline-border xsmall">
+			
+		<li class=" first">
+			<a href="https://www.thesunmagazine.org/about" 	   class=''>
+	   About <em>the Sun</em>	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/staff" 	   class=''>
+	   Staff	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/find-the-sun" 	   class=''>
+	   Find <em>The Sun</em>&nbsp;&nbsp;in a Store Near You	</a>
+		
+	</li>
+
+
+		</ul>
+	</div>
+	
+		<div class="footer-second">
+		<ul class="footer-second-social list-inline">
+			<li><a href="https://www.facebook.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-facebook"></use></svg></span> Like Us</a></li>
+			<li><a href="https://twitter.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-twitter"></use></svg></span> Follow Us</a></li>
+			<li><a href="https://instagram.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-instagram"></use></svg></span> Take a Look</a></li>
+		</ul>
+
+		<div class="footer-second-content">
+			<ul class="footer-nav list-inline-border xsmall">
+				
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/" 	   class='current '>
+	   Home	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/privacy-policy" 	   class=''>
+	   Privacy Policy	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/terms-of-use" 	   class=''>
+	   Terms of Use	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/site-map" 	   class=''>
+	   Site Map	</a>
+		
+	</li>
+
+
+			</ul>
+			<p class="footer-copyright xxsmall">Copyright &copy; 1974–2020 <em>The Sun</em>. All rights reserved.</p>
+		</div>
+	</div>
+</footer>
+
+
+
+<div class="offset-nav">
+	<ul>
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/read" 	   class='current '>
+	   Read	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/issues/current" 	   class=''>
+	   Current Issue	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/archives" 	   class=''>
+	   Archives	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/featured" 	   class=''>
+	   Featured Selections	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/topics" 	   class=''>
+	   Browse Topics	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/sections" 	   class=''>
+	   Browse Sections	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/connect" 	   class=''>
+	   Connect	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/news" 	   class=''>
+	   News from <em>The Sun</em>	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" 	   class=''>
+	   Write a Letter to the Editor	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/discussion-groups" 	   class=''>
+	   Discussion & Writing Groups	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/make-a-suggestion" 	   class=''>
+	   Make a Suggestion	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/submit" 	   class=''>
+	   Submit	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/shop" 	   class=''>
+	   Shop	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/giftsub" 	   class=''>
+	   Gift Subscriptions	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/issues" 	   class=''>
+	   Issues	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+											
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/donatemenu" 	   class='highlight'>
+	   Donate	</a>
+		
+	</li>
+
+		<li class=" last">
+														<a href="/SubscribeNav1" 					   class=''>
+						Subscribe					</a>
+									
+	</li>
+
+
+					<li>
+				<a href="https://www.thesunmagazine.org/shop/cart">Cart ( <span class="cart-item-count">  0  </span>)</a>
+			</li>
+			<li><a href="https://www.thesunmagazine.org/subscriber/login" class="link-header-logout link-alt">Sign In</a></li>
+			</ul>
+	<ul>
+		<li class=" first">
+			<a href="https://www.thesunmagazine.org/about" 	   class=''>
+	   About <em>the Sun</em>	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/staff" 	   class=''>
+	   Staff	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/find-the-sun" 	   class=''>
+	   Find <em>The Sun</em>&nbsp;&nbsp;in a Store Near You	</a>
+		
+	</li>
+
+</ul>
+	<ul>
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/" 	   class='current '>
+	   Home	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/privacy-policy" 	   class=''>
+	   Privacy Policy	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/terms-of-use" 	   class=''>
+	   Terms of Use	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/site-map" 	   class=''>
+	   Site Map	</a>
+		
+	</li>
+
+</ul>
+</div>
+
+<div id="buy-popup-message" class="buy-popup mfp-hide white-popup white-popup-block">
+	<a class="popup-modal-dismiss" href="#"></a>
+	<h5>Due to fulfillment challenges related to the novel coronavirus, print copies are temporarily unavailable for individual sale. We are offering free PDFs until we are able to resume print sales.</h5>
+	<p>Enter your e-mail address below to download this issue.</p>
+	<form method="post" id="download-single" action="https://www.thesunmagazine.org/issue/pdfFree/531.pdf">
+		<label for="email"><span class="label-text">E-mail</span><span class="label-asterisk">*</span></label>
+		<input class="buy-single-email" id="email" type="email" name="email">
+		<button type="send" class="form-buy-issue-send b b-3 b-padding-tight b-loading">Send</button>
+		<button class="form-buy-issue-download b b-3 b-padding-tight b-loading">Download pdf</button>
+		<button type="send" class="popup-modal-dismiss b b-2 b-padding-tight b-loading">Close</button>
+		<div class="g-recaptcha" style="text-align: center" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs"></div>
+
+	</form>
+</div>
+
+			<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/plugins.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/site.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/newsletter.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/js/articles.js"></script>
+		</div>
+		</div>
+
+				<script>
+		(function (doc) {
+			var scripts = doc.getElementsByTagName('script');
+			var script = scripts[scripts.length - 1];
+			var xhr = new XMLHttpRequest();
+			xhr.onload = function () {
+				var div = doc.createElement('div');
+				div.innerHTML = this.responseText;
+				div.style.display = 'none';
+				script.parentNode.insertBefore(div, script);
+			}
+			xhr.open('get', '/theme/thesun//assets/build/img/sprite/sprite.svg', true);
+			xhr.send();
+		})(document);
+
+
+
+		</script>
+
+		<script>
+			// Submit function
+            function recaptcha_callback() {
+						var getUrl = $('.form-newsletter').data( "url-send" ),
+							getName = $('input#name').val(),
+							getEmail = $('input#email').val();
+						$.ajax({
+								type: "POST",
+								url: getUrl,
+								data: {
+									name: getName,
+									email: getEmail,
+									grecaptcharesponse: grecaptcha.getResponse()
+								}
+							}).done(function(response) {
+								console.log(response);
+									$('.form-fields').fadeOut(800, function () {
+										$('.form-fields').empty().append('<div class="newsletter-confirm-message">Thank you for signing up to receive news from <em>The Sun</em>. Your first newsletter will arrive soon.<div>').fadeIn(800);
+									});
+							});
+			}
+
+		</script>
+
+		<script>
+			function getUrlCode() {
+				var url_string = window.location.href;
+				var url = new URL(url_string);
+				var c = url.searchParams.get('promotion\_key');
+				if (typeof c !== 'undefined' && c !== null) {
+					setCookie("promotion_code",c);
+				}
+			}
+
+			function setCookie(cname, cvalue) {
+				document.cookie = cname + "=" + cvalue + ";" + "path=/";
+			}
+
+			function getCookie(cname) {
+				var name = cname + "=";
+				var decodedCookie = decodeURIComponent(document.cookie);
+				var ca = decodedCookie.split(';');
+				for(var i = 0; i <ca.length; i++) {
+					var c = ca[i];
+					while (c.charAt(0) == ' ') {
+						c = c.substring(1);
+					}
+					if (c.indexOf(name) == 0) {
+						return c.substring(name.length, c.length);
+					}
+				}
+				return "";
+			}
+			window.addEventListener( "load", getUrlCode );
+		</script>
+
+
+	</body>
+</html>

@@ -1,0 +1,1378 @@
+
+<!DOCTYPE html>
+<html class="no-js" lang="en-US">
+	<head>
+		<title>Quaking - The Sun Magazine</title>
+
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		
+		<meta name="viewport" content="width=device-width, minimum-scale=1.0">
+
+		<link rel="dns-prefetch" href="//ajax.googleapis.com">
+		<link rel="dns-prefetch" href="//use.typekit.net">
+		
+		<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/modernizr.js"></script>
+		<script src="https://www.google.com/recaptcha/api.js"
+				async defer>
+		</script>
+
+		<script>(function(d) { var config = { kitId: 'kzw7ebk', scriptTimeout: 3000, async: true }, h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s) })(document);</script>
+
+
+				
+		<link rel="apple-touch-icon" sizes="57x57" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-57x57.png?v=2016">
+		<link rel="apple-touch-icon" sizes="60x60" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-60x60.png?v=2016">
+		<link rel="apple-touch-icon" sizes="72x72" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-72x72.png?v=2016">
+		<link rel="apple-touch-icon" sizes="76x76" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-76x76.png?v=2016">
+		<link rel="apple-touch-icon" sizes="114x114" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-114x114.png?v=2016">
+		<link rel="apple-touch-icon" sizes="120x120" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-120x120.png?v=2016">
+		<link rel="apple-touch-icon" sizes="144x144" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-144x144.png?v=2016">
+		<link rel="apple-touch-icon" sizes="152x152" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-152x152.png?v=2016">
+		<link rel="apple-touch-icon" sizes="180x180" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-180x180.png?v=2016">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-32x32.png?v=2016" sizes="32x32">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/android-chrome-192x192.png?v=2016" sizes="192x192">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-96x96.png?v=2016" sizes="96x96">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-16x16.png?v=2016" sizes="16x16">
+		<link rel="mask-icon" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/safari-pinned-tab.svg?v=2016" color="#444444">
+		<link rel="shortcut icon" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon.ico?v=2016">
+		<meta name="apple-mobile-web-app-title" content="The Sun Magazine">
+		<meta name="application-name" content="The Sun Magazine">
+		<meta name="msapplication-TileColor" content="#fcc330">
+		<meta name="msapplication-TileImage" content="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/mstile-144x144.png?v=2016">
+		<meta name="theme-color" content="#ffffff">
+
+				<link rel="stylesheet" type="text/css" href="https://cloud.typography.com/6578674/659928/css/fonts.css" />
+		<link rel="stylesheet" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/css/style.css">
+
+																		<meta property="og:site_name" content="The Sun Magazine">
+		<meta property="og:type" content="article">
+		<meta property="og:url" content="https://www.thesunmagazine.org/issues/187/quaking">
+		<meta property="og:image" content="http://www.thesunmagazine.org/files/import/issue/187.jpg">
+		<meta property="og:title" content="Quaking - The Sun Magazine">
+		<meta property="og:description" content="The landfill under the office where I work holds the decomposed bones of old ships and piers, derelicts not worth repairing, sunk in the harbor. Our building has piles sunk straight down to bedrock, supposed to keep us standing when the ground all around quivers and liquefies.">
+		<meta property="fb:app_id" content="158741778010551">
+
+						<link rel="image_src" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.comhttp://www.thesunmagazine.org/files/import/issue/187.jpg">
+
+												<meta name="twitter:card" content="summary">
+		<meta name="twitter:title" content="Quaking - The Sun Magazine">
+		<meta name="twitter:description" content="The landfill under the office where I work holds the decomposed bones of old ships and piers, derelicts not worth repairing, sunk in the harbor. Our building has piles sunk straight down to bedrock, supposed to keep us standing when the ground all around quivers and liquefies.">
+		<meta name="twitter:image" content="http://www.thesunmagazine.org/files/import/issue/187.jpg">
+		<meta name="twitter:site" content="@thesunmagazine">
+
+				<link rel="publisher" href="https://plus.google.com/113792980827145858211">
+        
+		<meta name="Description" content="The landfill under the office where I work holds the decomposed bones of old ships and piers, derelicts not worth repairing, sunk in the harbor. Our building has piles sunk straight down to bedrock, supposed to keep us standing when the ground all around quivers and liquefies.">
+
+		
+		<!-- Google Tag Manager -->
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-TKBHCCG');</script>
+		<!-- End Google Tag Manager -->
+
+		<!-- Google Analytics -->
+		<script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+            ga('create', 'UA-2351127-1', 'auto');  // Replace with your property ID.
+            ga('send', 'pageview');
+            ga('require', 'ecommerce');   // Load the ecommerce plug-in.
+		</script>
+		<!-- End Google Analytics -->
+	</head>
+	<body id="">
+
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TKBHCCG"
+		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+		<header class="header" data-offset-start="80">
+		<div class="header-utilities">
+				<ul class="header-utilities-user list-inline list-inline-tight xxsmall">
+							<li>
+					<span class="header-utilities-user-intro">Already A Subscriber?</span> &nbsp;
+					<a href="https://www.thesunmagazine.org/subscriber/login" class="link-text link-alt">Sign In</a>
+				</li>
+					</ul>
+		<a href="https://www.thesunmagazine.org/shop/cart" class="header-utilities-cart  link-alt link-icon tiny">
+			<span class="i"><svg><use xlink:href="#i-cart"></use></svg></span>
+			<span class="cart-item-count">
+									0 Items
+				
+			</span>
+		</a>
+			</div>
+
+		<div class="header-bar">
+		<h1 class="header-logo logo">
+			<a href="/">
+				<img src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/img/logo-thesun.svg" class="logo-thesun" alt="The Sun Magazine">
+				<img src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/img/logo-tagline.svg" class="logo-tagline" alt="">
+			</a>
+		</h1>
+
+		<ul class="header-nav">
+			
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/read" 	   class='current '>
+	   Read	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/issues/current" 	   class=''>
+	   Current Issue	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/archives" 	   class=''>
+	   Archives	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/featured" 	   class=''>
+	   Featured Selections	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/topics" 	   class=''>
+	   Browse Topics	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/sections" 	   class=''>
+	   Browse Sections	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/connect" 	   class=''>
+	   Connect	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/news" 	   class=''>
+	   News from <em>The Sun</em>	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" 	   class=''>
+	   Write a Letter to the Editor	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/discussion-groups" 	   class=''>
+	   Discussion & Writing Groups	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/make-a-suggestion" 	   class=''>
+	   Make a Suggestion	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/submit" 	   class=''>
+	   Submit	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/shop" 	   class=''>
+	   Shop	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/giftsub" 	   class=''>
+	   Gift Subscriptions	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/issues" 	   class=''>
+	   Issues	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+											
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/donatemenu" 	   class='highlight'>
+	   Donate	</a>
+		
+	</li>
+
+		<li class=" last">
+														<a href="/SubscribeNav1" 					   class=''>
+						Subscribe					</a>
+									
+	</li>
+
+
+		</ul>
+
+		<button class="header-nav-toggle"><svg><use xlink:href="#i-menu" class="i-menu"></use><use xlink:href="#i-close" class="i-close"></use></svg></button>
+		<button class="header-search-toggle" data-form-wrapper=".header-search"><svg><use xlink:href="#i-magnifier" class="i-magnifier"></use><use xlink:href="#i-close" class="i-close"></use></svg></button>
+	</div>
+
+		<div class="header-search">
+		<div class="header-search-content">
+			<form action="https://www.thesunmagazine.org/search" class="form form-search" method="get">
+				<h2 class="alt-ff brand-link">Search Our 40 Years of Archives</h2>
+				<ul class="form-search-fields form-fields form-fields-inline">
+					<li><input type="text" name="q" value=""></li>
+					<li class="form-fields-inline-button"><button class="b b-1 b-padding-tight b-loading"><svg><use xlink:href="#i-loading"></use></svg>Search</button></li>
+				</ul>
+
+				<div class="header-search-content-shortcuts">
+					<h6 class="search-advanced alt-ff"><a class="js-handle-advanced" href="https://www.thesunmagazine.org/search?advanced=1">Advanced Search</a></h6>
+					<br>
+					<h6 class="alt-ff">Popular Pages</h6>
+					<ul class="list-inline-border list-inline-tight xxsmall"><li class=" first"><a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a></li><li class=""><a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a></li><li class=""><a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a></li><li class=""><a href="https://www.thesunmagazine.org/sections/quotations" 	   class=''>
+	   Quotations	</a></li><li class=""><a href="https://www.thesunmagazine.org/sections/readers-write" 	   class=''>
+	   Readers Write	</a></li><li class=" last"><a href="https://www.thesunmagazine.org/sections/poetry" 	   class=''>
+	   Poetry	</a></li></ul>				</div>
+			</form>
+		</div>
+	</div>
+</header>
+
+	<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+	<script type="text/javascript">
+		$(document).ready(function() {
+			$('.js-handle-advanced').on('click', function (e) {
+				e.preventDefault();
+				var getSearchValue = $('.form-search-fields input').val();
+				var getURL = $(this).attr('href');
+				var newURL = getURL + '&q=' + getSearchValue;
+				window.location.href = newURL;
+			});
+		});
+	</script>
+
+		<div class="container-hidden">
+		<div class="container">
+
+				
+	
+	<article class="article ">
+		<header class="block-content block-content-l1 block-content-center">
+						<div class="block-content-header">
+				<h6 class="b-content-section heading-square"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+				<h1 class="block-content-title">Quaking</h1>
+
+				
+				<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/andrea-reshem">Andrea Reshem</a></li><li><a href="/issues/187">June 1991</a></li></ul>
+
+			</div>
+
+								</header>
+
+				<div class="article-body link-text-wrap">
+																		<p class="dropcap">When fear of death overwhelms you, take a close look at your life. I learned that years ago, and I&rsquo;m willing to do it now. But this sense of danger can&rsquo;t be reduced to psychology. Two and a half months after the October 1989 earthquake, the seismographs registered 105 tremors in one week.</p>
+
+<p>Long before I moved to the San Francisco Bay area, I dreamed that I died here in a quake, the last flicker of consciousness like a strip of black-and-white film running out of a projector. I decided then that I would never live in California.</p>
+
+<p>When I changed my mind, family and friends reminded me, &ldquo;Don&rsquo;t you know it&rsquo;s going to fall into the ocean?&rdquo;</p>
+
+<p>&ldquo;Better two years in Berkeley than a lifetime in North Platte.&rdquo;</p>
+
+<p>I&rsquo;ve been here eleven years, and I&rsquo;m wondering if it&rsquo;s time to leave. I wasn&rsquo;t hurt; my house is still standing. But I see myself sitting on the floor surrounded by debris, pieces of my life knocked from the shelves. I&rsquo;m not sure what can be salvaged. Everything is jumbled and juxtaposed.</p>
+
+<p>&nbsp;</p>
+
+<p>I started shaking a year before the quake. In October of 1988, I began spilling cups of tea. My signature became jerky and unrecognizable.</p>
+
+<p>&ldquo;I&rsquo;m possessed by an alien,&rdquo; I joked.</p>
+
+<p>Four months later, though my signature had returned to being wonderfully mine again, I was diagnosed with multiple sclerosis. The MS has stayed quiet since; I&rsquo;m grateful for that. But there&rsquo;s no predicting when it might reappear, causing tremors, upsetting my balance.</p>
+
+<p>The week that my doctor ordered the first series of diagnostic tests, my landlady evicted me from the house where I&rsquo;d lived for ten years, ever since I&rsquo;d moved to California. A faculty brat by birth and a wanderer by choice, I&rsquo;d never lived anywhere that long before. That house had become an extension of my body, a container that allowed me to change without shattering. I recognized pieces of myself in every alcove and tile.</p>
+
+<p>Ripped up by the roots, I took from my back yard a spoonful of earth, the ripe lemons, a branch from the willow tree. I arranged them in my new house with my other beloved totems. My tall terra-cotta mermaid was there, guitar below her forceful nipples, wide-eyed, mouth open, brushy eyebrows like mine. Her tail forms an arc with fish, octopi, an enormous starfish. I&rsquo;ve sung to her, danced for her. The quake severed her head at the neck.</p>
+
+<p>My life&rsquo;s ground is shaking. I&rsquo;ve lost my confidence, my voice. It grieves and terrifies me to think of leaving my dear friends and familiar places, the community that allows me the luxury of not exhausting myself in a battle to be who I am: lesbian, Jewish, and eccentric in unlabeled ways.</p>
+
+<p>My first year in Berkeley, while sitting in the sun by the lemon tree, or looking out over the Bay, I would find myself thinking that this was my &ldquo;golden age,&rdquo; a time to learn things that I could carry with me to other places in harder times to come. Just arrived, I was already anticipating banishment. Why do I always assume I will find myself in exile?</p>
+
+<p>The landfill under the office where I work holds the decomposed bones of old ships and piers, derelicts not worth repairing, sunk in the harbor. Our building has piles sunk straight down to bedrock, supposed to keep us standing when the ground all around quivers and liquefies.</p>
+
+<p>I write, reaching for bedrock.</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">For two nights before the earthquake, I lay awake, possessed by fear. That morning, writing in my journal on the way to work:</p>
+
+<blockquote>
+<p><em>Water and the World Series and appointment anxiety &mdash; that&rsquo;s all I remember of my dreams. Nagging anxiety, mortality, lying in bed the past two nights. Earthquakes! My mother&rsquo;s MRI test showed she&rsquo;d had two small strokes! Two visits to my grandmother in the nursing home last week! &ldquo;I don&rsquo;t do anything but sit here or lie here,&rdquo; she said. &ldquo;I don&rsquo;t do anything but wait.&rdquo; She raised her eyebrows, gave a Yiddish shrug. &ldquo;What am I waiting for &mdash; to die?&rdquo;</em></p>
+</blockquote>
+
+<p>Late that afternoon at work, restless, anxious, I decide to leave early, but dawdle, making one last phone call. The office is almost empty; everyone has gone to Candlestick Park or home to watch the World Series on television.</p>
+
+<p>The earthquake goes straight to the body. With the first lurch, senses alert. It&rsquo;s not the shudder of the air conditioning shutting down for the night. I get under the desk. Not knowing when it will stop. Whether it will get stronger and stronger. From under the wooden desktop, I see massive gray file drawers roll toward me, back away and slam shut, come toward me, slam shut. The rumbling. Nothing to do but wait, powerless. Years ago on a mountain road, I was alert but calm as the van timelessly flipped all the way over. Then as now, noting: I&rsquo;m still here, I&rsquo;m still alive. The building hasn&rsquo;t collapsed, crushed me, buckled beneath me.</p>
+
+<p>After it stops, phone lights wink in the darkened office. Friends are calling to see if I&rsquo;m all right. I feel the strength of my community, my safety net. I can&rsquo;t reach my lover, Sally, though I dial again and again. Can&rsquo;t tell her answering machine how much I love her &mdash; there are co-workers standing nearby. Even in this crisis, I&rsquo;m not ready to come out as a lesbian at the office. We&rsquo;re not dead yet. Whatever I do now, I&rsquo;ll have to live with later.</p>
+
+<p>We learn from the radio that the Bay Bridge has collapsed and the trains aren&rsquo;t running. I can&rsquo;t get home to Oakland. Two of us who live on the other side of the bridge accept a co-worker&rsquo;s invitation to sleep at her house. We walk through the unseasonably warm evening, approaching clouds of black smoke. The district where she lives is on fire.</p>
+
+<p>I don&rsquo;t want to get stuck in a Red Cross shelter in San Francisco. I&rsquo;d rather stay in my office building &mdash; built to the latest earthquake safety specifications &mdash; until there&rsquo;s a way for me to get home. I turn back alone.</p>
+
+<p>The sun is going down. The sidewalks are dim canyons between unlit high-rises, sections already roped off to steer people away from crumbling facades. I&rsquo;m not sure of the way. I walk purposefully, scared, past clusters of beer-drinking men in the doorways of bars and strip joints. I don&rsquo;t let myself think of how much I want my lover now.</p>
+
+<p>My building has been evacuated. A uniformed man with a flashlight tells me that no one is allowed back inside. I&rsquo;m alone at night in a crowd of strangers. Crying, I join a crush of commuters waiting in the dark to use the pay phone. From the front of the line, a woman calls, &ldquo;The ferries are running!&rdquo;</p>
+
+<p>On the way to the ferry landing, I attach myself to a cluster of women.</p>
+
+<p>&ldquo;Hold on to each other&rsquo;s coats! Let&rsquo;s stay together!&rdquo;</p>
+
+<p>&ldquo;I hope you don&rsquo;t mind my joining you,&rdquo; I venture. &ldquo;I don&rsquo;t know anyone here.&rdquo;</p>
+
+<p>&ldquo;Neither do we,&rdquo; they say. &ldquo;We just met. How many of us are there? Four, five, six. Don&rsquo;t lose anyone.&rdquo;</p>
+
+<p>It&rsquo;s a patient, highly socialized commuter crowd, used to waiting. An enormous, jagged orange moon rises over the dark hills across the Bay. A helicopter sweeps a search beam over the broken ridge. When we finally cross the gangplank to the ferry, we startle at the deck rocking beneath us.</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">My housemate, Alyx, is a nurse. In the days after the quake, she&rsquo;s at the hospital most of the time. She&rsquo;s at the center of the story, competently helping. I&rsquo;m useless, paralyzed, heavy. I feel like my cat, who stays in hiding, walks low to the ground that has betrayed her trust. The office is closed for the rest of the week. I stay home, sunk in self-preservation, fearful that the stress will activate the MS. Getting up to make a cup of tea is a major decision.</p>
+
+<p>I cling to Sally. After the quake, she&rsquo;d arrived at my house before me and cleaned up the things that had fallen from the shelves. Now that we&rsquo;re together again, I feel how frightening it was, not knowing where she was or how we would find each other. I&rsquo;m afraid another big quake will come when we&rsquo;re apart.</p>
+
+<p>Sally says she wants to move. &ldquo;I don&rsquo;t want to be here when the Big One happens,&rdquo; she tells me. &ldquo;Even if I&rsquo;m not hurt, I don&rsquo;t want to live through it.&rdquo;</p>
+
+<p>&ldquo;I&rsquo;ve always known there was a risk,&rdquo; I say. &ldquo;Even before I moved here, I was scared. It&rsquo;s been a choice to be here in spite of earthquakes. My life is here. My community is here. I don&rsquo;t want to move.&rdquo;</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">The quake happened just before my birthday. I decide to celebrate anyway, to hold my Fifth Annual All-Girl Birthday Party as scheduled. It&rsquo;s a tradition; the one year I didn&rsquo;t feel up to it, my friends surprised me. The first year they were strangers; now they look forward to this opportunity to see each other. As everyone arrives, safe, I feel like saying the <em>shehechiyanu</em>, the Jewish prayer of thanks that we&rsquo;ve survived to greet this day.</p>
+
+<p>We&rsquo;re all hyper, half-hysterical. Merciless teasing and joking alternate with attentive listening to each other&rsquo;s quake and postquake experiences. Then, &ldquo;Thank you for sharing,&rdquo; someone says, and the conversation degenerates into laughing, mock-therapy group lingo.</p>
+
+<p>During dessert, Nurse Alyx is still compulsively caretaking. Somnambulistically she carries a cup of water into the room, reaches right across a woman who is telling a story, to water a plant that doesn&rsquo;t need watering.</p>
+
+<p>My friend Francie gives me a curly wig with cat&rsquo;s ears. &ldquo;Someone had to buy it and someone has to wear it,&rdquo; the card says. The wig sits comfortably on my head, blending into my hair.</p>
+
+<p>Gesturing toward me, Alyx asks the group, &ldquo;Do you think Andrea acts out our unconscious?&rdquo;</p>
+
+<p>&ldquo;I&rsquo;ve often thought that,&rdquo; Francie replies.</p>
+
+<p>I have a place here with these dear friends. How could I move away?</p>
+
+<p>&nbsp;</p>
+
+<p>I look for stories to orient me, to reveal the meaning of the time. Stories: the most enduring, portable home for exiles.</p>
+
+<p>The earthquake happened during the week of Sukkot, a Jewish festival celebrated in outdoor booths. There are rules governing the construction of a sukkah: not more than one wall may be made by an existing structure; the roof must be open to the sky. Orthodox Jews eat all their meals in it, even sleep there. Like all Jewish holidays, Sukkot has layers of meaning: it&rsquo;s the fall harvest festival, reenacting the time when the community lived in tents in the fields; it commemorates the days spent wandering in the wilderness after liberation from Egyptian slavery; it&rsquo;s a recognition that our bodies are vessels as fragile, as open to the elements, as a temporary shelter.</p>
+
+<p>A rabbi observes how appropriate it is that the quake happened in this season. Faced with life&rsquo;s fragility, he says, we turn to each other, to community.</p>
+
+<p>I think about community a lot after the quake: the women I linked up with to wait for the ferry; my friends who are like family to me; the wide network of acquaintances I&rsquo;ve met over the years. I know I&rsquo;d feel better if I were out in the world, working, helping others, but I can&rsquo;t seem to shake the paralysis. I slump on my bed, wear the same sweat suit day after day.</p>
+
+<p>&nbsp;</p>
+
+<p>As a child, I read and reread Pliny the Younger&rsquo;s letters recounting Pompeii&rsquo;s day of destruction. I studied photographs of the excavated city, of the white casts of bodies that lay as the sulfuric gases and hot ash found them. They looked so ordinary, so much like us.</p>
+
+<p>&ldquo;I remember thinking that they were stupid not to leave,&rdquo; Sally says. &ldquo;Now I understand why they decided to stay.&rdquo;</p>
+
+<p>Yes: it was their place. Their lives were entwined with it. I used to move every year or two, from the Midwest to the West to the East. In recent years I&rsquo;ve thought: why not work out my life in one community, make what I want of it here instead of always looking for a more perfect place? There is no more perfect place.</p>
+
+<p>I&rsquo;ve never before felt that it might be better to remain with one&rsquo;s people, risk death in one&rsquo;s place, than to flee.</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">My cat must have been upstairs on my bed when it happened. She sits at the foot of the stairs, looking up suspiciously, tail twitching. Is she aware of something now? For weeks, there are hundreds of aftershocks every day, some notable, some subliminal. After a while none of us is sure whether we&rsquo;re feeling one or not. Perhaps it&rsquo;s a tiny shift in balance, the cat leaping onto the sofa, the slight rocking of breath or heartbeat. We jump when someone sets down a heavy carton.</p>
+
+<p>My brother and his wife offer me out-of-state respite from aftershocks. For three days, I am in a place where I can light the Shabbat candles and let them burn peacefully all evening long instead of carrying them from room to room or putting them in the sink so they won&rsquo;t tip over and burn the house down.</p>
+
+<p>When I return to California, there are more manic parties and engrossing tasks. Whenever I&rsquo;m not busy, I sink into abject immobility. I expect to be cut down at any moment.</p>
+
+<p>&ldquo;Lamb to the slaughter,&rdquo; I say to Sally. &ldquo;That keeps going through my head. I feel like a lamb to the slaughter.&rdquo;</p>
+
+<p>Every day&rsquo;s paper carries stories of quake damage, relief efforts, alternative transportation to circumvent the collapsed Bay Bridge. Scientists predict the next big quake will be on the Hayward fault, six blocks from my house. Here where the population and the buildings are so dense, it will cause far more damage than the last one. One estimate says that 4,000 will die, and more than 100,000 will be hospitalized with serious injuries &mdash; though I know there aren&rsquo;t that many hospital beds, and there&rsquo;s no guarantee that the hospitals will be left standing. And that says nothing of the lesser injuries that receive no treatment, the newly homeless in shock, the destruction of roads and stores, the social breakdown. Enough! I believe it all: they don&rsquo;t have to convince me.</p>
+
+<p>Just as Sally is calming down, deciding she can stay here after all, I decide I can&rsquo;t bear it. Can&rsquo;t bear to stay. Can&rsquo;t bear to leave.</p>
+
+<p>&nbsp;</p>
+
+<p>As a child, I played a game: what would you take with you to a desert island? Now I choose my notebooks. Embarrassed by my fear, self-disparaging, I take twenty-five years of journals and fragments down from my closet and stack them in boxes under a table in the dining room.</p>
+
+<p>&ldquo;If anything happens to the house while you&rsquo;re here and I&rsquo;m not, these are the only things I really care about.&rdquo;</p>
+
+<p>Alyx laughs and I start to cry. I remember dreaming that my house caught fire and all my papers burned while I looked on helplessly, crying, &ldquo;My life, my life!&rdquo;</p>
+
+<p>The writing I haven&rsquo;t done tears at me, accuses me, goads me. Even before the quake, I was dismembered by disease, I was angry at myself for wasting time. Did I used to have so much trouble thinking of the right word? Is it MS? Stress? Aging? Am I losing my words?</p>
+
+<p>Everyone in my family &mdash; both parents and my brother &mdash; has wanted to be a writer. Now my mother often says that she&rsquo;s losing &ldquo;word retrieval&rdquo;; she wishes she&rsquo;d given more time to being creative; says vehemently, &ldquo;I have no problem filling my life with <em>rubbish</em> instead of doing the things I want to do.&rdquo; My parents&rsquo; lost chances intensify the feeling that time is running out.</p>
+
+<p>Just before the quake, I dreamed that my speech was impaired: I couldn&rsquo;t pronounce the letter <em>s</em>. Waking, I wondered if the dream prefigured a new MS symptom. Later my mother told me that on the day of my dream she had had a small stroke; since then, she&rsquo;s had trouble pronouncing her <em>s</em>&rsquo;s.</p>
+
+<p>My parents hint at a scheme to commit suicide before they get too debilitated, lose all control over their lives. Just another smiling, death-laden conversation. Quickly passed over.</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">The professional predictors are predictably at work. Scientists and psychics read the signs, interpret the omens. Mother Earth is angry. There&rsquo;ll be a big quake at the next full moon. A geologist is suspended from his post for forecasting imminent destruction. I&rsquo;m a long-time collector of forecasting duds: revised deadlines for Armageddon; devastating quakes that never happened; the harmonic convergence. Still, my fear makes me susceptible to the predictive impulse.</p>
+
+<p>I&rsquo;ve trained myself to believe that my own premonitions usually have nothing to do with reality. I&rsquo;m so obsessed with mortality that my fears aren&rsquo;t necessarily signs of real threats. I haven&rsquo;t plunged to my death in all the planes I was scared to take; haven&rsquo;t perished on mountain roads; haven&rsquo;t died of cancer. I take comfort in knowing I can&rsquo;t die each imagined death in one lifetime. I remind myself of this when I wake from frightening dreams.</p>
+
+<p>But what if some of my intuitions <em>are</em> precognitive? That dream about the letter <em>s</em>. The fearful nights before the quake, the exceptional restlessness and anxiety that afternoon. Cats sense what&rsquo;s going on; why shouldn&rsquo;t I?</p>
+
+<p>In a dream, I go to the nursing home to visit my grandmother. She&rsquo;s angry about having been moved to another unit. Then I&rsquo;m told that she&rsquo;s dead, though she&rsquo;s sitting silently at a lunchroom table with me and two elderly women. Waking, I expect a message on my answering machine, but no &mdash; it was just a dream. Let that be a lesson.</p>
+
+<p>Two hours later the nursing home calls. My grandmother&rsquo;s taken a turn for the worse; she&rsquo;s profoundly out of touch, &ldquo;there but not there&rdquo;; they&rsquo;d like to move her to another unit.</p>
+
+<p>&ldquo;Yes,&rdquo; say the Voices of Reason, &ldquo;but she&rsquo;s old; you might dream that; it could be a coincidence.&rdquo; Certainly it could.</p>
+
+<p>I can&rsquo;t help searching my old quake dream, the one in which I died, for clues about what I should do. In it, I left a bright, airy white room &mdash; the room where my boyfriend slept and practiced meditation &mdash; to be with a dear girlfriend. Her room was windowless, soft, dim, hung with patterned curtains and spreads. The room began to shake. An earthquake. As everything tumbled down on top of me, I heard a voice say, &ldquo;It&rsquo;s all on water.&rdquo; And I died, in that final, black-and-white flicker.</p>
+
+<p>The dream girlfriend&rsquo;s name was the same as my lover&rsquo;s; her curtained room reminds me of Sally&rsquo;s bedroom. My office building <em>is</em> all on water. Will personal ties trap me where death will find me?</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">A woman walking in the financial district of San Francisco comes face to face with Death, who looks surprised to see her. Horrified, the woman grabs a flight to Chicago that night and checks into a hotel. The next morning in the Loop, she encounters Death. &ldquo;But I saw you yesterday in San Francisco!&rdquo; she exclaims. &ldquo;Yes,&rdquo; says Death. &ldquo;That&rsquo;s why I looked surprised. I was supposed to meet you today in Chicago.&rdquo;</p>
+
+<p>When conversations turn to the next quake, someone always says, &ldquo;I believe that if it&rsquo;s your time, it&rsquo;s your time. If it&rsquo;s not, you won&rsquo;t be killed. So there&rsquo;s no point worrying about it.&rdquo;</p>
+
+<p>I could make myself sick turning over that self-sealing argument.</p>
+
+<p>A woman is killed in a freak accident that makes national news. She was driving her regular bus route in San Francisco when a crane fell out of the sky and crushed her. Riding to work the next morning, I read the woman&rsquo;s name in the newspaper. I knew her.</p>
+
+<p>Her vocal group has a performance scheduled for two weeks from the accident. It becomes a memorial. I join them for the evening, singing her parts. I&rsquo;m glad that I can be with these women during the rehearsals and the performance. Glad to be part of a community that mourns and sings together. How can I move away?</p>
+
+<p>After this death, I don&rsquo;t worry as much about quake danger when I drive through underpasses. Death could find me any time, anywhere. The important thing is to live the life I want to be living.</p>
+
+<p>But that doesn&rsquo;t mean I have to play dodge-ball on a shooting range. It doesn&rsquo;t mean I shouldn&rsquo;t move.</p>
+
+<p>I go to a party, determined to dance death out of my head for a few hours at least. I run into a man I haven&rsquo;t seen in years.</p>
+
+<p>&ldquo;Have you heard about Ann?&rdquo; he asks.</p>
+
+<p>I&rsquo;ve known her, though not well, as long as I&rsquo;ve been here. It&rsquo;s good to run into her at concerts or out for a walk. To me, she&rsquo;s someone who successfully, admirably, negotiated a difficult midlife turnabout.</p>
+
+<p>&ldquo;She took her own life.&rdquo;</p>
+
+<p>&nbsp;</p>
+
+<p>There have been times before when I seemed to be surrounded, pursued by death. In the old days, I would have quickly arranged events into omens, and found teachings contrived by the universe just for me. I won&rsquo;t do that now. I won&rsquo;t reduce other people&rsquo;s lives or deaths to my private drama. It doesn&rsquo;t have to &ldquo;mean&rdquo; anything. Everyone dies &mdash; that&rsquo;s life.</p>
+
+<p>But I&rsquo;m scared.</p>
+
+<p>I consult my cabinet of friends, my privy council. What do they make of these correspondences between inner and outer, dreams and events?</p>
+
+<p>&ldquo;That happens sometimes,&rdquo; Sally says. &ldquo;It happened when you had MS.&rdquo;</p>
+
+<p>&ldquo;So what does this mean? That I&rsquo;m going to get squished like a bug?&rdquo;</p>
+
+<p>Alyx says, &ldquo;You&rsquo;re responding to the death and danger that <em>are</em> around you.&rdquo;</p>
+
+<p>I call my friend Ben in Los Angeles, expecting him to put my excessive fears into perspective.</p>
+
+<p>&ldquo;I don&rsquo;t want to talk you out of your fear,&rdquo; he says. &ldquo;The earth isn&rsquo;t stable. The danger is real. Maybe it would be a good idea to move. But you could try not to look at this psychic openness as necessarily scary or bad. You could see it as interesting.&rdquo;</p>
+
+<p>&ldquo;Oh, it&rsquo;s interesting, all right,&rdquo; I complain. &ldquo;But why can&rsquo;t I dream that I get a present, or something nice happens?&rdquo;</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">Ben sends me a totem, a juju doll from New Orleans. Made by artists rather than shamans, she&rsquo;s obviously intended for amusement and decoration. Her body is black and silver cloth, stuffed full like a sausage. There&rsquo;s a gorilla dangling from one arm, a tiny plastic clothes hanger on the other, a strip of film sewn along her side. Sewn to her chest is a plastic fortune-cookie message: <em>be persistent and you will win</em>.</p>
+
+<p>She&rsquo;s funny but she has presence. I can use her, with a few amendments. Turn the plastic baby right-side up and sew it with pink thread instead of black; put a feather in her hank of gray hair; cover that absurd tie clip with a gold leaf; give her a glittering silver pencil for a staff. She lumbers indomitably onward, schlepping people, plants, and plastic. She keeps moving. When strength and courage fail, <em>be persistent and you will win.</em></p>
+
+<p>I can see the juju from my bed. Lying there lethargic, I repeat her message, rouse myself, go to my computer, and write.</p>
+
+<p>&nbsp;</p>
+
+<p>It&rsquo;s a fixture of life with noncrippling MS that people say, &ldquo;But you look so well!&rdquo; Everything&rsquo;s been wrenched from inside. Yet it appears &mdash; in so many ways, it is &mdash; the same.</p>
+
+<p>The day after the quake, Sally and I ate breakfast in a restaurant. It was an unexpected vacation day: the air warm, sky sweet blue, undamaged neighborhood placid. We rushed to snap up copies of a newspaper as they were delivered to a stand outside. The headline looked so garish, so incongruous, screaming: HUNDREDS DEAD IN HUGE QUAKE.</p>
+
+<p>At night I wake suddenly. Was that an aftershock? Did I dream it? No &mdash; the element inside the quartz heater at the foot of my bed is still rattling. I rely on it to tell me that something has really happened outside my body and mind.</p>
+
+<p>Ironically, T-shirts had touted this year&rsquo;s World Series as <em>The Quake Of &rsquo;89</em>. In the days following the quake, enterprising vendors stamped <em>I Survived</em> in black above the original logo. Three weeks later, there&rsquo;s a new T-shirt: <em>Thank you for not sharing where you were during the earthquake.</em></p>
+
+<p>Soon it appears that most people, having laid in their flashlights and emergency food supplies, are returning to normal. I feel alone with my fears and dilemmas. No one else I know is thinking of moving. My therapist friends are overloaded from listening to their clients&rsquo; experiences. Who wants to hear this? I feel like a contemporary Cassandra, bearing unwelcome word of the worst-case scenario.</p>
+
+<p>I have to remember that I&rsquo;m not willing this. And it&rsquo;s not all in my head.</p>
+
+<p>&nbsp;</p>
+
+<p>I picture myself as an immigrant, like my grandfather who left Russia early in the century, or those who fled deceptively civilized Vienna or Amsterdam before the Nazis closed the escape routes. How did they make the choice? Did others think those who left first &mdash; who gambled that it would be better to abandon everything and start again &mdash; did people think they were crazy, alarmists? They left behind everything familiar, all the places that held their memories. They made new lives in a country where they couldn&rsquo;t even speak or write; it was like cutting out your tongue.</p>
+
+<p>Should I be making plans to move? Or cultivating courage and equanimity so that I can stay? I feel inclined to ask the <em>I Ching</em>; I want to hear its balanced, fearless voice, a voice that has seen empires rise and fall. Go? Stay? I throw the three coins. It repeats the same answer for each question:</p>
+
+<p><em>You must allow the object of your inquiry to influence you. Through a willing submission to the time and the situation, you will gain insight and perspective. You can then determine what is possible and harmonious within the current circumstances of your life. </em></p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">When waking life is dreamlike, when inner and outer worlds mingle and the scent of meaning hangs in the air, it&rsquo;s tempting to clutch at unambiguous answers. I want to know now, once and for all, whether I&rsquo;m meant to move or stay. But I bring myself back, discipline myself to rest uneasily, unknowingly, in Mystery. Submit to the time.</p>
+
+<p>&nbsp;</p>
+
+<p>For several weeks, I haven&rsquo;t dared to talk with anyone except Sally. Now I tell Alyx the depth of my fears &mdash; I feel crazed because no one else seems to be worrying about this as much as I am; I&rsquo;m frozen between moving and staying.</p>
+
+<p>&ldquo;I know there will be another earthquake sometime, and I know it will be bad,&rdquo; she says. With her usual pragmatic precision, she begins to describe in detail just how bad it will be. When I ask her to stop, her face reddens, tears brim.</p>
+
+<p>&ldquo;I don&rsquo;t want to be here when that happens,&rdquo; she says. &ldquo;But I&rsquo;ve lived here since I was seventeen. Especially as a single woman, I can&rsquo;t leave my friends. My life is here.&rdquo;</p>
+
+<p>My shoulders drop, I breathe more freely. Perhaps now the paralysis can begin to melt.</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">I ask for a helping dream.</p>
+
+<p>I&rsquo;m looking uphill at a steep lawn; there&rsquo;s a tall, white stucco house at the top. In front of it stands an old, bald, squarely built Spanish man in a black suit, holding a straight chair. I&rsquo;m to follow him down a steep path behind the house to the ocean. Before I can join him, a pale glassy wave rises alongside the house, crests over and down the grass on top of me. I&rsquo;m flat on my stomach beneath the weight of water. It recedes just as I fear I can&rsquo;t hold my breath any longer, and I&rsquo;m left lying in the short, sparkling wet grass. I feel foolish, caught being afraid. I look up at the man with an embarrassed smile &mdash; surely we won&rsquo;t be walking down there now?</p>
+
+<p>But he has already turned away. He&rsquo;s walking down the path toward the ocean, carrying his chair in front of him. I follow. He never speaks or looks at me. Tall waves break over us. I lie down and wait for each to pass, barely get to my feet before the next is upon me.</p>
+
+<p>I notice that he doesn&rsquo;t lie down when the waves come, but walks along the side of the house, turning to face the wall as the wave breaks, turning toward the sea and continuing to walk as soon as it starts to recede. It gives him more time to walk before the next one hits. I do this with him. Face the wall, let the wave break at my back, walk toward the ocean. He&rsquo;s carrying his chair.</p>
+
+<p>Waking, I first feel that I&rsquo;ve learned something useful, a way to live in a dangerous situation: stay on your feet and keep going. Arguing thoughts cut in: what is he going to do, set his chair down on the sand? Continue straight into the water? Why don&rsquo;t I have a chair? Because I won&rsquo;t need one? Do I <em>want</em> to learn to live with this?</p>
+
+<p>I go back to that first feeling, letting the waves break over me, then moving on. As long as I&rsquo;m afraid of death, I&rsquo;ll never have any peace. But I don&rsquo;t want to die now. I don&rsquo;t want to die now. I don&rsquo;t want to die now.</p>
+
+<p>Before I was diagnosed with MS, when I lay filled with the seductive heaviness of its pervasive fatigue, I felt for the first time in my life that it might not be hard to die. &ldquo;Turning into mud&rdquo; &mdash; the phrase went through my head, a lulling refrain. &ldquo;I&rsquo;m turning into mud.&rdquo; Coming from earth, a living, breathing piece of earth, then quiet earth again.</p>
+
+<p>During the months of diagnostic tests, I felt that I was moving toward an expected fate, a familiar presence. Sometimes I approached it calmly. At other times I was terrified, had nightmares, sleeping and waking, in which I fought for my life. And when the diagnosis came, I did everything I knew or could learn to do to help myself live.</p>
+
+<p>Is it wisdom or folly to follow the man with the chair down the path to the ocean? Mature, graceful acceptance of the inevitable? Or stupid, sheeplike passivity?</p>
+
+<p>I wrestle; surrender. Wrestle again. A wall of water rises, crests, breaks heavily over me. This is a wave. I go on.</p>
+														</div>
+
+
+				
+<div class="sharing-bar article-sharing">
+	<div class="sharing-bar-first">
+		<a href="javascript:window.print();" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-printer"></use></svg> <span>Print</span></a>
+	</div>
+
+	<div class="sharing-bar-second">
+		<span class="alt-ff xsmall">Share:</span>
+		<a href="https://www.facebook.com/sharer/sharer.php?u=https://www.thesunmagazine.org/issues/187/quaking" target="_blank" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-facebook"></use></svg> <span>Facebook</span></a>
+		<a href="https://twitter.com/share?url=https://www.thesunmagazine.org/issues/187/quaking&amp;via=thesunmagazine" target="_blank" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-twitter"></use></svg> <span>Twitter</span></a>
+		<a href="#" class="b b-1 b-padding-tight xsmall js-toggle-mail-form"><svg><use xlink:href="#i-email"></use></svg> <span>Email</span></a>
+	</div>
+</div>
+
+<div class="send-to-friend-message-container">
+	<div class="alert alert-success xsmall">Thank you for sharing <em>The Sun</em>.</div>
+</div>
+
+<form method="post" action="/ajax/articles/send-to-a-friend" class="form fill-grey send-to-friend-form">
+		<input type="hidden" id="form_url" name="form[url]" value="https://www.thesunmagazine.org/issues/187/quaking" />
+
+	<ul class="form-fields">
+		<li><label for="form_sender_name"><span class="label-text">Your Full Name</span><span class="label-asterisk">*</span></label><input type="text" id="form_sender_name" name="form[sender_name]" required="required" /></li>
+		<li><label for="form_sender_email"><span class="label-text">Your Email Address</span><span class="label-asterisk">*</span></label><input type="email" id="form_sender_email" name="form[sender_email]" required="required" /></li>
+		<li><label for="form_recipient_name"><span class="label-text">Friend’s Name</span><span class="label-asterisk">*</span></label><input type="text" id="form_recipient_name" name="form[recipient_name]" required="required" /></li>
+		<li><label for="form_recipient_email"><span class="label-text">Friend’s Email Address</span><span class="label-asterisk">*</span></label><input type="email" id="form_recipient_email" name="form[recipient_email]" required="required" /></li>
+		<li><label for="form_message"><span class="label-text">Personalized Message</span></label><textarea id="form_message" name="form[message]"></textarea></li>
+	</ul>
+<div class="send-to-friend-message-container">
+	<div class="alert alert-error xsmall">Something went wrong. Please try again.</div>
+</div>
+
+<div class="g-recaptcha" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs"></div>
+<div class="form-actions"><button type="submit" id="form_submit" name="form[submit]"	class="form-actions-b-primary b b-1 b-loading xsmall"><svg><use xlink:href="#i-loading"></use></svg>
+		Submit
+	</button></div>
+<input type="hidden" id="form__token" name="form[_token]" value="346f4798ff55d41c81b9fa78aeff3525c6ca284c" /></form>
+
+<br>
+
+
+
+										<footer class="article-contributor contributors">
+									
+
+<div class="block-contributor">
+		
+
+		<div class="block-contributor-content">
+		<div class="block-contributor-bio small">
+			<p><span class="smallcaps"><strong>Andrea Reshem</strong></span> has moved from the Land of Ten Thousand Quakes to the Land of Ten Thousand Lakes, where she continues to write and dream. She lives in Minneapolis, Minnesota.</p><a href="/contributors/andrea-reshem" class="block-contributor-link link-alt small">More From This Contributor&nbsp;&#9656;</a>		</div>
+	</div>
+</div>
+
+							</footer>
+						</article>
+
+
+				    <div class="paywall-subscription block-product">
+			<div class="columns">
+			<div class="paywall-banner span3 cta cta-l1">
+				<div class="cta-intro">
+					<h5 class="cta-title alt-ff">One Free Selection Left </h5>
+					<p class="cta-text xsmall"><a class="link-alt" href="https://www.thesunmagazine.org/subscriber/login" data-label="Already a subscriber?">Already a subscriber? Sign in ▸</a><br><br>Read two free selections from <em>The Sun</em> each month.</p>
+				</div>
+			</div>
+			<div class="paywall-banner span9 note note-1 text-center">
+				<h4 class="cta-title alt-ff">Subscribe to <em>The Sun</em> and save 45%</h4>
+				<p class="cta-text xsmall">Subscribers get full access to the current issue and more than 40 years of archives.</p>
+				<a class="b b-1 xsmall cta-trigger"  href="/subscribe1" data-label="Subscribe" data-ctatitle="Subscribe">Subscribe</a>
+			</div>
+		</div>
+
+		<div class="columns">
+			<div class="span12 paywall-cta-bottom">
+				<p>
+					<span class="cta-title-issue">Buy the June 1991 issue for $5.95</span>
+					<span class="xsmall">Order now to get instant access to this issue, and we’ll also send you a print copy.</span>
+					<a class="b b-5 xsmall corona"  href="#" data-product-type="issues" data-id="187" data-label="Order Now ▸">Order Now ▸</a>
+				</p>
+			</div>
+		</div>
+
+		
+
+</div>
+	
+	
+	
+	<div class="spacer"></div>
+	
+
+
+
+		
+		<div class="article-correspondence-cta">
+		<div class="cta cta-l1" data-url="https://www.thesunmagazine.org/letter-to-the-editor">
+			<div class="cta-intro">
+				<h5 class="cta-title alt-ff">Thinking about writing us a letter?</h5>
+				<p class="cta-text">Give in to the temptation. We love getting mail. <br><span class="xsmall">(Of course, we reserve the right to edit.)</span></p>
+			</div>
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" class="cta-button b b-4 b-padding-tight small" data-label="Write Us A Letter!">Write Us A Letter!</a>
+		</div>
+	</div>
+	
+
+			<div class="article-also layout-item-large full-bar fill-grey-mid-light">
+		<div class="layout-item-intro">
+			<h2>Also In This Issue</h2>
+			<a href="/issues/187" class="xsmall link-alt">June 1991&nbsp;&#9656;</a>
+		</div>
+		<div class="issue-articles-l1">
+			<div class="issue-articles-l1-content1">
+				
+<div class="cover cover-l1 block-product">
+	<div>
+							<a href="/issues/187" class="cover-thumb">
+				
+				<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 546 728'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/273x364r/import/issue/187.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/546x728r/import/issue/187.jpg
+	 alt=""
+	 class="lazy">
+
+			</a>
+		
+
+													<!-- <a href="/issues/187" data-product-type="issues" data-id="187" data-role="order" class="js-buy-single corona cover-button b b-1 b-full xsmall" data-label="Buy This Issue &#9656;">
+								Buy This Issue&nbsp;&#9656;
+			</a> -->
+			<a href="/issues/187" data-product-type="issues" data-id="187" class="js-buy-single corona cover-button b b-1 b-full xsmall" data-label="Buy This Issue &#9656;">
+								Buy This Issue&nbsp;&#9656;
+			</a>
+					
+					</div>
+</div>
+			</div>
+			<div class="issue-articles-l1-content2">
+				<div class="articles-l3">
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/quotations">Quotations</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/187/sunbeams-issue-187">Sunbeams</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/poetry">Poetry</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/187/men">Men</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/lawrence-bullock">Lawrence Bullock</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/fiction">Fiction</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/187/a-meeting">A Meeting</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/rafael-weinstein">Rafael Weinstein</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/fundraising-appeal">Fundraising Appeal</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/187/friend-of-the-sun-issue-187">Friend Of <em>The Sun</em></a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/sy-safransky">Sy Safransky</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+									</div>
+			</div>
+		</div>
+	</div>
+	
+
+			<div class="article-related layout-item-large full-bar fill-pattern-light">
+		<div class="layout-item-intro">
+			<h2>Related Selections</h2>
+			<ul class="list-inline list-inline-tight"><li><a href="/topics/fear" class="xsmall link-alt link-text">Fear</a></li><li><a href="/topics/death" class="xsmall link-alt link-text">Death</a></li><li><a href="/topics/identity" class="xsmall link-alt link-text">Identity</a></li></ul>		</div>
+
+		<div class="articles-l2">
+							
+
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/503/as-if-to-say">As If To Say</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/michael-torres">Michael Torres</a></li><li><a href="/issues/503">November 2017</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/503" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 561 728'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/140x182r/2017-10/1509110050_503.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/281x364r/2017-10/1509110050_503.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/fiction">Fiction</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/234/annies-hair">Annie’s Hair</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/diana-maria-castro">Diana Maria Castro</a></li><li><a href="/issues/234">June 1995</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/234" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 725'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/141x182r/import/issue/234.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/281x364r/import/issue/234.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/111/parting-the-veil">Parting The Veil</a></h3>
+					<p class="block-content-subtitle subtitle">A New Approach To Biology</p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/rupert-sheldrake">Rupert Sheldrake</a></li><li><a href="/issues/111">February 1985</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/111" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 725'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/141x182r/import/issue/111.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/281x364r/import/issue/111.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/readers-write">Readers Write</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/89/good-marriages">Good Marriages</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/our-readers">Our Readers</a></li><li><a href="/issues/89">April 1983</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/89" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 725'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/141x182r/import/issue/089.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/281x364r/import/issue/089.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+					</div>
+	</div>
+	
+	
+					<form id="newsletterForm" method="post" action="https://www.thesunmagazine.org/newsletter" data-url-send="https://www.thesunmagazine.org/newsletter" class="form form-newsletter fill-grey" enctype="multipart/form-data" target="_blank">
+
+
+
+		<div class="form-newsletter-intro">
+			<h3 class="alt-ff large">Sign Up For Our Newsletter</h3>
+			<p>We’ll let you know about new website selections, upcoming events, special offers, and more.</p>
+		</div>
+
+		<ul class="form-newsletter-fields form-fields form-fields-inline">
+			<li>
+				<input name="name" type="text" maxlength="500" id="name" placeholder="Your Name">
+			</li>
+			<li>
+				<input name="email" type="text" maxlength="500" id="email" placeholder="Your E-mail">
+			</li>
+
+			<li class="form-fields-inline-button">
+				<button disabled="disabled" class="form-newsletter-send b b-4 b-padding-tight b-loading g-recaptcha" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs" data-callback="recaptcha_callback" name="SubmitButton" id="SubmitButton">
+					<svg><use xlink:href="#i-loading"></use></svg>
+					Sign&nbsp;Up
+				</button>
+			</li>
+		</ul>
+	</form>
+	<script id="hiddenlpsubmitdiv" style="display: none;"></script>
+
+
+
+<footer class="footer brand-grey-dark">
+			<div class="footer-first">
+		<h3 class="footer-tagline">Independent, Reader-Supported Publishing</h3>
+		<p class="footer-desc">In each issue of <em>The Sun</em> you’ll find some of the most radically intimate and socially conscious writing being published today. In an age of media conglomerates, we’re something of an oddity: an ad-free, independent, reader-supported magazine.</p>
+		<ul class="footer-nav list-inline-border xsmall">
+			
+		<li class=" first">
+			<a href="https://www.thesunmagazine.org/about" 	   class=''>
+	   About <em>the Sun</em>	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/staff" 	   class=''>
+	   Staff	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/find-the-sun" 	   class=''>
+	   Find <em>The Sun</em>&nbsp;&nbsp;in a Store Near You	</a>
+		
+	</li>
+
+
+		</ul>
+	</div>
+	
+		<div class="footer-second">
+		<ul class="footer-second-social list-inline">
+			<li><a href="https://www.facebook.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-facebook"></use></svg></span> Like Us</a></li>
+			<li><a href="https://twitter.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-twitter"></use></svg></span> Follow Us</a></li>
+			<li><a href="https://instagram.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-instagram"></use></svg></span> Take a Look</a></li>
+		</ul>
+
+		<div class="footer-second-content">
+			<ul class="footer-nav list-inline-border xsmall">
+				
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/" 	   class='current '>
+	   Home	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/privacy-policy" 	   class=''>
+	   Privacy Policy	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/terms-of-use" 	   class=''>
+	   Terms of Use	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/site-map" 	   class=''>
+	   Site Map	</a>
+		
+	</li>
+
+
+			</ul>
+			<p class="footer-copyright xxsmall">Copyright &copy; 1974–2020 <em>The Sun</em>. All rights reserved.</p>
+		</div>
+	</div>
+</footer>
+
+
+
+<div class="offset-nav">
+	<ul>
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/read" 	   class='current '>
+	   Read	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/issues/current" 	   class=''>
+	   Current Issue	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/archives" 	   class=''>
+	   Archives	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/featured" 	   class=''>
+	   Featured Selections	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/topics" 	   class=''>
+	   Browse Topics	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/sections" 	   class=''>
+	   Browse Sections	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/connect" 	   class=''>
+	   Connect	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/news" 	   class=''>
+	   News from <em>The Sun</em>	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" 	   class=''>
+	   Write a Letter to the Editor	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/discussion-groups" 	   class=''>
+	   Discussion & Writing Groups	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/make-a-suggestion" 	   class=''>
+	   Make a Suggestion	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/submit" 	   class=''>
+	   Submit	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/shop" 	   class=''>
+	   Shop	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/giftsub" 	   class=''>
+	   Gift Subscriptions	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/issues" 	   class=''>
+	   Issues	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+											
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/donatemenu" 	   class='highlight'>
+	   Donate	</a>
+		
+	</li>
+
+		<li class=" last">
+														<a href="/SubscribeNav1" 					   class=''>
+						Subscribe					</a>
+									
+	</li>
+
+
+					<li>
+				<a href="https://www.thesunmagazine.org/shop/cart">Cart ( <span class="cart-item-count">  0  </span>)</a>
+			</li>
+			<li><a href="https://www.thesunmagazine.org/subscriber/login" class="link-header-logout link-alt">Sign In</a></li>
+			</ul>
+	<ul>
+		<li class=" first">
+			<a href="https://www.thesunmagazine.org/about" 	   class=''>
+	   About <em>the Sun</em>	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/staff" 	   class=''>
+	   Staff	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/find-the-sun" 	   class=''>
+	   Find <em>The Sun</em>&nbsp;&nbsp;in a Store Near You	</a>
+		
+	</li>
+
+</ul>
+	<ul>
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/" 	   class='current '>
+	   Home	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/privacy-policy" 	   class=''>
+	   Privacy Policy	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/terms-of-use" 	   class=''>
+	   Terms of Use	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/site-map" 	   class=''>
+	   Site Map	</a>
+		
+	</li>
+
+</ul>
+</div>
+
+<div id="buy-popup-message" class="buy-popup mfp-hide white-popup white-popup-block">
+	<a class="popup-modal-dismiss" href="#"></a>
+	<h5>Due to fulfillment challenges related to the novel coronavirus, print copies are temporarily unavailable for individual sale. We are offering free PDFs until we are able to resume print sales.</h5>
+	<p>Enter your e-mail address below to download this issue.</p>
+	<form method="post" id="download-single" action="https://www.thesunmagazine.org/issue/pdfFree/531.pdf">
+		<label for="email"><span class="label-text">E-mail</span><span class="label-asterisk">*</span></label>
+		<input class="buy-single-email" id="email" type="email" name="email">
+		<button type="send" class="form-buy-issue-send b b-3 b-padding-tight b-loading">Send</button>
+		<button class="form-buy-issue-download b b-3 b-padding-tight b-loading">Download pdf</button>
+		<button type="send" class="popup-modal-dismiss b b-2 b-padding-tight b-loading">Close</button>
+		<div class="g-recaptcha" style="text-align: center" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs"></div>
+
+	</form>
+</div>
+
+			<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/plugins.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/site.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/newsletter.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/js/articles.js"></script>
+		</div>
+		</div>
+
+				<script>
+		(function (doc) {
+			var scripts = doc.getElementsByTagName('script');
+			var script = scripts[scripts.length - 1];
+			var xhr = new XMLHttpRequest();
+			xhr.onload = function () {
+				var div = doc.createElement('div');
+				div.innerHTML = this.responseText;
+				div.style.display = 'none';
+				script.parentNode.insertBefore(div, script);
+			}
+			xhr.open('get', '/theme/thesun//assets/build/img/sprite/sprite.svg', true);
+			xhr.send();
+		})(document);
+
+
+
+		</script>
+
+		<script>
+			// Submit function
+            function recaptcha_callback() {
+						var getUrl = $('.form-newsletter').data( "url-send" ),
+							getName = $('input#name').val(),
+							getEmail = $('input#email').val();
+						$.ajax({
+								type: "POST",
+								url: getUrl,
+								data: {
+									name: getName,
+									email: getEmail,
+									grecaptcharesponse: grecaptcha.getResponse()
+								}
+							}).done(function(response) {
+								console.log(response);
+									$('.form-fields').fadeOut(800, function () {
+										$('.form-fields').empty().append('<div class="newsletter-confirm-message">Thank you for signing up to receive news from <em>The Sun</em>. Your first newsletter will arrive soon.<div>').fadeIn(800);
+									});
+							});
+			}
+
+		</script>
+
+		<script>
+			function getUrlCode() {
+				var url_string = window.location.href;
+				var url = new URL(url_string);
+				var c = url.searchParams.get('promotion\_key');
+				if (typeof c !== 'undefined' && c !== null) {
+					setCookie("promotion_code",c);
+				}
+			}
+
+			function setCookie(cname, cvalue) {
+				document.cookie = cname + "=" + cvalue + ";" + "path=/";
+			}
+
+			function getCookie(cname) {
+				var name = cname + "=";
+				var decodedCookie = decodeURIComponent(document.cookie);
+				var ca = decodedCookie.split(';');
+				for(var i = 0; i <ca.length; i++) {
+					var c = ca[i];
+					while (c.charAt(0) == ' ') {
+						c = c.substring(1);
+					}
+					if (c.indexOf(name) == 0) {
+						return c.substring(name.length, c.length);
+					}
+				}
+				return "";
+			}
+			window.addEventListener( "load", getUrlCode );
+		</script>
+
+
+	</body>
+</html>

@@ -1,0 +1,1312 @@
+
+<!DOCTYPE html>
+<html class="no-js" lang="en-US">
+	<head>
+		<title>Acrostic - The Sun Magazine</title>
+
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		
+		<meta name="viewport" content="width=device-width, minimum-scale=1.0">
+
+		<link rel="dns-prefetch" href="//ajax.googleapis.com">
+		<link rel="dns-prefetch" href="//use.typekit.net">
+		
+		<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/modernizr.js"></script>
+		<script src="https://www.google.com/recaptcha/api.js"
+				async defer>
+		</script>
+
+		<script>(function(d) { var config = { kitId: 'kzw7ebk', scriptTimeout: 3000, async: true }, h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s) })(document);</script>
+
+
+				
+		<link rel="apple-touch-icon" sizes="57x57" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-57x57.png?v=2016">
+		<link rel="apple-touch-icon" sizes="60x60" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-60x60.png?v=2016">
+		<link rel="apple-touch-icon" sizes="72x72" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-72x72.png?v=2016">
+		<link rel="apple-touch-icon" sizes="76x76" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-76x76.png?v=2016">
+		<link rel="apple-touch-icon" sizes="114x114" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-114x114.png?v=2016">
+		<link rel="apple-touch-icon" sizes="120x120" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-120x120.png?v=2016">
+		<link rel="apple-touch-icon" sizes="144x144" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-144x144.png?v=2016">
+		<link rel="apple-touch-icon" sizes="152x152" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-152x152.png?v=2016">
+		<link rel="apple-touch-icon" sizes="180x180" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-180x180.png?v=2016">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-32x32.png?v=2016" sizes="32x32">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/android-chrome-192x192.png?v=2016" sizes="192x192">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-96x96.png?v=2016" sizes="96x96">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-16x16.png?v=2016" sizes="16x16">
+		<link rel="mask-icon" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/safari-pinned-tab.svg?v=2016" color="#444444">
+		<link rel="shortcut icon" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon.ico?v=2016">
+		<meta name="apple-mobile-web-app-title" content="The Sun Magazine">
+		<meta name="application-name" content="The Sun Magazine">
+		<meta name="msapplication-TileColor" content="#fcc330">
+		<meta name="msapplication-TileImage" content="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/mstile-144x144.png?v=2016">
+		<meta name="theme-color" content="#ffffff">
+
+				<link rel="stylesheet" type="text/css" href="https://cloud.typography.com/6578674/659928/css/fonts.css" />
+		<link rel="stylesheet" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/css/style.css">
+
+																		<meta property="og:site_name" content="The Sun Magazine">
+		<meta property="og:type" content="article">
+		<meta property="og:url" content="https://www.thesunmagazine.org/issues/274/acrostic">
+		<meta property="og:image" content="http://www.thesunmagazine.org/files/import/issue/274.jpg">
+		<meta property="og:title" content="Acrostic - The Sun Magazine">
+		<meta property="og:description" content="The prison van passed through the ratty grounds, by the crumbling remains of the 1820s cellblocks and a burnt-out station wagon. The afternoon&amp;rsquo;s thick heat had turned into a yellow evening haze. Bright razor wire had curled like Christmas tinsel along walls, culverts, corners of buildings, up power poles. The Hudson River glittered at the bottom of the hill. I&amp;rsquo;d been told the inmates were expecting a new teacher. I&amp;rsquo;d be &amp;ldquo;obvious&amp;rdquo; &amp;mdash; my age and sex and suburban neatness all crowded into one word. The prison buildings sat stubborn, old, and impenetrable. I still hadn&amp;rsquo;t seen an inmate.">
+		<meta property="fb:app_id" content="158741778010551">
+
+						<link rel="image_src" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.comhttp://www.thesunmagazine.org/files/import/issue/274.jpg">
+
+												<meta name="twitter:card" content="summary">
+		<meta name="twitter:title" content="Acrostic - The Sun Magazine">
+		<meta name="twitter:description" content="The prison van passed through the ratty grounds, by the crumbling remains of the 1820s cellblocks and a burnt-out station wagon. The afternoon&amp;rsquo;s thick heat had turned into a yellow evening haze. Bright razor wire had curled like Christmas tinsel along walls, culverts, corners of buildings, up power poles. The Hudson River glittered at the bottom of the hill. I&amp;rsquo;d been told the inmates were expecting a new teacher. I&amp;rsquo;d be &amp;ldquo;obvious&amp;rdquo; &amp;mdash; my age and sex and suburban neatness all crowded into one word. The prison buildings sat stubborn, old, and impenetrable. I still hadn&amp;rsquo;t seen an inmate.">
+		<meta name="twitter:image" content="http://www.thesunmagazine.org/files/import/issue/274.jpg">
+		<meta name="twitter:site" content="@thesunmagazine">
+
+				<link rel="publisher" href="https://plus.google.com/113792980827145858211">
+        
+		<meta name="Description" content="The prison van passed through the ratty grounds, by the crumbling remains of the 1820s cellblocks and a burnt-out station wagon. The afternoon&amp;rsquo;s thick heat had turned into a yellow evening haze. Bright razor wire had curled like Christmas tinsel along walls, culverts, corners of buildings, up power poles. The Hudson River glittered at the bottom of the hill. I&amp;rsquo;d been told the inmates were expecting a new teacher. I&amp;rsquo;d be &amp;ldquo;obvious&amp;rdquo; &amp;mdash; my age and sex and suburban neatness all crowded into one word. The prison buildings sat stubborn, old, and impenetrable. I still hadn&amp;rsquo;t seen an inmate.">
+
+		
+		<!-- Google Tag Manager -->
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-TKBHCCG');</script>
+		<!-- End Google Tag Manager -->
+
+		<!-- Google Analytics -->
+		<script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+            ga('create', 'UA-2351127-1', 'auto');  // Replace with your property ID.
+            ga('send', 'pageview');
+            ga('require', 'ecommerce');   // Load the ecommerce plug-in.
+		</script>
+		<!-- End Google Analytics -->
+	</head>
+	<body id="">
+
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TKBHCCG"
+		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+		<header class="header" data-offset-start="80">
+		<div class="header-utilities">
+				<ul class="header-utilities-user list-inline list-inline-tight xxsmall">
+							<li>
+					<span class="header-utilities-user-intro">Already A Subscriber?</span> &nbsp;
+					<a href="https://www.thesunmagazine.org/subscriber/login" class="link-text link-alt">Sign In</a>
+				</li>
+					</ul>
+		<a href="https://www.thesunmagazine.org/shop/cart" class="header-utilities-cart  link-alt link-icon tiny">
+			<span class="i"><svg><use xlink:href="#i-cart"></use></svg></span>
+			<span class="cart-item-count">
+									0 Items
+				
+			</span>
+		</a>
+			</div>
+
+		<div class="header-bar">
+		<h1 class="header-logo logo">
+			<a href="/">
+				<img src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/img/logo-thesun.svg" class="logo-thesun" alt="The Sun Magazine">
+				<img src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/img/logo-tagline.svg" class="logo-tagline" alt="">
+			</a>
+		</h1>
+
+		<ul class="header-nav">
+			
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/read" 	   class='current '>
+	   Read	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/issues/current" 	   class=''>
+	   Current Issue	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/archives" 	   class=''>
+	   Archives	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/featured" 	   class=''>
+	   Featured Selections	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/topics" 	   class=''>
+	   Browse Topics	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/sections" 	   class=''>
+	   Browse Sections	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/connect" 	   class=''>
+	   Connect	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/news" 	   class=''>
+	   News from <em>The Sun</em>	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" 	   class=''>
+	   Write a Letter to the Editor	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/discussion-groups" 	   class=''>
+	   Discussion & Writing Groups	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/make-a-suggestion" 	   class=''>
+	   Make a Suggestion	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/submit" 	   class=''>
+	   Submit	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/shop" 	   class=''>
+	   Shop	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/giftsub" 	   class=''>
+	   Gift Subscriptions	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/issues" 	   class=''>
+	   Issues	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+											
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/donatemenu" 	   class='highlight'>
+	   Donate	</a>
+		
+	</li>
+
+		<li class=" last">
+														<a href="/SubscribeNav1" 					   class=''>
+						Subscribe					</a>
+									
+	</li>
+
+
+		</ul>
+
+		<button class="header-nav-toggle"><svg><use xlink:href="#i-menu" class="i-menu"></use><use xlink:href="#i-close" class="i-close"></use></svg></button>
+		<button class="header-search-toggle" data-form-wrapper=".header-search"><svg><use xlink:href="#i-magnifier" class="i-magnifier"></use><use xlink:href="#i-close" class="i-close"></use></svg></button>
+	</div>
+
+		<div class="header-search">
+		<div class="header-search-content">
+			<form action="https://www.thesunmagazine.org/search" class="form form-search" method="get">
+				<h2 class="alt-ff brand-link">Search Our 40 Years of Archives</h2>
+				<ul class="form-search-fields form-fields form-fields-inline">
+					<li><input type="text" name="q" value=""></li>
+					<li class="form-fields-inline-button"><button class="b b-1 b-padding-tight b-loading"><svg><use xlink:href="#i-loading"></use></svg>Search</button></li>
+				</ul>
+
+				<div class="header-search-content-shortcuts">
+					<h6 class="search-advanced alt-ff"><a class="js-handle-advanced" href="https://www.thesunmagazine.org/search?advanced=1">Advanced Search</a></h6>
+					<br>
+					<h6 class="alt-ff">Popular Pages</h6>
+					<ul class="list-inline-border list-inline-tight xxsmall"><li class=" first"><a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a></li><li class=""><a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a></li><li class=""><a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a></li><li class=""><a href="https://www.thesunmagazine.org/sections/quotations" 	   class=''>
+	   Quotations	</a></li><li class=""><a href="https://www.thesunmagazine.org/sections/readers-write" 	   class=''>
+	   Readers Write	</a></li><li class=" last"><a href="https://www.thesunmagazine.org/sections/poetry" 	   class=''>
+	   Poetry	</a></li></ul>				</div>
+			</form>
+		</div>
+	</div>
+</header>
+
+	<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+	<script type="text/javascript">
+		$(document).ready(function() {
+			$('.js-handle-advanced').on('click', function (e) {
+				e.preventDefault();
+				var getSearchValue = $('.form-search-fields input').val();
+				var getURL = $(this).attr('href');
+				var newURL = getURL + '&q=' + getSearchValue;
+				window.location.href = newURL;
+			});
+		});
+	</script>
+
+		<div class="container-hidden">
+		<div class="container">
+
+				
+	
+	<article class="article ">
+		<header class="block-content block-content-l1 block-content-center">
+						<div class="block-content-header">
+				<h6 class="b-content-section heading-square"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+				<h1 class="block-content-title">Acrostic</h1>
+
+				
+				<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/a-a-colombe">A.A. Colombe</a></li><li><a href="/issues/274">October 1998</a></li></ul>
+
+			</div>
+
+								</header>
+
+				<div class="article-body link-text-wrap">
+																		<p class="dropcap">When I first taught night school for Mercy College&rsquo;s prison program, I asked for an assignment to the women&rsquo;s prison. The college administrators apologized: &ldquo;Everyone wants the women&rsquo;s prison.&rdquo; They offered me Sing Sing instead. I thought of cartoons I&rsquo;d seen as a child, with swarthy prisoners in striped clothes, elaborate escape plots, the ubiquitous ball and chain.</p>
+
+<p>The summer-school session had been postponed a week due to an unidentified security problem. The first night of classes I arrived late, all in a sweat, and found the other teachers had gone ahead. I&rsquo;d been warned to be on time &mdash; no excuses &mdash; but got myself stuck in traffic anyway. A sullen guard pawed through my bags, whistled a tune, and double-checked for my name on his clipboard. He waved his electronic wand all around me, patted at my ankles, rested a hand at the small of my back. Then he radioed for a van so I would not have to walk across the prison grounds alone.</p>
+
+<p>To get to the van, I had to walk the length of the old administration building. The sound of locks rang along halls lit by bare bulbs and lined with rusted iron bars. Giant rings of old keys hung at the guards&rsquo; waists. At each gate a guard shouted directions &mdash; &ldquo;Stand right! Walk by!&rdquo; &mdash; complacent and edgy at once. I&rsquo;d been told that I would be an unusual sight here: a young, attractive, straight-looking white woman. I could see curiosity flit across the guards&rsquo; faces, my presence a momentary distraction on a dull, muggy evening.</p>
+
+<p>At orientation all the teachers had packed into one small, filthy hallway. A stench of nervous sweat accompanied stupid jokes &mdash; Q: &ldquo;What are you in for?&rdquo; A: &ldquo;Psychology.&rdquo; Orientation began with a security debriefing, in case anyone had any illusions about the job or the students. Some of the teachers had taught at Sing Sing for more than twenty years. Several confided to me that the older woman I&rsquo;d be replacing had gotten in some sort of trouble, a shadowy indiscretion involving the inmates.</p>
+
+<p>The prison van passed through the ratty grounds, by the crumbling remains of the 1820s cellblocks and a burnt-out station wagon. The afternoon&rsquo;s thick heat had turned into a yellow evening haze. Bright razor wire had curled like Christmas tinsel along walls, culverts, corners of buildings, up power poles. The Hudson River glittered at the bottom of the hill. I&rsquo;d been told the inmates were expecting a new teacher. I&rsquo;d be &ldquo;obvious&rdquo; &mdash; my age and sex and suburban neatness all crowded into one word. The prison buildings sat stubborn, old, and impenetrable. I still hadn&rsquo;t seen an inmate.</p>
+
+<p>I leaned forward to ask the van driver. &ldquo;You&rsquo;re sure school is in session?&rdquo;</p>
+
+<p>He nodded.</p>
+
+<p>&ldquo;Do you think students are waiting?&rdquo;</p>
+
+<p>He turned and looked at me. The rusted mesh between us was bent, as if it had been kicked hard from my side. &ldquo;I imagine they&rsquo;ve been <em>waiting</em>,&rdquo; he said.</p>
+
+<p>I entered the school building and climbed the stairs (where, I&rsquo;d been warned, there were rarely any guards). As I turned onto the long hallway of classrooms, I heard murmuring voices and sensed the presence of many people. The smell of men competed with the odor of janitorial supplies. My classroom was the first on the left, just beyond the watchman&rsquo;s desk. Windows of steel-reinforced glass ran the length of the hall. I could see my students: twenty-seven men with buzz cuts and green outfits like the ones gardeners wear. (I suddenly realized I&rsquo;d been fingerprinted by two inmates the month before, during security clearance.) Many of them were enormously pumped up. They sat in little desks, in neat rows, their gazes leveled at me. I imagined them rapaciously collecting information, details I hadn&rsquo;t meant to reveal.</p>
+
+<p>My job was to teach them about drama. For this first class, I&rsquo;d chosen a one-act Eugene Ionesco play to read and discuss, but as I reached for the doorknob I realized that the play had only female characters. What had I been thinking? A nervous tickle crept up my throat, and as I opened the door I laughed outright &mdash; unruly, embarrassed. It seemed years before I reached the desk and set my book bags on it. I sat down and put my head on the desk, unable to stop giggling. The men remained extremely still. After a short while, a guy sitting up front said politely, &ldquo;Ma&rsquo;am, are you all right?&rdquo; I straightened up and sheepishly explained the situation.</p>
+
+<p>&ldquo;Aw!&rdquo;</p>
+
+<p>&ldquo;Hell! I mean, heck!&rdquo;</p>
+
+<p>&ldquo;Hey, no <em>problema</em>, Teacher!&rdquo;</p>
+
+<p>&ldquo;I want <em>him</em> to play the mistress, and <em>I&rsquo;ll</em> play the wife.&nbsp;.&nbsp;.&nbsp;.&rdquo;</p>
+
+<p>We went to work.</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">I &rsquo;ve usually told the story that way. The account opens comically: the prisoners save my ass and are gracious about it. But I also had to read their names off a list, get a hold of myself, learn their nicknames, explain procedures. The prisoners in the back row asked me to speak up. Shouting turned out to be more cathartic for me than laughing.</p>
+
+<p>That same summer, I began hanging out in girl bars. Together, the two developments lent a surreal quality to my dull life as a graduate student. Even the most serene-looking women in the bars struck me as luminously scary, while some of the men in desks had probably killed women like that.</p>
+
+<p>My students ranged in age from men in their sixties down to teenagers, and were of all colors and sizes and shapes &mdash; men like you might see on a construction crew. But I&rsquo;d been warned: &ldquo;They will try to get you any way they can.&rdquo; Making eye contact and mustering some composure, I brought out my officially sanctioned syllabus. Could they tell how scared I was? I&rsquo;d received so many warnings, my resistance swerved toward determination: <em>I will win you over.</em></p>
+
+<p>I offered a stack of papers to the first prisoner in each row. Some had arms as big around as my waist. Several glanced at my bony little hands. They murmured, &ldquo;Thank you.&rdquo; <em>See?</em> I assured myself. <em>They pass papers just like other students.</em></p>
+
+<p>I knew they looked me up and down. I didn&rsquo;t want to see it. I&rsquo;d recently been looking at women the same way, and I noted the irony. We arranged the chairs in a circle. Some of them came up to ask me questions and stood too close, maybe testing me, to see if I&rsquo;d challenge them or move away. We read aloud and they made comments to each other that I didn&rsquo;t understand or didn&rsquo;t hear clearly, so I pretended they hadn&rsquo;t said anything.</p>
+
+<p>That night, I drove to a bar in Greenwich Village. I tried to look sharky and confident enough to follow through on my intentions. The line &ldquo;I teach at Sing Sing&rdquo; turned out to invite one of two responses: either &ldquo;Oh, how very cool!&rdquo; or &ldquo;Why would anyone want to do a thing like that?&rdquo;</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">Don&rsquo;t go thinking <em>you</em> are going to lecture <em>us</em> about &lsquo;the black experience,&rsquo;&nbsp;&rdquo; Robert said the night I brought in plays by Athol Fugard, a white South African, and August Wilson, an African American. None of them knew the playwrights, but they knew something was up when they saw the cover of Fugard&rsquo;s <em>Master Harold and the Boys</em>: a young white boy smugly regarding an older black butler. I decided to skip the talk I&rsquo;d prepared about the Harlem Renaissance, and the one about apartheid. One of the black students suggested the class should read the plays first, <em>then</em> decide if I was out of my mind. A couple of Hispanic inmates asked, &ldquo;What Latino plays are we reading?&rdquo; We weren&rsquo;t reading any, I admitted; off the top of my head, I couldn&rsquo;t even name one. A Rastafarian in back wearing a dark blue watch cap and sunglasses glanced out the hall windows every thirty seconds. During break, I asked if he was expecting someone and kidded him about the disguise. He shook his head, in no mood for jokes. &ldquo;They find me.&nbsp;.&nbsp;.&nbsp;.&rdquo;</p>
+
+<p>The following week the whole group had plenty to say about Wilson and Fugard. They argued for and against Fugard being a white guy (&ldquo;Don&rsquo;t tell us yet!&rdquo;) and about Wilson&rsquo;s view of the world (mostly &ldquo;My family is just like that&rdquo; or &ldquo;Nobody&rsquo;s family is like that.&rdquo;) The Rastafarian wasn&rsquo;t there. When I called his name no one looked up. &ldquo;Anyone seen him?&rdquo; I asked. A Black Muslim said quietly, &ldquo;He&rsquo;s gone.&rdquo;</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">Is it that I didn&rsquo;t understand men, or race, or prisons, or all three? I had a vague dread of big men behind bars, and a more definite dread of making one of my headstrong mistakes. All the prisoners had done something pretty awful in order to qualify for Sing Sing. Another teacher told me that their crimes had to have been especially violent. Yet the prisoners continued to resemble an off-duty construction crew. I wanted to know exactly how violent their crimes had been, so I could understand who I was dealing with. But I knew never to ask &mdash; you just don&rsquo;t. This leaves a powerful mystique in place. An administrator admonished: &ldquo;These guys represent the cream of the crop in this dump; imagine what depravity exists behind the fa&ccedil;ade of this school.&rdquo;</p>
+
+<p>Classes were canceled for a week during a complete lock-down. Rumor had it among the teachers that a flamethrower had been smuggled into the cellblocks piece by piece. When we returned, the inmates complained that the prison administration had locked them up for nothing, just to &ldquo;fuck with our heads.&rdquo;</p>
+
+<p>My aunt called me up angry when she heard where I was teaching. &ldquo;I know what&rsquo;s going to happen,&rdquo; she said. &ldquo;You&rsquo;re going to be one of those women who feels sorry for them and winds up falling in love with one and marrying him.&rdquo;</p>
+
+<p>I said, &ldquo;No, I won&rsquo;t.&rdquo;</p>
+
+<p>She said she felt it in her bones.</p>
+
+<p>I didn&rsquo;t think my new ideas about dating women would make her feel any better.</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">Larry never bathed and got regular comments on his smell. He didn&rsquo;t wash, he loudly explained, because it was the only way he could get some space. Larry could count on at least one empty desk in all directions. After every reading assignment, he would gesture at the books and announce, &ldquo;Aaah, these people are so <em>stupid</em>! It&rsquo;s all so obvious,&rdquo; and he&rsquo;d look around the room for agreement.</p>
+
+<p>For the first writing assignment, instead of a critical review like everyone else produced, Larry composed a vivid and violent sexual fantasy about himself acting on a nameless woman &mdash; who turned out, in the last line, to be his new teacher. At 1<span class="smallcaps"> A.M.</span> I sat on my bed staring at his handwriting, my adrenalin level rising, wanting to call a friend and ask for some assurance, but feeling too polite to wake anyone. I didn&rsquo;t sleep.</p>
+
+<p>The next day I gave the essay to the on-site college supervisor, as I had been told to do with anything &ldquo;strange.&rdquo; He said I&rsquo;d done the right thing.</p>
+
+<p>When the supervisor called Larry out of class that night, the rest of the inmates glared stonily at me. Larry returned at the break and apologized grandly, but his tone conveyed, <em>You bitch.</em> Then he hissed, &ldquo;I see you looking out there for a guard. See one?&rdquo; I mumbled that he couldn&rsquo;t make threats and expect to stay in the class. I struggled to appear impatient and unconcerned, and not to look out the hallway windows.</p>
+
+<p>Larry scowled at me for weeks. But after a while, he went back to complaining about the plays: &ldquo;They&rsquo;re all just talk &mdash; but I know it&rsquo;s not your fault,&rdquo; he told me.</p>
+
+<p>&ldquo;So you write one,&rdquo; I said.</p>
+
+<p>&ldquo;Nah,&rdquo; he said, &ldquo;nobody gets rich writing this stuff. I have better things to do.&rdquo;</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">Every night for three hours we sat in a circle and sweated, no air conditioning. The Metro North commuter trains pass right through the prison grounds in a concrete trench that runs alongside the school building. We had to stop talking whenever the trains screamed through, while fine grit dusted in the windows and settled on the old school-room furniture. When we stood up at ten o&rsquo;clock, our clothes were soaked through, and the grimy plastic chairs were wet and muddy-looking. Every night I went home and sat in a cool bath, trying to relieve the nagging pressure of teaching drama in the midst of actual human tragedy.</p>
+
+<p>All that summer I dressed as instructed, which meant horribly, hiding my body in enormously baggy clothes. I didn&rsquo;t bathe or wash my hair before work. Every night I wore the same bright pink cotton shirt, buttoned up to my neck and down around my wrists. I wore my hair in a frizzy top knot and fought the urge to paint my nails, something I&rsquo;d hadn&rsquo;t done since high school. I wanted to highlight the absurdity of being a female at Sing Sing.</p>
+
+<p>Misogyny in an all-male setting is no surprise, I suppose. Gender identity ruled: two female teachers who dressed and acted &ldquo;male&rdquo; got respect, while effeminate men were scorned. When the men read women&rsquo;s roles in class, they turned them into stereotypes, regardless of the character on the page. The word <em>girl</em> flew out of the men&rsquo;s mouths with an unhappy subtext every time. At the orientation meeting, the security chief had stopped to sneer into my face: &ldquo;If you&rsquo;re a <em>girl</em>,&rdquo; he said, &ldquo;they won&rsquo;t miss a move you make.&rdquo; True enough.</p>
+
+<p>One of the math teachers told me that the other young woman teacher &mdash; a GED instructor, also white &mdash; had been punched in the face the previous year by a student, but, rather than give up, she&rsquo;d returned that summer. She looked even more out of place than me. I invited her to have coffee after school one night. At a diner in Ossining, I listened to her talk about her religious affiliation for half an hour before I brought up the subject of being a woman at Sing Sing, and said that I&rsquo;d heard about her being slugged. &ldquo;Oh, well,&rdquo; she said. &ldquo;They&rsquo;re just a bunch of animals. They will always be animals. I can&rsquo;t let them scare me. I&rsquo;ve got a mission here.&rdquo; Her face went blank, her voice on automatic. She exuded fear.</p>
+
+<p>Lloyd &mdash; a tall, thin Middle Eastern inmate, and a good writer &mdash; told me that most of the men attended class because a college course looked good to the parole board. He assured me, however, that he understood the importance of knowledge to personal growth, and that it really didn&rsquo;t matter to him that I was a <em>girl</em>.</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">The prisoners and guards looked and talked the same, though more guards were white and fewer looked like bodybuilders. The guards appeared to be in control, but did not inspire my trust. They could scream and yell and punch and act insane &mdash; not regularly, but I saw it happen more than once. Several teachers were of the opinion that the guards were as lawless as the inmates, but simply hadn&rsquo;t been caught yet.</p>
+
+<p>I rarely saw female guards, but when I did they struck me as cornered, as if they couldn&rsquo;t understand how they&rsquo;d ended up in such a place. They seldom made eye contact. I wanted to ask them, <em>Why are you here?</em> During a security shakedown that year, a male guard told me, some female guards had been caught running a prostitution ring and been fired or relocated. As prostitutes, they looked as likely as my aunt.</p>
+
+<p>I received more disrespect from male guards than from prisoners. Walking to the school building, I flinched whenever a prison vehicle drove by &mdash; inevitably I&rsquo;d get some kind of whispered &ldquo;baby, baby&rdquo; talk from the driver. Then one night my old car wouldn&rsquo;t start. A couple of guards signing off their shift offered me a ride home, and I accepted. They drove a midnight blue Cadillac with gold fixtures and an incredible sound system, had names like Daddy D and Cat Man, and wore matching diamond pinkie rings. They were extremely polite, but when they took a route I didn&rsquo;t recognize, I turned paranoid and lied about where I lived and had them drop me off on a street in a town I didn&rsquo;t know. They wanted to wait at the curb and see me safely into the house, so I told them I had to go around to the back door, then tiptoed into someone&rsquo;s yard and waited for them to go away.</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">When class was over each night, the men walked out into a maze of hallways, their faces fiercely set. Where did they go? From the classroom windows I could see indistinct lines of men marching across an enclosed walkway over the train tracks, from one stained building to another &mdash; a sepia-toned image of industrial-age defeat.</p>
+
+<p>I wanted to know how the inmates lived. They said they cooked beans in their cells in plastic buckets, using aquarium heaters, and that sometimes the cafeteria food contained drugs. The showers were cold, short, and crowded. The infirmary was a scam, run by a select group of prisoners for their own benefit. The medical staff scared everyone. Better to build your strength and stay healthy. I tried not to stare at the huge arms and handsome faces, the odd scars and varieties of body language. In most classrooms, I began to realize, we silently agree to ignore our physical selves while we talk in great depth about troubled people in books.</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">During class we tried to communicate in Standard English. We&rsquo;d all been warned not to use any &ldquo;language.&rdquo; When I asked about prison slang, the guys looked embarrassed for me. If I said <em>damn</em> or <em>shit</em> or <em>hell</em> on purpose, to try to connect with them, they made fun of me &mdash; like I&rsquo;d never learn, a hopeless case.</p>
+
+<p>I made bizarre semantic errors. I once told them they could finish an assignment &ldquo;at home.&rdquo; They went silent. &ldquo;&nbsp;&lsquo;Home&rsquo;?&rdquo; Hector squeaked, incensed. He was a wiry, short man who looked indignant most of the time, like any minute he was going to figure out what I was trying to put over on him. &ldquo;You know when we last saw home?&rsquo;&rsquo; he demanded. I apologized, and asked what other term could I use: Cells? Cellblocks? Blocks? They flinched. Someone suggested <em>crib</em>. I flinched. We settled on &ldquo;back in the units.&rdquo;</p>
+
+<p>One night, we read aloud a short scene from a Moli&egrave;re play: two lovers meet after a long absence and declare their undying love for each other. The men howled as they read, finding much more humor in the passage than was apparent to me. When we finished reading, I asked them what was so funny.</p>
+
+<p>&ldquo;Man, there is some <em>business</em> going on here!&rdquo;</p>
+
+<p>Clearly, they explained, these &ldquo;lovers&rdquo; were lying to each other. The inmates extrapolated the plot of the whole play from the veiled speech of these two characters &mdash; less than a hundred lines.</p>
+
+<p>&ldquo;See where he says he thought about her day and night? Naw, naw. That ain&rsquo;t it. He lies.&rdquo;</p>
+
+<p>&ldquo;Right. And she saying she waited? All that fuss &mdash; she didn&rsquo;t wait five minutes.&rdquo;</p>
+
+<p>They translated the formal language of the play into prison slang, and then into the language of the classroom &mdash; my Standard English &mdash; in order to describe the farcical nature of romantic love.</p>
+
+<p>Another day we read Jonathan Swift&rsquo;s &ldquo;A Modest Proposal,&rdquo; and all of them, every single one, took it literally. They saw the dates of Swift&rsquo;s birth and death and assumed that this type of experiment &mdash; eating Irish children &mdash; would have been a strange but reasonable practice in &ldquo;the olden days.&rdquo; When I explained about satire, they fell silent.</p>
+
+<p>Finally one guy said, &ldquo;How do <em>you</em> know they didn&rsquo;t eat their children?&rdquo;</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">Some prisoners talked proudly about being fathers, and often got each other whipped up on the subject. One night, Jamall, not yet eighteen years old, brought in a picture of a new baby, his second. &ldquo;That&rsquo;s my boy!&rdquo; he said. I wanted to say, <em>What good are you doing your kids from in here? You don&rsquo;t wipe snot, fix food, hold their hands every day. You should have thought of them before .&nbsp;.&nbsp;.</em> Finally, an older guy said it for me: &ldquo;You think those are your kids? You yourself raise those kids from inside this dump?&rdquo; Everybody shut up and sulked.</p>
+
+<p>Then someone pointed out that the women <em>said</em> the kids were theirs &mdash; but how did they actually <em>know</em>?</p>
+
+<p>&ldquo;Yeah, that&rsquo;s right.&rdquo;</p>
+
+<p>&ldquo;Damn straight.&rdquo;</p>
+
+<p>The older guy shook his head.</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">When the summer ended, I stayed on at Sing Sing. During the regular school year I taught day classes and walked in and out of the prison alone. I had to shout up to a guard in one of the gun towers to signal another guard in the vehicle yard to open the huge iron gate and let me slip in and out. In the morning, I walked about a quarter mile across the prison grounds, over the tracks, past the exercise yard with the TV in one corner roofed by a sheet of plywood. Elements of the landscape loomed, acutely still and silent, as if caught outside of time &mdash; birds, weeds, rocks, a mangy cat picking its way through the razor wire one day.</p>
+
+<p>Day classes were more informal, the rooms cooler, sometimes almost freezing. I went home that fall for a family emergency, and when I returned the prisoners asked, &ldquo;How was Oregon? Everybody OK?&rdquo; I&rsquo;d left so fast I hadn&rsquo;t even had time to tell my supervisor that &ldquo;home&rdquo; meant Oregon. &ldquo;How&rsquo;s your mother?&rdquo; asked a man sitting right next to me. He winked. I struggled to hide my alarm and appear mildly amused. Some of them backed off. Others asked more questions, seeming gleeful at cracks in my composure. I said they already knew enough.</p>
+
+<p>How worried should I be? A couple of inmates worked in the on-site college supervisor&rsquo;s office. The prisoners said they had access to phones and computers and hinted that they could get just about anything they wanted through an intricate system of deal-making with the guards. A guy from Cuba who claimed to be a political prisoner assured me that I had no idea of the true power structure in Sing Sing, and I believed him.</p>
+
+<p>My usual showing-up-naked-in-class anxiety dreams were now layered with all manner of strange bodily violence. I felt the daytime students leering at me more openly. I didn&rsquo;t know how to handle the tension except by trying to ignore it, as women are so often required to do. Before I went to bed, if I had to teach at Sing Sing the next day, I drank a glass of wine to put myself to sleep, and hoped to pass blindly under or over my dreams.</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">Don&rsquo;t ever turn your back on the inmates,&rdquo; they warned us each semester at orientation. I&rsquo;d always been told never to turn my back in <em>any</em> classroom situation &mdash; virtually impossible, I&rsquo;ve discovered. Generally, facing forward means you are available, while turning your back implies disrespect. But always facing forward also implies fear of what students might do when your back is turned. At Sing Sing I mostly sat in a chair.</p>
+
+<p>Hector always approached me after class to be sure he&rsquo;d understood the discussion and the assignment for our next meeting. He wanted me to look at him while we talked. If I handled books and papers or turned away, he&rsquo;d get fidgety and leave irritated. If I gave him my full attention, however, we might end up having a real conversation, and he&rsquo;d go away happy. <em>How childish,</em> I thought. Then I realized, <em>How human.</em></p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">People often ask me what the prisoners were like. I say they were like regular people whose lives had gone terribly wrong. They&rsquo;d had some extremely bad moments, and getting perspective on those moments was tough or simply impossible for them. The cracks showed. A lot of the men felt they&rsquo;d never done anything wrong, while much wrong had been done to <em>them</em>.</p>
+
+<p>People are not their worst moments. I liked almost all of the prisoners. When I say this, eyebrows are raised. I try to describe what kind of students they were: smart, clever, attentive, engaged. If this had to do with my being female, then I consider the advantage put to good use. Much of what I might say about Sing Sing is too easy (it&rsquo;s dirty and depressing), or too predictable (the system is unfair), or too redundant (our society certainly has a problem here). &ldquo;They were the most rewarding classes I ever taught,&rdquo; I say, but it sounds a bit patronizing.</p>
+
+<p>The recidivism rate used to be astoundingly low for New York State inmates who attended college classes &mdash; this was one of the reasons I chose to participate in the program. But recent federal regulations have effectively ended funding for prison college courses, and Mercy College no longer has a program at Sing Sing.</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">I only heard three specific descriptions of what anyone had been convicted of:</p>
+
+<p>(1) Larry walked up to Jamall that first summer and said, &ldquo;I heard you got pissed off and shot him nine times in the head, point-blank.&rdquo; Flustered, Jamall denied it and waved Larry off.</p>
+
+<p>(2) Larry told me he&rsquo;d been sent back to Sing Sing for violating parole. The police had found a missing rental car in his front yard. &ldquo;Would I have parked the stupid car in my front yard if I wanted to <em>steal</em> it?&rdquo; Larry said. He complained that he&rsquo;d pulled more time for parole violation than for his original crime: shooting his wife.</p>
+
+<p>(3) A middle-aged Hispanic guy got frustrated, blew up, threw some books, and stomped out of the classroom. Later he came back and apologized, saying he had a &ldquo;problem with anger&rdquo; and that his anger with his old man had gotten him where he was today.</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">I decided I didn&rsquo;t like lesbian bars and stopped going to them. I had difficulty even going to the city, because if someone yelled or whistled at me I wanted to kill him. One afternoon I decided I would walk down the exact middle of the sidewalk and not move aside for anyone, man or woman. I got about half a block before I knocked a man off his feet. He looked impressed. At night I ran laps around my neighborhood in the freezing cold. I still wanted a girlfriend.</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">I felt I&rsquo;d received the greatest compliment the day Jamall called me a con. The class had been resisting a writing assignment, and I&rsquo;d negotiated a deal. Afterward, they decided they&rsquo;d been duped. &ldquo;Man, you are <em>hard</em>,&rdquo; they said, laughing. Jamall called me a con, and the others agreed. I took it to mean that I had figured out how to trick them, and they admired that &mdash; or else they wanted me to <em>think</em> I could trick them.</p>
+
+<p>Larry took classes with me all that year. He liked to talk in elaborate metaphor, make me guess his meaning, and then correct me when I got it wrong. An Asian guy named Bradley wrote beautiful papers, perfectly typed. Two other men brought in letters they had written, proud of especially articulate sentences: &ldquo;Hey, listen to <em>this</em>.&rdquo;</p>
+
+<p>Order is seductive. I could have explained the rules of English grammar until the cows came home and kept the inmates satisfied. But when I couldn&rsquo;t provide a rule, or didn&rsquo;t want to, they looked at me like a sorry excuse. Their desire for absolute standards struck me as odd. We all like clarity at times, but more limits in a prison?</p>
+
+<p>As I walked back up the hill to the south gate at the end of each afternoon, my attitude shifted. Rather than taking everything in, I wanted it all out. No more words, no more iron bars, no more tension. Sapped, I turned away. Still the hopelessness is hard to think about without disgust: all that effort spent on treating grown men like mean children &mdash; what a waste.</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">This is the story I&rsquo;ve always told about quitting my job at Sing Sing: One afternoon in winter, I left the school building via the stairwell and was almost to the outside door when a pair of arms grabbed me from behind and forced the air out of my lungs. Hands began groping me up and down from breasts to crotch. I couldn&rsquo;t scream, or yell, or say anything. I saw the door ahead of me and fell into the bar latch, hoping I wouldn&rsquo;t hit my head and pass out. We lurched forward and landed outside in the gravel. I saw a guard in the distance on the exercise yard. I guess the guy mauling me saw him, too, because he let me go. We both scrambled upright and as the guard came closer, yelling, &ldquo;What&rsquo;s going on here?&rdquo; I let go with a string of curses, language like I&rsquo;d never heard myself use. I could not take my eyes off the prisoner who had grabbed me. He was very short, bald, and had huge round eyes that I will never forget. He looked scared, but also excited. The guard shoved him inside, and I went home.</p>
+
+<p>Afterward, I told myself that this little scene really didn&rsquo;t matter, that I had the year to finish, and that the incident only involved a small blunder. I knew about the hallways and should simply be more careful. And I forgot about it &mdash; or so I thought.</p>
+
+<p>The following summer I spent several weeks in rural Oregon. I told some old friends about a woman I&rsquo;d gone out with, and they looked away until I stopped talking about it. Home did not feel safe. Increasingly, I had terrible nightmares. I kept waking up panicked at the sudden arrival of odd faces and eyes (scared and excited) in the midst of whatever dream I&rsquo;d been having. Grabbed, I couldn&rsquo;t yell. In the daytime, I eyed the forest around the house and wondered if a released inmate could possibly track me down. Before the summer was out, I called the English department secretary and asked to be taken off the teaching list for Sing Sing&rsquo;s fall semester.</p>
+
+<p>Here&rsquo;s the story I don&rsquo;t usually tell: That spring semester, I&rsquo;d taught a class on poetry. I liked a particular man in this class &mdash; I&rsquo;ll call him Bill. He was handsome, with a fine smile, rather quiet, astute, and a loner. I thought I hid my particular attraction. At the end of the last class, Bill came up to my desk and nervously handed me a sheet of paper. On it was a hand-written poem, an acrostic, for me. Each line started with a letter of my name and described a nice attribute: kind, funny, fair, pretty, smart, and so on. (It turned a bit sexual toward the end.) The men were watching my reaction. I gave the poem back. &ldquo;No, you keep it,&rdquo; Bill said. &ldquo;I wrote it for you.&rdquo; I said no, I wouldn&rsquo;t take it. And I never went back.</p>
+														</div>
+
+
+				
+<div class="sharing-bar article-sharing">
+	<div class="sharing-bar-first">
+		<a href="javascript:window.print();" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-printer"></use></svg> <span>Print</span></a>
+	</div>
+
+	<div class="sharing-bar-second">
+		<span class="alt-ff xsmall">Share:</span>
+		<a href="https://www.facebook.com/sharer/sharer.php?u=https://www.thesunmagazine.org/issues/274/acrostic" target="_blank" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-facebook"></use></svg> <span>Facebook</span></a>
+		<a href="https://twitter.com/share?url=https://www.thesunmagazine.org/issues/274/acrostic&amp;via=thesunmagazine" target="_blank" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-twitter"></use></svg> <span>Twitter</span></a>
+		<a href="#" class="b b-1 b-padding-tight xsmall js-toggle-mail-form"><svg><use xlink:href="#i-email"></use></svg> <span>Email</span></a>
+	</div>
+</div>
+
+<div class="send-to-friend-message-container">
+	<div class="alert alert-success xsmall">Thank you for sharing <em>The Sun</em>.</div>
+</div>
+
+<form method="post" action="/ajax/articles/send-to-a-friend" class="form fill-grey send-to-friend-form">
+		<input type="hidden" id="form_url" name="form[url]" value="https://www.thesunmagazine.org/issues/274/acrostic" />
+
+	<ul class="form-fields">
+		<li><label for="form_sender_name"><span class="label-text">Your Full Name</span><span class="label-asterisk">*</span></label><input type="text" id="form_sender_name" name="form[sender_name]" required="required" /></li>
+		<li><label for="form_sender_email"><span class="label-text">Your Email Address</span><span class="label-asterisk">*</span></label><input type="email" id="form_sender_email" name="form[sender_email]" required="required" /></li>
+		<li><label for="form_recipient_name"><span class="label-text">Friend’s Name</span><span class="label-asterisk">*</span></label><input type="text" id="form_recipient_name" name="form[recipient_name]" required="required" /></li>
+		<li><label for="form_recipient_email"><span class="label-text">Friend’s Email Address</span><span class="label-asterisk">*</span></label><input type="email" id="form_recipient_email" name="form[recipient_email]" required="required" /></li>
+		<li><label for="form_message"><span class="label-text">Personalized Message</span></label><textarea id="form_message" name="form[message]"></textarea></li>
+	</ul>
+<div class="send-to-friend-message-container">
+	<div class="alert alert-error xsmall">Something went wrong. Please try again.</div>
+</div>
+
+<div class="g-recaptcha" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs"></div>
+<div class="form-actions"><button type="submit" id="form_submit" name="form[submit]"	class="form-actions-b-primary b b-1 b-loading xsmall"><svg><use xlink:href="#i-loading"></use></svg>
+		Submit
+	</button></div>
+<input type="hidden" id="form__token" name="form[_token]" value="74c7f9300c91def99775105e6c243c5bfb30eb4e" /></form>
+
+<br>
+
+
+
+										<footer class="article-contributor contributors">
+									
+
+<div class="block-contributor">
+		
+
+		<div class="block-contributor-content">
+		<div class="block-contributor-bio small">
+			<p><strong><span class="smallcaps">A.A. Colombe</span></strong>&rsquo;s work has appeared in <em>Alaska Quarterly</em>, <em>Prism</em>, and the <em>Portland Review</em>. She lives in Houston, Texas.</p><a href="/contributors/a-a-colombe" class="block-contributor-link link-alt small">More From This Contributor&nbsp;&#9656;</a>		</div>
+	</div>
+</div>
+
+							</footer>
+						</article>
+
+
+				    <div class="paywall-subscription block-product">
+			<div class="columns">
+			<div class="paywall-banner span3 cta cta-l1">
+				<div class="cta-intro">
+					<h5 class="cta-title alt-ff">One Free Selection Left </h5>
+					<p class="cta-text xsmall"><a class="link-alt" href="https://www.thesunmagazine.org/subscriber/login" data-label="Already a subscriber?">Already a subscriber? Sign in ▸</a><br><br>Read two free selections from <em>The Sun</em> each month.</p>
+				</div>
+			</div>
+			<div class="paywall-banner span9 note note-1 text-center">
+				<h4 class="cta-title alt-ff">Subscribe to <em>The Sun</em> and save 45%</h4>
+				<p class="cta-text xsmall">Subscribers get full access to the current issue and more than 40 years of archives.</p>
+				<a class="b b-1 xsmall cta-trigger"  href="/subscribe1" data-label="Subscribe" data-ctatitle="Subscribe">Subscribe</a>
+			</div>
+		</div>
+
+		<div class="columns">
+			<div class="span12 paywall-cta-bottom">
+				<p>
+					<span class="cta-title-issue">Buy the October 1998 issue for $5.95</span>
+					<span class="xsmall">Order now to get instant access to this issue, and we’ll also send you a print copy.</span>
+					<a class="b b-5 xsmall corona"  href="#" data-product-type="issues" data-id="274" data-label="Order Now ▸">Order Now ▸</a>
+				</p>
+			</div>
+		</div>
+
+		
+
+</div>
+	
+	
+	
+	<div class="spacer"></div>
+	
+
+
+
+		
+		<div class="article-correspondence-cta">
+		<div class="cta cta-l1" data-url="https://www.thesunmagazine.org/letter-to-the-editor">
+			<div class="cta-intro">
+				<h5 class="cta-title alt-ff">Thinking about writing us a letter?</h5>
+				<p class="cta-text">Give in to the temptation. We love getting mail. <br><span class="xsmall">(Of course, we reserve the right to edit.)</span></p>
+			</div>
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" class="cta-button b b-4 b-padding-tight small" data-label="Write Us A Letter!">Write Us A Letter!</a>
+		</div>
+	</div>
+	
+
+			<div class="article-also layout-item-large full-bar fill-grey-mid-light">
+		<div class="layout-item-intro">
+			<h2>Also In This Issue</h2>
+			<a href="/issues/274" class="xsmall link-alt">October 1998&nbsp;&#9656;</a>
+		</div>
+		<div class="issue-articles-l1">
+			<div class="issue-articles-l1-content1">
+				
+<div class="cover cover-l1 block-product">
+	<div>
+							<a href="/issues/274" class="cover-thumb">
+				
+				<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 725'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/281x364r/import/issue/274.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/562x728r/import/issue/274.jpg
+	 alt=""
+	 class="lazy">
+
+			</a>
+		
+
+													<!-- <a href="/issues/274" data-product-type="issues" data-id="274" data-role="order" class="js-buy-single corona cover-button b b-1 b-full xsmall" data-label="Buy This Issue &#9656;">
+								Buy This Issue&nbsp;&#9656;
+			</a> -->
+			<a href="/issues/274" data-product-type="issues" data-id="274" class="js-buy-single corona cover-button b b-1 b-full xsmall" data-label="Buy This Issue &#9656;">
+								Buy This Issue&nbsp;&#9656;
+			</a>
+					
+					</div>
+</div>
+			</div>
+			<div class="issue-articles-l1-content2">
+				<div class="articles-l3">
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/readers-write">Readers Write</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/274/candy">Candy</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/our-readers">Our Readers</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/quotations">Quotations</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/274/sunbeams-issue-274">Sunbeams</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/274/this-is-the-way-we-say-goodbye">This Is The Way We Say Goodbye</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/barbara-l-finch">Barbara L. Finch</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/poetry">Poetry</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/274/beans-on-toast">Beans On Toast</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/harry-johnson">Harry Johnson</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+									</div>
+			</div>
+		</div>
+	</div>
+	
+
+			<div class="article-related layout-item-large full-bar fill-pattern-light">
+		<div class="layout-item-intro">
+			<h2>Related Selections</h2>
+			<ul class="list-inline list-inline-tight"><li><a href="/topics/incarceration" class="xsmall link-alt link-text">Incarceration</a></li><li><a href="/topics/education" class="xsmall link-alt link-text">Education</a></li><li><a href="/topics/fear" class="xsmall link-alt link-text">Fear</a></li><li><a href="/topics/gender" class="xsmall link-alt link-text">Gender</a></li><li><a href="/topics/sexuality" class="xsmall link-alt link-text">Sexuality</a></li></ul>		</div>
+
+		<div class="articles-l2">
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/263/connecting-a-few-dots">Connecting A Few Dots</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/michael-ventura">Michael Ventura</a></li><li><a href="/issues/263">November 1997</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/263" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 725'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/141x182r/import/issue/263.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/281x364r/import/issue/263.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/fiction">Fiction</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/247/selected-stories-sparrow-issue-247">Selected Stories</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/sparrow">Sparrow</a></li><li><a href="/issues/247">July 1996</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/247" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 725'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/141x182r/import/issue/247.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/281x364r/import/issue/247.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/readers-write">Readers Write</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/220/waiting-issue-220">Waiting</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/our-readers">Our Readers</a></li><li><a href="/issues/220">April 1994</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/220" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 725'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/141x182r/import/issue/220.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/281x364r/import/issue/220.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/poetry">Poetry</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/3/selected-poems-sy-safransky-issue-3">Selected Poems</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/sy-safransky">Sy Safransky</a></li><li><a href="/issues/3">June 1974</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/3" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 449 728'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/112x182r/import/issue/003.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/225x364r/import/issue/003.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+					</div>
+	</div>
+	
+	
+					<form id="newsletterForm" method="post" action="https://www.thesunmagazine.org/newsletter" data-url-send="https://www.thesunmagazine.org/newsletter" class="form form-newsletter fill-grey" enctype="multipart/form-data" target="_blank">
+
+
+
+		<div class="form-newsletter-intro">
+			<h3 class="alt-ff large">Sign Up For Our Newsletter</h3>
+			<p>We’ll let you know about new website selections, upcoming events, special offers, and more.</p>
+		</div>
+
+		<ul class="form-newsletter-fields form-fields form-fields-inline">
+			<li>
+				<input name="name" type="text" maxlength="500" id="name" placeholder="Your Name">
+			</li>
+			<li>
+				<input name="email" type="text" maxlength="500" id="email" placeholder="Your E-mail">
+			</li>
+
+			<li class="form-fields-inline-button">
+				<button disabled="disabled" class="form-newsletter-send b b-4 b-padding-tight b-loading g-recaptcha" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs" data-callback="recaptcha_callback" name="SubmitButton" id="SubmitButton">
+					<svg><use xlink:href="#i-loading"></use></svg>
+					Sign&nbsp;Up
+				</button>
+			</li>
+		</ul>
+	</form>
+	<script id="hiddenlpsubmitdiv" style="display: none;"></script>
+
+
+
+<footer class="footer brand-grey-dark">
+			<div class="footer-first">
+		<h3 class="footer-tagline">Independent, Reader-Supported Publishing</h3>
+		<p class="footer-desc">In each issue of <em>The Sun</em> you’ll find some of the most radically intimate and socially conscious writing being published today. In an age of media conglomerates, we’re something of an oddity: an ad-free, independent, reader-supported magazine.</p>
+		<ul class="footer-nav list-inline-border xsmall">
+			
+		<li class=" first">
+			<a href="https://www.thesunmagazine.org/about" 	   class=''>
+	   About <em>the Sun</em>	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/staff" 	   class=''>
+	   Staff	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/find-the-sun" 	   class=''>
+	   Find <em>The Sun</em>&nbsp;&nbsp;in a Store Near You	</a>
+		
+	</li>
+
+
+		</ul>
+	</div>
+	
+		<div class="footer-second">
+		<ul class="footer-second-social list-inline">
+			<li><a href="https://www.facebook.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-facebook"></use></svg></span> Like Us</a></li>
+			<li><a href="https://twitter.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-twitter"></use></svg></span> Follow Us</a></li>
+			<li><a href="https://instagram.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-instagram"></use></svg></span> Take a Look</a></li>
+		</ul>
+
+		<div class="footer-second-content">
+			<ul class="footer-nav list-inline-border xsmall">
+				
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/" 	   class='current '>
+	   Home	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/privacy-policy" 	   class=''>
+	   Privacy Policy	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/terms-of-use" 	   class=''>
+	   Terms of Use	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/site-map" 	   class=''>
+	   Site Map	</a>
+		
+	</li>
+
+
+			</ul>
+			<p class="footer-copyright xxsmall">Copyright &copy; 1974–2020 <em>The Sun</em>. All rights reserved.</p>
+		</div>
+	</div>
+</footer>
+
+
+
+<div class="offset-nav">
+	<ul>
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/read" 	   class='current '>
+	   Read	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/issues/current" 	   class=''>
+	   Current Issue	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/archives" 	   class=''>
+	   Archives	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/featured" 	   class=''>
+	   Featured Selections	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/topics" 	   class=''>
+	   Browse Topics	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/sections" 	   class=''>
+	   Browse Sections	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/connect" 	   class=''>
+	   Connect	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/news" 	   class=''>
+	   News from <em>The Sun</em>	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" 	   class=''>
+	   Write a Letter to the Editor	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/discussion-groups" 	   class=''>
+	   Discussion & Writing Groups	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/make-a-suggestion" 	   class=''>
+	   Make a Suggestion	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/submit" 	   class=''>
+	   Submit	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/shop" 	   class=''>
+	   Shop	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/giftsub" 	   class=''>
+	   Gift Subscriptions	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/issues" 	   class=''>
+	   Issues	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+											
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/donatemenu" 	   class='highlight'>
+	   Donate	</a>
+		
+	</li>
+
+		<li class=" last">
+														<a href="/SubscribeNav1" 					   class=''>
+						Subscribe					</a>
+									
+	</li>
+
+
+					<li>
+				<a href="https://www.thesunmagazine.org/shop/cart">Cart ( <span class="cart-item-count">  0  </span>)</a>
+			</li>
+			<li><a href="https://www.thesunmagazine.org/subscriber/login" class="link-header-logout link-alt">Sign In</a></li>
+			</ul>
+	<ul>
+		<li class=" first">
+			<a href="https://www.thesunmagazine.org/about" 	   class=''>
+	   About <em>the Sun</em>	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/staff" 	   class=''>
+	   Staff	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/find-the-sun" 	   class=''>
+	   Find <em>The Sun</em>&nbsp;&nbsp;in a Store Near You	</a>
+		
+	</li>
+
+</ul>
+	<ul>
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/" 	   class='current '>
+	   Home	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/privacy-policy" 	   class=''>
+	   Privacy Policy	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/terms-of-use" 	   class=''>
+	   Terms of Use	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/site-map" 	   class=''>
+	   Site Map	</a>
+		
+	</li>
+
+</ul>
+</div>
+
+<div id="buy-popup-message" class="buy-popup mfp-hide white-popup white-popup-block">
+	<a class="popup-modal-dismiss" href="#"></a>
+	<h5>Due to fulfillment challenges related to the novel coronavirus, print copies are temporarily unavailable for individual sale. We are offering free PDFs until we are able to resume print sales.</h5>
+	<p>Enter your e-mail address below to download this issue.</p>
+	<form method="post" id="download-single" action="https://www.thesunmagazine.org/issue/pdfFree/531.pdf">
+		<label for="email"><span class="label-text">E-mail</span><span class="label-asterisk">*</span></label>
+		<input class="buy-single-email" id="email" type="email" name="email">
+		<button type="send" class="form-buy-issue-send b b-3 b-padding-tight b-loading">Send</button>
+		<button class="form-buy-issue-download b b-3 b-padding-tight b-loading">Download pdf</button>
+		<button type="send" class="popup-modal-dismiss b b-2 b-padding-tight b-loading">Close</button>
+		<div class="g-recaptcha" style="text-align: center" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs"></div>
+
+	</form>
+</div>
+
+			<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/plugins.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/site.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/newsletter.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/js/articles.js"></script>
+		</div>
+		</div>
+
+				<script>
+		(function (doc) {
+			var scripts = doc.getElementsByTagName('script');
+			var script = scripts[scripts.length - 1];
+			var xhr = new XMLHttpRequest();
+			xhr.onload = function () {
+				var div = doc.createElement('div');
+				div.innerHTML = this.responseText;
+				div.style.display = 'none';
+				script.parentNode.insertBefore(div, script);
+			}
+			xhr.open('get', '/theme/thesun//assets/build/img/sprite/sprite.svg', true);
+			xhr.send();
+		})(document);
+
+
+
+		</script>
+
+		<script>
+			// Submit function
+            function recaptcha_callback() {
+						var getUrl = $('.form-newsletter').data( "url-send" ),
+							getName = $('input#name').val(),
+							getEmail = $('input#email').val();
+						$.ajax({
+								type: "POST",
+								url: getUrl,
+								data: {
+									name: getName,
+									email: getEmail,
+									grecaptcharesponse: grecaptcha.getResponse()
+								}
+							}).done(function(response) {
+								console.log(response);
+									$('.form-fields').fadeOut(800, function () {
+										$('.form-fields').empty().append('<div class="newsletter-confirm-message">Thank you for signing up to receive news from <em>The Sun</em>. Your first newsletter will arrive soon.<div>').fadeIn(800);
+									});
+							});
+			}
+
+		</script>
+
+		<script>
+			function getUrlCode() {
+				var url_string = window.location.href;
+				var url = new URL(url_string);
+				var c = url.searchParams.get('promotion\_key');
+				if (typeof c !== 'undefined' && c !== null) {
+					setCookie("promotion_code",c);
+				}
+			}
+
+			function setCookie(cname, cvalue) {
+				document.cookie = cname + "=" + cvalue + ";" + "path=/";
+			}
+
+			function getCookie(cname) {
+				var name = cname + "=";
+				var decodedCookie = decodeURIComponent(document.cookie);
+				var ca = decodedCookie.split(';');
+				for(var i = 0; i <ca.length; i++) {
+					var c = ca[i];
+					while (c.charAt(0) == ' ') {
+						c = c.substring(1);
+					}
+					if (c.indexOf(name) == 0) {
+						return c.substring(name.length, c.length);
+					}
+				}
+				return "";
+			}
+			window.addEventListener( "load", getUrlCode );
+		</script>
+
+
+	</body>
+</html>

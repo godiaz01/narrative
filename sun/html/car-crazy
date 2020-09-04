@@ -1,0 +1,1200 @@
+
+<!DOCTYPE html>
+<html class="no-js" lang="en-US">
+	<head>
+		<title>Car-Crazy - The Sun Magazine</title>
+
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		
+		<meta name="viewport" content="width=device-width, minimum-scale=1.0">
+
+		<link rel="dns-prefetch" href="//ajax.googleapis.com">
+		<link rel="dns-prefetch" href="//use.typekit.net">
+		
+		<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/modernizr.js"></script>
+		<script src="https://www.google.com/recaptcha/api.js"
+				async defer>
+		</script>
+
+		<script>(function(d) { var config = { kitId: 'kzw7ebk', scriptTimeout: 3000, async: true }, h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s) })(document);</script>
+
+
+				
+		<link rel="apple-touch-icon" sizes="57x57" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-57x57.png?v=2016">
+		<link rel="apple-touch-icon" sizes="60x60" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-60x60.png?v=2016">
+		<link rel="apple-touch-icon" sizes="72x72" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-72x72.png?v=2016">
+		<link rel="apple-touch-icon" sizes="76x76" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-76x76.png?v=2016">
+		<link rel="apple-touch-icon" sizes="114x114" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-114x114.png?v=2016">
+		<link rel="apple-touch-icon" sizes="120x120" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-120x120.png?v=2016">
+		<link rel="apple-touch-icon" sizes="144x144" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-144x144.png?v=2016">
+		<link rel="apple-touch-icon" sizes="152x152" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-152x152.png?v=2016">
+		<link rel="apple-touch-icon" sizes="180x180" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-180x180.png?v=2016">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-32x32.png?v=2016" sizes="32x32">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/android-chrome-192x192.png?v=2016" sizes="192x192">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-96x96.png?v=2016" sizes="96x96">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-16x16.png?v=2016" sizes="16x16">
+		<link rel="mask-icon" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/safari-pinned-tab.svg?v=2016" color="#444444">
+		<link rel="shortcut icon" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon.ico?v=2016">
+		<meta name="apple-mobile-web-app-title" content="The Sun Magazine">
+		<meta name="application-name" content="The Sun Magazine">
+		<meta name="msapplication-TileColor" content="#fcc330">
+		<meta name="msapplication-TileImage" content="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/mstile-144x144.png?v=2016">
+		<meta name="theme-color" content="#ffffff">
+
+				<link rel="stylesheet" type="text/css" href="https://cloud.typography.com/6578674/659928/css/fonts.css" />
+		<link rel="stylesheet" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/css/style.css">
+
+																		<meta property="og:site_name" content="The Sun Magazine">
+		<meta property="og:type" content="article">
+		<meta property="og:url" content="https://www.thesunmagazine.org/issues/296/car-crazy">
+		<meta property="og:image" content="http://www.thesunmagazine.org/files/import/issue/296.jpg">
+		<meta property="og:title" content="Car-Crazy - The Sun Magazine">
+		<meta property="og:description" content="Unlike some of my more mechanically minded eighth-grade classmates, I didn&amp;rsquo;t know a thing about how cars worked. I&amp;rsquo;d never even changed a tire. I just liked how cars looked. While other kids drew hot rods in their notebooks, I made &amp;ldquo;design studies,&amp;rdquo; trying to predict what changes the Big Three automakers would implement in their new models. How could the designers possibly improve upon dual headlamps? My answer was to integrate them into the grille beneath a pair of &amp;ldquo;eyebrows &amp;rdquo; that sloped toward the center (a design that was, in fact, used in the 1959 Dodge).">
+		<meta property="fb:app_id" content="158741778010551">
+
+						<link rel="image_src" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.comhttp://www.thesunmagazine.org/files/import/issue/296.jpg">
+
+												<meta name="twitter:card" content="summary">
+		<meta name="twitter:title" content="Car-Crazy - The Sun Magazine">
+		<meta name="twitter:description" content="Unlike some of my more mechanically minded eighth-grade classmates, I didn&amp;rsquo;t know a thing about how cars worked. I&amp;rsquo;d never even changed a tire. I just liked how cars looked. While other kids drew hot rods in their notebooks, I made &amp;ldquo;design studies,&amp;rdquo; trying to predict what changes the Big Three automakers would implement in their new models. How could the designers possibly improve upon dual headlamps? My answer was to integrate them into the grille beneath a pair of &amp;ldquo;eyebrows &amp;rdquo; that sloped toward the center (a design that was, in fact, used in the 1959 Dodge).">
+		<meta name="twitter:image" content="http://www.thesunmagazine.org/files/import/issue/296.jpg">
+		<meta name="twitter:site" content="@thesunmagazine">
+
+				<link rel="publisher" href="https://plus.google.com/113792980827145858211">
+        
+		<meta name="Description" content="Unlike some of my more mechanically minded eighth-grade classmates, I didn&amp;rsquo;t know a thing about how cars worked. I&amp;rsquo;d never even changed a tire. I just liked how cars looked. While other kids drew hot rods in their notebooks, I made &amp;ldquo;design studies,&amp;rdquo; trying to predict what changes the Big Three automakers would implement in their new models. How could the designers possibly improve upon dual headlamps? My answer was to integrate them into the grille beneath a pair of &amp;ldquo;eyebrows &amp;rdquo; that sloped toward the center (a design that was, in fact, used in the 1959 Dodge).">
+
+		
+		<!-- Google Tag Manager -->
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-TKBHCCG');</script>
+		<!-- End Google Tag Manager -->
+
+		<!-- Google Analytics -->
+		<script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+            ga('create', 'UA-2351127-1', 'auto');  // Replace with your property ID.
+            ga('send', 'pageview');
+            ga('require', 'ecommerce');   // Load the ecommerce plug-in.
+		</script>
+		<!-- End Google Analytics -->
+	</head>
+	<body id="">
+
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TKBHCCG"
+		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+		<header class="header" data-offset-start="80">
+		<div class="header-utilities">
+				<ul class="header-utilities-user list-inline list-inline-tight xxsmall">
+							<li>
+					<span class="header-utilities-user-intro">Already A Subscriber?</span> &nbsp;
+					<a href="https://www.thesunmagazine.org/subscriber/login" class="link-text link-alt">Sign In</a>
+				</li>
+					</ul>
+		<a href="https://www.thesunmagazine.org/shop/cart" class="header-utilities-cart  link-alt link-icon tiny">
+			<span class="i"><svg><use xlink:href="#i-cart"></use></svg></span>
+			<span class="cart-item-count">
+									0 Items
+				
+			</span>
+		</a>
+			</div>
+
+		<div class="header-bar">
+		<h1 class="header-logo logo">
+			<a href="/">
+				<img src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/img/logo-thesun.svg" class="logo-thesun" alt="The Sun Magazine">
+				<img src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/img/logo-tagline.svg" class="logo-tagline" alt="">
+			</a>
+		</h1>
+
+		<ul class="header-nav">
+			
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/read" 	   class='current '>
+	   Read	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/issues/current" 	   class=''>
+	   Current Issue	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/archives" 	   class=''>
+	   Archives	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/featured" 	   class=''>
+	   Featured Selections	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/topics" 	   class=''>
+	   Browse Topics	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/sections" 	   class=''>
+	   Browse Sections	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/connect" 	   class=''>
+	   Connect	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/news" 	   class=''>
+	   News from <em>The Sun</em>	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" 	   class=''>
+	   Write a Letter to the Editor	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/discussion-groups" 	   class=''>
+	   Discussion & Writing Groups	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/make-a-suggestion" 	   class=''>
+	   Make a Suggestion	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/submit" 	   class=''>
+	   Submit	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/shop" 	   class=''>
+	   Shop	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/giftsub" 	   class=''>
+	   Gift Subscriptions	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/issues" 	   class=''>
+	   Issues	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+											
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/donatemenu" 	   class='highlight'>
+	   Donate	</a>
+		
+	</li>
+
+		<li class=" last">
+														<a href="/SubscribeNav1" 					   class=''>
+						Subscribe					</a>
+									
+	</li>
+
+
+		</ul>
+
+		<button class="header-nav-toggle"><svg><use xlink:href="#i-menu" class="i-menu"></use><use xlink:href="#i-close" class="i-close"></use></svg></button>
+		<button class="header-search-toggle" data-form-wrapper=".header-search"><svg><use xlink:href="#i-magnifier" class="i-magnifier"></use><use xlink:href="#i-close" class="i-close"></use></svg></button>
+	</div>
+
+		<div class="header-search">
+		<div class="header-search-content">
+			<form action="https://www.thesunmagazine.org/search" class="form form-search" method="get">
+				<h2 class="alt-ff brand-link">Search Our 40 Years of Archives</h2>
+				<ul class="form-search-fields form-fields form-fields-inline">
+					<li><input type="text" name="q" value=""></li>
+					<li class="form-fields-inline-button"><button class="b b-1 b-padding-tight b-loading"><svg><use xlink:href="#i-loading"></use></svg>Search</button></li>
+				</ul>
+
+				<div class="header-search-content-shortcuts">
+					<h6 class="search-advanced alt-ff"><a class="js-handle-advanced" href="https://www.thesunmagazine.org/search?advanced=1">Advanced Search</a></h6>
+					<br>
+					<h6 class="alt-ff">Popular Pages</h6>
+					<ul class="list-inline-border list-inline-tight xxsmall"><li class=" first"><a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a></li><li class=""><a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a></li><li class=""><a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a></li><li class=""><a href="https://www.thesunmagazine.org/sections/quotations" 	   class=''>
+	   Quotations	</a></li><li class=""><a href="https://www.thesunmagazine.org/sections/readers-write" 	   class=''>
+	   Readers Write	</a></li><li class=" last"><a href="https://www.thesunmagazine.org/sections/poetry" 	   class=''>
+	   Poetry	</a></li></ul>				</div>
+			</form>
+		</div>
+	</div>
+</header>
+
+	<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+	<script type="text/javascript">
+		$(document).ready(function() {
+			$('.js-handle-advanced').on('click', function (e) {
+				e.preventDefault();
+				var getSearchValue = $('.form-search-fields input').val();
+				var getURL = $(this).attr('href');
+				var newURL = getURL + '&q=' + getSearchValue;
+				window.location.href = newURL;
+			});
+		});
+	</script>
+
+		<div class="container-hidden">
+		<div class="container">
+
+				
+	
+	<article class="article ">
+		<header class="block-content block-content-l1 block-content-center">
+						<div class="block-content-header">
+				<h6 class="b-content-section heading-square"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+				<h1 class="block-content-title">Car-Crazy</h1>
+
+				
+				<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/jake-gaskins">Jake Gaskins</a></li><li><a href="/issues/296">August 2000</a></li></ul>
+
+			</div>
+
+								</header>
+
+				<div class="article-body link-text-wrap">
+																		<p class="dropcap">I read the other day in the<em> New Yorker</em> that J. Mays, the man chiefly responsible for the design of Volkswagen&rsquo;s New Beetle, liked to draw cars when he was growing up. So did I.</p>
+
+<p>Unlike some of my more mechanically minded eighth-grade classmates, I didn&rsquo;t know a thing about how cars worked. I&rsquo;d never even changed a tire. I just liked how cars looked. While other kids drew hot rods in their notebooks, I made &ldquo;design studies,&rdquo; trying to predict what changes the Big Three automakers would implement in their new models. How could the designers possibly improve upon dual headlamps? My answer was to integrate them into the grille beneath a pair of &ldquo;eyebrows &rdquo; that sloped toward the center (a design that was, in fact, used in the 1959 Dodge).</p>
+
+<p>I was at the height of my car-craziness in 1957, the year that Chrysler introduced a line of radically redesigned models, including the now extinct DeSoto. &ldquo;The Forward Look,&rdquo; Chrysler called it. That year, space-age automotive design achieved its fullest realization, the pinnacle from which any further development could only be a devolution. I&rsquo;m talking about tail fins. Seriously.</p>
+
+<p>To the current way of thinking, tail fins on cars symbolize excess, an instance of corporate-military-industrial bad taste, or fifties kitsch, at best. Everyone knows that putting tail fins on cars was a big mistake. And, indeed, fins atrophied almost as soon as they sprouted, bred from the auto population like a life-threatening mutation. Yet the tail fin remains as much an emblem of the American fifties as the jukebox or Elvis. And, like the King, the fin of the 1959 Cadillac has even been the subject of a commemorative postage stamp.</p>
+
+<p>The memory of my first in-person look at a &rsquo;59 Cadillac remains as vivid to me now as my recollection of slow-dancing with Anne Daniel at the Teenage Club to Johnny Mathis&rsquo;s &ldquo;Chances Are.&rdquo; It happened one morning in front of the junior high school. My father had just dropped me off, and I was about to enter the red-brick building when I spotted a brand-new Cadillac parallel-parked on the other side of the street. The tail fin towered straight up from the jet-engine-shaped fender, its backward-pointing tip edged in chrome. I had never seen a fin so tall, so sharp, so <em>dangerous</em>. Midway between top and bottom, the rocket-like taillights glowed red in the early-morning sunlight. It was stunning, a science-fiction fantasy come to life.</p>
+
+<p>Chrysler, of course, had originated the concept &mdash; and executed it more brilliantly &mdash; in the &rsquo;57 Imperial. The principles were the same, though: a vaguely triangular plane penetrated by the cone of a taillight, which seemed suspended in midair, defying gravity. Even more audacious than the Cadillac&rsquo;s (though not as tall), the Imperial&rsquo;s design incorporated a chrome ring that to some suggested a gun sight but to me looked like a moon circling a planet, or the atomic structure of hydrogen: imagery, in any case &mdash; not sheet metal.</p>
+
+<p>My parents could not afford any new car, much less an Imperial, but the owner of the local Chrysler dealership was a friend of my father&rsquo;s, so my father was able to obtain a copy of the Imperial brochure. I remember its slick pages and fashionable illustrations with a mixture of shame and pleasure. The designs I so admired were exercises in illusion, deception &mdash; steel parading as air, metal pretending to float. Like them, I was happily denying the misery around me. My father was entering a long decline that my older sister would later describe as a nervous breakdown. Because of his own mistakes, or the greediness of his business partner, or the maneuvering of lawyers on both sides &mdash; I&rsquo;ll never know the whole story &mdash; my father was losing his grain-storage business. To make ends meet, my mother went to work as a salesperson in a women&rsquo;s clothing store. The bank threatened to foreclose on our home.</p>
+
+<p>Yet, through it all, I would lie on the living-room floor in the light from the picture window, turning the pages of the Imperial brochure, dreaming, calculating, figuring that, if we couldn&rsquo;t afford a top-of-the-line Imperial, maybe we could still afford a Chrysler. After all, we&rsquo;d owned a Chrysler before &mdash; a 1950 Windsor, blue with gray interior &mdash; but my father had traded it for a used Dodge. Mother had loved that car, had considered it &ldquo;her car.&rdquo; Maybe we could afford another Windsor. I would ask my father to get me that brochure, too.</p>
+
+<p>For whatever reason, my father seemed to encourage my car-craziness during this time. One summer afternoon, at his request, a salesman drove up to our house in a brand-new 1958 two-door DeSoto. I was taken with its push-button transmission and swivel bucket seats and, especially, its tail fins, each housing a row of three identical brake lamps.</p>
+
+<p>In 1959, the year of the iconic Cadillac and the newly introduced Edsel (&ldquo;The car you hoped would happen .&nbsp;.&nbsp;. styled to last&rdquo;), my father finally lost his business. His partner defeated him in court. I have, among my father&rsquo;s effects, the legal documents pertaining to the case, but I haven&rsquo;t the heart to read them.</p>
+
+<p>On fall evenings after supper, just to get out of the house, my parents and I would sometimes go for a drive to look at new cars. We&rsquo;d roll slowly by lighted showrooms and dealers&rsquo; lots festooned with plastic pennants and strings of naked light bulbs. The lots were sad-looking despite their brightness, like deserted midways. Before returning home, we&rsquo;d stop at West Side Motors, the town&rsquo;s Chrysler dealership, to look again at the Windsor on display in the showroom. It had been there for several weeks, as if waiting for us. It was a new color called &ldquo;Lustre-Bond metallic light ruby, &rdquo; which kind of grew on you. The design wasn&rsquo;t as daring as that of the &rsquo;57 and &rsquo;58 models &mdash; the fins were already in decline, the grille flatter, the dual headlights hooded by puffy eyelids. But the conservative styling had a certain dignity, and it was a Chrysler, after all, a Windsor, like the one my parents had once owned &mdash; &ldquo;the best car we ever had, &rdquo; my mother called it. She still missed that car. Maybe this new Windsor would be my mother&rsquo;s Christmas present, I wondered aloud in the back seat.</p>
+
+<p>On the afternoon of Christmas Eve, my father told me to come with him, that we were going for a drive. I was sure we were going to pick up my mother&rsquo;s new car. We even headed in the direction of West Side Motors. But as soon as we were a few blocks from the house, my father told me matter-of-factly that we weren&rsquo;t getting a new car. Never had been, I realized. I had been deluded, led on, allowed to dream foolishly. When we got back home, I went straight to my room, threw myself on the bed, and sulked. But only for a little while.</p>
+
+<p>I&rsquo;d like to attribute my father&rsquo;s failure to level with me sooner not to indifference or callousness, but to an unreasoning, unreasonable love. My mother would often say about my father, &ldquo;He&rsquo;s too good,&rdquo; trying to put the best face on what someone else might call timidity or ineffectuality. I can&rsquo;t judge. I&rsquo;m simultaneously too close and too far away.</p>
+
+<p>My father wasn&rsquo;t one to talk about himself, and I wasn&rsquo;t one to ask. He wasn&rsquo;t distant or uncaring; he was simply reserved. Perhaps it had something to do with the fact that he&rsquo;d contracted tuberculosis in his late teens and spent several years in a sanitarium, thinking he was going to die. In a photograph from that time, he reminds me of a wounded soldier, lifting his head from the pillow to smile bravely at the camera. He was a handsome young man. &ldquo;You were his only happiness,&rdquo; my mother would tell me.</p>
+
+<p>A few months after the Christmas of 1958, my father brought home a used Cadillac Fleetwood &mdash; a &rsquo;57, black. It was the best he could do, and I pretended to be satisfied. We didn&rsquo;t keep that car long. It seemed pretentious, burdensome, an overbuilt, ostentatious symbol of the lengths to which my father would go to make me happy. After that, my parents bought only Chryslers, all used.</p>
+
+<p>I remember one in particular, an early-seventies Newport that my parents acquired when I was in graduate school. It was shaped like a barge, its hood stretching as far as the eye could see, not a curve anywhere. It was, in essence, a big mustard yellow box with chrome trim. But it was in great condition and would serve my parents well for many years. When I was home on break from school, I&rsquo;d wash and wax the car, then invite my father to come inspect my work, to admire the broad expanse of the freshly waxed hood, the gleam of the polished chrome bumper.</p>
+
+<p>I have saved a piece of that car all these years. I have the broken-off control knob from the heater. It says, <span class="smallcaps">warm.</span></p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">My father died in 1985. In 1994, after my eighty-seven-year-old mother entered a retirement community, we put the family home on the market, and I paid a visit to the local moving company to discuss shipping most of the furniture to me in Missouri. I was talking with the secretary when the owner appeared in the doorway &mdash; a vigorous man in his sixties with a full head of short gray hair. He had known my father.</p>
+
+<p>&ldquo;Jake,&rdquo; he said, shaking my hand, &ldquo;I still have the Jeep I bought from your father. It&rsquo;s in one of the warehouses in back. Do you want to see it?&rdquo;</p>
+
+<p>I knew that my father had once briefly sold cars for a dealership called Flanagan Buggy Company, if I&rsquo;m not mistaken. I didn&rsquo;t know he had sold Jeeps. I followed the man outside into the bright sunlight, then through a side door into a warehouse. And there it was: a forties-vintage Jeep, red, in mint condition.</p>
+
+<p>&ldquo;It still runs like a top,&rdquo; the man said. &ldquo;I take it out once in a while.&rdquo;</p>
+
+<p>The warehouse was hot and musty, the sunlight pouring through a dirty window like a flashlight beam through murky water. I walked over and reverently placed a hand on a fender, trying to imagine my father selling cars &mdash; this car &mdash; before I was born.</p>
+
+<p>I thanked the man for showing it to me, feeling that my response was inadequate; wishing that my grief were still fresh, the pain sharper; wishing that I could summon tears.</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">In a recent issue of<em> Design Quarterly</em>, Karal Ann Marling writes that the cars of the fifties were designed to cater to Americans&rsquo; twin obsessions: sex and violence. The Cadillac&rsquo;s tail fin &mdash; whose evolution Marling traces from its first, &ldquo;embryonic&rdquo; appearance in 1948 as a mere &ldquo;winglet or hump on the rear fender&rdquo; to its towering, three-and-a-half-foot height in 1959 &mdash; was inspired by the twin-tailed Lockheed P-38 lightning pursuit plane. (GM&rsquo;s design chief at the time confirms this.) Our nation&rsquo;s other preoccupation &mdash; sex &mdash; is evident, explains Marling, in the Cadillac&rsquo;s breast-shaped bumper forms, like 44-D cups, at the front.</p>
+
+<p>Of all Marling&rsquo;s observations, the one that applies most to my own experience is this: that the cars of the fifties were &ldquo;artifacts that succeeded or failed on the basis of appearance [alone]; .&nbsp;.&nbsp;. wheeled sculpture; .&nbsp;.&nbsp;. what can only be described as works of popular art.&rdquo;</p>
+
+<p>The copywriter who wrote the ad for the 1959 Chrysler was a poet. A picture of the car is spread across two pages of <em>Life</em> magazine, emphasizing its length, and in the dusky sky above the car appears a ghostly lion, phantom symbol of the Chrysler&rsquo;s &ldquo;lionhearted&rdquo; engine. The copy underneath is full of alliterative language: &ldquo;This Chrysler&rsquo;s mood is motion.&rdquo; The &ldquo;all-new Golden Lion engine murmurs its might&rdquo; and &ldquo;puts out more power per pound.&rdquo; &ldquo;Town traffic is easily tamed,&rdquo; while &ldquo;a highway highlights its virtues.&rdquo;</p>
+
+<p>Most important of all, the &rsquo;59 Chrysler is &ldquo;every inch a new and different car. From regal grille to channeled roof to gently rising fins, there&rsquo;s newness in every line.&rdquo; An ad for Oldsmobile in the same issue of <em>Life</em> introduces &ldquo;the new &lsquo;Linear Look&rsquo; .&nbsp;.&nbsp;. the start of a completely new styling cycle!&rdquo; Dodge advertises &ldquo;the Newest of Everything Great.&rdquo; Chevrolet claims, &ldquo;Nothing&rsquo;s new like Chevy&rsquo;s new!&rdquo; And &ldquo;the brand-new &rsquo;59 Mercury shows you what <span class="smallcaps">NEW</span> really means.&rdquo;</p>
+
+<p>Forty years later, the irony of these ads is self-evident, as their hollow boasts of &ldquo;newness&rdquo; grow older with each passing year. For me, newness itself has lost its charm. As is probably true for most people in middle age, I find that what&rsquo;s new interests me less than memories of the distant past.</p>
+
+<p>I remember discussing with my parents the possibility of their buying a showroom-new car, as opposed to the used cars they always bought. (This was years after the Christmas of 1958, the year of the lionhearted Chrysler.) I, of course, wanted them to buy a new car, and, for once, my father wasn&rsquo;t taking my side. My mother must have been wavering, because I remember my father saying to her, &ldquo;You know better than that.&rdquo; I saw the wisdom of his point: that buying a new car is not a fiscally sound decision, given the depreciation the vehicle undergoes as soon as it leaves the lot. He had sold cars; he would know. As a car salesman, he&rsquo;d probably seen enough cases of car-craziness to despair of the entire human race&rsquo;s sanity. No wonder car salesmen are sleazy: they cater to a contemptible need, like pimps and drug dealers. We project onto them our own self-contempt.</p>
+
+<p>I have a friend who refuses to buy a new car. She always buys &ldquo;preowned&rdquo; on principle. Another friend, who could easily afford a new car, says he hates to spend the money when he can still drive his dirty, beat-up 1970s Mazda. Considering my growing disenchantment with all things new, you&rsquo;d think I&rsquo;d agree with them. But I want a New Beetle.</p>
+
+<p>&ldquo;Isn&rsquo;t it just a fad? &rdquo; my sister asks me, over the phone.</p>
+
+<p>&ldquo;It&rsquo;s not a hula hoop, Ann,&rdquo; I say.</p>
+
+<p>I was browsing the Internet the other night, visiting the personal web sites of New Beetle owners. One young man&rsquo;s site opens with a picture of him and his New Beetle parked at a lookout point beside the Pacific. He leans against the hood, his long hair blowing in the wind. Among the pages on his site is an informative &ldquo;History of My Beetle,&rdquo; a journal in which he has written about every significant event since the day he bought the car: he &ldquo;settled on&rdquo; the leatherette upholstery, which is getting dirty fast; he found a scuff mark inside one of the wheel wells &mdash; merely &ldquo;cosmetic&rdquo; but still &ldquo;a pisser,&rdquo; as the dealer refuses to do anything about it. On another page, he writes about the accessories he has bought for his Beetle: &ldquo;saddlebags&rdquo; for the trunk, and a dash cover. Should he buy the sixty-dollar aluminum bud vase?</p>
+
+<p>This man&rsquo;s site is an exercise in self-restraint compared to another home page, which leads off with a snapshot of the site&rsquo;s creator and his wife standing by their new car, with the caption &ldquo;Proud Parents.&rdquo; They&rsquo;ve named their Beetle &ldquo;Tinky.&rdquo; The car even has a &ldquo;built certificate&rdquo; from Yolkswagen headquarters.</p>
+
+<p>Then there&rsquo;s the woman who has named her red New Beetle &ldquo;Rosebud&rdquo; and gushes, &ldquo;I just love this car! .&nbsp;.&nbsp;. It&rsquo;s a true love affair!!!&rdquo;</p>
+
+<p>Have we all lost our minds?</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">I &rsquo;ve saved enough to pay for a new car in cash. It is not a frivolous purchase. I currently drive a thirteen-year-old ]etta with a hundred thousand miles on it. It drips oil, a problem that nothing short of major engine repair will fix. I&rsquo;ve owned exactly two new cars in my life. I deserve a new car. I also know that a new car won&rsquo;t make me happy. I&rsquo;ll get used to it in no time, and then I&rsquo;ll start reminiscing about the Jetta, remembering all the trips from Missouri to North Carolina and back to visit my mother, sixteen hours each way. I&rsquo;ll remember driving the Jetta through the aftermath of the Blizzard of 1996, the last year of my mother&rsquo;s life, when the interstate was completely hidden beneath the snow and only truckers and fools like me were on the road. What would I have done had my car failed? But the Jetta didn&rsquo;t fail me during all those years, all those miles.</p>
+
+<p>I am taking this decision to buy a New Beetle seriously, agonizing over the color choice, whether I&rsquo;m buying at the right time, whether next year&rsquo;s model might be much improved, whether I&rsquo;ve been a wise consumer or a dupe. Obviously, I am a dupe already to have squandered so much of my precious time on earth debating whether to go with the GL or the GLS model, whether I should pay extra for the fog lamps or not.</p>
+
+<p>The culture of cars, as New Beetle designer J. Mays said in the <em>New Yorker</em>, is merely a branch of the entertainment industry. We buy out of boredom. My interest in the Volkswagen New Beetle is frivolous, shameful, like gambling or sex or drugs &mdash; a vicious diversion from the moral obligations of the scrupulously examined, well-lived life. I think of Simone Weil, the French philosopher and mystic, who renounced all pleasures of the flesh &mdash; good food, sex, even the privilege of her genius &mdash; and took jobs in manufacturing plants so that she might suffer alongside the working people with whom she empathized. (One of those jobs was in a Renault plant.) Is it possible to buy a new car without hating myself?</p>
+
+<p>Yet I am hooked and must proceed, wriggling on the line. There&rsquo;s no Volkswagen dealership in town, so I drive to one in St. Louis, where I put three hundred dollars down on a dark blue (&ldquo;metallic batik blue&rdquo;) New Beetle GL with automatic transmission, no sunroof. There isn&rsquo;t such a car on the lot, so I must wait a couple of weeks while the salesman &mdash; a man in his forties, dressed in short sleeves and a necktie &mdash; searches the inventories of area dealerships. A week later, the salesman leaves a message on my answering machine. &ldquo;Jake,&rdquo; he says, &ldquo;I&rsquo;ve got your car! It&rsquo;s washed and waxed and sitting right here on the floor, where I can keep an eye on it. The keys are in my desk drawer. It&rsquo;s not going to get away from us. You can come pick it up any time tomorrow afternoon. It&rsquo;s a neat-looking car, Jake.&rdquo;</p>
+
+<p>And finally, because he noticed my sadness and discomfort when I came to buy the car, he says with a hint of desperation in his voice, &ldquo;I hope you&rsquo;re starting to get excited!&rdquo;</p>
+														</div>
+
+
+				
+<div class="sharing-bar article-sharing">
+	<div class="sharing-bar-first">
+		<a href="javascript:window.print();" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-printer"></use></svg> <span>Print</span></a>
+	</div>
+
+	<div class="sharing-bar-second">
+		<span class="alt-ff xsmall">Share:</span>
+		<a href="https://www.facebook.com/sharer/sharer.php?u=https://www.thesunmagazine.org/issues/296/car-crazy" target="_blank" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-facebook"></use></svg> <span>Facebook</span></a>
+		<a href="https://twitter.com/share?url=https://www.thesunmagazine.org/issues/296/car-crazy&amp;via=thesunmagazine" target="_blank" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-twitter"></use></svg> <span>Twitter</span></a>
+		<a href="#" class="b b-1 b-padding-tight xsmall js-toggle-mail-form"><svg><use xlink:href="#i-email"></use></svg> <span>Email</span></a>
+	</div>
+</div>
+
+<div class="send-to-friend-message-container">
+	<div class="alert alert-success xsmall">Thank you for sharing <em>The Sun</em>.</div>
+</div>
+
+<form method="post" action="/ajax/articles/send-to-a-friend" class="form fill-grey send-to-friend-form">
+		<input type="hidden" id="form_url" name="form[url]" value="https://www.thesunmagazine.org/issues/296/car-crazy" />
+
+	<ul class="form-fields">
+		<li><label for="form_sender_name"><span class="label-text">Your Full Name</span><span class="label-asterisk">*</span></label><input type="text" id="form_sender_name" name="form[sender_name]" required="required" /></li>
+		<li><label for="form_sender_email"><span class="label-text">Your Email Address</span><span class="label-asterisk">*</span></label><input type="email" id="form_sender_email" name="form[sender_email]" required="required" /></li>
+		<li><label for="form_recipient_name"><span class="label-text">Friend’s Name</span><span class="label-asterisk">*</span></label><input type="text" id="form_recipient_name" name="form[recipient_name]" required="required" /></li>
+		<li><label for="form_recipient_email"><span class="label-text">Friend’s Email Address</span><span class="label-asterisk">*</span></label><input type="email" id="form_recipient_email" name="form[recipient_email]" required="required" /></li>
+		<li><label for="form_message"><span class="label-text">Personalized Message</span></label><textarea id="form_message" name="form[message]"></textarea></li>
+	</ul>
+<div class="send-to-friend-message-container">
+	<div class="alert alert-error xsmall">Something went wrong. Please try again.</div>
+</div>
+
+<div class="g-recaptcha" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs"></div>
+<div class="form-actions"><button type="submit" id="form_submit" name="form[submit]"	class="form-actions-b-primary b b-1 b-loading xsmall"><svg><use xlink:href="#i-loading"></use></svg>
+		Submit
+	</button></div>
+<input type="hidden" id="form__token" name="form[_token]" value="90fbb34ad6249365db4fb5afa61857877dd3efd9" /></form>
+
+<br>
+
+
+
+										<footer class="article-contributor contributors">
+									
+
+<div class="block-contributor">
+		
+
+		<div class="block-contributor-content">
+		<div class="block-contributor-bio small">
+			<p><span class="smallcaps"><strong>Jake Gaskins</strong></span> is a professor of English and the director of the Writing Center at Southeast Missouri State University in Cape Girardeau.</p><a href="/contributors/jake-gaskins" class="block-contributor-link link-alt small">More From This Contributor&nbsp;&#9656;</a>		</div>
+	</div>
+</div>
+
+							</footer>
+						</article>
+
+
+				    <div class="paywall-subscription block-product">
+			<div class="columns">
+			<div class="paywall-banner span3 cta cta-l1">
+				<div class="cta-intro">
+					<h5 class="cta-title alt-ff">One Free Selection Left </h5>
+					<p class="cta-text xsmall"><a class="link-alt" href="https://www.thesunmagazine.org/subscriber/login" data-label="Already a subscriber?">Already a subscriber? Sign in ▸</a><br><br>Read two free selections from <em>The Sun</em> each month.</p>
+				</div>
+			</div>
+			<div class="paywall-banner span9 note note-1 text-center">
+				<h4 class="cta-title alt-ff">Subscribe to <em>The Sun</em> and save 45%</h4>
+				<p class="cta-text xsmall">Subscribers get full access to the current issue and more than 40 years of archives.</p>
+				<a class="b b-1 xsmall cta-trigger"  href="/subscribe1" data-label="Subscribe" data-ctatitle="Subscribe">Subscribe</a>
+			</div>
+		</div>
+
+		<div class="columns">
+			<div class="span12 paywall-cta-bottom">
+				<p>
+					<span class="cta-title-issue">Buy the August 2000 issue for $5.95</span>
+					<span class="xsmall">Order now to get instant access to this issue, and we’ll also send you a print copy.</span>
+					<a class="b b-5 xsmall corona"  href="#" data-product-type="issues" data-id="296" data-label="Order Now ▸">Order Now ▸</a>
+				</p>
+			</div>
+		</div>
+
+		
+
+</div>
+	
+	
+	
+	<div class="spacer"></div>
+	
+
+
+
+		
+		<div class="article-correspondence-cta">
+		<div class="cta cta-l1" data-url="https://www.thesunmagazine.org/letter-to-the-editor">
+			<div class="cta-intro">
+				<h5 class="cta-title alt-ff">Thinking about writing us a letter?</h5>
+				<p class="cta-text">Give in to the temptation. We love getting mail. <br><span class="xsmall">(Of course, we reserve the right to edit.)</span></p>
+			</div>
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" class="cta-button b b-4 b-padding-tight small" data-label="Write Us A Letter!">Write Us A Letter!</a>
+		</div>
+	</div>
+	
+
+			<div class="article-also layout-item-large full-bar fill-grey-mid-light">
+		<div class="layout-item-intro">
+			<h2>Also In This Issue</h2>
+			<a href="/issues/296" class="xsmall link-alt">August 2000&nbsp;&#9656;</a>
+		</div>
+		<div class="issue-articles-l1">
+			<div class="issue-articles-l1-content1">
+				
+<div class="cover cover-l1 block-product">
+	<div>
+							<a href="/issues/296" class="cover-thumb">
+				
+				<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 725'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/281x364r/import/issue/296.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/562x728r/import/issue/296.jpg
+	 alt=""
+	 class="lazy">
+
+			</a>
+		
+
+													<!-- <a href="/issues/296" data-product-type="issues" data-id="296" data-role="order" class="js-buy-single corona cover-button b b-1 b-full xsmall" data-label="Buy This Issue &#9656;">
+								Buy This Issue&nbsp;&#9656;
+			</a> -->
+			<a href="/issues/296" data-product-type="issues" data-id="296" class="js-buy-single corona cover-button b b-1 b-full xsmall" data-label="Buy This Issue &#9656;">
+								Buy This Issue&nbsp;&#9656;
+			</a>
+					
+					</div>
+</div>
+			</div>
+			<div class="issue-articles-l1-content2">
+				<div class="articles-l3">
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/296/triple-delight">Triple Delight</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/genie-zeiger">Genie Zeiger</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/296/past-imperfect">Past Imperfect</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/tom-ireland">Tom Ireland</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/quotations">Quotations</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/296/sunbeams-296">Sunbeams</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/sy-safranskys-notebook">Sy Safransky&#039;s Notebook</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/296/sy-safranskys-notebook-296">August 2000</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/sy-safransky">Sy Safransky</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+									</div>
+			</div>
+		</div>
+	</div>
+	
+
+			<div class="article-related layout-item-large full-bar fill-pattern-light">
+		<div class="layout-item-intro">
+			<h2>Related Selections</h2>
+			<ul class="list-inline list-inline-tight"><li><a href="/topics/parents" class="xsmall link-alt link-text">Parents</a></li><li><a href="/topics/adolescence" class="xsmall link-alt link-text">Adolescence</a></li><li><a href="/topics/art-and-creativity" class="xsmall link-alt link-text">Art and Creativity</a></li></ul>		</div>
+
+		<div class="articles-l2">
+							
+
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/494/what-love-looks-like-from-here">What Love Looks Like From Here</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/rebecca-mcclanahan">Rebecca McClanahan</a></li><li><a href="/issues/494">February 2017</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/494" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 727'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/140x182r/2017-01/494.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/2017-01/494.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/fiction">Fiction</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/410/the-last-thing-i-heard">The Last Thing I Heard</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/theron-hopkins">Theron Hopkins</a></li><li><a href="/issues/410">February 2010</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/410" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 727'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/140x182r/import/issue/410.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/import/issue/410.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/sy-safranskys-notebook">Sy Safransky&#039;s Notebook</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/291/sy-safranskys-notebook-291">March 2000</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/sy-safransky">Sy Safransky</a></li><li><a href="/issues/291">March 2000</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/291" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 724'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/141x182r/import/issue/291.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/282x364r/import/issue/291.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/readers-write">Readers Write</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/196/aging">Aging</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/our-readers">Our Readers</a></li><li><a href="/issues/196">March 1992</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/196" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 725'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/141x182r/import/issue/196.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/281x364r/import/issue/196.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+					</div>
+	</div>
+	
+	
+					<form id="newsletterForm" method="post" action="https://www.thesunmagazine.org/newsletter" data-url-send="https://www.thesunmagazine.org/newsletter" class="form form-newsletter fill-grey" enctype="multipart/form-data" target="_blank">
+
+
+
+		<div class="form-newsletter-intro">
+			<h3 class="alt-ff large">Sign Up For Our Newsletter</h3>
+			<p>We’ll let you know about new website selections, upcoming events, special offers, and more.</p>
+		</div>
+
+		<ul class="form-newsletter-fields form-fields form-fields-inline">
+			<li>
+				<input name="name" type="text" maxlength="500" id="name" placeholder="Your Name">
+			</li>
+			<li>
+				<input name="email" type="text" maxlength="500" id="email" placeholder="Your E-mail">
+			</li>
+
+			<li class="form-fields-inline-button">
+				<button disabled="disabled" class="form-newsletter-send b b-4 b-padding-tight b-loading g-recaptcha" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs" data-callback="recaptcha_callback" name="SubmitButton" id="SubmitButton">
+					<svg><use xlink:href="#i-loading"></use></svg>
+					Sign&nbsp;Up
+				</button>
+			</li>
+		</ul>
+	</form>
+	<script id="hiddenlpsubmitdiv" style="display: none;"></script>
+
+
+
+<footer class="footer brand-grey-dark">
+			<div class="footer-first">
+		<h3 class="footer-tagline">Independent, Reader-Supported Publishing</h3>
+		<p class="footer-desc">In each issue of <em>The Sun</em> you’ll find some of the most radically intimate and socially conscious writing being published today. In an age of media conglomerates, we’re something of an oddity: an ad-free, independent, reader-supported magazine.</p>
+		<ul class="footer-nav list-inline-border xsmall">
+			
+		<li class=" first">
+			<a href="https://www.thesunmagazine.org/about" 	   class=''>
+	   About <em>the Sun</em>	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/staff" 	   class=''>
+	   Staff	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/find-the-sun" 	   class=''>
+	   Find <em>The Sun</em>&nbsp;&nbsp;in a Store Near You	</a>
+		
+	</li>
+
+
+		</ul>
+	</div>
+	
+		<div class="footer-second">
+		<ul class="footer-second-social list-inline">
+			<li><a href="https://www.facebook.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-facebook"></use></svg></span> Like Us</a></li>
+			<li><a href="https://twitter.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-twitter"></use></svg></span> Follow Us</a></li>
+			<li><a href="https://instagram.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-instagram"></use></svg></span> Take a Look</a></li>
+		</ul>
+
+		<div class="footer-second-content">
+			<ul class="footer-nav list-inline-border xsmall">
+				
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/" 	   class='current '>
+	   Home	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/privacy-policy" 	   class=''>
+	   Privacy Policy	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/terms-of-use" 	   class=''>
+	   Terms of Use	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/site-map" 	   class=''>
+	   Site Map	</a>
+		
+	</li>
+
+
+			</ul>
+			<p class="footer-copyright xxsmall">Copyright &copy; 1974–2020 <em>The Sun</em>. All rights reserved.</p>
+		</div>
+	</div>
+</footer>
+
+
+
+<div class="offset-nav">
+	<ul>
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/read" 	   class='current '>
+	   Read	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/issues/current" 	   class=''>
+	   Current Issue	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/archives" 	   class=''>
+	   Archives	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/featured" 	   class=''>
+	   Featured Selections	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/topics" 	   class=''>
+	   Browse Topics	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/sections" 	   class=''>
+	   Browse Sections	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/connect" 	   class=''>
+	   Connect	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/news" 	   class=''>
+	   News from <em>The Sun</em>	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" 	   class=''>
+	   Write a Letter to the Editor	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/discussion-groups" 	   class=''>
+	   Discussion & Writing Groups	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/make-a-suggestion" 	   class=''>
+	   Make a Suggestion	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/submit" 	   class=''>
+	   Submit	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/shop" 	   class=''>
+	   Shop	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/giftsub" 	   class=''>
+	   Gift Subscriptions	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/issues" 	   class=''>
+	   Issues	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+											
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/donatemenu" 	   class='highlight'>
+	   Donate	</a>
+		
+	</li>
+
+		<li class=" last">
+														<a href="/SubscribeNav1" 					   class=''>
+						Subscribe					</a>
+									
+	</li>
+
+
+					<li>
+				<a href="https://www.thesunmagazine.org/shop/cart">Cart ( <span class="cart-item-count">  0  </span>)</a>
+			</li>
+			<li><a href="https://www.thesunmagazine.org/subscriber/login" class="link-header-logout link-alt">Sign In</a></li>
+			</ul>
+	<ul>
+		<li class=" first">
+			<a href="https://www.thesunmagazine.org/about" 	   class=''>
+	   About <em>the Sun</em>	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/staff" 	   class=''>
+	   Staff	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/find-the-sun" 	   class=''>
+	   Find <em>The Sun</em>&nbsp;&nbsp;in a Store Near You	</a>
+		
+	</li>
+
+</ul>
+	<ul>
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/" 	   class='current '>
+	   Home	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/privacy-policy" 	   class=''>
+	   Privacy Policy	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/terms-of-use" 	   class=''>
+	   Terms of Use	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/site-map" 	   class=''>
+	   Site Map	</a>
+		
+	</li>
+
+</ul>
+</div>
+
+<div id="buy-popup-message" class="buy-popup mfp-hide white-popup white-popup-block">
+	<a class="popup-modal-dismiss" href="#"></a>
+	<h5>Due to fulfillment challenges related to the novel coronavirus, print copies are temporarily unavailable for individual sale. We are offering free PDFs until we are able to resume print sales.</h5>
+	<p>Enter your e-mail address below to download this issue.</p>
+	<form method="post" id="download-single" action="https://www.thesunmagazine.org/issue/pdfFree/531.pdf">
+		<label for="email"><span class="label-text">E-mail</span><span class="label-asterisk">*</span></label>
+		<input class="buy-single-email" id="email" type="email" name="email">
+		<button type="send" class="form-buy-issue-send b b-3 b-padding-tight b-loading">Send</button>
+		<button class="form-buy-issue-download b b-3 b-padding-tight b-loading">Download pdf</button>
+		<button type="send" class="popup-modal-dismiss b b-2 b-padding-tight b-loading">Close</button>
+		<div class="g-recaptcha" style="text-align: center" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs"></div>
+
+	</form>
+</div>
+
+			<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/plugins.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/site.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/newsletter.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/js/articles.js"></script>
+		</div>
+		</div>
+
+				<script>
+		(function (doc) {
+			var scripts = doc.getElementsByTagName('script');
+			var script = scripts[scripts.length - 1];
+			var xhr = new XMLHttpRequest();
+			xhr.onload = function () {
+				var div = doc.createElement('div');
+				div.innerHTML = this.responseText;
+				div.style.display = 'none';
+				script.parentNode.insertBefore(div, script);
+			}
+			xhr.open('get', '/theme/thesun//assets/build/img/sprite/sprite.svg', true);
+			xhr.send();
+		})(document);
+
+
+
+		</script>
+
+		<script>
+			// Submit function
+            function recaptcha_callback() {
+						var getUrl = $('.form-newsletter').data( "url-send" ),
+							getName = $('input#name').val(),
+							getEmail = $('input#email').val();
+						$.ajax({
+								type: "POST",
+								url: getUrl,
+								data: {
+									name: getName,
+									email: getEmail,
+									grecaptcharesponse: grecaptcha.getResponse()
+								}
+							}).done(function(response) {
+								console.log(response);
+									$('.form-fields').fadeOut(800, function () {
+										$('.form-fields').empty().append('<div class="newsletter-confirm-message">Thank you for signing up to receive news from <em>The Sun</em>. Your first newsletter will arrive soon.<div>').fadeIn(800);
+									});
+							});
+			}
+
+		</script>
+
+		<script>
+			function getUrlCode() {
+				var url_string = window.location.href;
+				var url = new URL(url_string);
+				var c = url.searchParams.get('promotion\_key');
+				if (typeof c !== 'undefined' && c !== null) {
+					setCookie("promotion_code",c);
+				}
+			}
+
+			function setCookie(cname, cvalue) {
+				document.cookie = cname + "=" + cvalue + ";" + "path=/";
+			}
+
+			function getCookie(cname) {
+				var name = cname + "=";
+				var decodedCookie = decodeURIComponent(document.cookie);
+				var ca = decodedCookie.split(';');
+				for(var i = 0; i <ca.length; i++) {
+					var c = ca[i];
+					while (c.charAt(0) == ' ') {
+						c = c.substring(1);
+					}
+					if (c.indexOf(name) == 0) {
+						return c.substring(name.length, c.length);
+					}
+				}
+				return "";
+			}
+			window.addEventListener( "load", getUrlCode );
+		</script>
+
+
+	</body>
+</html>

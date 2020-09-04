@@ -1,0 +1,1363 @@
+
+<!DOCTYPE html>
+<html class="no-js" lang="en-US">
+	<head>
+		<title>Trying - The Sun Magazine</title>
+
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		
+		<meta name="viewport" content="width=device-width, minimum-scale=1.0">
+
+		<link rel="dns-prefetch" href="//ajax.googleapis.com">
+		<link rel="dns-prefetch" href="//use.typekit.net">
+		
+		<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/modernizr.js"></script>
+		<script src="https://www.google.com/recaptcha/api.js"
+				async defer>
+		</script>
+
+		<script>(function(d) { var config = { kitId: 'kzw7ebk', scriptTimeout: 3000, async: true }, h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s) })(document);</script>
+
+
+				
+		<link rel="apple-touch-icon" sizes="57x57" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-57x57.png?v=2016">
+		<link rel="apple-touch-icon" sizes="60x60" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-60x60.png?v=2016">
+		<link rel="apple-touch-icon" sizes="72x72" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-72x72.png?v=2016">
+		<link rel="apple-touch-icon" sizes="76x76" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-76x76.png?v=2016">
+		<link rel="apple-touch-icon" sizes="114x114" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-114x114.png?v=2016">
+		<link rel="apple-touch-icon" sizes="120x120" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-120x120.png?v=2016">
+		<link rel="apple-touch-icon" sizes="144x144" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-144x144.png?v=2016">
+		<link rel="apple-touch-icon" sizes="152x152" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-152x152.png?v=2016">
+		<link rel="apple-touch-icon" sizes="180x180" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-180x180.png?v=2016">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-32x32.png?v=2016" sizes="32x32">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/android-chrome-192x192.png?v=2016" sizes="192x192">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-96x96.png?v=2016" sizes="96x96">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-16x16.png?v=2016" sizes="16x16">
+		<link rel="mask-icon" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/safari-pinned-tab.svg?v=2016" color="#444444">
+		<link rel="shortcut icon" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon.ico?v=2016">
+		<meta name="apple-mobile-web-app-title" content="The Sun Magazine">
+		<meta name="application-name" content="The Sun Magazine">
+		<meta name="msapplication-TileColor" content="#fcc330">
+		<meta name="msapplication-TileImage" content="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/mstile-144x144.png?v=2016">
+		<meta name="theme-color" content="#ffffff">
+
+				<link rel="stylesheet" type="text/css" href="https://cloud.typography.com/6578674/659928/css/fonts.css" />
+		<link rel="stylesheet" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/css/style.css">
+
+																		<meta property="og:site_name" content="The Sun Magazine">
+		<meta property="og:type" content="article">
+		<meta property="og:url" content="https://www.thesunmagazine.org/issues/358/trying-358">
+		<meta property="og:image" content="http://www.thesunmagazine.org/files/2016-11/358-24-clifford-preview.jpg">
+		<meta property="og:title" content="Trying - The Sun Magazine">
+		<meta property="og:description" content="Recently samples of baby products &amp;mdash; diapers, formula, wipes &amp;mdash; have begun showing up in my mail. Packets of coupons with smiling infants on them arrive in envelopes that say, &amp;ldquo;Congratulations!&amp;rdquo; in big red letters.">
+		<meta property="fb:app_id" content="158741778010551">
+
+						<link rel="image_src" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.comhttp://www.thesunmagazine.org/files/2016-11/358-24-clifford-preview.jpg">
+
+												<meta name="twitter:card" content="summary">
+		<meta name="twitter:title" content="Trying - The Sun Magazine">
+		<meta name="twitter:description" content="Recently samples of baby products &amp;mdash; diapers, formula, wipes &amp;mdash; have begun showing up in my mail. Packets of coupons with smiling infants on them arrive in envelopes that say, &amp;ldquo;Congratulations!&amp;rdquo; in big red letters.">
+		<meta name="twitter:image" content="http://www.thesunmagazine.org/files/2016-11/358-24-clifford-preview.jpg">
+		<meta name="twitter:site" content="@thesunmagazine">
+
+				<link rel="publisher" href="https://plus.google.com/113792980827145858211">
+        
+		<meta name="Description" content="Recently samples of baby products &amp;mdash; diapers, formula, wipes &amp;mdash; have begun showing up in my mail. Packets of coupons with smiling infants on them arrive in envelopes that say, &amp;ldquo;Congratulations!&amp;rdquo; in big red letters.">
+
+		
+		<!-- Google Tag Manager -->
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-TKBHCCG');</script>
+		<!-- End Google Tag Manager -->
+
+		<!-- Google Analytics -->
+		<script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+            ga('create', 'UA-2351127-1', 'auto');  // Replace with your property ID.
+            ga('send', 'pageview');
+            ga('require', 'ecommerce');   // Load the ecommerce plug-in.
+		</script>
+		<!-- End Google Analytics -->
+	</head>
+	<body id="">
+
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TKBHCCG"
+		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+		<header class="header" data-offset-start="80">
+		<div class="header-utilities">
+				<ul class="header-utilities-user list-inline list-inline-tight xxsmall">
+							<li>
+					<span class="header-utilities-user-intro">Already A Subscriber?</span> &nbsp;
+					<a href="https://www.thesunmagazine.org/subscriber/login" class="link-text link-alt">Sign In</a>
+				</li>
+					</ul>
+		<a href="https://www.thesunmagazine.org/shop/cart" class="header-utilities-cart  link-alt link-icon tiny">
+			<span class="i"><svg><use xlink:href="#i-cart"></use></svg></span>
+			<span class="cart-item-count">
+									0 Items
+				
+			</span>
+		</a>
+			</div>
+
+		<div class="header-bar">
+		<h1 class="header-logo logo">
+			<a href="/">
+				<img src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/img/logo-thesun.svg" class="logo-thesun" alt="The Sun Magazine">
+				<img src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/img/logo-tagline.svg" class="logo-tagline" alt="">
+			</a>
+		</h1>
+
+		<ul class="header-nav">
+			
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/read" 	   class='current '>
+	   Read	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/issues/current" 	   class=''>
+	   Current Issue	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/archives" 	   class=''>
+	   Archives	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/featured" 	   class=''>
+	   Featured Selections	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/topics" 	   class=''>
+	   Browse Topics	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/sections" 	   class=''>
+	   Browse Sections	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/connect" 	   class=''>
+	   Connect	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/news" 	   class=''>
+	   News from <em>The Sun</em>	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" 	   class=''>
+	   Write a Letter to the Editor	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/discussion-groups" 	   class=''>
+	   Discussion & Writing Groups	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/make-a-suggestion" 	   class=''>
+	   Make a Suggestion	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/submit" 	   class=''>
+	   Submit	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/shop" 	   class=''>
+	   Shop	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/giftsub" 	   class=''>
+	   Gift Subscriptions	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/issues" 	   class=''>
+	   Issues	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+											
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/donatemenu" 	   class='highlight'>
+	   Donate	</a>
+		
+	</li>
+
+		<li class=" last">
+														<a href="/SubscribeNav1" 					   class=''>
+						Subscribe					</a>
+									
+	</li>
+
+
+		</ul>
+
+		<button class="header-nav-toggle"><svg><use xlink:href="#i-menu" class="i-menu"></use><use xlink:href="#i-close" class="i-close"></use></svg></button>
+		<button class="header-search-toggle" data-form-wrapper=".header-search"><svg><use xlink:href="#i-magnifier" class="i-magnifier"></use><use xlink:href="#i-close" class="i-close"></use></svg></button>
+	</div>
+
+		<div class="header-search">
+		<div class="header-search-content">
+			<form action="https://www.thesunmagazine.org/search" class="form form-search" method="get">
+				<h2 class="alt-ff brand-link">Search Our 40 Years of Archives</h2>
+				<ul class="form-search-fields form-fields form-fields-inline">
+					<li><input type="text" name="q" value=""></li>
+					<li class="form-fields-inline-button"><button class="b b-1 b-padding-tight b-loading"><svg><use xlink:href="#i-loading"></use></svg>Search</button></li>
+				</ul>
+
+				<div class="header-search-content-shortcuts">
+					<h6 class="search-advanced alt-ff"><a class="js-handle-advanced" href="https://www.thesunmagazine.org/search?advanced=1">Advanced Search</a></h6>
+					<br>
+					<h6 class="alt-ff">Popular Pages</h6>
+					<ul class="list-inline-border list-inline-tight xxsmall"><li class=" first"><a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a></li><li class=""><a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a></li><li class=""><a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a></li><li class=""><a href="https://www.thesunmagazine.org/sections/quotations" 	   class=''>
+	   Quotations	</a></li><li class=""><a href="https://www.thesunmagazine.org/sections/readers-write" 	   class=''>
+	   Readers Write	</a></li><li class=" last"><a href="https://www.thesunmagazine.org/sections/poetry" 	   class=''>
+	   Poetry	</a></li></ul>				</div>
+			</form>
+		</div>
+	</div>
+</header>
+
+	<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+	<script type="text/javascript">
+		$(document).ready(function() {
+			$('.js-handle-advanced').on('click', function (e) {
+				e.preventDefault();
+				var getSearchValue = $('.form-search-fields input').val();
+				var getURL = $(this).attr('href');
+				var newURL = getURL + '&q=' + getSearchValue;
+				window.location.href = newURL;
+			});
+		});
+	</script>
+
+		<div class="container-hidden">
+		<div class="container">
+
+				
+	
+	<article class="article ">
+		<header class="block-content block-content-l1 block-content-center">
+						<div class="block-content-header">
+				<h6 class="b-content-section heading-square"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+				<h1 class="block-content-title">Trying</h1>
+
+				
+				<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/thea-sullivan">Thea Sullivan</a></li><li><a href="/issues/358">October 2005</a></li></ul>
+
+			</div>
+
+																			
+
+				<figure class="block-content-photo block-content-photo-large photo photo-outset-center-small">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 1535 1960'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/768x980r/photos/358-24-clifford.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/1535x1960r/photos/358-24-clifford.jpg
+	 alt="358 - Clifford - Sullivan"
+	 class="lazy">
+
+										<figcaption>
+
+						
+																				<div class="photo-credit">
+								&copy;&nbsp;<a href="/contributors/cary-clifford">Cary Clifford</a>
+							</div>
+																		</figcaption>
+									</figure>
+
+					</header>
+
+				<div class="article-body link-text-wrap">
+																		<p><em><span>Who can ever learn the will of God? Human reason is not adequate for the task, and our philosophies tend to mislead us.&nbsp;.&nbsp;.&nbsp;. All we can do is make guesses about things on earth.</span></em></p>
+
+<p class="text-right"><em>&mdash; Wisdom 9:13-16, </em>The Good News Bible</p>
+
+<p>&nbsp;</p>
+
+<p><span class="large"><strong>Recently</strong></span> samples of baby products &mdash; diapers, formula, wipes &mdash; have begun showing up in my mail. Packets of coupons with smiling infants on them arrive in envelopes that say, &ldquo;Congratulations!&rdquo; in big red letters.</p>
+
+<p>The first time the mail carrier rang my bell to deliver one of these packages, I came down two flights of stairs, eager to find out what it was. Maybe a gift? A catalogue order? The woman handed me a bright yellow box, which I soon realized was a sample of Enfamil formula. I stood frozen in the doorway, my mouth open as if to call out in protest. By the time I found my voice, she had disappeared across the street.</p>
+
+<p>Not so long ago I would have pondered the hidden meaning of these packages. I would have wondered if they were a good omen for my husband and me, a sign that our luck would soon change. And being a good sport about the mix-up could only help our chances, demonstrate our cosmic deservedness, our worthiness to have a child. (And what of the bitterness, the rising bile of jealousy and anger? Better to push it down.)</p>
+
+<p>Now I&rsquo;m more likely to assume that some doctor or fertility lab simply sold our address to the baby-product companies that, using a cruel calculus, send promotional products to couples who are trying to conceive on the odds that some of them have gotten lucky. Clearly they&rsquo;re not worried about the ones like us, who haven&rsquo;t.</p>
+
+<p>I implored the mail carrier to stop bringing these products, but still I couldn&rsquo;t figure out what to do with the formula that had already been delivered. Even if I didn&rsquo;t see its arrival as a sign, what I chose to do with it seemed fraught with symbolic meaning. Throwing it out seemed a bitter gesture that might cement our fate. Giving it to a pregnant friend, while sensible, felt like capitulation. Finally I tucked the box away in the back of our pantry, so it would be there if we ever needed it &mdash; <em>no</em>, I corrected myself, <em>when we do</em>.</p>
+
+<p>&nbsp;</p>
+
+<p><span class="large"><strong>From</strong></span> the start I was sure that Brian and I would conceive easily. I knew plenty of couples who&rsquo;d had trouble, including my sister and her husband. But for years my intuition had told me: <em>You won&rsquo;t have trouble getting pregnant.</em> So waiting until my midthirties didn&rsquo;t worry me. Sure, I had read all the statistics &mdash; I just didn&rsquo;t believe they would apply to us. I thought that we would conceive easily because we deserved to. We were both teachers who loved kids, and we&rsquo;d both spent a long time in therapy, which would only make us better parents. On top of that, our marriage was great &mdash; a true friendship, full of respect and honesty. Of course we would have kids.</p>
+
+<p>We weren&rsquo;t oblivious to the passage of time &mdash; I was thirty when we married, Brian thirty-five &mdash; but we wanted a couple of years alone together. Admittedly Brian was ready for children sooner than I was: I had a manuscript I wanted to finish, a project whose completion seemed crucial to my sense of self. Besides, I didn&rsquo;t want the low cloud cover of an unfulfilled dream darkening my parenting years. Both Brian and I had been raised by very young parents with troubled marriages. It seemed obvious that the more self-aware and fulfilled we were starting out, the better we&rsquo;d do raising kids. Surely the universe would recognize that.</p>
+
+<p>We started trying a month before my thirty-fourth birthday, giddy to be &ldquo;playing without a goalie,&rdquo; finally free from birth control. After the first month, I was sure I was pregnant: my breasts felt different, my taste for food changed, and I sometimes got so dizzy I almost passed out. But then my period arrived more or less on schedule, and it did again the next month. That&rsquo;s when I got serious. I bought books, meticulously charted my temperature and cervical fluid, tracked ovulation patterns. We had sex on a schedule, in the missionary position, with me lying knees-up for twenty minutes afterward. Once in a while, for good measure, we threw out the rule book and just had fun, figuring a child might prefer to enter the world as a result of some old-fashioned sexual abandon.</p>
+
+<p>That first spring, a dove built her nest just outside the back door of our apartment in San Francisco and laid a perfect, pale egg in it. Brian brought me out to see it, and we stood there in silence, not needing to speak aloud the meaning it seemed to hold.</p>
+
+<p>For weeks we waited, careful not to disturb the nesting dove. But the egg never hatched. It just lay there, beautiful and inert.</p>
+
+<p>&nbsp;</p>
+
+<p><span class="large"><strong>Everybody&rsquo;s</strong></span> got a theory about why couples do or don&rsquo;t conceive. Friends and relatives shared stories about what they believed were the triggering events for them. &ldquo;It was when my wife started taking prenatal vitamins,&rdquo; or &ldquo;when we got a dog,&rdquo; or &ldquo;when we cleared a space in the house for the baby.&rdquo; I had my own speculations: maybe the baby was choosing a particular astrological sign for herself. (I felt certain we&rsquo;d have a girl.) Maybe she was waiting for me to finish my manuscript, or for Brian to complete his master&rsquo;s degree. I pictured her floating above us somewhere, amused by our worries.</p>
+
+<p>As the months dragged on, a few friends asked if I&rsquo;d examined any mixed feelings I might have about being a mother. This made me angry: were they blaming me for not getting pregnant? But secretly I wondered the same thing. <em>Could I be unconsciously blocking conception in some way?</em></p>
+
+<p>Like a lot of people I knew, I had gradually adopted the idea that we create our own reality, that our lives are a reflection of our thoughts, beliefs, and intentions. And just as we could create fortunate events in our lives, we could also bring misfortune or illness our way. When bad things happened, it meant we had fallen out of alignment with our divine origins or needed to learn a lesson. A book called <em>You Can Heal Your Life</em>, by Louise L. Hay, was the bible of such thinking. It featured a chart listing every imaginable physical malady and its corresponding emotional or mental cause. An ingrown toenail indicated &ldquo;guilt about the right to move forward&rdquo;; bleeding gums, &ldquo;lack of joy in the decision made in life&rdquo;; deafness, &ldquo;rejection, stubbornness, loneliness.&rdquo;</p>
+
+<p>I was a Louise L. Hay aficionado around the time my sister and her husband were going through their own infertility nightmare, which included multiple miscarriages. I felt terrible for them, but at the same time I nursed private thoughts about why this might be happening: my sister&rsquo;s own unmet childhood needs and unacknowledged ambivalence toward parenthood. She had never been in therapy nor done much spiritual work and so, I believed, was more susceptible to such dramatic wake-up calls. Other family members whispered about my sister&rsquo;s stress level and possible depression, which &ldquo;everyone knows hurts fertility.&rdquo;</p>
+
+<p>Looking back, I think we were really protecting ourselves from the reality of my sister&rsquo;s raw suffering. Rather than feel the pain she and her husband were going through and acknowledge that we might one day suffer just as randomly and abjectly, we distanced ourselves with convenient theories. <em>Thank God</em>, I said to myself back then, <em>that I have the tools to work through my own issues before becoming a parent.</em></p>
+
+<p>&nbsp;</p>
+
+<p><span class="large"><strong>At the</strong></span> six-month mark, on the fertility books&rsquo; recommendation, Brian gamely agreed to a sperm test. He told me later he&rsquo;d had a feeling there&rsquo;d be a problem. It was a November night, and darkness had fallen early. Brian and I sat quietly at the dining-room table, stunned by the test results: &ldquo;Eleven million .&nbsp;.&nbsp;. low motility .&nbsp;.&nbsp;. might consider a donor.&rdquo;</p>
+
+<p>Although 11 million sounded like a lot, it turned out to be only a fifth of normal. (Sperm counts have declined so dramatically in the developed world that the &ldquo;normal&rdquo; count keeps getting lower.) And &ldquo;low motility&rdquo; meant that, of the 11 million, only 10 percent were good swimmers. In follow-up tests, after Brian had quit taking hot baths, the count more than doubled and the motility improved a bit, but both remained well below normal.</p>
+
+<p>The only treatments for low sperm count are artificial insemination &mdash; injecting a specially treated sample of Brian&rsquo;s sperm into my uterus &mdash; and in vitro fertilization, or <span class="smallcaps">IVF</span>, in which eggs would be removed from my body and joined with Brian&rsquo;s sperm in a lab; then the fertilized eggs would be implanted in my uterus. We could not yet imagine undergoing either treatment. And using a sperm donor felt out of the question: we wanted this baby to be both of ours. So we just kept trying ourselves. Out of all those sperm, we figured, we needed only <em>one</em>.</p>
+
+<p>&nbsp;</p>
+
+<p><span class="large"><strong>We were</strong></span> on vacation in Italy when we hit the one-year mark, an anniversary that, according to the books, signaled the need to see a fertility specialist. I had fantasized that a leisurely, romantic trip would do the trick: we could just relax and let it happen. After three weeks there, when my period arrived yet again, I was crushed. I emerged from the bathroom sobbing inconsolably. There was no denying it anymore: we were in the infertility club, the one I had thought we would never join.</p>
+
+<p>Then, just after we returned home, Brian was running by the rose garden in Golden Gate Park when he heard the words distinctly in his head: <em>Rosie&rsquo;s coming.</em> He heard the phrase again and again as he ran. It made no sense to him, until I told him that &ldquo;Rose&rdquo; was the name I had been leaning toward for a girl. <em>Rosie&rsquo;s coming.</em> Our spirits lifted, and I started to see roses everywhere I looked.</p>
+
+<p>Still, I remembered the dove&rsquo;s egg that never hatched, and I didn&rsquo;t want to take chances. I made an appointment for my own fertility consultation. Though I was convinced that my reproductive system was in good working order, it seemed only fair to get checked out myself.</p>
+
+<p>But before I had a chance to go to my first fertility appointment, my sense of smell went into overdrive, and I found myself unable to eat a maple-pecan muffin because it was too, well, <em>mapley</em>. The thin pink line on the drugstore test confirmed it: after more than a year of trying, I was finally pregnant.</p>
+
+<p>Here&rsquo;s a partial list of the theories I had about why: (1) I had accepted that we were in the infertility club. (2) I had made the fertility appointment, letting go of my stubborn insistence that there was nothing wrong with me. (3) I had been brought down from my self-righteous spiritual pedestal.</p>
+
+<p>&nbsp;</p>
+
+<p><span class="large"><strong>Brian&rsquo;s</strong></span> and my reactions to conceiving were different. He was deliriously happy &mdash; for days he couldn&rsquo;t stop smiling &mdash; but also acutely nervous that something would go wrong. He arranged a little altar on his dresser for the safety of the baby: a stone placed in a tray of sand, surrounded by Buddhist prayer beads.</p>
+
+<p>Though deeply relieved and pleased, I was suddenly plagued with fears about the downside of parenthood: the sacrifice of time, the threat to my work, the potential for losing some of my hard-won sense of self. I felt profoundly guilty about this. How, after twelve months of longing, could I suddenly feel so afraid of having a child?</p>
+
+<p>My therapist assured me that my fears were normal. Because I had felt subsumed by my mother&rsquo;s emotional needs growing up, she explained, I perceived any mother-child relationship as potentially suffocating. &ldquo;The difference,&rdquo; she said, &ldquo;is that you didn&rsquo;t want to take care of your mother. But you will want to take care of your child.&rdquo;</p>
+
+<p>Unlike Brian, whose mother had suffered multiple miscarriages when he was a boy, I had few fears about pregnancy itself. I had always looked forward to being pregnant, despite the inevitable discomforts. I wanted to experience new life unfolding in my body. My best friend and I chatted excitedly about baby showers and maternity clothes. I was confident I would carry the baby to term.</p>
+
+<p>&ldquo;Wow, Thea, you&rsquo;re playing with fire,&rdquo; my brother said when I told him I was pregnant. Not, <em>Congratulations</em>. Not, <em>I know how much you&rsquo;ve wanted this</em>.</p>
+
+<p>I gripped the phone, my heart a hot stone in my chest. &ldquo;Are you saying that my baby is going to die,&rdquo; I demanded in a shaky voice, &ldquo;because I told you about it?&rdquo; But I knew that was exactly what he was saying. He and his wife, who&rsquo;d had two easy pregnancies resulting in two gorgeous children, had a superstition that sharing the news during the first trimester increases the risk of miscarriage &mdash; akin, I suppose, to baseball fans talking about a no-hitter in progress.</p>
+
+<p>Two weeks later I lay flat on my back in an examination room, Brian at my side, staring at the grainy gray shape of a tiny curled fetus on the ultrasound screen. An agonizing silence filled the room. The doctor could find no heartbeat. I felt as if I were falling from a great height. The hard look on Brian&rsquo;s face told me that he wasn&rsquo;t surprised. Before we left the office, the doctor stretched out his arms and hugged us.</p>
+
+<p>What they don&rsquo;t tell you about miscarriage is that, whether it starts with bleeding or not, you have to take drastic, painful measures to get the fetus out of your body. I knew I didn&rsquo;t want surgery, so, with the support of my doctor, I decided to use herbs to stimulate contractions. For four hours I lay on the bathroom floor, my pelvis exploding with pain. The bright red blood, the tiny fetus passing through me &mdash; I needed these things to know it had been real.</p>
+
+<p>The next night Brian and I climbed to the roof of our building to perform a makeshift ritual of mourning. I hurled the white stick of our positive pregnancy test off the roof. Brian tossed a handful of tiny plastic babies that had come tied to the ribbons of congratulatory balloons. One by one, we sent these frustratingly weightless objects flying and watched as they dropped into other people&rsquo;s backyards, three stories below.</p>
+
+<p>My grief after the miscarriage was thick and gray. Besides the heartbreaking loss of the pregnancy itself, I felt guilty for having responded to impending motherhood with fear. (<em>Could it have been my fault?</em>) Worst of all, my unspoken assumption that my self-awareness kept me safe from harm was unveiled for what it had always been: an attempt to take credit for good fortune and keep fear at bay.</p>
+
+<p>As a child I&rsquo;d often thought that if I was good, my parents would love me better, would even love each other more. By the time I began trying to get pregnant, I thought I had given up this good-girl fantasy, but it turned out I had just transferred it from my parents to God: If I am a good person, I will get pregnant. Even though conceiving a child is a two-person act, even though Brian&rsquo;s sperm count was clearly an issue, even though I was thirty-five, I had somehow imagined it was all up to me and my goodness.</p>
+
+<p>&nbsp;</p>
+
+<p><span class="large"><strong>In the</strong></span> years since then I&rsquo;ve read numerous books. I&rsquo;ve tried cleanses, special diets, and an exercise video called <em>Yoga for Fertility</em>. I&rsquo;ve taken licorice, red clover, and chaste tree root. I once drank, for fourteen days, a nauseating concoction of condensed milk and the water in which the heads of twelve light pink carnations had been soaked overnight &mdash; a Turkish home remedy that came with the promise &ldquo;Everyone I&rsquo;ve ever prescribed this to has gotten pregnant.&rdquo;</p>
+
+<p>Brian has eaten huge quantities of garlic (first thing in the morning, of course) and taken saw palmetto, devil&rsquo;s claw, and Swedish bee pollen. We have prayed to the Virgin of Guadalupe, Saint Anne (Mary&rsquo;s mother, who was barren for many years), and Saint Gerard (patron saint of pregnancy). We&rsquo;ve created altars, displayed African fertility symbols, drunk Lourdes water, and eaten <em>vibuti</em> &mdash; healing holy ash manifested by the Indian guru Sathya Sai Baba. For a while, I knelt on the floor every morning and repeated Psalm 113 aloud: &ldquo;To the childless wife he gives a home, and gladdens her heart with children.&rdquo;</p>
+
+<p>We have worked with an acupuncturist, a homeopath, and an outrageously expensive, world-traveling naturopath from New Zealand (now known in our house as &ldquo;that goddamned Kiwi&rdquo;). We have seen Western doctors, psychics, astrologers, medical intuitives, and a Christian healer who claimed to have once cured a woman&rsquo;s <span class="smallcaps">MS</span> overnight. The acupuncturist said my spleen <em>ch&rsquo;i</em> was too low. The naturopath claimed, after examining the irises of my eyes, that my intestine was resting on my uterus, changing its shape and decreasing the blood flow. One Western doctor diagnosed polycystic-ovary syndrome, whereas the other assured me my ovaries looked great but said that I had a &ldquo;lazy&rdquo; pituitary gland. (Both <span class="smallcaps">MD</span>s checked the ultrasound and pronounced my uterus &ldquo;gorgeous.&rdquo;)</p>
+
+<p>One doctor said it had been a fluke that we&rsquo;d conceived the first time, and that we shouldn&rsquo;t count on its happening again without in vitro fertilization. The psychics mostly saw no reason why we shouldn&rsquo;t conceive naturally. The Christian healer swore it all hinged on the depth of our faith, our belief that it could happen. The astrologer said that invasive medical treatment was indicated in my chart &mdash; was, in fact, my karma. (Much later, after we&rsquo;d tried in vitro fertilization and it had failed, the Christian healer told us that had we not done it, I would have become pregnant.)</p>
+
+<p>It might seem like masochism, going to so many different healers and doctors, seeking out countless opinions that are bound to contradict one another, but it&rsquo;s impossible to overstate the depth of the desire, once awakened, to have a child.</p>
+
+<p>A friend once said to me, as I dissolved in tears across the table, &ldquo;You just need to surrender.&rdquo; Her tone was matter-of-fact, distant. I wanted to pick up my chair and hit her with it.</p>
+
+<p>&nbsp;</p>
+
+<p><span class="large"><strong>Brian</strong></span> and I sat on the porch of my family&rsquo;s cabin in Vermont, watching the birch leaves shimmer in the breeze and the bumblebees tumble around the garden. Our dog settled into the warm grass and sighed. It was July, and we were by ourselves, taking the summer off: no remedies, no temperature charting. Our days were long, lazy stretches punctuated only by dips in the local pond and walks along the dirt roads around the cabin. We made love for pleasure, in a light-filled room with a view of the green hillsides. We needed, for a little while, to stop trying.</p>
+
+<p>And yet, even as I sat on the porch letting everything go, I couldn&rsquo;t help harboring hopes of our very own &ldquo;boom&rdquo; story. You know, the ones where the infertile couple finally gives up trying and <em>boom</em>: they conceive. Or they file for adoption, and <em>boom</em>. Or they walk away from the fertility clinic, sell their house, start living on a boat, and <em>boom</em>. People love these stories. They can&rsquo;t help but enjoy the tidy ending: All along they just needed to let go. How obvious!</p>
+
+<p>For those in the midst of infertility, however, these stories are infuriating. First of all, such cases are statistically uncommon. Most people who seek fertility treatment end up actually needing it, and you never hear about the couples who give up and nothing happens. Second, there is an unsettling glibness to the suggestion that infertile couples just need to relax. Although stress surely hinders fertility, infertility also causes stress. Studies show that couples suffering infertility are as anxious and depressed as cancer patients. Would we tell someone with cancer to &ldquo;just relax&rdquo;?</p>
+
+<p>Finally, as happy as the boom stories are, they offer no practical advice, because it&rsquo;s impossible to let go of the desire to conceive as a strategy for conceiving. Forgoing treatment in the hopes that giving up will result in a pregnancy is a recipe for regret. What these stories tell us, if they tell us anything, is that for the boom to happen &mdash; if, in fact, it is to happen &mdash; you have to get to a point where you&rsquo;ve actually given up. And you can&rsquo;t get there until you get there.</p>
+
+<p>&nbsp;</p>
+
+<p><span class="large"><strong>Brian</strong></span> was ready to try medical intervention long before I was, but since I was the one who would have to undergo the invasive procedures, he deferred to me, and I dragged my feet as long as I could. It wasn&rsquo;t just that I found the Western approach alienating, a slippery slope of drugs and bodily invasions leading all too quickly, it seemed, to the high-stakes endgame of egg and sperm joined in a petri dish. It wasn&rsquo;t just the mind-boggling expense of it all, or the potential health risks. And it wasn&rsquo;t just that we had once conceived on our own. Most of all I was plagued by spiritual questions: What did it mean to use technology to create life? How did I reconcile my belief in God&rsquo;s will with the dry scientific approach of the fertility clinic? If everything we had tried thus far &mdash; all of it &ldquo;natural&rdquo; and therefore, I believed, more spiritual &mdash; had failed, was it plain bullheadedness to keep trying? Or was it only logical to try a more scientific route?</p>
+
+<p>I longed to surrender to divine guidance: <em>Whatever you ask of me, I will do.</em> But what happens when you can&rsquo;t hear the voice of God, or even the voice of your own intuition? How do you surrender if you don&rsquo;t know what you&rsquo;re surrendering to? I didn&rsquo;t know whether surrender meant giving up my resistance to medical treatment, or giving up the timeline and letting it happen when it happened. Was continuing holistic treatment an example of being patient, or stubborn? Maybe surrender meant stopping altogether, just giving up. (<em>And then</em>, a small voice said, <em>maybe .&nbsp;.&nbsp;. boom</em>.)</p>
+
+<p>What I knew was that I could no longer blame my mental state for what was happening to us. I had to accept the possibility that we might never know why, that there would be no magic solution, no &ldquo;right&rdquo; thing to do.</p>
+
+<p>On my thirty-seventh birthday, which happened to fall on Easter, I went to Catholic mass for the first time since I was a child. There, amid the incense, the music, and the liturgy, I fell to my knees and wept. Listening to the kindly Jesuit priest&rsquo;s words, it came to me: We don&rsquo;t know why we suffer. Even Jesus wanted a reprieve from what he was asked to endure: &ldquo;Father, take this cup from me.&rdquo; Inexplicable suffering, and being with others who are suffering, is part of what it means to be human.</p>
+
+<p>&nbsp;</p>
+
+<p><span class="large"><strong>I made</strong></span> an appointment at the fertility clinic. What had finally tipped it for me was when a dear friend fell in love with a woman he&rsquo;d met on Match.com. Their wedding was a ridiculously joyful occasion. It seemed clear that God was working through the Internet. Why not the fertility clinic too?</p>
+
+<p>&ldquo;Your uterus looks good,&rdquo; Dr. Wong said, pointing to vague shapes on the ultrasound screen. &ldquo;Your hormone tests are fine. And see here? You&rsquo;ve already ovulated.&rdquo; He dictated a few numbers to the nurse next to him, then turned again to me. &ldquo;Still, I recommend that you do in vitro fertilization as soon as possible. Talk to your husband. See what he says.&rdquo;</p>
+
+<p>It was just as I had feared: they were pushing us toward a treatment for which I still didn&rsquo;t feel ready.</p>
+
+<p>We finally settled on another clinic, where we tried artificial insemination first. One day we got stuck in traffic, along with our vial of sperm. In all the stress and excitement we had forgotten about morning rush hour, and at the appointed time we were only halfway to the clinic, the plastic jar stuck in Brian&rsquo;s pants for warmth. Brian cursed and ran a few lights, and we made it in time for the sperm to be cleaned and spun around in the centrifuge. Then we went out to breakfast, passing the time until the insemination by idly speculating on what &ldquo;the boys&rdquo; were doing now.</p>
+
+<p>I was happily surprised by the new clinic we&rsquo;d found. I had pictured dour, chilly, statistic-spewing doctors, not these compassionate, warm people who were helping us. And it was a relief, after years of going it alone, finally to have someone &mdash; or, more accurately, a whole team of someones &mdash; who would take the wheel. All we had to do now was manage our emotional lives along the way (no small feat). They didn&rsquo;t promise success, just vowed to do the best they could. After all the false promises, this felt oddly refreshing, even comforting.</p>
+
+<p>Once we&rsquo;d begun medical treatment, we tore through our options with alarming speed. In preparation for artificial insemination, I took several cycles of Clomid, a pill that stimulates ovulation (and causes unbearably foul moods). But because of my &ldquo;lazy&rdquo; hormones, it wasn&rsquo;t enough. I needed the big guns of injectable drugs. And so we found ourselves in our kitchen every evening, mixing up powder and diluent and injecting me in the thigh with, among other things, a substance made from the urine of menopausal nuns. Though it was odd to be using a drug made from someone&rsquo;s urine, I liked knowing that it had come from women who&rsquo;d spent their whole lives praying. The other option was a drug made from hamster hormones.</p>
+
+<p>After our crosstown sperm adventure and a long breakfast, we returned to the clinic. As the doctor was preparing the catheter that would carry Brian&rsquo;s newly cleaned-and-spun sperm high into my uterus, he told us the sperm numbers had been bad, and not to expect too much.</p>
+
+<p>His prediction of failure proved correct. After several days of sobbing, I decided I couldn&rsquo;t take waiting anymore. I was ready for in vitro fertilization.</p>
+
+<p>&nbsp;</p>
+
+<p><span class="large"><strong>&ldquo;Now,&rdquo;</strong></span> the priest said, &ldquo;we await with hopeful expectancy the coming of the child, and with him, a great light.&rdquo; I listened from the shadowy pews, full of hope and fear and inflamed hormones. After months of preparatory medicines and doctor visits, our <span class="smallcaps">IVF</span> cycle was falling just before Christmas, during the church season of Advent, and the priests were constantly mentioning the &ldquo;baby&rdquo; and the &ldquo;beloved child.&rdquo; I was alternately encouraged by the coincidence and wary of it. I kept tearing up, trying not to make it mean too much, praying this wasn&rsquo;t a cosmic setup.</p>
+
+<p>Then the &ldquo;transfer&rdquo; &mdash; the procedure in which doctors would implant the fertilized eggs in my uterus &mdash; was scheduled for December 12, the feast of Our Lady of Guadalupe. Even before my return to Catholicism, this particular vision of Mary, brown-skinned queen of the Americas, had been my patron saint. Her image was all over our house: on a wooden folk-art painting, a votive candle, even a switch plate. Having new life placed in my womb on her feast day, in the middle of Advent, was too much of a coincidence to dismiss. I allowed myself to swell with hope.</p>
+
+<p>Once the eggs had been removed from my body &mdash; an outpatient surgery called &ldquo;retrieval&rdquo; &mdash; they were fertilized by an embryologist, who handpicked the best of Brian&rsquo;s sperm and inserted one into each of my eggs, thus determining, however blindly, the gender and genetic makeup of our potential children. A few days later, we returned for the quick and painless transfer to complete the process.</p>
+
+<p>&ldquo;She&rsquo;s up, and she&rsquo;s pregnant!&rdquo; one of the doctors called out, smiling, when I passed him in the clinic hallway with three fertilized embryos newly implanted. I wanted to hug him. Right away I did feel acutely pregnant, with extremely sore breasts and heat coursing through my body. Doing my Christmas shopping, I walked with one hand on my belly, as if I could hold them all in. We were hoping for at least one to survive, but for a short time I felt like the mother of three.</p>
+
+<p>A week later I woke up feeling nothing &mdash; no symptoms at all &mdash; and somehow I knew. A leaden curtain came down inside, protecting me from the flood of grief that would come. I told Brian, &ldquo;I don&rsquo;t think it worked.&rdquo;</p>
+
+<p>Just two days before Christmas, we got confirmation: I was pregnant, but it wasn&rsquo;t viable. It was an ectopic pregnancy, in which a fertilized embryo inexplicably gets drawn into a fallopian tube and stuck there. A rare occurrence, said the doctor. Just bad luck. They gave me twin injections of a low-dose chemotherapy drug to attack the embryo&rsquo;s <span class="smallcaps">DNA</span> so that it wouldn&rsquo;t grow and cause me to hemorrhage. <em>Kill or be killed</em>, I thought darkly.</p>
+
+<p>On Valentine&rsquo;s Day, after weeks of blood tests, I was once again pronounced not pregnant.</p>
+
+<p>&nbsp;</p>
+
+<p><span class="large"><strong>In his</strong></span> book <em>Grace and Grit</em> philosopher Ken Wilber writes about the problem with looking for meaning in physical maladies. He describes his wife Treya&rsquo;s struggle with cancer, her bouts of self-blame, and the hurtful comments she endured from spiritually minded friends about the likely emotional causes of her disease.</p>
+
+<p>There are three states of awareness, Wilber writes: prerational, rational, and transrational. Prerational awareness relies on &ldquo;magical&rdquo; cause-and-effect interpretations to understand suffering: cancer is caused by buried resentment, or infertility is due to ambivalence about parenthood. Rational awareness uses observable scientific evidence: disease is caused, and healed, on the physical plane alone. Both ways of thinking confer a comforting sense of knowing how life works, of having some control over suffering.</p>
+
+<p>Transrational awareness acknowledges and includes reason, but also transcends it. In a transrational state of awareness we do our best to act on what we know, but we also allow for the possibility of not knowing, of not having control, of being part of a larger reality. Of the three ways of thinking, only the last helps us overcome our need for a narrative, usually a much-too-simple one, to tell us why things happen the way they do.</p>
+
+<p>At the end of Wilber&rsquo;s book his wife, who has tried treatments from East and West, who has looked deeply into herself, who has inspired others with her courage and equanimity, dies at forty-one. The &ldquo;problem&rdquo; of her cancer is never solved. And he writes about her tragic death not as a failure but as a part of the mystery.</p>
+
+<p>&nbsp;</p>
+
+<p><strong><span class="large">After</span></strong> the failed <span class="smallcaps">IVF</span>, people pretty much stopped offering us theories and advice. The sheer longevity of our suffering seemed to shut them up. Even better, it quieted the incessant voice in my head that was hellbent on trying to explain or control what was happening. Now I spend more time in the mystery, in the place of not knowing, without falling into the dispiriting belief that life is simply random or cruel.</p>
+
+<p>None of us really knows why we suffer. I don&rsquo;t know why, after almost five years, Brian and I are still childless. I don&rsquo;t know if in vitro fertilization will work the next time, if I will become pregnant naturally again, or if we will adopt. But I nurture the belief that we will create a family.</p>
+
+<p>I won&rsquo;t go so far as to say I think our infertility has been a good thing. It&rsquo;s been horribly difficult and painful, and I wouldn&rsquo;t wish it on anyone. But I&rsquo;m grateful for some of the changes it&rsquo;s wrought. I&rsquo;ve given up trying to protect myself from the fear that bad things will happen. (They already are happening.) I&rsquo;ve grown in compassion, and I&rsquo;m much less apt to distance myself from other people&rsquo;s suffering. And Brian and I have learned to do what he calls &ldquo;leaning in,&rdquo; drawing as close to each other as we can in the face of hardship.</p>
+
+<p>Most of all, I&rsquo;m not as desperate to understand &ldquo;why&rdquo; as I used to be. I&rsquo;m less afraid of &ldquo;getting it wrong,&rdquo; of failing to discern God&rsquo;s will. When I try too hard to figure it out, to do it right, to be &ldquo;good,&rdquo; I only cause myself more suffering.</p>
+
+<p>Baby products continue to arrive in the mail, but I try not to attribute meaning to their arrival, or to my disposal of them. The other day I hauled out the box of baby formula from the back of the cupboard and gave it away to my church for its food drive. This wasn&rsquo;t a symbolic gesture; it was a practical acknowledgment that someone else &mdash; someone who is suffering in an altogether different way than I am &mdash; might get some use out of it.</p>
+
+<p>And yet there are still moments I can&rsquo;t shake off easily, details that seem charged with significance &mdash; like the dove&rsquo;s nest, that spring of roses, the Virgin of Guadalupe. I cannot interpret these events, but they linger the way images from dreams do: palpable, enigmatic, insistent.</p>
+
+<p>This, I have come to believe, is where real magic resides: not in facile equations &mdash; psoriasis equals &ldquo;the fear of being hurt,&rdquo; or surrender begets conception &mdash; but in those luminous moments that hint at patterns and connections running through our lives; those subtle glimpses that suggest we are continually being led somewhere, even if the path takes us through pain and suffering, even if we don&rsquo;t know where we are going, or why.</p>
+														</div>
+
+
+				
+<div class="sharing-bar article-sharing">
+	<div class="sharing-bar-first">
+		<a href="javascript:window.print();" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-printer"></use></svg> <span>Print</span></a>
+	</div>
+
+	<div class="sharing-bar-second">
+		<span class="alt-ff xsmall">Share:</span>
+		<a href="https://www.facebook.com/sharer/sharer.php?u=https://www.thesunmagazine.org/issues/358/trying-358" target="_blank" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-facebook"></use></svg> <span>Facebook</span></a>
+		<a href="https://twitter.com/share?url=https://www.thesunmagazine.org/issues/358/trying-358&amp;via=thesunmagazine" target="_blank" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-twitter"></use></svg> <span>Twitter</span></a>
+		<a href="#" class="b b-1 b-padding-tight xsmall js-toggle-mail-form"><svg><use xlink:href="#i-email"></use></svg> <span>Email</span></a>
+	</div>
+</div>
+
+<div class="send-to-friend-message-container">
+	<div class="alert alert-success xsmall">Thank you for sharing <em>The Sun</em>.</div>
+</div>
+
+<form method="post" action="/ajax/articles/send-to-a-friend" class="form fill-grey send-to-friend-form">
+		<input type="hidden" id="form_url" name="form[url]" value="https://www.thesunmagazine.org/issues/358/trying-358" />
+
+	<ul class="form-fields">
+		<li><label for="form_sender_name"><span class="label-text">Your Full Name</span><span class="label-asterisk">*</span></label><input type="text" id="form_sender_name" name="form[sender_name]" required="required" /></li>
+		<li><label for="form_sender_email"><span class="label-text">Your Email Address</span><span class="label-asterisk">*</span></label><input type="email" id="form_sender_email" name="form[sender_email]" required="required" /></li>
+		<li><label for="form_recipient_name"><span class="label-text">Friend’s Name</span><span class="label-asterisk">*</span></label><input type="text" id="form_recipient_name" name="form[recipient_name]" required="required" /></li>
+		<li><label for="form_recipient_email"><span class="label-text">Friend’s Email Address</span><span class="label-asterisk">*</span></label><input type="email" id="form_recipient_email" name="form[recipient_email]" required="required" /></li>
+		<li><label for="form_message"><span class="label-text">Personalized Message</span></label><textarea id="form_message" name="form[message]"></textarea></li>
+	</ul>
+<div class="send-to-friend-message-container">
+	<div class="alert alert-error xsmall">Something went wrong. Please try again.</div>
+</div>
+
+<div class="g-recaptcha" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs"></div>
+<div class="form-actions"><button type="submit" id="form_submit" name="form[submit]"	class="form-actions-b-primary b b-1 b-loading xsmall"><svg><use xlink:href="#i-loading"></use></svg>
+		Submit
+	</button></div>
+<input type="hidden" id="form__token" name="form[_token]" value="15bb2e5fcc9e6ddb82609aa361fdc2de5a7afa40" /></form>
+
+<br>
+
+
+
+										<footer class="article-contributor contributors">
+									
+
+<div class="block-contributor">
+		
+
+		<div class="block-contributor-content">
+		<div class="block-contributor-bio small">
+			<p><strong><span class="smallcaps">Thea Sullivan</span></strong> and her husband live in San Francisco and are the proud parents of a twelve-year-old terrier mix named Sam. Sullivan&rsquo;s work has appeared in <em>Barrow Street</em>, <em>Calyx</em>, and <em>Water-Stone</em>. She teaches writing workshops and coaches writers in person and online.</p><a href="/contributors/thea-sullivan" class="block-contributor-link link-alt small">More From This Contributor&nbsp;&#9656;</a>		</div>
+	</div>
+</div>
+
+							</footer>
+						</article>
+
+
+				    <div class="paywall-subscription block-product">
+			<div class="columns">
+			<div class="paywall-banner span3 cta cta-l1">
+				<div class="cta-intro">
+					<h5 class="cta-title alt-ff">One Free Selection Left </h5>
+					<p class="cta-text xsmall"><a class="link-alt" href="https://www.thesunmagazine.org/subscriber/login" data-label="Already a subscriber?">Already a subscriber? Sign in ▸</a><br><br>Read two free selections from <em>The Sun</em> each month.</p>
+				</div>
+			</div>
+			<div class="paywall-banner span9 note note-1 text-center">
+				<h4 class="cta-title alt-ff">Subscribe to <em>The Sun</em> and save 45%</h4>
+				<p class="cta-text xsmall">Subscribers get full access to the current issue and more than 40 years of archives.</p>
+				<a class="b b-1 xsmall cta-trigger"  href="/subscribe1" data-label="Subscribe" data-ctatitle="Subscribe">Subscribe</a>
+			</div>
+		</div>
+
+		<div class="columns">
+			<div class="span12 paywall-cta-bottom">
+				<p>
+					<span class="cta-title-issue">Buy the October 2005 issue for $5.95</span>
+					<span class="xsmall">Order now to get instant access to this issue, and we’ll also send you a print copy.</span>
+					<a class="b b-5 xsmall corona"  href="#" data-product-type="issues" data-id="358" data-label="Order Now ▸">Order Now ▸</a>
+				</p>
+			</div>
+		</div>
+
+		
+
+</div>
+	
+	
+	
+	<div class="spacer"></div>
+	
+
+
+
+			<div class="article-correspondence layout-item fill-pattern-light">
+		<div class="layout-item-intro">
+			<h2>Correspondence</h2>
+			<a class="xsmall link-alt" href="https://www.thesunmagazine.org/letter-to-the-editor">Write a Letter to the Editor&nbsp;&#9656;</a>
+		</div>
+
+		<div id="article-correspondences" class="correspondences correspondences-collapsed">
+								<div class="block-correspondence" id="1672">
+		<blockquote class="quote-2">
+			<p>I opened the October 2005 issue expecting to be transported into someone else&rsquo;s reality. Instead Thea Sullivan&rsquo;s essay &ldquo;<a href="/article/299">Trying</a>&rdquo; thrust me right back into my own mourning.</p>
+
+<p>I recently experienced my first (and hopefully last) miscarriage. I, too, have listened to well-meaning individuals refer to this death as &ldquo;God&rsquo;s will,&rdquo; while others have tiptoed around the topic, unsure of how to approach it, or me. I pretend I&rsquo;m fine, but I can&rsquo;t help feeling enraged, because I did everything &ldquo;right&rdquo;: I am married. I am thirty-one. I have a good job. I own a home. I don&rsquo;t smoke or drink or do drugs. I <em>wanted </em>this baby.</p>
+
+<p>I am somewhat consoled by those who say, &ldquo;I&rsquo;m sorry this happened to you.&rdquo; I only want my loss to be validated. To Sullivan, and to all women who have suffered similar losses, I say: I&rsquo;m sorry this happened to you.</p>
+							<p class="quote-2-author">Anne Fearman<br>Forestville, New York</p>
+					</blockquote>
+	</div>
+
+								<div class="block-correspondence" id="1648">
+		<blockquote class="quote-2">
+			<p>I&rsquo;ve always had a smug tendency to dismiss infertility as trivial in comparison to other medical problems. Thea Sullivan&rsquo;s essay &ldquo;<a href="/article/299">Trying</a>&rdquo; [October 2005] brought the profound suffering of infertile couples into sharp focus and aroused my compassion.</p>
+
+<p>As a father of three I can&rsquo;t know the pain of Sullivan&rsquo;s situation, but I am familiar with the metaphysical questions she raised in her essay. I, too, have found out the hard way that spiritual fads (as well as ancient traditions) offer only partial or dangerously naive answers to our suffering. Following the lead of various popular books, I spent many years trying to unravel the meaning of seemingly symbolic events and encounters in my daily life. I trusted ethereal &ldquo;soul guides,&rdquo; who spoke the language of synchronicity, to lead me to healing, great relationships, and self-actualization. I found my expectations dashed time and again.</p>
+
+<p>Like Sullivan, I&rsquo;ve since assumed a more contemplative stance and made peace with mystery. Cryptic &ldquo;messages&rdquo; continue to arrive with almost ridiculous frequency, whether I look for them or not, but I accept that their meaning is beyond my comprehension &mdash; probably due to my unconscious tendency to interpret them in the context of my own short-sighted needs and desires. Either the intelligence behind such messages is dedicated to driving me mad, or it is simply saying hello and letting me know it hasn&rsquo;t given up on me &mdash; hopefully the latter.</p>
+							<p class="quote-2-author">Bill Johnson<br>Guilford, Connecticut</p>
+					</blockquote>
+	</div>
+
+								<div class="block-correspondence" id="1649">
+		<blockquote class="quote-2">
+			<p>I was moved by Thea Sullivan&rsquo;s beautiful, lucid prose and the pain she and her husband experienced during their struggle with infertility. I was saddened, however, that they chose to pursue fertility treatment rather than adoption. In addition to the health risks that Sullivan mentions, there are ethical and ecological reasons to oppose such treatments. Thousands of nonhuman animals &mdash; particularly female monkeys &mdash; are used in fertility, menstruation, and reproduction studies each year. These studies are inherently cruel to the animals involved and result in their suffering and death.</p>
+
+<p>With 6.5 billion humans on the planet and species becoming extinct at an unprecedented rate, there is no environmental benefit from artificially induced human fertility. Adoption, on the other hand, benefits everyone. There are plenty of kids in this world who need a home.</p>
+							<p class="quote-2-author">Jennifer Campbell<br>Cambridge, Massachusetts</p>
+					</blockquote>
+	</div>
+
+								<div class="block-correspondence-respond fill-pattern-light" id="1650">
+								<p><a href="/contributors/thea-sullivan"><strong>Thea Sullivan</strong></a> responds:</p>
+							<p>Jennifer Campbell seems to suggest that infertile couples bear more responsibility than others for the ecological and ethical crises that we, as a society, face. Animal studies are conducted to develop treatments for a wide range of medical conditions, and despite their cruelty, we all benefit from them at some point. And shouldn&rsquo;t everyone &mdash; fertile or not &mdash; bear equal responsibility for overpopulating the planet? (It goes without saying that children born of fertility treatments constitute a tiny portion of the world&rsquo;s population.)</p>
+
+<p>Though it&rsquo;s inarguable that many children need homes, the implication that everyone facing infertility should adopt is naive and runs counter to conventional wisdom about adoption. Some couples who can&rsquo;t conceive are quickly drawn to adoption, while others discover within themselves a surprisingly deep longing to become biological parents. Adoption professionals encourage such couples to pursue any fertility treatments they deem necessary before beginning an adoption search, since unacknowledged ambivalence can impair a new parent&rsquo;s attachment to an adopted child and cause that child further wounding.</p>
+
+<p>When you&rsquo;ve traveled the often harrowing path of infertility, you learn how painful it is to be judged for what are ultimately deeply personal choices. That&rsquo;s why, within infertility circles, there is a compassionate acceptance for the different ways families are created, and for the decision to remain without children. In her effort to correct society&rsquo;s injustices, Campbell seems to be forgetting to practice this sort of compassion.</p>
+	</div>
+
+
+					</div>
+
+				<div class="text-center">
+			<button class="b b-1 xsmall js-b-readmore-correspondence" data-collapsible="#article-correspondences" data-label="Read More Letters">Read More Letters</button>
+		</div>
+			</div>
+    
+		<div class="article-correspondence-cta">
+		<div class="cta cta-l1" data-url="https://www.thesunmagazine.org/letter-to-the-editor">
+			<div class="cta-intro">
+				<h5 class="cta-title alt-ff">Thinking about writing us a letter?</h5>
+				<p class="cta-text">Give in to the temptation. We love getting mail. <br><span class="xsmall">(Of course, we reserve the right to edit.)</span></p>
+			</div>
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" class="cta-button b b-4 b-padding-tight small" data-label="Write Us A Letter!">Write Us A Letter!</a>
+		</div>
+	</div>
+	
+
+			<div class="article-also layout-item-large full-bar fill-grey-mid-light">
+		<div class="layout-item-intro">
+			<h2>Also In This Issue</h2>
+			<a href="/issues/358" class="xsmall link-alt">October 2005&nbsp;&#9656;</a>
+		</div>
+		<div class="issue-articles-l1">
+			<div class="issue-articles-l1-content1">
+				
+<div class="cover cover-l1 block-product">
+	<div>
+							<a href="/issues/358" class="cover-thumb">
+				
+				<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 727'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/import/issue/358.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/561x728r/import/issue/358.jpg
+	 alt=""
+	 class="lazy">
+
+			</a>
+		
+
+													<!-- <a href="/issues/358" data-product-type="issues" data-id="358" data-role="order" class="js-buy-single corona cover-button b b-1 b-full xsmall" data-label="Buy This Issue &#9656;">
+								Buy This Issue&nbsp;&#9656;
+			</a> -->
+			<a href="/issues/358" data-product-type="issues" data-id="358" class="js-buy-single corona cover-button b b-1 b-full xsmall" data-label="Buy This Issue &#9656;">
+								Buy This Issue&nbsp;&#9656;
+			</a>
+					
+					</div>
+</div>
+			</div>
+			<div class="issue-articles-l1-content2">
+				<div class="articles-l3">
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/poetry">Poetry</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/358/im-going-to-quit-smoking">I’m Going To Quit Smoking</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/sybil-smith">Sybil Smith</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/poetry">Poetry</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/358/blind-john">Blind John</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/marie-sheppard-williams">Marie Sheppard Williams</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/readers-write">Readers Write</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/358/self-control">Self-Control</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/our-readers">Our Readers</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/poetry">Poetry</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/358/reading-poetry-to-ninety-men">Reading Poetry To Ninety Men</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/lou-lipsitz">Lou Lipsitz</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+									</div>
+			</div>
+		</div>
+	</div>
+	
+
+			<div class="article-related layout-item-large full-bar fill-pattern-light">
+		<div class="layout-item-intro">
+			<h2>Related Selections</h2>
+			<ul class="list-inline list-inline-tight"><li><a href="/topics/pregnancy-and-childbirth" class="xsmall link-alt link-text">Pregnancy and Childbirth</a></li><li><a href="/topics/marriage" class="xsmall link-alt link-text">Marriage</a></li><li><a href="/topics/grief" class="xsmall link-alt link-text">Grief</a></li><li><a href="/topics/medicine" class="xsmall link-alt link-text">Medicine</a></li><li><a href="/topics/spirituality" class="xsmall link-alt link-text">Spirituality</a></li></ul>		</div>
+
+		<div class="articles-l2">
+							
+
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/dog-eared-page">The Dog-Eared Page</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/532/kindness">Kindness</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/naomi-shihab-nye">Naomi Shihab Nye</a></li><li><a href="/issues/532">April 2020</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/532" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 727'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/140x182r/2020-03/532.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/2020-03/532.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/sun-interview">The Sun Interview</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/463/the-one-youre-with">The One You’re With</a></h3>
+					<p class="block-content-subtitle subtitle">Barbara Fredrickson On Why We Should Rethink Love</p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/angela-winter">Angela Winter</a></li><li><a href="/issues/463">July 2014</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/463" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 727'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/140x182r/import/issue/463.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/import/issue/463.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/422/a-brothers-keeper">A Brother’s Keeper</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/akhim-yuseff-cabey">Akhim Yuseff Cabey</a></li><li><a href="/issues/422">February 2011</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/422" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 727'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/140x182r/import/issue/422.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/import/issue/422.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/poetry">Poetry</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/26/selected-poems-sri-chinmoy-issue-26">Selected Poems</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/sri-chinmoy">Sri Chinmoy</a></li><li><a href="/issues/26">April 1977</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/26" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 725'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/141x182r/import/issue/026.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/281x364r/import/issue/026.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+					</div>
+	</div>
+	
+	
+					<form id="newsletterForm" method="post" action="https://www.thesunmagazine.org/newsletter" data-url-send="https://www.thesunmagazine.org/newsletter" class="form form-newsletter fill-grey" enctype="multipart/form-data" target="_blank">
+
+
+
+		<div class="form-newsletter-intro">
+			<h3 class="alt-ff large">Sign Up For Our Newsletter</h3>
+			<p>We’ll let you know about new website selections, upcoming events, special offers, and more.</p>
+		</div>
+
+		<ul class="form-newsletter-fields form-fields form-fields-inline">
+			<li>
+				<input name="name" type="text" maxlength="500" id="name" placeholder="Your Name">
+			</li>
+			<li>
+				<input name="email" type="text" maxlength="500" id="email" placeholder="Your E-mail">
+			</li>
+
+			<li class="form-fields-inline-button">
+				<button disabled="disabled" class="form-newsletter-send b b-4 b-padding-tight b-loading g-recaptcha" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs" data-callback="recaptcha_callback" name="SubmitButton" id="SubmitButton">
+					<svg><use xlink:href="#i-loading"></use></svg>
+					Sign&nbsp;Up
+				</button>
+			</li>
+		</ul>
+	</form>
+	<script id="hiddenlpsubmitdiv" style="display: none;"></script>
+
+
+
+<footer class="footer brand-grey-dark">
+			<div class="footer-first">
+		<h3 class="footer-tagline">Independent, Reader-Supported Publishing</h3>
+		<p class="footer-desc">In each issue of <em>The Sun</em> you’ll find some of the most radically intimate and socially conscious writing being published today. In an age of media conglomerates, we’re something of an oddity: an ad-free, independent, reader-supported magazine.</p>
+		<ul class="footer-nav list-inline-border xsmall">
+			
+		<li class=" first">
+			<a href="https://www.thesunmagazine.org/about" 	   class=''>
+	   About <em>the Sun</em>	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/staff" 	   class=''>
+	   Staff	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/find-the-sun" 	   class=''>
+	   Find <em>The Sun</em>&nbsp;&nbsp;in a Store Near You	</a>
+		
+	</li>
+
+
+		</ul>
+	</div>
+	
+		<div class="footer-second">
+		<ul class="footer-second-social list-inline">
+			<li><a href="https://www.facebook.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-facebook"></use></svg></span> Like Us</a></li>
+			<li><a href="https://twitter.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-twitter"></use></svg></span> Follow Us</a></li>
+			<li><a href="https://instagram.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-instagram"></use></svg></span> Take a Look</a></li>
+		</ul>
+
+		<div class="footer-second-content">
+			<ul class="footer-nav list-inline-border xsmall">
+				
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/" 	   class='current '>
+	   Home	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/privacy-policy" 	   class=''>
+	   Privacy Policy	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/terms-of-use" 	   class=''>
+	   Terms of Use	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/site-map" 	   class=''>
+	   Site Map	</a>
+		
+	</li>
+
+
+			</ul>
+			<p class="footer-copyright xxsmall">Copyright &copy; 1974–2020 <em>The Sun</em>. All rights reserved.</p>
+		</div>
+	</div>
+</footer>
+
+
+
+<div class="offset-nav">
+	<ul>
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/read" 	   class='current '>
+	   Read	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/issues/current" 	   class=''>
+	   Current Issue	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/archives" 	   class=''>
+	   Archives	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/featured" 	   class=''>
+	   Featured Selections	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/topics" 	   class=''>
+	   Browse Topics	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/sections" 	   class=''>
+	   Browse Sections	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/connect" 	   class=''>
+	   Connect	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/news" 	   class=''>
+	   News from <em>The Sun</em>	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" 	   class=''>
+	   Write a Letter to the Editor	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/discussion-groups" 	   class=''>
+	   Discussion & Writing Groups	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/make-a-suggestion" 	   class=''>
+	   Make a Suggestion	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/submit" 	   class=''>
+	   Submit	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/shop" 	   class=''>
+	   Shop	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/giftsub" 	   class=''>
+	   Gift Subscriptions	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/issues" 	   class=''>
+	   Issues	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+											
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/donatemenu" 	   class='highlight'>
+	   Donate	</a>
+		
+	</li>
+
+		<li class=" last">
+														<a href="/SubscribeNav1" 					   class=''>
+						Subscribe					</a>
+									
+	</li>
+
+
+					<li>
+				<a href="https://www.thesunmagazine.org/shop/cart">Cart ( <span class="cart-item-count">  0  </span>)</a>
+			</li>
+			<li><a href="https://www.thesunmagazine.org/subscriber/login" class="link-header-logout link-alt">Sign In</a></li>
+			</ul>
+	<ul>
+		<li class=" first">
+			<a href="https://www.thesunmagazine.org/about" 	   class=''>
+	   About <em>the Sun</em>	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/staff" 	   class=''>
+	   Staff	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/find-the-sun" 	   class=''>
+	   Find <em>The Sun</em>&nbsp;&nbsp;in a Store Near You	</a>
+		
+	</li>
+
+</ul>
+	<ul>
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/" 	   class='current '>
+	   Home	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/privacy-policy" 	   class=''>
+	   Privacy Policy	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/terms-of-use" 	   class=''>
+	   Terms of Use	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/site-map" 	   class=''>
+	   Site Map	</a>
+		
+	</li>
+
+</ul>
+</div>
+
+<div id="buy-popup-message" class="buy-popup mfp-hide white-popup white-popup-block">
+	<a class="popup-modal-dismiss" href="#"></a>
+	<h5>Due to fulfillment challenges related to the novel coronavirus, print copies are temporarily unavailable for individual sale. We are offering free PDFs until we are able to resume print sales.</h5>
+	<p>Enter your e-mail address below to download this issue.</p>
+	<form method="post" id="download-single" action="https://www.thesunmagazine.org/issue/pdfFree/531.pdf">
+		<label for="email"><span class="label-text">E-mail</span><span class="label-asterisk">*</span></label>
+		<input class="buy-single-email" id="email" type="email" name="email">
+		<button type="send" class="form-buy-issue-send b b-3 b-padding-tight b-loading">Send</button>
+		<button class="form-buy-issue-download b b-3 b-padding-tight b-loading">Download pdf</button>
+		<button type="send" class="popup-modal-dismiss b b-2 b-padding-tight b-loading">Close</button>
+		<div class="g-recaptcha" style="text-align: center" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs"></div>
+
+	</form>
+</div>
+
+			<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/plugins.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/site.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/newsletter.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/js/articles.js"></script>
+		</div>
+		</div>
+
+				<script>
+		(function (doc) {
+			var scripts = doc.getElementsByTagName('script');
+			var script = scripts[scripts.length - 1];
+			var xhr = new XMLHttpRequest();
+			xhr.onload = function () {
+				var div = doc.createElement('div');
+				div.innerHTML = this.responseText;
+				div.style.display = 'none';
+				script.parentNode.insertBefore(div, script);
+			}
+			xhr.open('get', '/theme/thesun//assets/build/img/sprite/sprite.svg', true);
+			xhr.send();
+		})(document);
+
+
+
+		</script>
+
+		<script>
+			// Submit function
+            function recaptcha_callback() {
+						var getUrl = $('.form-newsletter').data( "url-send" ),
+							getName = $('input#name').val(),
+							getEmail = $('input#email').val();
+						$.ajax({
+								type: "POST",
+								url: getUrl,
+								data: {
+									name: getName,
+									email: getEmail,
+									grecaptcharesponse: grecaptcha.getResponse()
+								}
+							}).done(function(response) {
+								console.log(response);
+									$('.form-fields').fadeOut(800, function () {
+										$('.form-fields').empty().append('<div class="newsletter-confirm-message">Thank you for signing up to receive news from <em>The Sun</em>. Your first newsletter will arrive soon.<div>').fadeIn(800);
+									});
+							});
+			}
+
+		</script>
+
+		<script>
+			function getUrlCode() {
+				var url_string = window.location.href;
+				var url = new URL(url_string);
+				var c = url.searchParams.get('promotion\_key');
+				if (typeof c !== 'undefined' && c !== null) {
+					setCookie("promotion_code",c);
+				}
+			}
+
+			function setCookie(cname, cvalue) {
+				document.cookie = cname + "=" + cvalue + ";" + "path=/";
+			}
+
+			function getCookie(cname) {
+				var name = cname + "=";
+				var decodedCookie = decodeURIComponent(document.cookie);
+				var ca = decodedCookie.split(';');
+				for(var i = 0; i <ca.length; i++) {
+					var c = ca[i];
+					while (c.charAt(0) == ' ') {
+						c = c.substring(1);
+					}
+					if (c.indexOf(name) == 0) {
+						return c.substring(name.length, c.length);
+					}
+				}
+				return "";
+			}
+			window.addEventListener( "load", getUrlCode );
+		</script>
+
+
+	</body>
+</html>

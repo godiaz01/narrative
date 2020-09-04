@@ -1,0 +1,1206 @@
+
+<!DOCTYPE html>
+<html class="no-js" lang="en-US">
+	<head>
+		<title>Shelter - The Sun Magazine</title>
+
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		
+		<meta name="viewport" content="width=device-width, minimum-scale=1.0">
+
+		<link rel="dns-prefetch" href="//ajax.googleapis.com">
+		<link rel="dns-prefetch" href="//use.typekit.net">
+		
+		<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/modernizr.js"></script>
+		<script src="https://www.google.com/recaptcha/api.js"
+				async defer>
+		</script>
+
+		<script>(function(d) { var config = { kitId: 'kzw7ebk', scriptTimeout: 3000, async: true }, h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s) })(document);</script>
+
+
+				
+		<link rel="apple-touch-icon" sizes="57x57" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-57x57.png?v=2016">
+		<link rel="apple-touch-icon" sizes="60x60" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-60x60.png?v=2016">
+		<link rel="apple-touch-icon" sizes="72x72" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-72x72.png?v=2016">
+		<link rel="apple-touch-icon" sizes="76x76" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-76x76.png?v=2016">
+		<link rel="apple-touch-icon" sizes="114x114" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-114x114.png?v=2016">
+		<link rel="apple-touch-icon" sizes="120x120" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-120x120.png?v=2016">
+		<link rel="apple-touch-icon" sizes="144x144" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-144x144.png?v=2016">
+		<link rel="apple-touch-icon" sizes="152x152" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-152x152.png?v=2016">
+		<link rel="apple-touch-icon" sizes="180x180" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-180x180.png?v=2016">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-32x32.png?v=2016" sizes="32x32">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/android-chrome-192x192.png?v=2016" sizes="192x192">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-96x96.png?v=2016" sizes="96x96">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-16x16.png?v=2016" sizes="16x16">
+		<link rel="mask-icon" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/safari-pinned-tab.svg?v=2016" color="#444444">
+		<link rel="shortcut icon" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon.ico?v=2016">
+		<meta name="apple-mobile-web-app-title" content="The Sun Magazine">
+		<meta name="application-name" content="The Sun Magazine">
+		<meta name="msapplication-TileColor" content="#fcc330">
+		<meta name="msapplication-TileImage" content="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/mstile-144x144.png?v=2016">
+		<meta name="theme-color" content="#ffffff">
+
+				<link rel="stylesheet" type="text/css" href="https://cloud.typography.com/6578674/659928/css/fonts.css" />
+		<link rel="stylesheet" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/css/style.css">
+
+																		<meta property="og:site_name" content="The Sun Magazine">
+		<meta property="og:type" content="article">
+		<meta property="og:url" content="https://www.thesunmagazine.org/issues/466/shelter-1">
+		<meta property="og:image" content="http://www.thesunmagazine.org/files/2016-03/466-18-smogor-preview.jpg">
+		<meta property="og:title" content="Shelter - The Sun Magazine">
+		<meta property="og:description" content="Wilbur hadn&amp;rsquo;t ended up at the shelter because he&amp;rsquo;d drunk himself there, or squandered his money, or been caught cheating on a disability claim. No, Wilbur had ended up at Bartlett House because he&amp;rsquo;d never married or had children, and kin was how a man like Wilbur made it through the final years of his life.">
+		<meta property="fb:app_id" content="158741778010551">
+
+						<link rel="image_src" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.comhttp://www.thesunmagazine.org/files/2016-03/466-18-smogor-preview.jpg">
+
+												<meta name="twitter:card" content="summary">
+		<meta name="twitter:title" content="Shelter - The Sun Magazine">
+		<meta name="twitter:description" content="Wilbur hadn&amp;rsquo;t ended up at the shelter because he&amp;rsquo;d drunk himself there, or squandered his money, or been caught cheating on a disability claim. No, Wilbur had ended up at Bartlett House because he&amp;rsquo;d never married or had children, and kin was how a man like Wilbur made it through the final years of his life.">
+		<meta name="twitter:image" content="http://www.thesunmagazine.org/files/2016-03/466-18-smogor-preview.jpg">
+		<meta name="twitter:site" content="@thesunmagazine">
+
+				<link rel="publisher" href="https://plus.google.com/113792980827145858211">
+        
+		<meta name="Description" content="Wilbur hadn&amp;rsquo;t ended up at the shelter because he&amp;rsquo;d drunk himself there, or squandered his money, or been caught cheating on a disability claim. No, Wilbur had ended up at Bartlett House because he&amp;rsquo;d never married or had children, and kin was how a man like Wilbur made it through the final years of his life.">
+
+		
+		<!-- Google Tag Manager -->
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-TKBHCCG');</script>
+		<!-- End Google Tag Manager -->
+
+		<!-- Google Analytics -->
+		<script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+            ga('create', 'UA-2351127-1', 'auto');  // Replace with your property ID.
+            ga('send', 'pageview');
+            ga('require', 'ecommerce');   // Load the ecommerce plug-in.
+		</script>
+		<!-- End Google Analytics -->
+	</head>
+	<body id="">
+
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TKBHCCG"
+		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+		<header class="header" data-offset-start="80">
+		<div class="header-utilities">
+				<ul class="header-utilities-user list-inline list-inline-tight xxsmall">
+							<li>
+					<span class="header-utilities-user-intro">Already A Subscriber?</span> &nbsp;
+					<a href="https://www.thesunmagazine.org/subscriber/login" class="link-text link-alt">Sign In</a>
+				</li>
+					</ul>
+		<a href="https://www.thesunmagazine.org/shop/cart" class="header-utilities-cart  link-alt link-icon tiny">
+			<span class="i"><svg><use xlink:href="#i-cart"></use></svg></span>
+			<span class="cart-item-count">
+									0 Items
+				
+			</span>
+		</a>
+			</div>
+
+		<div class="header-bar">
+		<h1 class="header-logo logo">
+			<a href="/">
+				<img src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/img/logo-thesun.svg" class="logo-thesun" alt="The Sun Magazine">
+				<img src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/img/logo-tagline.svg" class="logo-tagline" alt="">
+			</a>
+		</h1>
+
+		<ul class="header-nav">
+			
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/read" 	   class='current '>
+	   Read	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/issues/current" 	   class=''>
+	   Current Issue	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/archives" 	   class=''>
+	   Archives	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/featured" 	   class=''>
+	   Featured Selections	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/topics" 	   class=''>
+	   Browse Topics	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/sections" 	   class=''>
+	   Browse Sections	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/connect" 	   class=''>
+	   Connect	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/news" 	   class=''>
+	   News from <em>The Sun</em>	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" 	   class=''>
+	   Write a Letter to the Editor	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/discussion-groups" 	   class=''>
+	   Discussion & Writing Groups	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/make-a-suggestion" 	   class=''>
+	   Make a Suggestion	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/submit" 	   class=''>
+	   Submit	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/shop" 	   class=''>
+	   Shop	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/giftsub" 	   class=''>
+	   Gift Subscriptions	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/issues" 	   class=''>
+	   Issues	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+											
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/donatemenu" 	   class='highlight'>
+	   Donate	</a>
+		
+	</li>
+
+		<li class=" last">
+														<a href="/SubscribeNav1" 					   class=''>
+						Subscribe					</a>
+									
+	</li>
+
+
+		</ul>
+
+		<button class="header-nav-toggle"><svg><use xlink:href="#i-menu" class="i-menu"></use><use xlink:href="#i-close" class="i-close"></use></svg></button>
+		<button class="header-search-toggle" data-form-wrapper=".header-search"><svg><use xlink:href="#i-magnifier" class="i-magnifier"></use><use xlink:href="#i-close" class="i-close"></use></svg></button>
+	</div>
+
+		<div class="header-search">
+		<div class="header-search-content">
+			<form action="https://www.thesunmagazine.org/search" class="form form-search" method="get">
+				<h2 class="alt-ff brand-link">Search Our 40 Years of Archives</h2>
+				<ul class="form-search-fields form-fields form-fields-inline">
+					<li><input type="text" name="q" value=""></li>
+					<li class="form-fields-inline-button"><button class="b b-1 b-padding-tight b-loading"><svg><use xlink:href="#i-loading"></use></svg>Search</button></li>
+				</ul>
+
+				<div class="header-search-content-shortcuts">
+					<h6 class="search-advanced alt-ff"><a class="js-handle-advanced" href="https://www.thesunmagazine.org/search?advanced=1">Advanced Search</a></h6>
+					<br>
+					<h6 class="alt-ff">Popular Pages</h6>
+					<ul class="list-inline-border list-inline-tight xxsmall"><li class=" first"><a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a></li><li class=""><a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a></li><li class=""><a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a></li><li class=""><a href="https://www.thesunmagazine.org/sections/quotations" 	   class=''>
+	   Quotations	</a></li><li class=""><a href="https://www.thesunmagazine.org/sections/readers-write" 	   class=''>
+	   Readers Write	</a></li><li class=" last"><a href="https://www.thesunmagazine.org/sections/poetry" 	   class=''>
+	   Poetry	</a></li></ul>				</div>
+			</form>
+		</div>
+	</div>
+</header>
+
+	<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+	<script type="text/javascript">
+		$(document).ready(function() {
+			$('.js-handle-advanced').on('click', function (e) {
+				e.preventDefault();
+				var getSearchValue = $('.form-search-fields input').val();
+				var getURL = $(this).attr('href');
+				var newURL = getURL + '&q=' + getSearchValue;
+				window.location.href = newURL;
+			});
+		});
+	</script>
+
+		<div class="container-hidden">
+		<div class="container">
+
+				
+	
+	<article class="article ">
+		<header class="block-content block-content-l1 block-content-center">
+						<div class="block-content-header">
+				<h6 class="b-content-section heading-square"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+				<h1 class="block-content-title">Shelter</h1>
+
+				
+				<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/sarah-einstein">Sarah Einstein</a></li><li><a href="/issues/466">October 2014</a></li></ul>
+
+			</div>
+
+																			
+
+				<figure class="block-content-photo block-content-photo-large photo photo-outset-center-large">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 2360 1684'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/1180x1654r/photos/466-18-smogor.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/2360x3307r/photos/466-18-smogor.jpg
+	 alt="466 - Smogor - Einstein"
+	 class="lazy">
+
+										<figcaption>
+
+						
+																				<div class="photo-credit">
+								&copy;&nbsp;<a href="/contributors/linda-smogor">Linda Smogor</a>
+							</div>
+																		</figcaption>
+									</figure>
+
+					</header>
+
+				<div class="article-body link-text-wrap">
+																		<p><span class="large"><strong>The day I met Wilbur</strong>,</span> the snow was coming down so hard and fast I had to walk to work. My battered old car and its bald tires couldn&rsquo;t be trusted on icy roads, and already the drifts lay as high as the front bumper. I was scheduled for a double shift &mdash; 8 <span class="smallcaps">AM</span> to midnight &mdash; at Bartlett House, a homeless shelter, and figured that even if I could get the car there, I&rsquo;d have to leave it behind when it was time to go home. The weather report called for another foot of snow. So, bundled in my mother&rsquo;s hand-me-down parka, a friend&rsquo;s too-big snow boots, and a scarf, I walked the few miles to the shelter through the beginnings of what would come to be known as the Great Blizzard of 1993.</p>
+
+<p>Bartlett House served the homeless in Morgantown, West Virginia, and its surrounding areas. It was new then, with only a handful of dormitory rooms, a communal area for watching television and eating meals, an industrial kitchen, and three offices. The shelter had a men&rsquo;s room and a women&rsquo;s room, each with two toilets and two showers, and another half bath behind the locked door of the staff office. There were enough beds for forty people. By the time I got to work that morning, forty-seven had checked in for the day.</p>
+
+<p>&ldquo;The police are bringing everybody in,&rdquo; Rich told me. He had worked the overnight shift. &ldquo;Not just the guys off the riverbank, either. I mean everybody.&rdquo; He gestured to the hallway packed with people, pointing to one guy in particular: Calvin. We&rsquo;d kicked him out of the shelter a few months earlier when, after other residents had complained of a terrible smell coming from his bunk, we&rsquo;d discovered several decomposing squirrel carcasses and a hunting knife tucked inside his rucksack. He&rsquo;d refused to give up either, saying the food we served was full of poison and he preferred to eat what he could kill on his own. Even the police were wary of Calvin, who was rumored to now be living in a sewer pipe near the Walmart and subsisting on feral cats and roadkill.</p>
+
+<p>&ldquo;Did they take his knife away?&rdquo; I asked.</p>
+
+<p>&ldquo;They said they did,&rdquo; Rich answered, in a way that suggested there was a good chance they hadn&rsquo;t.</p>
+
+<p>Rich handed me the bed-assignment chart and the cordless phone, our link to outside help in an emergency. He said he had run out of blankets, so he&rsquo;d been giving out the towels and extra mattress pads, but we were almost out of those, too. He also told me there was space left on the floor in a couple of rooms, but, other than that, the shelter was full.</p>
+
+<p>After Rich left, I gathered a small corps of long-term residents, and we worked out a strategy for dealing with the sudden influx of people. Hobo Joe and Cat-Eyes sat guard near the front door and escorted the people who came in back to the kitchen, where I wrote their names in the margins of the bed-assignment chart and showed them where they could sleep. Rita and Star peeled fifty pounds of potatoes, Errol boiled them in batches, and Granny Lynn mashed them with commodity butter and evaporated milk. Roger helped me pull pounds upon pounds of ground venison out of the freezers and defrost it in the microwave. Granny Lynn mixed it with powdered eggs, dehydrated onions, ketchup, and cornflakes, making four giant meatloaves in five-gallon steam-table trays.</p>
+
+<p>Just before dinner Cat-Eyes clomped in with his shoddy boots wrapped in duct tape. He was escorting a gray-haired man in a light jacket and torn sneakers with no laces, who was carrying a sheaf of paperwork in a wet paper bag. There was a bloodied bandage on his throat, and his eyes were rheumy.</p>
+
+<p>&ldquo;The cop said they found him sitting at the bus stop in front of the hospital,&rdquo; Cat-Eyes told me. He said the man&rsquo;s name was Wilbur, and that he didn&rsquo;t talk much. He put a hand under the old man&rsquo;s elbow to steady him. Wilbur swayed a little, then fell back into Cat-Eyes&rsquo;s arms.</p>
+
+<p>&nbsp;</p>
+
+<p><strong><span class="large">Wilbur spent the night</span></strong> on the floor of the office, bundled in a worn mattress pad and my mother&rsquo;s parka. He seemed too frail to be left in the hallway with the other latecomers, who were restless with drink or delusion and hadn&rsquo;t wanted to come inside at all. I sat in the desk chair after lights-out, listening to him breathe. It seemed possible that, at some point in the night, his breathing would stop. The papers he&rsquo;d been carrying were prescriptions and discharge orders, and the bloody bandage covered the hole where he&rsquo;d had a feeding tube until just that morning. A tumor the size of a loaf of bread caused his belly to hang over his belt. Stomach cancer, he&rsquo;d told me during the intake process. &ldquo;I probably won&rsquo;t live till spring,&rdquo; he&rsquo;d added, as if it were just another piece of information for the form. &ldquo;But the Medicaid card only pays for so many days in the hospital, and I guess my days ran out this morning.&rdquo; He smiled, then turned his hands up in a gesture of helplessness.</p>
+
+<p>Wilbur had either never been or always been homeless, depending on how you view private property. He lived in the same tar-paper shack where he&rsquo;d been raised, but he didn&rsquo;t own it. His family had been squatting on unused coal-company land in Preston County, West Virginia, for three generations. He&rsquo;d worked odd jobs and done some coal mining, but mostly he&rsquo;d lived off what he could grow, hunt, or &mdash; since his sixty-fifth birthday a few months before &mdash; buy with his meager Social Security check. He drank but wasn&rsquo;t a drunk. He didn&rsquo;t read well but had never needed to learn. He wasn&rsquo;t much of a churchgoing man, because the church was a long walk from his home and he&rsquo;d never owned a car, but he said his prayers and figured he was mostly right with God. His life seemed to suit him &mdash; or it had until the cancer had forced him into town.</p>
+
+<p>I&rsquo;d heard a lot of tragic stories in my year at Bartlett House, and I knew that almost everyone at the shelter wouldn&rsquo;t have ended up there if jobs had been easier to come by. Or if we hadn&rsquo;t stopped building low-income housing. Or if we still believed that the middle and upper classes are obligated to offer a hand to the impoverished. Or if we&rsquo;d followed through on the promise to build community mental-health centers for the people who&rsquo;d been released from our state asylums and hospitals. But I also knew that for some, homelessness was more than just the inevitable result of a failing social-welfare system: the women who used the shelter to get away from one abusive man only to leave with another a few weeks later; the old men who had to drink just to get by; the young men and women who were mentally ill and used street drugs but didn&rsquo;t take the pills prescribed to treat their conditions. The people who came through Bartlett House had difficult lives and complicated stories. My job was to feed them, assign them chores and a bed, and keep the peace as best I could.</p>
+
+<p>Wilbur hadn&rsquo;t ended up at the shelter because he&rsquo;d drunk himself there, or squandered his money, or been caught cheating on a disability claim. No, Wilbur had ended up at Bartlett House because he&rsquo;d never married or had children, and kin was how a man like Wilbur made it through the final years of his life.</p>
+
+<p>&nbsp;</p>
+
+<p><strong><span class="large">Since my late teens</span></strong> I&rsquo;d been the sort of hippie who thinks saving the world consists of doing bong hits and going to Rainbow Gatherings. Before moving to Morgantown, I&rsquo;d lived for a while in rural Wayne County on a commune that had no running water. We showered by standing under a dribble from a bucket on a hook, and we woke up in the early morning hours to add logs to the woodstove. We tried to feed ourselves solely on what we could grow on the one small patch of bottomland near the well &mdash; and failed. Those experiences changed me, but not the world.</p>
+
+<p>By my late twenties, I was trying to help the planet by supporting my community. I put <span class="smallcaps">Think Globally, Act Locally</span> and <span class="smallcaps">Who Is Your Farmer?</span> bumper stickers on my car. I stopped shopping at chain grocery stores in favor of the local co-op and bought clothes only in thrift stores. And yet the world didn&rsquo;t seem to change for the better.</p>
+
+<p>My job at the shelter, unlike all my other ineffectual enterprises, had clear and immediate results. I knew on the night of the blizzard, when I cut off Cat-Eyes&rsquo;s duct-taped boots and soaked his feet in warm water and Epsom salts, that at least one person wouldn&rsquo;t lose a toe to frostbite. I knew when I sat down with Mary to fill out her application for low-income housing that a mother and her two young children were one step closer to having a place of their own. Even the dinners I cooked, lousy as they often were, meant that forty or so folks wouldn&rsquo;t go hungry that night. Suddenly my efforts mattered, if only in small ways to very few people.</p>
+
+<p>So when a man dying of cancer showed up at the homeless shelter one snowy night in a thin jacket and with no place to go, I decided to offer him the empty basement apartment in my house. The doctor said he had only weeks to live. How much of a burden could a few weeks be?</p>
+
+<p>&nbsp;</p>
+
+<p><strong><span class="large">It was surprisingly easy</span></strong> to convince the officials to let me bend the rules about client-staff interaction and take Wilbur home with me. Even people with long careers in social services &mdash; and the disillusionment that comes with them &mdash; understood that Wilbur&rsquo;s life shouldn&rsquo;t end at Bartlett House.</p>
+
+<p>The basement apartment was a dump, even compared to the rest of my ramshackle house, which had no central heating and had cost only twenty thousand dollars. I&rsquo;d rented the apartment out to a writer, who&rsquo;d thought it romantically rustic, for a hundred dollars a month. After he moved out, I&rsquo;d left it empty with a vague plan &mdash; but neither the skill nor the money &mdash; to fix it up. The floor was a concrete slab, the walls crumbling drywall or exposed cinder block. The bathroom had only a toilet and a miner&rsquo;s shower &mdash; a showerhead attached directly to a pipe in the ceiling &mdash; but Wilbur&rsquo;s old shack had neither running water nor electricity. The apartment also had its own street-level entrance and a wide porch shaded by an apple tree and bordered by forsythia bushes, both of which bloomed almost at the instant the snow from the storm had melted. &ldquo;I like to sit out on the porch of an evening and have me a sip of beer,&rdquo; Wilbur said upon seeing the place. I understood that to mean he would move in.</p>
+
+<p>Less than two weeks after the police had brought Wilbur to the shelter, I moved him into the apartment. Wilbur was fastidious about his new home. He spent his Social Security check on curtains, a slipcover for the tattered sleeper sofa in the living room, and bottles of bleach and boxes of steel wool. The social worker from Bartlett House found him dishes, sheets, a half-busted vacuum cleaner, and a television. The grants director from the state sent him two ferns as a housewarming gift. Virgil, an English professor at the local university with whom I&rsquo;d taken a class, provided a mattress and box spring he said were just lying around his house, but which smelled as if they were brand-new. Rich, the overnight shelter worker, borrowed a truck and drove Wilbur to retrieve what he wanted from the tar-paper shack. Merely a few weeks after he&rsquo;d been released from the hospital, Wilbur was now back on his feet.</p>
+
+<p>Wilbur was also fastidious about his appearance. He kept his thick white hair in a pomaded pompadour and wore Western shirts and jeans &mdash; both of which he kept ironed &mdash; and belts with large brass buckles that he shined and white leather tennis shoes that he polished. &ldquo;If a man doesn&rsquo;t want people to treat him like a bum, he can&rsquo;t look like one,&rdquo; he said. And he didn&rsquo;t look like a bum. He looked like an aging country-music star &mdash; the kind with a storied past who had grown temperate and dignified over the years.</p>
+
+<p>&nbsp;</p>
+
+<p><strong><span class="large">The cancer hadn&rsquo;t killed</span></strong> Wilbur by late spring of that year. Or the next. For as long as I lived in that little house with the basement apartment, he did, too. He was rarely any trouble. Once in a while he&rsquo;d go downtown and forget that, due to the cancer, his body couldn&rsquo;t tolerate more than two beers. He&rsquo;d have four or five and then start the walk home only to discover he was too tired to make it. The police would find him asleep on a bench in the courthouse square. When they woke him, he&rsquo;d say, &ldquo;Call my daughter, Sarah.&rdquo; The police, who knew I wasn&rsquo;t his child, would call and say jokingly, &ldquo;We need you to come and get your <em>father</em>.&rdquo; When I&rsquo;d arrive to pick Wilbur up from the station, he would hug me and wink, as if we&rsquo;d really pulled one over on the Man. The police winked, too, as though we&rsquo;d just pulled one over on Wilbur. And I would smile, because I knew nobody was getting the raw end of the deal.</p>
+
+<p>In addition to my shifts at Bartlett House, I was taking classes and working toward my bachelor&rsquo;s degree, so I wasn&rsquo;t home much. Early on I gave Wilbur a key to my door and an extra set of keys to my junker of a car, because he liked to work on it when I left it at home. On Wednesdays, while I was at the shelter, Wilbur let himself into my kitchen to use the washing machine and hung his clothes to dry on a line he&rsquo;d strung from the apple tree to the side of the house. Whenever the washing machine broke down, which it did every few months, he fixed it. He was handy and often came upstairs to fiddle with the plumbing, the old heaters, or the fuse box. He&rsquo;d never owned a car, but he kept my oil changed. And although he couldn&rsquo;t push the lawn mower, due to his health, he kept the blades sharp for me and made sure it was full of gas. Because he couldn&rsquo;t write well, he left me artifacts instead of notes: empty oil cans, the busted belt he&rsquo;d replaced on the washer, or a bouquet of wildflowers wrapped in a paper towel.</p>
+
+<p>Every Saturday I brought him groceries: twenty-one cans of chocolate Ensure, two Hershey&rsquo;s chocolate bars, and seven forty-ounce bottles of malt liquor. We&rsquo;d sit on the porch or stand in the kitchen and gossip about the goings-on at the shelter. The folks who cycled in and out at Bartlett House were the closest thing he&rsquo;d had to friends since moving into town. Two or three times a week he&rsquo;d go to the soup kitchen for a lunch he couldn&rsquo;t eat, just for the company. He would warn me when Hobo Joe was on a drinking binge and ought to be put out at night, when Teresa was off her meds and needed looking after, and when there was someone new in town who was up to no good and warranted extra scrutiny. He knew, without being told, that he shouldn&rsquo;t bring his friends back to my house. If they gave him flak about this, he never let on. (I imagine they did. Apartments tend to be communal among the frequently homeless, which is partly why it&rsquo;s so hard for them to hold on to rentals once they get them.)</p>
+
+<p>When Wilbur was undergoing chemotherapy, I took him to the hospital twice a week. He told me that, because he got the poison so slowly, it never made him ill, but he&rsquo;d refused radiation treatment after the first course. Given his odds of survival, he didn&rsquo;t think the sickness and discomfort it caused were worth it. &ldquo;If I was a dog, it wouldn&rsquo;t be time to put me down, but there wouldn&rsquo;t be no use in taking me to the vet neither,&rdquo; he joked. He was proud of outlasting his doctor&rsquo;s prognosis. He refused pain medication because the physician had told him he shouldn&rsquo;t drink alcohol while taking it, and that offended his sense of autonomy. Wilbur told me he usually fell asleep with the beer bottle still mostly full and dumped out the rest in the morning, but it was the principle of the thing. &ldquo;Ain&rsquo;t nobody,&rdquo; he&rsquo;d say, &ldquo;should tell an old man he can&rsquo;t have himself a beer at night, excepting his wife,&rdquo; and he&rsquo;d never wanted a wife.</p>
+
+<p>&nbsp;</p>
+
+<p><strong><span class="large">I was twenty-nine</span></strong> the summer I finished college &mdash; long after Wilbur should have been dead, according to his doctor &mdash; and I decided to sell the house and move to Alabama. I felt guilty leaving Wilbur behind with nobody to drive him to the hospital or do his shopping.</p>
+
+<p>&ldquo;Do you want to come with me?&rdquo; I asked. &ldquo;You can. And it&rsquo;s always warm there, which would be easier on you.&rdquo; We were standing in his kitchen, both in aprons. I was making pies for a bake sale, and he was teaching me how to make the crust with lard, the way his mother had.</p>
+
+<p>&ldquo;Nah,&rdquo; he said, cutting the lard into the flour with two knives. &ldquo;I like it here just fine, and I can get along.&rdquo; He told me the ladies from Christian Help would take him to the doctor, and he was sure he could find someone to do his shopping. He passed me the mixing bowl, saying he&rsquo;d never been any good at rolling out the crust.</p>
+
+<p>He didn&rsquo;t seem sick, just worn out. He&rsquo;d never really seemed sick after that first night in the shelter.</p>
+
+<p>&ldquo;I feel like I&rsquo;m running out on you, though. Maybe I shouldn&rsquo;t go?&rdquo;</p>
+
+<p>&ldquo;Now you&rsquo;re just talking crazy,&rdquo; he said, taking off his apron. He told me I could finish the pies; he was going to lie down for a nap. He ducked out of the kitchen without saying goodbye, and, just like that, the matter was settled.</p>
+
+<p>I knocked five thousand dollars off the price of the house and sold it to some friends with the agreement that Wilbur could stay there rent-free for as long as he lived. They promised to be kind to him, though not to take him to his doctor&rsquo;s appointments or do his shopping. I called to check on him as soon as I&rsquo;d moved into my new place. The friends who&rsquo;d bought the house carried their cordless phone down to him. &ldquo;You just get on with your life,&rdquo; he said to me. &ldquo;I&rsquo;ve got everything under control here. Now quit bothering me and these nice people, and get you some rest.&rdquo;</p>
+
+<p>Wilbur died two weeks later, sitting in an old armchair that he&rsquo;d found in a neighbor&rsquo;s trash and had moved onto the porch earlier that day. He had a pauper&rsquo;s burial, but then, I&rsquo;d never known him to be much for ceremony. The social worker at Bartlett House filled out the requisite forms, even though it had been years since Wilbur had been her responsibility. There was no funeral service, no headstone &mdash; just a short prayer before lunch at the soup kitchen on the day he was buried.</p>
+														</div>
+
+
+				
+<div class="sharing-bar article-sharing">
+	<div class="sharing-bar-first">
+		<a href="javascript:window.print();" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-printer"></use></svg> <span>Print</span></a>
+	</div>
+
+	<div class="sharing-bar-second">
+		<span class="alt-ff xsmall">Share:</span>
+		<a href="https://www.facebook.com/sharer/sharer.php?u=https://www.thesunmagazine.org/issues/466/shelter-1" target="_blank" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-facebook"></use></svg> <span>Facebook</span></a>
+		<a href="https://twitter.com/share?url=https://www.thesunmagazine.org/issues/466/shelter-1&amp;via=thesunmagazine" target="_blank" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-twitter"></use></svg> <span>Twitter</span></a>
+		<a href="#" class="b b-1 b-padding-tight xsmall js-toggle-mail-form"><svg><use xlink:href="#i-email"></use></svg> <span>Email</span></a>
+	</div>
+</div>
+
+<div class="send-to-friend-message-container">
+	<div class="alert alert-success xsmall">Thank you for sharing <em>The Sun</em>.</div>
+</div>
+
+<form method="post" action="/ajax/articles/send-to-a-friend" class="form fill-grey send-to-friend-form">
+		<input type="hidden" id="form_url" name="form[url]" value="https://www.thesunmagazine.org/issues/466/shelter-1" />
+
+	<ul class="form-fields">
+		<li><label for="form_sender_name"><span class="label-text">Your Full Name</span><span class="label-asterisk">*</span></label><input type="text" id="form_sender_name" name="form[sender_name]" required="required" /></li>
+		<li><label for="form_sender_email"><span class="label-text">Your Email Address</span><span class="label-asterisk">*</span></label><input type="email" id="form_sender_email" name="form[sender_email]" required="required" /></li>
+		<li><label for="form_recipient_name"><span class="label-text">Friend’s Name</span><span class="label-asterisk">*</span></label><input type="text" id="form_recipient_name" name="form[recipient_name]" required="required" /></li>
+		<li><label for="form_recipient_email"><span class="label-text">Friend’s Email Address</span><span class="label-asterisk">*</span></label><input type="email" id="form_recipient_email" name="form[recipient_email]" required="required" /></li>
+		<li><label for="form_message"><span class="label-text">Personalized Message</span></label><textarea id="form_message" name="form[message]"></textarea></li>
+	</ul>
+<div class="send-to-friend-message-container">
+	<div class="alert alert-error xsmall">Something went wrong. Please try again.</div>
+</div>
+
+<div class="g-recaptcha" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs"></div>
+<div class="form-actions"><button type="submit" id="form_submit" name="form[submit]"	class="form-actions-b-primary b b-1 b-loading xsmall"><svg><use xlink:href="#i-loading"></use></svg>
+		Submit
+	</button></div>
+<input type="hidden" id="form__token" name="form[_token]" value="cebd8194e0e804da4d00377cde2b8014305017b2" /></form>
+
+<br>
+
+
+
+										<footer class="article-contributor contributors">
+									
+
+<div class="block-contributor">
+		
+
+		<div class="block-contributor-content">
+		<div class="block-contributor-bio small">
+			<p><strong><span class="smallcaps">Sarah Einstein</span></strong> lives in Athens, Ohio, where she is a PhD student in creative nonfiction at Ohio University. Her essay in this issue is based on a chapter of her unpublished book <em>Mot: A Memoir</em>, which won the 2014 AWP Creative Nonfiction Prize.</p><a href="/contributors/sarah-einstein" class="block-contributor-link link-alt small">More From This Contributor&nbsp;&#9656;</a>		</div>
+	</div>
+</div>
+
+							</footer>
+						</article>
+
+
+				    <div class="paywall-subscription block-product">
+			<div class="columns">
+			<div class="paywall-banner span3 cta cta-l1">
+				<div class="cta-intro">
+					<h5 class="cta-title alt-ff">One Free Selection Left </h5>
+					<p class="cta-text xsmall"><a class="link-alt" href="https://www.thesunmagazine.org/subscriber/login" data-label="Already a subscriber?">Already a subscriber? Sign in ▸</a><br><br>Read two free selections from <em>The Sun</em> each month.</p>
+				</div>
+			</div>
+			<div class="paywall-banner span9 note note-1 text-center">
+				<h4 class="cta-title alt-ff">Subscribe to <em>The Sun</em> and save 45%</h4>
+				<p class="cta-text xsmall">Subscribers get full access to the current issue and more than 40 years of archives.</p>
+				<a class="b b-1 xsmall cta-trigger"  href="/subscribe1" data-label="Subscribe" data-ctatitle="Subscribe">Subscribe</a>
+			</div>
+		</div>
+
+		<div class="columns">
+			<div class="span12 paywall-cta-bottom">
+				<p>
+					<span class="cta-title-issue">Buy the October 2014 issue for $5.95</span>
+					<span class="xsmall">Order now to get instant access to this issue, and we’ll also send you a print copy.</span>
+					<a class="b b-5 xsmall corona"  href="#" data-product-type="issues" data-id="466" data-label="Order Now ▸">Order Now ▸</a>
+				</p>
+			</div>
+		</div>
+
+		
+
+</div>
+	
+	
+	
+	<div class="spacer"></div>
+	
+
+
+
+		
+		<div class="article-correspondence-cta">
+		<div class="cta cta-l1" data-url="https://www.thesunmagazine.org/letter-to-the-editor">
+			<div class="cta-intro">
+				<h5 class="cta-title alt-ff">Thinking about writing us a letter?</h5>
+				<p class="cta-text">Give in to the temptation. We love getting mail. <br><span class="xsmall">(Of course, we reserve the right to edit.)</span></p>
+			</div>
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" class="cta-button b b-4 b-padding-tight small" data-label="Write Us A Letter!">Write Us A Letter!</a>
+		</div>
+	</div>
+	
+
+			<div class="article-also layout-item-large full-bar fill-grey-mid-light">
+		<div class="layout-item-intro">
+			<h2>Also In This Issue</h2>
+			<a href="/issues/466" class="xsmall link-alt">October 2014&nbsp;&#9656;</a>
+		</div>
+		<div class="issue-articles-l1">
+			<div class="issue-articles-l1-content1">
+				
+<div class="cover cover-l1 block-product">
+	<div>
+							<a href="/issues/466" class="cover-thumb">
+				
+				<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 727'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/import/issue/466.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/561x728r/import/issue/466.jpg
+	 alt=""
+	 class="lazy">
+
+			</a>
+		
+
+													<!-- <a href="/issues/466" data-product-type="issues" data-id="466" data-role="order" class="js-buy-single corona cover-button b b-1 b-full xsmall" data-label="Buy This Issue &#9656;">
+								Buy This Issue&nbsp;&#9656;
+			</a> -->
+			<a href="/issues/466" data-product-type="issues" data-id="466" class="js-buy-single corona cover-button b b-1 b-full xsmall" data-label="Buy This Issue &#9656;">
+								Buy This Issue&nbsp;&#9656;
+			</a>
+					
+					</div>
+</div>
+			</div>
+			<div class="issue-articles-l1-content2">
+				<div class="articles-l3">
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/466/hunger-issue-466">Hunger</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/anwar-f-accawi">Anwar F. Accawi</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/fiction">Fiction</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/466/step-nine">Step Nine</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/kc-wolfe">K.C. Wolfe</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/dog-eared-page">The Dog-Eared Page</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/466/a-question-of-comfort">A Question Of Comfort</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/dorothy-day">Dorothy Day</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/quotations">Quotations</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/466/sunbeams-466">Sunbeams</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+									</div>
+			</div>
+		</div>
+	</div>
+	
+
+			<div class="article-related layout-item-large full-bar fill-pattern-light">
+		<div class="layout-item-intro">
+			<h2>Related Selections</h2>
+			<ul class="list-inline list-inline-tight"><li><a href="/topics/poverty" class="xsmall link-alt link-text">Poverty</a></li><li><a href="/topics/compassion" class="xsmall link-alt link-text">Compassion</a></li><li><a href="/topics/cancer" class="xsmall link-alt link-text">Cancer</a></li></ul>		</div>
+
+		<div class="articles-l2">
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/poetry">Poetry</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/517/what-to-look-for-in-a-horse">What To Look For In A Horse</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/brett-elizabeth-jenkins">Brett Elizabeth Jenkins</a></li><li><a href="/issues/517">January 2019</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/517" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 727'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/140x182r/2018-12/517.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/2018-12/517.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/readers-write">Readers Write</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/504/in-the-middle">In The Middle</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/our-readers">Our Readers</a></li><li><a href="/issues/504">December 2017</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/504" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 727'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/140x182r/2017-11/504.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/2017-11/504.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/poetry">Poetry</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/443/first-kiss-issue-443">First Kiss</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/brian-doyle">Brian Doyle</a></li><li><a href="/issues/443">November 2012</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/443" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 727'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/140x182r/import/issue/443.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/import/issue/443.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/fiction">Fiction</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/325/be-true-to-your-school">Be True To Your School</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/anthony-varallo">Anthony Varallo</a></li><li><a href="/issues/325">January 2003</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/325" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 727'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/140x182r/import/issue/325.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/import/issue/325.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+					</div>
+	</div>
+	
+	
+					<form id="newsletterForm" method="post" action="https://www.thesunmagazine.org/newsletter" data-url-send="https://www.thesunmagazine.org/newsletter" class="form form-newsletter fill-grey" enctype="multipart/form-data" target="_blank">
+
+
+
+		<div class="form-newsletter-intro">
+			<h3 class="alt-ff large">Sign Up For Our Newsletter</h3>
+			<p>We’ll let you know about new website selections, upcoming events, special offers, and more.</p>
+		</div>
+
+		<ul class="form-newsletter-fields form-fields form-fields-inline">
+			<li>
+				<input name="name" type="text" maxlength="500" id="name" placeholder="Your Name">
+			</li>
+			<li>
+				<input name="email" type="text" maxlength="500" id="email" placeholder="Your E-mail">
+			</li>
+
+			<li class="form-fields-inline-button">
+				<button disabled="disabled" class="form-newsletter-send b b-4 b-padding-tight b-loading g-recaptcha" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs" data-callback="recaptcha_callback" name="SubmitButton" id="SubmitButton">
+					<svg><use xlink:href="#i-loading"></use></svg>
+					Sign&nbsp;Up
+				</button>
+			</li>
+		</ul>
+	</form>
+	<script id="hiddenlpsubmitdiv" style="display: none;"></script>
+
+
+
+<footer class="footer brand-grey-dark">
+			<div class="footer-first">
+		<h3 class="footer-tagline">Independent, Reader-Supported Publishing</h3>
+		<p class="footer-desc">In each issue of <em>The Sun</em> you’ll find some of the most radically intimate and socially conscious writing being published today. In an age of media conglomerates, we’re something of an oddity: an ad-free, independent, reader-supported magazine.</p>
+		<ul class="footer-nav list-inline-border xsmall">
+			
+		<li class=" first">
+			<a href="https://www.thesunmagazine.org/about" 	   class=''>
+	   About <em>the Sun</em>	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/staff" 	   class=''>
+	   Staff	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/find-the-sun" 	   class=''>
+	   Find <em>The Sun</em>&nbsp;&nbsp;in a Store Near You	</a>
+		
+	</li>
+
+
+		</ul>
+	</div>
+	
+		<div class="footer-second">
+		<ul class="footer-second-social list-inline">
+			<li><a href="https://www.facebook.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-facebook"></use></svg></span> Like Us</a></li>
+			<li><a href="https://twitter.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-twitter"></use></svg></span> Follow Us</a></li>
+			<li><a href="https://instagram.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-instagram"></use></svg></span> Take a Look</a></li>
+		</ul>
+
+		<div class="footer-second-content">
+			<ul class="footer-nav list-inline-border xsmall">
+				
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/" 	   class='current '>
+	   Home	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/privacy-policy" 	   class=''>
+	   Privacy Policy	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/terms-of-use" 	   class=''>
+	   Terms of Use	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/site-map" 	   class=''>
+	   Site Map	</a>
+		
+	</li>
+
+
+			</ul>
+			<p class="footer-copyright xxsmall">Copyright &copy; 1974–2020 <em>The Sun</em>. All rights reserved.</p>
+		</div>
+	</div>
+</footer>
+
+
+
+<div class="offset-nav">
+	<ul>
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/read" 	   class='current '>
+	   Read	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/issues/current" 	   class=''>
+	   Current Issue	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/archives" 	   class=''>
+	   Archives	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/featured" 	   class=''>
+	   Featured Selections	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/topics" 	   class=''>
+	   Browse Topics	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/sections" 	   class=''>
+	   Browse Sections	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/connect" 	   class=''>
+	   Connect	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/news" 	   class=''>
+	   News from <em>The Sun</em>	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" 	   class=''>
+	   Write a Letter to the Editor	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/discussion-groups" 	   class=''>
+	   Discussion & Writing Groups	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/make-a-suggestion" 	   class=''>
+	   Make a Suggestion	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/submit" 	   class=''>
+	   Submit	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/shop" 	   class=''>
+	   Shop	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/giftsub" 	   class=''>
+	   Gift Subscriptions	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/issues" 	   class=''>
+	   Issues	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+											
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/donatemenu" 	   class='highlight'>
+	   Donate	</a>
+		
+	</li>
+
+		<li class=" last">
+														<a href="/SubscribeNav1" 					   class=''>
+						Subscribe					</a>
+									
+	</li>
+
+
+					<li>
+				<a href="https://www.thesunmagazine.org/shop/cart">Cart ( <span class="cart-item-count">  0  </span>)</a>
+			</li>
+			<li><a href="https://www.thesunmagazine.org/subscriber/login" class="link-header-logout link-alt">Sign In</a></li>
+			</ul>
+	<ul>
+		<li class=" first">
+			<a href="https://www.thesunmagazine.org/about" 	   class=''>
+	   About <em>the Sun</em>	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/staff" 	   class=''>
+	   Staff	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/find-the-sun" 	   class=''>
+	   Find <em>The Sun</em>&nbsp;&nbsp;in a Store Near You	</a>
+		
+	</li>
+
+</ul>
+	<ul>
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/" 	   class='current '>
+	   Home	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/privacy-policy" 	   class=''>
+	   Privacy Policy	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/terms-of-use" 	   class=''>
+	   Terms of Use	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/site-map" 	   class=''>
+	   Site Map	</a>
+		
+	</li>
+
+</ul>
+</div>
+
+<div id="buy-popup-message" class="buy-popup mfp-hide white-popup white-popup-block">
+	<a class="popup-modal-dismiss" href="#"></a>
+	<h5>Due to fulfillment challenges related to the novel coronavirus, print copies are temporarily unavailable for individual sale. We are offering free PDFs until we are able to resume print sales.</h5>
+	<p>Enter your e-mail address below to download this issue.</p>
+	<form method="post" id="download-single" action="https://www.thesunmagazine.org/issue/pdfFree/531.pdf">
+		<label for="email"><span class="label-text">E-mail</span><span class="label-asterisk">*</span></label>
+		<input class="buy-single-email" id="email" type="email" name="email">
+		<button type="send" class="form-buy-issue-send b b-3 b-padding-tight b-loading">Send</button>
+		<button class="form-buy-issue-download b b-3 b-padding-tight b-loading">Download pdf</button>
+		<button type="send" class="popup-modal-dismiss b b-2 b-padding-tight b-loading">Close</button>
+		<div class="g-recaptcha" style="text-align: center" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs"></div>
+
+	</form>
+</div>
+
+			<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/plugins.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/site.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/newsletter.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/js/articles.js"></script>
+		</div>
+		</div>
+
+				<script>
+		(function (doc) {
+			var scripts = doc.getElementsByTagName('script');
+			var script = scripts[scripts.length - 1];
+			var xhr = new XMLHttpRequest();
+			xhr.onload = function () {
+				var div = doc.createElement('div');
+				div.innerHTML = this.responseText;
+				div.style.display = 'none';
+				script.parentNode.insertBefore(div, script);
+			}
+			xhr.open('get', '/theme/thesun//assets/build/img/sprite/sprite.svg', true);
+			xhr.send();
+		})(document);
+
+
+
+		</script>
+
+		<script>
+			// Submit function
+            function recaptcha_callback() {
+						var getUrl = $('.form-newsletter').data( "url-send" ),
+							getName = $('input#name').val(),
+							getEmail = $('input#email').val();
+						$.ajax({
+								type: "POST",
+								url: getUrl,
+								data: {
+									name: getName,
+									email: getEmail,
+									grecaptcharesponse: grecaptcha.getResponse()
+								}
+							}).done(function(response) {
+								console.log(response);
+									$('.form-fields').fadeOut(800, function () {
+										$('.form-fields').empty().append('<div class="newsletter-confirm-message">Thank you for signing up to receive news from <em>The Sun</em>. Your first newsletter will arrive soon.<div>').fadeIn(800);
+									});
+							});
+			}
+
+		</script>
+
+		<script>
+			function getUrlCode() {
+				var url_string = window.location.href;
+				var url = new URL(url_string);
+				var c = url.searchParams.get('promotion\_key');
+				if (typeof c !== 'undefined' && c !== null) {
+					setCookie("promotion_code",c);
+				}
+			}
+
+			function setCookie(cname, cvalue) {
+				document.cookie = cname + "=" + cvalue + ";" + "path=/";
+			}
+
+			function getCookie(cname) {
+				var name = cname + "=";
+				var decodedCookie = decodeURIComponent(document.cookie);
+				var ca = decodedCookie.split(';');
+				for(var i = 0; i <ca.length; i++) {
+					var c = ca[i];
+					while (c.charAt(0) == ' ') {
+						c = c.substring(1);
+					}
+					if (c.indexOf(name) == 0) {
+						return c.substring(name.length, c.length);
+					}
+				}
+				return "";
+			}
+			window.addEventListener( "load", getUrlCode );
+		</script>
+
+
+	</body>
+</html>

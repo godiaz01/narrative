@@ -1,0 +1,1252 @@
+
+<!DOCTYPE html>
+<html class="no-js" lang="en-US">
+	<head>
+		<title>Some Shelter - The Sun Magazine</title>
+
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		
+		<meta name="viewport" content="width=device-width, minimum-scale=1.0">
+
+		<link rel="dns-prefetch" href="//ajax.googleapis.com">
+		<link rel="dns-prefetch" href="//use.typekit.net">
+		
+		<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/modernizr.js"></script>
+		<script src="https://www.google.com/recaptcha/api.js"
+				async defer>
+		</script>
+
+		<script>(function(d) { var config = { kitId: 'kzw7ebk', scriptTimeout: 3000, async: true }, h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s) })(document);</script>
+
+
+				
+		<link rel="apple-touch-icon" sizes="57x57" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-57x57.png?v=2016">
+		<link rel="apple-touch-icon" sizes="60x60" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-60x60.png?v=2016">
+		<link rel="apple-touch-icon" sizes="72x72" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-72x72.png?v=2016">
+		<link rel="apple-touch-icon" sizes="76x76" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-76x76.png?v=2016">
+		<link rel="apple-touch-icon" sizes="114x114" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-114x114.png?v=2016">
+		<link rel="apple-touch-icon" sizes="120x120" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-120x120.png?v=2016">
+		<link rel="apple-touch-icon" sizes="144x144" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-144x144.png?v=2016">
+		<link rel="apple-touch-icon" sizes="152x152" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-152x152.png?v=2016">
+		<link rel="apple-touch-icon" sizes="180x180" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-180x180.png?v=2016">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-32x32.png?v=2016" sizes="32x32">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/android-chrome-192x192.png?v=2016" sizes="192x192">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-96x96.png?v=2016" sizes="96x96">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-16x16.png?v=2016" sizes="16x16">
+		<link rel="mask-icon" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/safari-pinned-tab.svg?v=2016" color="#444444">
+		<link rel="shortcut icon" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon.ico?v=2016">
+		<meta name="apple-mobile-web-app-title" content="The Sun Magazine">
+		<meta name="application-name" content="The Sun Magazine">
+		<meta name="msapplication-TileColor" content="#fcc330">
+		<meta name="msapplication-TileImage" content="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/mstile-144x144.png?v=2016">
+		<meta name="theme-color" content="#ffffff">
+
+				<link rel="stylesheet" type="text/css" href="https://cloud.typography.com/6578674/659928/css/fonts.css" />
+		<link rel="stylesheet" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/css/style.css">
+
+																		<meta property="og:site_name" content="The Sun Magazine">
+		<meta property="og:type" content="article">
+		<meta property="og:url" content="https://www.thesunmagazine.org/issues/323/some-shelter">
+		<meta property="og:image" content="http://www.thesunmagazine.org/files/2018-04/323-14-preview.jpg">
+		<meta property="og:title" content="Some Shelter - The Sun Magazine">
+		<meta property="og:description" content="The atomic bomb would fall and we would duck and cover and it would be ok. There wasn&amp;rsquo;t a child in the room who didn&amp;rsquo;t know this was a baldfaced lie, the height of adult mendacity &amp;mdash; as the older boys said, &amp;ldquo;Bullshit.&amp;rdquo;">
+		<meta property="fb:app_id" content="158741778010551">
+
+						<link rel="image_src" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.comhttp://www.thesunmagazine.org/files/2018-04/323-14-preview.jpg">
+
+												<meta name="twitter:card" content="summary">
+		<meta name="twitter:title" content="Some Shelter - The Sun Magazine">
+		<meta name="twitter:description" content="The atomic bomb would fall and we would duck and cover and it would be ok. There wasn&amp;rsquo;t a child in the room who didn&amp;rsquo;t know this was a baldfaced lie, the height of adult mendacity &amp;mdash; as the older boys said, &amp;ldquo;Bullshit.&amp;rdquo;">
+		<meta name="twitter:image" content="http://www.thesunmagazine.org/files/2018-04/323-14-preview.jpg">
+		<meta name="twitter:site" content="@thesunmagazine">
+
+				<link rel="publisher" href="https://plus.google.com/113792980827145858211">
+        
+		<meta name="Description" content="The atomic bomb would fall and we would duck and cover and it would be ok. There wasn&amp;rsquo;t a child in the room who didn&amp;rsquo;t know this was a baldfaced lie, the height of adult mendacity &amp;mdash; as the older boys said, &amp;ldquo;Bullshit.&amp;rdquo;">
+
+		
+		<!-- Google Tag Manager -->
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-TKBHCCG');</script>
+		<!-- End Google Tag Manager -->
+
+		<!-- Google Analytics -->
+		<script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+            ga('create', 'UA-2351127-1', 'auto');  // Replace with your property ID.
+            ga('send', 'pageview');
+            ga('require', 'ecommerce');   // Load the ecommerce plug-in.
+		</script>
+		<!-- End Google Analytics -->
+	</head>
+	<body id="">
+
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TKBHCCG"
+		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+		<header class="header" data-offset-start="80">
+		<div class="header-utilities">
+				<ul class="header-utilities-user list-inline list-inline-tight xxsmall">
+							<li>
+					<span class="header-utilities-user-intro">Already A Subscriber?</span> &nbsp;
+					<a href="https://www.thesunmagazine.org/subscriber/login" class="link-text link-alt">Sign In</a>
+				</li>
+					</ul>
+		<a href="https://www.thesunmagazine.org/shop/cart" class="header-utilities-cart  link-alt link-icon tiny">
+			<span class="i"><svg><use xlink:href="#i-cart"></use></svg></span>
+			<span class="cart-item-count">
+									0 Items
+				
+			</span>
+		</a>
+			</div>
+
+		<div class="header-bar">
+		<h1 class="header-logo logo">
+			<a href="/">
+				<img src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/img/logo-thesun.svg" class="logo-thesun" alt="The Sun Magazine">
+				<img src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/img/logo-tagline.svg" class="logo-tagline" alt="">
+			</a>
+		</h1>
+
+		<ul class="header-nav">
+			
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/read" 	   class='current '>
+	   Read	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/issues/current" 	   class=''>
+	   Current Issue	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/archives" 	   class=''>
+	   Archives	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/featured" 	   class=''>
+	   Featured Selections	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/topics" 	   class=''>
+	   Browse Topics	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/sections" 	   class=''>
+	   Browse Sections	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/connect" 	   class=''>
+	   Connect	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/news" 	   class=''>
+	   News from <em>The Sun</em>	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" 	   class=''>
+	   Write a Letter to the Editor	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/discussion-groups" 	   class=''>
+	   Discussion & Writing Groups	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/make-a-suggestion" 	   class=''>
+	   Make a Suggestion	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/submit" 	   class=''>
+	   Submit	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/shop" 	   class=''>
+	   Shop	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/giftsub" 	   class=''>
+	   Gift Subscriptions	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/issues" 	   class=''>
+	   Issues	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+											
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/donatemenu" 	   class='highlight'>
+	   Donate	</a>
+		
+	</li>
+
+		<li class=" last">
+														<a href="/SubscribeNav1" 					   class=''>
+						Subscribe					</a>
+									
+	</li>
+
+
+		</ul>
+
+		<button class="header-nav-toggle"><svg><use xlink:href="#i-menu" class="i-menu"></use><use xlink:href="#i-close" class="i-close"></use></svg></button>
+		<button class="header-search-toggle" data-form-wrapper=".header-search"><svg><use xlink:href="#i-magnifier" class="i-magnifier"></use><use xlink:href="#i-close" class="i-close"></use></svg></button>
+	</div>
+
+		<div class="header-search">
+		<div class="header-search-content">
+			<form action="https://www.thesunmagazine.org/search" class="form form-search" method="get">
+				<h2 class="alt-ff brand-link">Search Our 40 Years of Archives</h2>
+				<ul class="form-search-fields form-fields form-fields-inline">
+					<li><input type="text" name="q" value=""></li>
+					<li class="form-fields-inline-button"><button class="b b-1 b-padding-tight b-loading"><svg><use xlink:href="#i-loading"></use></svg>Search</button></li>
+				</ul>
+
+				<div class="header-search-content-shortcuts">
+					<h6 class="search-advanced alt-ff"><a class="js-handle-advanced" href="https://www.thesunmagazine.org/search?advanced=1">Advanced Search</a></h6>
+					<br>
+					<h6 class="alt-ff">Popular Pages</h6>
+					<ul class="list-inline-border list-inline-tight xxsmall"><li class=" first"><a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a></li><li class=""><a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a></li><li class=""><a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a></li><li class=""><a href="https://www.thesunmagazine.org/sections/quotations" 	   class=''>
+	   Quotations	</a></li><li class=""><a href="https://www.thesunmagazine.org/sections/readers-write" 	   class=''>
+	   Readers Write	</a></li><li class=" last"><a href="https://www.thesunmagazine.org/sections/poetry" 	   class=''>
+	   Poetry	</a></li></ul>				</div>
+			</form>
+		</div>
+	</div>
+</header>
+
+	<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+	<script type="text/javascript">
+		$(document).ready(function() {
+			$('.js-handle-advanced').on('click', function (e) {
+				e.preventDefault();
+				var getSearchValue = $('.form-search-fields input').val();
+				var getURL = $(this).attr('href');
+				var newURL = getURL + '&q=' + getSearchValue;
+				window.location.href = newURL;
+			});
+		});
+	</script>
+
+		<div class="container-hidden">
+		<div class="container">
+
+				
+	
+	<article class="article ">
+		<header class="block-content block-content-l1 block-content-center">
+						<div class="block-content-header">
+				<h6 class="b-content-section heading-square"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+				<h1 class="block-content-title">Some Shelter</h1>
+
+				
+				<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/david-romtvedt">David Romtvedt</a></li><li><a href="/issues/323">November 2002</a></li></ul>
+
+			</div>
+
+																			
+
+				<figure class="block-content-photo block-content-photo-large photo photo-outset-center-small">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 1529 1960'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/765x980r/photos/323-14.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/1529x1960r/photos/323-14.jpg
+	 alt="323 - Some Shelter"
+	 class="lazy">
+
+									</figure>
+
+					</header>
+
+				<div class="article-body link-text-wrap">
+																		<p><span class="dropcap">T</span><strong>HERE</strong> is a song I was taught in school during the 1950s titled &ldquo;Duck and Cover.&rdquo; It was supposed to help us remember what to do in the event of a nuclear attack. More importantly, it was supposed to convince us that there could be a safe place in a world at war. The atomic bomb would fall and we would duck and cover and it would be <span class="smallcaps">OK</span>. There wasn&rsquo;t a child in the room who didn&rsquo;t know this was a baldfaced lie, the height of adult mendacity &mdash; as the older boys said, &ldquo;Bullshit.&rdquo;</p>
+
+<p>During recess, we sat in the dirt by a chain-link fence at the far edge of the school grounds and talked about what would really happen when the bomb fell. The consensus was we would all be dead. For some of us it would be immediate. For others it would be slower and, we feared, more agonizing. These would get to live a little while before their skin fell off and their hair fell out and they died. (We didn&rsquo;t know yet about cancer twenty and thirty years down the line.)</p>
+
+<p>In my seventh-grade science class we had to crawl under our desks during bomb drills. The teacher made the girls pull their skirts over their heads for protection. We boys saw the girls&rsquo; underwear and wondered how pulling their skirts over their heads would help the girls survive the atomic bomb. Someone complained, and one day the science teacher was no longer among us. Later I learned that even a single layer of fabric could shield one&rsquo;s skin from the first blast effects of the bomb. In Japan, bomb victims were terribly burned except where their clothing had covered their skin.</p>
+
+<p>The anthropologist Margaret Mead believed the entire world could be divided into two categories of people: those born before the atomic bombs were dropped on Hiroshima and Nagasaki, and those born after. If you were born before, you believed that life would go on. No matter how hard things got, no matter what depths of poverty or deprivation you experienced, life would go on. The sun and the moon, the deep blue sky, the birds that sang outside your window not caring if you noticed &mdash; it would all go on.</p>
+
+<p>Those born after the bomb do not suffer this delusion. We know there is no safe place in this world we have made.</p>
+
+<p>&nbsp;</p>
+
+<p><span class="dropcap">M</span><strong>Y</strong> father felt badly because he couldn&rsquo;t offer protection to his family. A man&rsquo;s job is to work hard and take care of his wife and children; that&rsquo;s what my father believed. He&rsquo;d dropped out of school in the seventh grade and learned how to work. When he came home from World War <span class="smallcaps">II</span>, he got a job in the Crown Zellerbach paper mill on the Willamette River. Good union wage. Bought a little two-bedroom house. I was born, and then my sister. My mother didn&rsquo;t work outside the home, and my father&rsquo;s wages covered everything. We went to the movies and rode the streetcar into downtown Portland to go shopping. But my father suffered from rheumatoid arthritis, and we moved to Arizona because the doctors assured him the dry heat there would help. No jobs. No union. My mother went to work. My father found work wherever he could. We got by.</p>
+
+<p>Then the Cuban Missile Crisis came. The Russians had placed missiles with nuclear warheads in Cuba, and the Americans had told them to remove the missiles, or else. The end of the world felt close and personal once again. I found myself humming &ldquo;Duck and Cover.&rdquo; I wondered what on earth we could do.</p>
+
+<p>The idea was that, to save ourselves, we&rsquo;d go underground. A Colorado developer had built a housing project in which every home came with its own bomb shelter. In Phoenix, where we lived, the man across the street had paid three thousand dollars to have a bomb shelter dug below his cinder-block house.</p>
+
+<p>I heard that Soviet premier Nikita Khrushchev had taken off his shoe and banged it on the table to make his point to the American government. (I don&rsquo;t think this occurred during the Cuban Missile Crisis, but in my memory, the two events have ended up together.) This impressed me: the leader of the second-most-powerful nation on earth took off his shoe to yell at the Americans. When the end came, I imagined, the air would be filled with millions of shoes, falling from the clouds onto my head. Shoes would fly across the sky and blot out the sun.</p>
+
+<p>My father couldn&rsquo;t have come up with three thousand dollars if he&rsquo;d sold his soul. Besides, he&rsquo;d already sold his soul &mdash; sold it to the Man &mdash; to get a job working on the assembly line in an aluminum-extrusion mill. When the mill laid him off, he sold his soul again to get a job in a cabinet shop. When the shoes fell from the sky in my mind, they were filled with sawdust.</p>
+
+<p>One of the first poems I wrote as an adult was called &ldquo;Shelter&rdquo; &mdash; a very literary title, in that no shelter would be provided. In the poem, my father is out one summer evening watering the lawn. He sees our neighbor standing in his yard across the street, staring at the sky. The neighbor has a rifle. He says hello to my father and begins to explain that a bomb shelter is designed to provide the requisite amount of filtered air, bottled water, and emergency food for one family: no more. So, however hard it may be, a man would have to be firm: when the bomb fell, he&rsquo;d hustle his family down there and close the door on the rest of the world.</p>
+
+<p>&ldquo;Nobody else,&rdquo; the man says. &ldquo;The goddamn dog&rsquo;s staying up top, and the neighbors are, too. There&rsquo;s no room to take more people. You let extras in, and we&rsquo;re all gonna die.&rdquo;</p>
+
+<p>At this point the neighbor lifts his rifle to his shoulder, takes aim at some distant star, and fires. &ldquo;God damn it. Dead.&rdquo;</p>
+
+<p>I think the rifle might have been what galvanized my father. He&rsquo;d never had much to do with guns outside of his experience as a tail gunner in a <span class="smallcaps">B</span>-25 medium-range bomber during World War <span class="smallcaps">II</span>, and a tail gunner never gets close to what he shoots. But that rifle in our neighbor&rsquo;s hands &mdash; that was close.</p>
+
+<p>The people who knew about these things said that if you couldn&rsquo;t build a bomb shelter, the next best thing was a central room in your house &mdash; a room with no windows. So my father set up a makeshift bomb shelter in our bathroom. It was a small room. If somebody sat on the toilet and somebody else in the tub, there was enough room for two more people to stand in front of the sink. They could look at themselves in the mirror. If their skin should happen to fall off, they could watch it happen.</p>
+
+<p>The dirty-clothes basket that had sat by the toilet was gone. In its place was a cardboard box filled with canned food and jars of water &mdash; those institutional-sized jars they use in restaurant kitchens. My mother scrubbed them out and filled them with tap water and set them in the bathroom. You never knew what might help you to survive.</p>
+
+<p>&nbsp;</p>
+
+<p><span class="dropcap">T</span><strong>HEY</strong> were lying to us. Who were &ldquo;they?&rdquo; To this day I can&rsquo;t quite figure that out. My schoolteachers? The newscasters on television? The governor? The Red Cross and the Civil Defense? The president? Did the president believe he was going to survive when the bombs started zinging around the planet? Perhaps they&rsquo;d whisk him off to some secret air base, where he&rsquo;d live in underground splendor. The wealthy and the powerful take care of themselves.</p>
+
+<p>But what about when they came back up &mdash; the president and our neighbor with his rifle? The president could preside over a nation of sawdust-filled shoes, and the neighbor could be the first postnuclear secretary of defense.</p>
+
+<p>Maybe they lied to us in a sincere effort to help us feel safe. If so, it didn&rsquo;t work. The most enduring, most powerful result of lying is that nobody believes you about anything ever again. You lied to me then, so how am I supposed to know you&rsquo;re not lying now? No matter how sincere, an untrustworthy person cannot give us a feeling of security.</p>
+
+<p>In early adulthood, I faced this problem in the form of President Richard Nixon. Nixon had been elected in part because he claimed he had a plan that would allow for an honorable end to the Vietnam War. He then oversaw the secret bombing of Cambodia. Entire mountain ranges were pounded to gravel, rivers ripped from their courses, rare tigers blown apart, human beings lifted into the air and dropped back, dead. President Nixon denied all accusations concerning American bombing raids. He lied from beginning to end. Perhaps he thought those lies might get us out of the war or make the American people feel safe. If so, he was wrong on both counts.</p>
+
+<p>&nbsp;</p>
+
+<p><span class="dropcap">I</span><strong>N</strong> the late 1980s, I worked as a carpenter on a sister-city project between Port Townsend, Washington, and Jalapa, Nicaragua. The Nicaraguan people had violently overthrown the Somoza dictatorship, in which one family owned more than half the property in the nation. The new Sandinista government (named for a Nicaraguan resistance hero) was leftist &mdash; committed to social justice and the redistribution of wealth. The U.S. boycotted the new government and supported, with financial and material aid, an army called the Contras, who were attempting to bring down the new government by any means &mdash; including acts of terror against Nicaraguan civilians.</p>
+
+<p>When our sister-city group asked the people of Jalapa what sort of project we could do for them, they didn&rsquo;t want electric lights or potable water or paved streets. They asked for a park. &ldquo;Our children,&rdquo; one man said, &ldquo;were born in war and have lived all their lives in war. They have not been allowed to be children. We want them to have this chance.&rdquo;</p>
+
+<p>So we built a basketball court and playground equipment with slides and monkey bars. We also built a merry-go-round. Because of the U.S. boycott, it was illegal for us to send the brightly painted wooden tigers and bears and elephants to Jalapa, so we drove them to Vancouver, Canada, and shipped them from there. By the time they arrived in Jalapa, they were chipped and scarred. But we glued and painted them and hung them in place, and on the day of the park&rsquo;s opening, the mayor spoke and a band played and every kid in town lined up to ride the merry-go-round.</p>
+
+<p>It was the security of being a child that the people of Jalapa wanted for their sons and daughters.</p>
+
+<p>One day we went up near the Honduran border to visit a village where new houses were being built, and we saw U.S. fighter jets above us. We saw these jets attack a series of hills and fields. Jalapa and the northern valley in which it lay were the last areas of fighting in the country. The Contras were able to come in from Honduras and then return over the border for safety. U.S. jets based in Honduras provided support. Following the report of the fighter jets&rsquo; incursion into Nicaragua, President Ronald Reagan appeared on television to announce that no American airplanes had entered Nicaraguan airspace. I watched him speak on <span class="smallcaps">TV</span>, and I had watched the American jets overhead as I stood on Nicaraguan soil. Unlike Nixon, Reagan lied boldly and confidently, with a genuine smile on his face.</p>
+
+<p>&nbsp;</p>
+
+<p><span class="dropcap">T</span><strong>HERE</strong> is always the risk that a small war will lead to a larger one: a nuclear conflict. Although we can die in any war, nuclear war promises that an awful lot more civilians than soldiers will die.</p>
+
+<p>For hundreds of years, the Catholic Church has had a concept called the &ldquo;just war.&rdquo; The Church generally calls on us to resist war, but under certain carefully articulated circumstances, it is possible for good Catholics to support and participate in a war: You have to have exhausted all other possible remedies. And you have to distinguish between military and civilian targets. In a just war, soldiers kill soldiers.</p>
+
+<p>When the American Civil War began in 1861, many believed the affair would end rather quickly, and it is said that some came out with picnic baskets and parasols to watch the early battles. No one imagined that the soldiers might turn their guns on the picnickers. It would have been unthinkable. Yet, by the end of the war, Union general William T. Sherman, whom historians consider the first commander of the modern era, had allowed his troops to attack civilian targets, if not civilians themselves.</p>
+
+<p>When the U.S. dropped the atomic bomb on Hiroshima, 150,000 civilians died. Everyone is a combatant. No one is innocent. No one is neutral.</p>
+
+<p>The Bible offers the following story about the importance of distinguishing between the innocent and the guilty: The Lord was thinking of destroying the cities of Sodom and Gomorrah because their sins were so grave. The Lord singled out Abraham to receive knowledge of what was going to happen. Abraham was a sly one and asked, &ldquo;Will you sweep away the innocent along with the guilty? What if there should be fifty innocent within the city? Will you not forgive it for the sake of the innocent fifty who are in it?&rdquo;</p>
+
+<p>The Lord admitted that he couldn&rsquo;t very well destroy the innocent simply to get to the guilty. If there were fifty innocent men, he wouldn&rsquo;t destroy the cities. &ldquo;What about forty-five people?&rdquo; Abraham asked. Would the Lord destroy the cities for the lack of five good people?</p>
+
+<p>Even if you don&rsquo;t know the Bible, you know where this is leading: forty, thirty, twenty, ten. At that point, the Lord told Abraham, &ldquo;I will not destroy, for the sake of the ten.&rdquo;</p>
+
+<p>That&rsquo;s the end of the chapter. One has to read further to find out what happened.</p>
+
+<p>&nbsp;</p>
+
+<p><span class="dropcap">I</span><strong>N</strong> the spring of 1994, nearly a million Rwandans of Tutsi background were murdered by their Hutu compatriots. These murders were largely committed in a personal way. People were hacked up with machetes. They were beaten with nail-studded clubs. The government of Rwanda encouraged the genocide. Indeed, the government and representatives of what was called Hutu Power threatened with the same fate any Hutus who showed sympathy for the Tutsis.</p>
+
+<p>I had a personal interest in these events. In the late 1970s, I had been an instructor at the National University of Rwanda, teaching contemporary African poetry and fiction. I knew the places mentioned, the look of the buildings, the smell of the markets and fields, the charcoal burning along the roads, the eucalyptus trees, the potters with their mud kilns turning out fragile plates and bowls and large water jugs.</p>
+
+<p>In the papers, I read the familiar names of the towns and villages where the Tutsis were massacred. I read the name of the dead Rwandan president, Juvenal Habyarimana, a short, round man whom I&rsquo;d met in the Butare Stadium at a performance of the Ntori Dancers, Rwanda&rsquo;s folkloric dance troupe. When I shook his hand, it seemed strangely fleshy and soft, and I was afraid of him, as any reasonable person was at the time. How ironic that the bloodletting we all feared came to pass only after his death.</p>
+
+<p>I remember the beauty of the people I encountered and of the land &mdash; the Rwandan hills, the tea plantations and the pyrethrum fields, the clouds over the volcanoes in the northwest, the women carrying food and water and tools on their heads, the men hacking with machetes along the roads&rsquo; edges, doing their state-required duty to keep the roadways clear.</p>
+
+<p>There was a lake where I used to swim in the afternoon. I would cross a cove &mdash; maybe a half mile &mdash; then climb out on the opposite shore and shake the water from my hair. I&rsquo;d walk along the shore back to town and watch the children herding goats in the fields, scrambling up and down the slopes, chasing a runaway back to the flock. I&rsquo;d wave and smile. The kids would smile and wave back, then come running down the hills after me. They&rsquo;d grab my hands and shout at me, &ldquo;Umuzungu, umuzungu!&rdquo; <em>White man.</em> They&rsquo;d laugh. It was a warm, companionable laughter, and it made me feel lighthearted and happy. Then they&rsquo;d get quiet, and I&rsquo;d walk along for a few minutes with a couple of kids holding my hands. To them, I was an unusual sight on an otherwise ordinary day. Wave and smile. Duck and cover.</p>
+
+<p>I hope this is clear: There were these moments of great intimacy and seeming safety &mdash; the land itself, the lake, the children, the holding of hands. Then, years later, when I was far away from Rwanda, a million people died horrible, stupid, unnecessary deaths. When I walk down a road, whether in Rwanda or in Wyoming, where I now live, my own death follows me like my shadow, floats like waves over rocks and stumps, passes behind buildings, intermingles with everything it touches. I would like to feel safe, but there is little evidence that I ever will.</p>
+
+<p>And Monsieur le Pr&eacute;sident Juvenal, surrounded by bodyguards, ended up dead when his plane was shot down. Can the world&rsquo;s other presidents believe that they are safe?</p>
+
+<p>The Talmud tells me that &ldquo;the highest good is to save life.&rdquo; If a pregnant woman smells the meat of a temple sacrifice, a straw is to be put into the broth so she can take some. If this is not enough, she is to be given all the broth. If this is still not enough, she is to be given the fat meat itself. Pork, even.</p>
+
+<p>And a sick man is to be given as he asks. If he wants food and the physician says no, we give it to the sick man anyway. Because the heart knows its own bitterness. We know what we need. And we know that we must serve life in others, feed them, help them to be well, to be strong.</p>
+
+<p>At the same time, we know that death is standing beside us and at any moment may ask us to come along. It is not as if we live every moment in anxiety and fear. Awareness is a vehicle not for misery but for compassion. Through our awareness of the impermanence of our own life, of its fragility, we become closer to others. We serve life.</p>
+
+<p>&nbsp;</p>
+
+<p><span class="dropcap">T</span><strong>HESE</strong> large horrors &mdash; the Rwandan genocide, the Contras&rsquo; war in Nicaragua, the Vietnam War, the specter of nuclear war &mdash; are not the only things that keep us from feeling secure. There are also events in our personal lives.</p>
+
+<p>Once, walking home at night in a large American city, I found myself surrounded by three men.</p>
+
+<p>The poet Frank O&rsquo;Hara is good to remember in such a circumstance. O&rsquo;Hara asked, &ldquo;Let&rsquo;s say a man jumps out at you, points a knife, and says, &lsquo;Give me all your money.&rsquo; What do you do? Do you look at him and say, &lsquo;Give it up. I was a track star for Mineola Prep&rsquo;? No, what you do is run.&rdquo;</p>
+
+<p>I slammed as hard as I could into one of the three men who surrounded me, and I took off running. They chased me for a ways before they quit. I kept running till I got to a friend&rsquo;s house, where I jumped over the fence and ran to the back door. I wasn&rsquo;t about to ring the bell in front and stand there on the porch waiting for my friend to answer.</p>
+
+<p>Another time, on vacation, I was walking on a beach in southern Mexico. Again, it was night, and, again, three figures appeared, this time from behind the dunes. They wore black masks over their heads and held pistols. They grabbed me and flung me down on the sand. One held his pistol to my neck. They demanded money. I was wearing a bathing suit, so I&rsquo;m sure it was clear to them that I had no wallet. I imagine they felt some chagrin.</p>
+
+<p>While they argued about whether or not they should let me go, a figure came running toward us. The thieves were alarmed and began to shout. One of them disappeared back over the dunes. The figure was still running in our direction. I could no longer feel the pistol pressed into my skin. I leapt up and dove into the ocean, swimming as if I might swim to Japan, staying underwater as much as possible. When I finally had the nerve to stop and look behind me, the beach was empty. The running figure was gone. The thieves were gone. The waves lapped at the shore. The next day I walked along the same spot. The sun shone brightly, and there was no evidence of the previous night&rsquo;s events.</p>
+
+<p>I&rsquo;ve heard that in wartime many soldiers fire their weapons into the air. They don&rsquo;t actually want to kill. I&rsquo;m sure that if the muggers had wanted to, they could have killed me.</p>
+
+<p>I was going to say that perhaps no one wants to be a killer, but maybe that&rsquo;s not true. Maybe for a few people, killer is the job of choice. The problem is figuring out who these people are.</p>
+
+<p>Following September 11, 2001, we were told by our government that nothing would ever be the same again, and that, in the interest of security, we would need to consider giving up certain constitutional rights. We don&rsquo;t feel safe anymore, they say. We know now what the rest of the world has always known: that at any minute, something terrible may happen, not halfway around the world, but here on your street, to your neighbor, to you. No doubt this has been a change for many. Not for me, however. My life has always been marked by a sense of insecurity, of fragility. I&rsquo;ve long known that my life can end &mdash; or be ended &mdash; at any moment.</p>
+
+<p>Four days after the attack on the World Trade Center, my wife&rsquo;s grandmother died. People drove in for the funeral from Nebraska, South Dakota, North Dakota. We were fixing a family dinner, and I had to run to the store for something we&rsquo;d forgotten. On the way back, I heard on the radio that the American military campaign against terrorism was to be called &ldquo;Operation Infinite Justice.&rdquo; (The name was changed the next day, but the plan remained the same.) I was shocked by this title, and when I walked in the door I blurted out, &ldquo;I can&rsquo;t believe the U.S. plans to turn a criminal act of murder into an international war against an enemy it can&rsquo;t identify, putting millions of lives at risk, beginning to set up a police state here at home, and calling the whole thing Operation Infinite Justice.&rdquo;</p>
+
+<p>Oblivious to the silence that followed my declaration, I went on criticizing American hubris, suggesting that there might be a relationship between the attacks and U.S. policy in the Middle East. I argued that we needed to help guarantee a homeland for both the Israelis and the Palestinians.</p>
+
+<p>One of my wife&rsquo;s cousins looked at me with narrowed eyes. He held his index finger and thumb about a half inch apart. &ldquo;Palestinians,&rdquo; he said. &ldquo;This is how much I care about the Palestinians.&rdquo;</p>
+
+<p>The husband of another cousin spoke up. &ldquo;I went to Vietnam,&rdquo; he said. &ldquo;I did my duty, and I was brave. Plenty brave. So I&rsquo;ve done bravery, and now I think it&rsquo;s all right to be afraid and not to be so brave.&rdquo;</p>
+
+<p>He told another story about getting a medal. The commendation certificate stated that he was being honored for having killed a certain number of the enemy. He said he couldn&rsquo;t accept it. The commander didn&rsquo;t want the embarrassment of having a soldier refuse his medal, so they rewrote the commendation to say that he was being honored for &ldquo;valor in defense of the ideals of his country,&rdquo; with no mention of killing people.</p>
+
+<p>I understood his two stories to be about what it means to be human and be stuck in an impossible situation. He survived such a predicament and, looking back, offered two thoughts: One is that if being brave means doing what he did in Vietnam, then he&rsquo;d rather not be brave again. The second is that we must not associate honor with killing people, no matter what aggravating factors surround the killing.</p>
+
+<p>When our friends and family members die, when a formerly protected people suddenly faces the risks that most of the world&rsquo;s population faces every day, the pain is deep and terrible. It would be easy enough to unleash carnage and increase people&rsquo;s sense of insecurity. But this does not change anything. The change comes only when we stop unleashing carnage. That would give us some security, some safety, some shelter.</p>
+														</div>
+
+
+				
+<div class="sharing-bar article-sharing">
+	<div class="sharing-bar-first">
+		<a href="javascript:window.print();" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-printer"></use></svg> <span>Print</span></a>
+	</div>
+
+	<div class="sharing-bar-second">
+		<span class="alt-ff xsmall">Share:</span>
+		<a href="https://www.facebook.com/sharer/sharer.php?u=https://www.thesunmagazine.org/issues/323/some-shelter" target="_blank" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-facebook"></use></svg> <span>Facebook</span></a>
+		<a href="https://twitter.com/share?url=https://www.thesunmagazine.org/issues/323/some-shelter&amp;via=thesunmagazine" target="_blank" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-twitter"></use></svg> <span>Twitter</span></a>
+		<a href="#" class="b b-1 b-padding-tight xsmall js-toggle-mail-form"><svg><use xlink:href="#i-email"></use></svg> <span>Email</span></a>
+	</div>
+</div>
+
+<div class="send-to-friend-message-container">
+	<div class="alert alert-success xsmall">Thank you for sharing <em>The Sun</em>.</div>
+</div>
+
+<form method="post" action="/ajax/articles/send-to-a-friend" class="form fill-grey send-to-friend-form">
+		<input type="hidden" id="form_url" name="form[url]" value="https://www.thesunmagazine.org/issues/323/some-shelter" />
+
+	<ul class="form-fields">
+		<li><label for="form_sender_name"><span class="label-text">Your Full Name</span><span class="label-asterisk">*</span></label><input type="text" id="form_sender_name" name="form[sender_name]" required="required" /></li>
+		<li><label for="form_sender_email"><span class="label-text">Your Email Address</span><span class="label-asterisk">*</span></label><input type="email" id="form_sender_email" name="form[sender_email]" required="required" /></li>
+		<li><label for="form_recipient_name"><span class="label-text">Friend’s Name</span><span class="label-asterisk">*</span></label><input type="text" id="form_recipient_name" name="form[recipient_name]" required="required" /></li>
+		<li><label for="form_recipient_email"><span class="label-text">Friend’s Email Address</span><span class="label-asterisk">*</span></label><input type="email" id="form_recipient_email" name="form[recipient_email]" required="required" /></li>
+		<li><label for="form_message"><span class="label-text">Personalized Message</span></label><textarea id="form_message" name="form[message]"></textarea></li>
+	</ul>
+<div class="send-to-friend-message-container">
+	<div class="alert alert-error xsmall">Something went wrong. Please try again.</div>
+</div>
+
+<div class="g-recaptcha" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs"></div>
+<div class="form-actions"><button type="submit" id="form_submit" name="form[submit]"	class="form-actions-b-primary b b-1 b-loading xsmall"><svg><use xlink:href="#i-loading"></use></svg>
+		Submit
+	</button></div>
+<input type="hidden" id="form__token" name="form[_token]" value="8da898101d58adb42aa1a75e17567de32e5d7bb0" /></form>
+
+<br>
+
+
+
+										<footer class="article-contributor contributors">
+									
+
+<div class="block-contributor">
+		
+
+		<div class="block-contributor-content">
+		<div class="block-contributor-bio small">
+			<p><span class="smallcaps"><strong>David Romtvedt</strong></span> is a writer and musician living in Buffalo, Wyoming. His most recent book is <em>Windmill: Essays from Four Mile Ranch</em> (Red Crane Books). He plays dance music of the Americas with his band, the Fireants.</p><a href="/contributors/david-romtvedt" class="block-contributor-link link-alt small">More From This Contributor&nbsp;&#9656;</a>		</div>
+	</div>
+</div>
+
+							</footer>
+						</article>
+
+
+				    <div class="paywall-subscription block-product">
+			<div class="columns">
+			<div class="paywall-banner span3 cta cta-l1">
+				<div class="cta-intro">
+					<h5 class="cta-title alt-ff">One Free Selection Left </h5>
+					<p class="cta-text xsmall"><a class="link-alt" href="https://www.thesunmagazine.org/subscriber/login" data-label="Already a subscriber?">Already a subscriber? Sign in ▸</a><br><br>Read two free selections from <em>The Sun</em> each month.</p>
+				</div>
+			</div>
+			<div class="paywall-banner span9 note note-1 text-center">
+				<h4 class="cta-title alt-ff">Subscribe to <em>The Sun</em> and save 45%</h4>
+				<p class="cta-text xsmall">Subscribers get full access to the current issue and more than 40 years of archives.</p>
+				<a class="b b-1 xsmall cta-trigger"  href="/subscribe1" data-label="Subscribe" data-ctatitle="Subscribe">Subscribe</a>
+			</div>
+		</div>
+
+		<div class="columns">
+			<div class="span12 paywall-cta-bottom">
+				<p>
+					<span class="cta-title-issue">Buy the November 2002 issue for $5.95</span>
+					<span class="xsmall">Order now to get instant access to this issue, and we’ll also send you a print copy.</span>
+					<a class="b b-5 xsmall corona"  href="#" data-product-type="issues" data-id="323" data-label="Order Now ▸">Order Now ▸</a>
+				</p>
+			</div>
+		</div>
+
+		
+
+</div>
+	
+	
+	
+	<div class="spacer"></div>
+	
+
+
+
+		
+		<div class="article-correspondence-cta">
+		<div class="cta cta-l1" data-url="https://www.thesunmagazine.org/letter-to-the-editor">
+			<div class="cta-intro">
+				<h5 class="cta-title alt-ff">Thinking about writing us a letter?</h5>
+				<p class="cta-text">Give in to the temptation. We love getting mail. <br><span class="xsmall">(Of course, we reserve the right to edit.)</span></p>
+			</div>
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" class="cta-button b b-4 b-padding-tight small" data-label="Write Us A Letter!">Write Us A Letter!</a>
+		</div>
+	</div>
+	
+
+			<div class="article-also layout-item-large full-bar fill-grey-mid-light">
+		<div class="layout-item-intro">
+			<h2>Also In This Issue</h2>
+			<a href="/issues/323" class="xsmall link-alt">November 2002&nbsp;&#9656;</a>
+		</div>
+		<div class="issue-articles-l1">
+			<div class="issue-articles-l1-content1">
+				
+<div class="cover cover-l1 block-product">
+	<div>
+							<a href="/issues/323" class="cover-thumb">
+				
+				<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 727'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/2016-11/323.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/561x728r/2016-11/323.jpg
+	 alt=""
+	 class="lazy">
+
+			</a>
+		
+
+													<!-- <a href="/issues/323" data-product-type="issues" data-id="323" data-role="order" class="js-buy-single corona cover-button b b-1 b-full xsmall" data-label="Buy This Issue &#9656;">
+								Buy This Issue&nbsp;&#9656;
+			</a> -->
+			<a href="/issues/323" data-product-type="issues" data-id="323" class="js-buy-single corona cover-button b b-1 b-full xsmall" data-label="Buy This Issue &#9656;">
+								Buy This Issue&nbsp;&#9656;
+			</a>
+					
+					</div>
+</div>
+			</div>
+			<div class="issue-articles-l1-content2">
+				<div class="articles-l3">
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/quotations">Quotations</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/323/sunbeams-323">Sunbeams</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/announcements">Announcements</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/323/holiday-offer-issue-323">Holiday Offer</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/sy-safransky">Sy Safransky</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/sun-interview">The Sun Interview</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/323/before-we-leap">Before We Leap</a></h3>
+					<p class="block-content-subtitle subtitle">Carolyn Raffensperger On The Revolutionary Idea Of Putting Safety First</p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/derrick-jensen">Derrick Jensen</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/readers-write">Readers Write</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/323/safety-issue-323">Safety</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/our-readers">Our Readers</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+									</div>
+			</div>
+		</div>
+	</div>
+	
+
+			<div class="article-related layout-item-large full-bar fill-pattern-light">
+		<div class="layout-item-intro">
+			<h2>Related Selections</h2>
+			<ul class="list-inline list-inline-tight"><li><a href="/topics/war" class="xsmall link-alt link-text">War</a></li><li><a href="/topics/government" class="xsmall link-alt link-text">Government</a></li></ul>		</div>
+
+		<div class="articles-l2">
+							
+
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/dog-eared-page">The Dog-Eared Page</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/493/a-politics-of-hope">A Politics Of Hope</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/barack-obama">Barack Obama</a></li><li><a href="/issues/493">January 2017</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/493" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 561 728'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/140x182r/2016-12/493.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/281x364r/2016-12/493.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/poetry">Poetry</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/354/rocket-88">Rocket 88</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/kurt-brown">Kurt Brown</a></li><li><a href="/issues/354">June 2005</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/354" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 727'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/140x182r/import/issue/354.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/import/issue/354.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/quotations">Quotations</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/340/sunbeams-340">Sunbeams</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li><a href="/issues/340">April 2004</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/340" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 727'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/140x182r/import/issue/340.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/import/issue/340.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/206/the-way-of-peace">The Way Of Peace</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/j-krishnamurti">J. Krishnamurti</a></li><li><a href="/issues/206">February 1993</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/206" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 725'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/141x182r/import/issue/206.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/281x364r/import/issue/206.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+					</div>
+	</div>
+	
+	
+					<form id="newsletterForm" method="post" action="https://www.thesunmagazine.org/newsletter" data-url-send="https://www.thesunmagazine.org/newsletter" class="form form-newsletter fill-grey" enctype="multipart/form-data" target="_blank">
+
+
+
+		<div class="form-newsletter-intro">
+			<h3 class="alt-ff large">Sign Up For Our Newsletter</h3>
+			<p>We’ll let you know about new website selections, upcoming events, special offers, and more.</p>
+		</div>
+
+		<ul class="form-newsletter-fields form-fields form-fields-inline">
+			<li>
+				<input name="name" type="text" maxlength="500" id="name" placeholder="Your Name">
+			</li>
+			<li>
+				<input name="email" type="text" maxlength="500" id="email" placeholder="Your E-mail">
+			</li>
+
+			<li class="form-fields-inline-button">
+				<button disabled="disabled" class="form-newsletter-send b b-4 b-padding-tight b-loading g-recaptcha" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs" data-callback="recaptcha_callback" name="SubmitButton" id="SubmitButton">
+					<svg><use xlink:href="#i-loading"></use></svg>
+					Sign&nbsp;Up
+				</button>
+			</li>
+		</ul>
+	</form>
+	<script id="hiddenlpsubmitdiv" style="display: none;"></script>
+
+
+
+<footer class="footer brand-grey-dark">
+			<div class="footer-first">
+		<h3 class="footer-tagline">Independent, Reader-Supported Publishing</h3>
+		<p class="footer-desc">In each issue of <em>The Sun</em> you’ll find some of the most radically intimate and socially conscious writing being published today. In an age of media conglomerates, we’re something of an oddity: an ad-free, independent, reader-supported magazine.</p>
+		<ul class="footer-nav list-inline-border xsmall">
+			
+		<li class=" first">
+			<a href="https://www.thesunmagazine.org/about" 	   class=''>
+	   About <em>the Sun</em>	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/staff" 	   class=''>
+	   Staff	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/find-the-sun" 	   class=''>
+	   Find <em>The Sun</em>&nbsp;&nbsp;in a Store Near You	</a>
+		
+	</li>
+
+
+		</ul>
+	</div>
+	
+		<div class="footer-second">
+		<ul class="footer-second-social list-inline">
+			<li><a href="https://www.facebook.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-facebook"></use></svg></span> Like Us</a></li>
+			<li><a href="https://twitter.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-twitter"></use></svg></span> Follow Us</a></li>
+			<li><a href="https://instagram.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-instagram"></use></svg></span> Take a Look</a></li>
+		</ul>
+
+		<div class="footer-second-content">
+			<ul class="footer-nav list-inline-border xsmall">
+				
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/" 	   class='current '>
+	   Home	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/privacy-policy" 	   class=''>
+	   Privacy Policy	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/terms-of-use" 	   class=''>
+	   Terms of Use	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/site-map" 	   class=''>
+	   Site Map	</a>
+		
+	</li>
+
+
+			</ul>
+			<p class="footer-copyright xxsmall">Copyright &copy; 1974–2020 <em>The Sun</em>. All rights reserved.</p>
+		</div>
+	</div>
+</footer>
+
+
+
+<div class="offset-nav">
+	<ul>
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/read" 	   class='current '>
+	   Read	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/issues/current" 	   class=''>
+	   Current Issue	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/archives" 	   class=''>
+	   Archives	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/featured" 	   class=''>
+	   Featured Selections	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/topics" 	   class=''>
+	   Browse Topics	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/sections" 	   class=''>
+	   Browse Sections	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/connect" 	   class=''>
+	   Connect	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/news" 	   class=''>
+	   News from <em>The Sun</em>	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" 	   class=''>
+	   Write a Letter to the Editor	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/discussion-groups" 	   class=''>
+	   Discussion & Writing Groups	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/make-a-suggestion" 	   class=''>
+	   Make a Suggestion	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/submit" 	   class=''>
+	   Submit	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/shop" 	   class=''>
+	   Shop	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/giftsub" 	   class=''>
+	   Gift Subscriptions	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/issues" 	   class=''>
+	   Issues	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+											
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/donatemenu" 	   class='highlight'>
+	   Donate	</a>
+		
+	</li>
+
+		<li class=" last">
+														<a href="/SubscribeNav1" 					   class=''>
+						Subscribe					</a>
+									
+	</li>
+
+
+					<li>
+				<a href="https://www.thesunmagazine.org/shop/cart">Cart ( <span class="cart-item-count">  0  </span>)</a>
+			</li>
+			<li><a href="https://www.thesunmagazine.org/subscriber/login" class="link-header-logout link-alt">Sign In</a></li>
+			</ul>
+	<ul>
+		<li class=" first">
+			<a href="https://www.thesunmagazine.org/about" 	   class=''>
+	   About <em>the Sun</em>	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/staff" 	   class=''>
+	   Staff	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/find-the-sun" 	   class=''>
+	   Find <em>The Sun</em>&nbsp;&nbsp;in a Store Near You	</a>
+		
+	</li>
+
+</ul>
+	<ul>
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/" 	   class='current '>
+	   Home	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/privacy-policy" 	   class=''>
+	   Privacy Policy	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/terms-of-use" 	   class=''>
+	   Terms of Use	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/site-map" 	   class=''>
+	   Site Map	</a>
+		
+	</li>
+
+</ul>
+</div>
+
+<div id="buy-popup-message" class="buy-popup mfp-hide white-popup white-popup-block">
+	<a class="popup-modal-dismiss" href="#"></a>
+	<h5>Due to fulfillment challenges related to the novel coronavirus, print copies are temporarily unavailable for individual sale. We are offering free PDFs until we are able to resume print sales.</h5>
+	<p>Enter your e-mail address below to download this issue.</p>
+	<form method="post" id="download-single" action="https://www.thesunmagazine.org/issue/pdfFree/531.pdf">
+		<label for="email"><span class="label-text">E-mail</span><span class="label-asterisk">*</span></label>
+		<input class="buy-single-email" id="email" type="email" name="email">
+		<button type="send" class="form-buy-issue-send b b-3 b-padding-tight b-loading">Send</button>
+		<button class="form-buy-issue-download b b-3 b-padding-tight b-loading">Download pdf</button>
+		<button type="send" class="popup-modal-dismiss b b-2 b-padding-tight b-loading">Close</button>
+		<div class="g-recaptcha" style="text-align: center" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs"></div>
+
+	</form>
+</div>
+
+			<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/plugins.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/site.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/newsletter.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/js/articles.js"></script>
+		</div>
+		</div>
+
+				<script>
+		(function (doc) {
+			var scripts = doc.getElementsByTagName('script');
+			var script = scripts[scripts.length - 1];
+			var xhr = new XMLHttpRequest();
+			xhr.onload = function () {
+				var div = doc.createElement('div');
+				div.innerHTML = this.responseText;
+				div.style.display = 'none';
+				script.parentNode.insertBefore(div, script);
+			}
+			xhr.open('get', '/theme/thesun//assets/build/img/sprite/sprite.svg', true);
+			xhr.send();
+		})(document);
+
+
+
+		</script>
+
+		<script>
+			// Submit function
+            function recaptcha_callback() {
+						var getUrl = $('.form-newsletter').data( "url-send" ),
+							getName = $('input#name').val(),
+							getEmail = $('input#email').val();
+						$.ajax({
+								type: "POST",
+								url: getUrl,
+								data: {
+									name: getName,
+									email: getEmail,
+									grecaptcharesponse: grecaptcha.getResponse()
+								}
+							}).done(function(response) {
+								console.log(response);
+									$('.form-fields').fadeOut(800, function () {
+										$('.form-fields').empty().append('<div class="newsletter-confirm-message">Thank you for signing up to receive news from <em>The Sun</em>. Your first newsletter will arrive soon.<div>').fadeIn(800);
+									});
+							});
+			}
+
+		</script>
+
+		<script>
+			function getUrlCode() {
+				var url_string = window.location.href;
+				var url = new URL(url_string);
+				var c = url.searchParams.get('promotion\_key');
+				if (typeof c !== 'undefined' && c !== null) {
+					setCookie("promotion_code",c);
+				}
+			}
+
+			function setCookie(cname, cvalue) {
+				document.cookie = cname + "=" + cvalue + ";" + "path=/";
+			}
+
+			function getCookie(cname) {
+				var name = cname + "=";
+				var decodedCookie = decodeURIComponent(document.cookie);
+				var ca = decodedCookie.split(';');
+				for(var i = 0; i <ca.length; i++) {
+					var c = ca[i];
+					while (c.charAt(0) == ' ') {
+						c = c.substring(1);
+					}
+					if (c.indexOf(name) == 0) {
+						return c.substring(name.length, c.length);
+					}
+				}
+				return "";
+			}
+			window.addEventListener( "load", getUrlCode );
+		</script>
+
+
+	</body>
+</html>

@@ -1,0 +1,1377 @@
+
+<!DOCTYPE html>
+<html class="no-js" lang="en-US">
+	<head>
+		<title>Hannah - The Sun Magazine</title>
+
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		
+		<meta name="viewport" content="width=device-width, minimum-scale=1.0">
+
+		<link rel="dns-prefetch" href="//ajax.googleapis.com">
+		<link rel="dns-prefetch" href="//use.typekit.net">
+		
+		<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/modernizr.js"></script>
+		<script src="https://www.google.com/recaptcha/api.js"
+				async defer>
+		</script>
+
+		<script>(function(d) { var config = { kitId: 'kzw7ebk', scriptTimeout: 3000, async: true }, h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s) })(document);</script>
+
+
+				
+		<link rel="apple-touch-icon" sizes="57x57" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-57x57.png?v=2016">
+		<link rel="apple-touch-icon" sizes="60x60" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-60x60.png?v=2016">
+		<link rel="apple-touch-icon" sizes="72x72" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-72x72.png?v=2016">
+		<link rel="apple-touch-icon" sizes="76x76" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-76x76.png?v=2016">
+		<link rel="apple-touch-icon" sizes="114x114" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-114x114.png?v=2016">
+		<link rel="apple-touch-icon" sizes="120x120" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-120x120.png?v=2016">
+		<link rel="apple-touch-icon" sizes="144x144" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-144x144.png?v=2016">
+		<link rel="apple-touch-icon" sizes="152x152" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-152x152.png?v=2016">
+		<link rel="apple-touch-icon" sizes="180x180" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-180x180.png?v=2016">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-32x32.png?v=2016" sizes="32x32">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/android-chrome-192x192.png?v=2016" sizes="192x192">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-96x96.png?v=2016" sizes="96x96">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-16x16.png?v=2016" sizes="16x16">
+		<link rel="mask-icon" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/safari-pinned-tab.svg?v=2016" color="#444444">
+		<link rel="shortcut icon" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon.ico?v=2016">
+		<meta name="apple-mobile-web-app-title" content="The Sun Magazine">
+		<meta name="application-name" content="The Sun Magazine">
+		<meta name="msapplication-TileColor" content="#fcc330">
+		<meta name="msapplication-TileImage" content="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/mstile-144x144.png?v=2016">
+		<meta name="theme-color" content="#ffffff">
+
+				<link rel="stylesheet" type="text/css" href="https://cloud.typography.com/6578674/659928/css/fonts.css" />
+		<link rel="stylesheet" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/css/style.css">
+
+																		<meta property="og:site_name" content="The Sun Magazine">
+		<meta property="og:type" content="article">
+		<meta property="og:url" content="https://www.thesunmagazine.org/issues/145/hannah">
+		<meta property="og:image" content="http://www.thesunmagazine.org/files/import/issue/145.jpg">
+		<meta property="og:title" content="Hannah - The Sun Magazine">
+		<meta property="og:description" content="Just as it is difficult to picture an angel without wings, it is difficult to picture a human with wings. But more than I once considered, it seems that, under certain circumstances, the two are readily interchangeable, just as some solids will transform directly into gases.">
+		<meta property="fb:app_id" content="158741778010551">
+
+						<link rel="image_src" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.comhttp://www.thesunmagazine.org/files/import/issue/145.jpg">
+
+												<meta name="twitter:card" content="summary">
+		<meta name="twitter:title" content="Hannah - The Sun Magazine">
+		<meta name="twitter:description" content="Just as it is difficult to picture an angel without wings, it is difficult to picture a human with wings. But more than I once considered, it seems that, under certain circumstances, the two are readily interchangeable, just as some solids will transform directly into gases.">
+		<meta name="twitter:image" content="http://www.thesunmagazine.org/files/import/issue/145.jpg">
+		<meta name="twitter:site" content="@thesunmagazine">
+
+				<link rel="publisher" href="https://plus.google.com/113792980827145858211">
+        
+		<meta name="Description" content="Just as it is difficult to picture an angel without wings, it is difficult to picture a human with wings. But more than I once considered, it seems that, under certain circumstances, the two are readily interchangeable, just as some solids will transform directly into gases.">
+
+		
+		<!-- Google Tag Manager -->
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-TKBHCCG');</script>
+		<!-- End Google Tag Manager -->
+
+		<!-- Google Analytics -->
+		<script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+            ga('create', 'UA-2351127-1', 'auto');  // Replace with your property ID.
+            ga('send', 'pageview');
+            ga('require', 'ecommerce');   // Load the ecommerce plug-in.
+		</script>
+		<!-- End Google Analytics -->
+	</head>
+	<body id="">
+
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TKBHCCG"
+		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+		<header class="header" data-offset-start="80">
+		<div class="header-utilities">
+				<ul class="header-utilities-user list-inline list-inline-tight xxsmall">
+							<li>
+					<span class="header-utilities-user-intro">Already A Subscriber?</span> &nbsp;
+					<a href="https://www.thesunmagazine.org/subscriber/login" class="link-text link-alt">Sign In</a>
+				</li>
+					</ul>
+		<a href="https://www.thesunmagazine.org/shop/cart" class="header-utilities-cart  link-alt link-icon tiny">
+			<span class="i"><svg><use xlink:href="#i-cart"></use></svg></span>
+			<span class="cart-item-count">
+									0 Items
+				
+			</span>
+		</a>
+			</div>
+
+		<div class="header-bar">
+		<h1 class="header-logo logo">
+			<a href="/">
+				<img src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/img/logo-thesun.svg" class="logo-thesun" alt="The Sun Magazine">
+				<img src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/img/logo-tagline.svg" class="logo-tagline" alt="">
+			</a>
+		</h1>
+
+		<ul class="header-nav">
+			
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/read" 	   class='current '>
+	   Read	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/issues/current" 	   class=''>
+	   Current Issue	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/archives" 	   class=''>
+	   Archives	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/featured" 	   class=''>
+	   Featured Selections	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/topics" 	   class=''>
+	   Browse Topics	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/sections" 	   class=''>
+	   Browse Sections	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/connect" 	   class=''>
+	   Connect	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/news" 	   class=''>
+	   News from <em>The Sun</em>	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" 	   class=''>
+	   Write a Letter to the Editor	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/discussion-groups" 	   class=''>
+	   Discussion & Writing Groups	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/make-a-suggestion" 	   class=''>
+	   Make a Suggestion	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/submit" 	   class=''>
+	   Submit	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/shop" 	   class=''>
+	   Shop	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/giftsub" 	   class=''>
+	   Gift Subscriptions	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/issues" 	   class=''>
+	   Issues	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+											
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/donatemenu" 	   class='highlight'>
+	   Donate	</a>
+		
+	</li>
+
+		<li class=" last">
+														<a href="/SubscribeNav1" 					   class=''>
+						Subscribe					</a>
+									
+	</li>
+
+
+		</ul>
+
+		<button class="header-nav-toggle"><svg><use xlink:href="#i-menu" class="i-menu"></use><use xlink:href="#i-close" class="i-close"></use></svg></button>
+		<button class="header-search-toggle" data-form-wrapper=".header-search"><svg><use xlink:href="#i-magnifier" class="i-magnifier"></use><use xlink:href="#i-close" class="i-close"></use></svg></button>
+	</div>
+
+		<div class="header-search">
+		<div class="header-search-content">
+			<form action="https://www.thesunmagazine.org/search" class="form form-search" method="get">
+				<h2 class="alt-ff brand-link">Search Our 40 Years of Archives</h2>
+				<ul class="form-search-fields form-fields form-fields-inline">
+					<li><input type="text" name="q" value=""></li>
+					<li class="form-fields-inline-button"><button class="b b-1 b-padding-tight b-loading"><svg><use xlink:href="#i-loading"></use></svg>Search</button></li>
+				</ul>
+
+				<div class="header-search-content-shortcuts">
+					<h6 class="search-advanced alt-ff"><a class="js-handle-advanced" href="https://www.thesunmagazine.org/search?advanced=1">Advanced Search</a></h6>
+					<br>
+					<h6 class="alt-ff">Popular Pages</h6>
+					<ul class="list-inline-border list-inline-tight xxsmall"><li class=" first"><a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a></li><li class=""><a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a></li><li class=""><a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a></li><li class=""><a href="https://www.thesunmagazine.org/sections/quotations" 	   class=''>
+	   Quotations	</a></li><li class=""><a href="https://www.thesunmagazine.org/sections/readers-write" 	   class=''>
+	   Readers Write	</a></li><li class=" last"><a href="https://www.thesunmagazine.org/sections/poetry" 	   class=''>
+	   Poetry	</a></li></ul>				</div>
+			</form>
+		</div>
+	</div>
+</header>
+
+	<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+	<script type="text/javascript">
+		$(document).ready(function() {
+			$('.js-handle-advanced').on('click', function (e) {
+				e.preventDefault();
+				var getSearchValue = $('.form-search-fields input').val();
+				var getURL = $(this).attr('href');
+				var newURL = getURL + '&q=' + getSearchValue;
+				window.location.href = newURL;
+			});
+		});
+	</script>
+
+		<div class="container-hidden">
+		<div class="container">
+
+				
+	
+	<article class="article ">
+		<header class="block-content block-content-l1 block-content-center">
+						<div class="block-content-header">
+				<h6 class="b-content-section heading-square"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+				<h1 class="block-content-title">Hannah</h1>
+
+				
+				<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/david-koteen">David Koteen</a></li><li><a href="/issues/145">December 1987</a></li></ul>
+
+			</div>
+
+								</header>
+
+				<div class="article-body link-text-wrap">
+																		<p class="dropcap">Just as it is difficult to picture an angel without wings, it is difficult to picture a human with wings. But more than I once considered, it seems that, under certain circumstances, the two are readily interchangeable, just as some solids will transform directly into gases. But in the transition from angel to human, it&rsquo;s as though wings solidify as they integrate with flesh and bone.</p>
+
+<p>Soon it will have been four years since I last saw Hannah, when the fourth and final of our brief encounters occurred. In moving recently &mdash; I&rsquo;ve made a down payment on a little house because Devin, my twelve-year-old son, has decided to live with me &mdash; I came across the journal describing the circumstances of the few hours Hannah and I spent together.</p>
+
+<p>&nbsp;</p>
+
+<p>August 2, 1981. There were only about five or six seats available on the Greyhound Express between Eugene and Seattle. I chose to sit by this teenage boy who was squeezing peanut shells apart and popping the nuts in his mouth, dropping the shells on the floor. He took up most of the seat; when he saw me standing there, he scooted over and scraped the shells off the seat and floor with his hand and foot.</p>
+
+<p>&ldquo;Sorry, man. I&rsquo;m a slob.&rdquo;</p>
+
+<p>He fidgeted constantly, bounced his foot up and down, thrummed his fingers against the window, pointed at things outside that we&rsquo;d already passed. He told me about the high point of his life: the play-off game between North Eugene High and Beaverton. He was playing linebacker for North, two minutes left in the fourth quarter. Beaverton is up, 17-13.</p>
+
+<p>&ldquo;Their quarterback, a guy named Killough, keeps on an option. But our end, Terry Hampton, doesn&rsquo;t fall for it. He clobbers the sucker. The ball bounces loose, and who is there to take it in the air &mdash; old number 38. I grab that hot potato and I&rsquo;m rolling. I&rsquo;m a freight train! The crowd is screaming! I see the end zone coming at me. I&rsquo;m hit from the side. Then some jerk grabs me around the neck. But I can&rsquo;t be stopped; I carry him fifteen yards into the end zone. I&rsquo;m a fuckin&rsquo; hero! I&rsquo;ve never been so happy in my entire life. I bet I watched the film a hundred times, maybe more.&rdquo;</p>
+
+<p>He was looking at me but he couldn&rsquo;t see anything but himself and his past glory. He couldn&rsquo;t see my depression: I had just found out I had a tumor inside my head as big as a tennis ball; I was on my way to see a &ldquo;psychic healer&rdquo; who <em>might</em> be able to help me with the cancer; my marriage was on the rocks, and I didn&rsquo;t have the vaguest idea what to do to save it. Instead he kept offering me peanuts; I kept refusing them.</p>
+
+<p>&ldquo;Of course, I&rsquo;ve put on a little weight since then, but I&rsquo;m going in the Army day after tomorrow, and they&rsquo;ll take it off me.&rdquo;</p>
+
+<p>He tortured me all the way to Portland.</p>
+
+<p>&ldquo;Take &rsquo;er easy,&rdquo; he said, when we pulled into the terminal.</p>
+
+<p>&ldquo;You, too. Good luck in the Army.&rdquo; Whatever that could mean.</p>
+
+<p>The bus emptied in Portland. I got off and bought some orange juice. There were only nine passengers when I got back on. I took the third seat from the back, behind everyone else. I wanted to get out of the Portland terminal. It was full of diesel exhaust; I didn&rsquo;t want to breathe. Finally the driver hopped up, set his styrofoam cup in its holder, and shut the door.</p>
+
+<p>&ldquo;Express for Vancouver. This bus stops only at Longview, Olympia, Tacoma, Seattle .&nbsp;.&nbsp;. Vancouver. If you are not going to one of these cities, now would be a good time to remove yourself from this bus.&rdquo;</p>
+
+<p>My head had begun to ache; I stared out the window, pushing my thumbs into my temples. A woman was half running, half fast-walking across the concrete. She had a maroon tote over her left shoulder and her right arm was held against both breasts, to keep them from bouncing while she ran. I thought I recognized her. When I was fifteen, living in Stockton, California, my brother was a freshman at U.C.-Davis. One Christmas he brought home a girl friend &mdash; Lynne Mayotte. I thought I was in love with her. I used to spy on them; once I followed them into the hills and watched them make love. I accidentally alluded to it in a knowing manner, and ended up confessing to my brother what I had done. To this day I blush in my mind whenever I think of that incident.</p>
+
+<p>The driver caught her in his rearview mirror as he was pulling out, so he stopped. She stepped in, breathing hard. &ldquo;Thanks,&rdquo; she said. She cook a couple of steps up the aisle and dropped into a seat. She was wearing red loafers with no socks, tight, faded Levi&rsquo;s, and a loose, white pullover sweater. She had dark-brown, curly hair, which didn&rsquo;t quite reach her shoulders. Superficially, she did look like Lynne Mayotte, but Lynne, like me, would be sixteen years older. I now felt awake; my head had begun to clear and I could feel my heart beating.</p>
+
+<p>The woman was lying down lengthwise on the seat, head resting on the maroon bag, hair hanging over the side. For the next half-hour or so my thoughts ricocheted all around my life, until my attention returned to this woman&rsquo;s hair, curls bouncing with the bus&rsquo;s rhythm. In eight years of marriage, I had never made overtures to any woman but my wife. I was totally dedicated to our marriage and to working out our issues, no matter how frustrated I was. After Devin was born, our sex life became a disaster. It was all I could think about; and whenever Janice consented, our &ldquo;intimacy&rdquo; lasted only a very short while. Eventually, no matter how much I wanted to make love, my fear of failure overcame my desire. When we lay in bed together at night, Janice and I found ways to avoid touching each other. That is what Hell is.</p>
+
+<p>The jumble of memories and thoughts and feelings changed to apprehension. I was seven seats behind this woman and she had no idea I was there. Perhaps she would get off at the next stop. When the driver pulled off at Longview, I rose immediately and took the seat across from her.</p>
+
+<p>But even when the bus jerked out of the terminal, she barely stirred. I sat across from her with my back against the side, pretending to read, watching her sleep, rehearsing possible introductions. I started humming Beatles songs, becoming louder and louder, projecting my voice toward her. I was humming &ldquo;A Day in a Life,&rdquo; leaning halfway across the aisle, when she opened her eyes and looked right into mine.</p>
+
+<p>&ldquo;Are you singing to me?&rdquo;</p>
+
+<p>I was totally embarrassed and backed across the seat &mdash; caught with my hand in the cookie jar. She sat up smiling, and walked back to the restroom. I continued my pretend reading. When she returned she had washed her face and brushed her hair. She asked, &ldquo;Where are you going?&rdquo;</p>
+
+<p>I told her the whole story, from Lynne Mayotte to my sexless marriage, to the tumor and my present trip to see Dr. Salazar. She scooted over to make room for me. When I sat down, she focused on my eyes, looking at one, then the other. She said, &ldquo;Don&rsquo;t worry. You may well need to have this operation, but it will turn out fine.&rdquo;</p>
+
+<p>Hannah McKelvey. She had just spent the previous day in mediation counseling with her husband, who had taken the children (it sounded like a kidnapping) to Portland from Olympia. He had finally agreed to mediation, but was so angry with her that he was willing to go to court over custody of the two children.</p>
+
+<p>&ldquo;William says that I never supported him in our marriage, and that I don&rsquo;t feed Melissa and Jason properly &mdash; I&rsquo;ve recently become a vegetarian and have stopped cooking meat at home. He says I am exposing them to sexual perversions &mdash; I have a friend who occasionally spends the night. The mediator, whom William chose, told him that the judge would not consider these things to be beyond the limits of normal behavior. But William is way past reasoning. I&rsquo;m just thankful that he really loves our children and wouldn&rsquo;t do anything to harm them, outside of ruining their teeth with candy.&rdquo;</p>
+
+<p>When she got off the bus at Olympia &mdash; a fifteen-minute layover &mdash; I walked out with her. We strolled a couple of blocks together. I was in a state of nervous happiness. She took the book I was carrying, <em>Absalom! Absalom!</em>, and wrote down two telephone numbers &mdash; one in Portland, the other in Olympia. I carefully ripped off part of the back page, folded it several times, and placed it in the pocket of my wallet. We stood together, holding each other lightly about the waist. I could feel tears coming up. Hannah smiled.</p>
+
+<p>&ldquo;Don&rsquo;t worry so much. Be gentle with yourself.&rdquo;</p>
+
+<p>I leaned forward to kiss her, but at the last second, she turned her cheek, and I brushed my lips against it. &ldquo;Thank you,&rdquo; I said, and returned to the bus.</p>
+
+<p>It was nearly four when the bus arrived in Seattle. I got to Dr. Salazar&rsquo;s office, introduced myself to the receptionist, and took a seat.</p>
+
+<p>It was after five when Dr. Salazar came over and introduced himself to me. He had a dark beard with touches of gray in it, black hair, black eyes. We entered one of his work rooms, and he asked me to make myself comfortable on his massage table; he sat on a stool, pad and pen in hand. He asked me some general questions about my family and medical history. What was I experiencing in my head related to the tumor? Aching? Dullness? Did it feel heavy? Wet? Dark? Any dimension to it, or color?</p>
+
+<p>I asked him a few questions about his background. He was from Argentina originally, and he had lived in several countries around the world, including India, China, and Egypt, studying the &ldquo;healing arts.&rdquo; He asked me to lie down and make myself comfortable; he would return in a minute. I looked around the room, reading the charts on human anatomy: one was called the &ldquo;Vibratory Essences of Man,&rdquo; with different color gradations on different parts of the body; one was a polarity chart showing the lines of force between the jaw and the pelvis. I lay down on the table and shut my eyes. I was exhausted. Quietly, Dr. Salazar came back in. Had he been preparing to do something to me? Or merely going to the john? Supporting my head, he probed along my neck, his hands warm and comforting. A few moments went by. I heard his breath getting louder and louder, then groaning noises. He put one hand to the side of my right eye, next to where the x-rays had located the tumor.</p>
+
+<p>&ldquo;Here it is. I feel it now. It&rsquo;s about the size of an orange.&rdquo;</p>
+
+<p>He moved his fingers around the area and then laid my head back down. I felt very relaxed, like waking up well-rested on a Sunday morning. Slowly I opened my eyes. Dr. Salazar was standing on the stool about halfway across the room, moving his hands around, back and forth toward me, as though he were pulling and pushing a very light substance. I began to sweat. What was he doing to me? He stopped, got off the stool, and left the room again.</p>
+
+<p>When he returned, I saw that his hands were red from washing. He came over and touched my temple near my right eye.</p>
+
+<p>&ldquo;In here, Daniel, you have a severe blockage of energy. Medical doctors call it a lesion or tumor. For some reason you&rsquo;re not allowing the life force to flow through that part of your body. Exactly why, I&rsquo;m not sure. But it has to do with an unwillingness to express the male part of your psyche. That part is being held in check, stifled and decaying. Here&rsquo;s what I suggest: you could have surgery to remove the growth, or you could move to Seattle and I would work with you every day. You would have to change your life patterns completely. Even so, the operation may still be necessary. Take a few days to think about it. If you want, you can come back again, or call, and let me know what you&rsquo;ve decided.&rdquo;</p>
+
+<p>We shook hands and I left. It took me about two hours into the bus ride home to realize that the alternative to the operation was just not tenable. I didn&rsquo;t doubt Dr. Salazar&rsquo;s integrity and good intentions, but my own faith was shallow.</p>
+
+<blockquote class="quote-1 large">
+<p>She was so soft and beautiful that she frightened me.&nbsp;.&nbsp;.&nbsp;. The attraction I felt for her was so urgent, I didn&rsquo;t want to injure it with idle chatter. Finally, of its own accord, my voice asked, &ldquo;Do I somehow know you from before?&rdquo; It sounded like I was talking under water.</p>
+</blockquote>
+
+<p>October 11, 1981. Although the amount of details to take care of seemed ungodly, all the holes began to fill in once I accepted the inevitability of the operation. It was scheduled at the Mayo Clinic for October 15, but I needed to be in the hospital by the evening of the twelfth for a complete examination and lab work. Instead of having Janice and Devin drive me to the Portland Airport in the morning, I went to Portland a day early to spend the night with Jerry Kabat, my oldest and closest friend, who taught history at Lewis and Clark College. We had an ongoing cribbage competition dating back to our junior year in high school. He was then forty-three games ahead &mdash; 935 to 892 &mdash; and I was always looking for an opportunity to close the gap.</p>
+
+<p>We had finished only nine games and a little over one bottle of wine when I headed for the bathroom. My right eye felt heavy. I looked at it in the mirror &mdash; it was pushed a little forward. I closed my eyes and touched each one with my fingertips, feeling the greater resistance behind the right. All of a sudden, an image of Hannah appeared inside my head. I stuck my finger down to the bottom of my wallet pocket and pulled out the paper from the Faulkner book. I shouted to Jerry, &ldquo;I need to make a call &mdash; be there in a minute.&rdquo;</p>
+
+<p>As I picked up the phone, I had two simultaneous feelings. The first was guilt: whether Hannah was there or not, I was still taking the initiative to see a woman who was not my wife. The second was sheer excitement. When the voice said, &ldquo;Hello,&rdquo; I asked for Hannah.</p>
+
+<p>&ldquo;This is she.&rdquo;</p>
+
+<p>&ldquo;Hi, Hannah. This is Daniel Gaubert. From the Greyhound bus. Do you remember me?&rdquo;</p>
+
+<p>Silence.</p>
+
+<p>&ldquo;Yes. I remember you, Daniel. How have you been?&rdquo;</p>
+
+<p>&ldquo;I&rsquo;m in Portland at a friend&rsquo;s house. Tomorrow I&rsquo;m flying to Minnesota to have the tumor removed. I was just thinking about you. Could we possibly get together for a little while tonight?&rdquo;</p>
+
+<p>An even longer silence.</p>
+
+<p>&ldquo;OK.&rdquo;</p>
+
+<p>&ldquo;One other thing &mdash; I don&rsquo;t have a car.&rdquo;</p>
+
+<p>&ldquo;What&rsquo;s your address? I&rsquo;ll pick you up.&rdquo;</p>
+
+<p>Waiting for Hannah to arrive, I became anxious. Although I didn&rsquo;t feel drunk at all, I made a cup of coffee, washed up, changed my shirt, and tried to answer Jerry&rsquo;s questions as honestly as I could. He thought my story sounded like a cross between &ldquo;Dallas&rdquo; and &ldquo;The Twilight Zone.&rdquo;</p>
+
+<p>Hannah knocked and entered, staying near the front door. She was so soft and beautiful that she frightened me. I couldn&rsquo;t believe that she was here to see me. I introduced her to Jerry; she smiled from the door. In the car we were silent. The attraction I felt for her was so urgent, I didn&rsquo;t want to injure it with idle chatter. Finally, of its own accord, my voice asked, &ldquo;Do I somehow know you from before?&rdquo; It sounded like I was talking under water. Floating, in slow motion, rolling end over end. She laughed.</p>
+
+<p>&ldquo;No doubt.&rdquo;</p>
+
+<p>&ldquo;And what else?&rdquo;</p>
+
+<p>&ldquo;You know me now.&rdquo;</p>
+
+<p>&ldquo;Where shall we go?&rdquo;</p>
+
+<p>&ldquo;How about some wine and a little drive, and we&rsquo;ll see after that.&rdquo;</p>
+
+<p>A few blocks later she pulled into a Safeway parking lot. I bought a Beaujolais Villages, returned to the car, then had to go back for a corkscrew. We drove across the dark Willamette River, which rippled and reflected the lights of Portland, hinting of another city below the water.</p>
+
+<p>&ldquo;I think the Rose Gardens is the right place.&rdquo;</p>
+
+<p>The Rose Gardens are situated on a hill above the city. I had seen them once before, but in the daytime.</p>
+
+<p>Although it hadn&rsquo;t rained for a few days, it was fairly cool and dewy. We parked and she got a sleeping bag out of the trunk. I asked her if she wanted more wine. She said, &ldquo;Thank you, I do. It will help keep me on the ground.&rdquo;</p>
+
+<p>As we walked through the night roses, a certain dreamlike quality began to pervade my consciousness. I felt like Alice in the Red Queen&rsquo;s garden. I didn&rsquo;t want to think about Janice and Devin, my marriage commitment, and the frustrated sexual existence which had become the essence of our life together. Perhaps Hannah felt my reticence, for she quickened her pace. We came to a spot encircled by a laurel hedge and protected by the leaves of a maple tree overhead. She said, &ldquo;This will do fine for me.&rdquo;</p>
+
+<p>Hannah unrolled and unzipped the sleeping bag and spread it out fully. She slipped out of her jeans and shoes but left her socks, turtleneck, and sweater on. I was still standing, full of desire, tethered to my marriage. &ldquo;Hannah .&nbsp;.&nbsp;.&rdquo; I began. What I wanted was right there in front of me &mdash; willing and beautiful and female and waiting. And yet, I couldn&rsquo;t say to myself: yes, it&rsquo;s all right to be here and share love with this woman. She handed me the wine bottle.</p>
+
+<p>&ldquo;One swallow left. Then come lie with me; I&rsquo;m getting cold.&rdquo;</p>
+
+<p>The contact with Hannah was the best thing that had happened to me since Devin&rsquo;s birth. Her openness to the situation &mdash; to me &mdash; was the dream that I never dared dream with Janice. It felt wonderful. There was absolutely no pressure to be anything or do anything. Yet, I still felt somewhat awkward and inadequate. By the time we got back to the car, my self-doubt had reappeared.</p>
+
+<p>&ldquo;You&rsquo;re the first woman I&rsquo;ve made love with &mdash; other than my wife &mdash; since I got married eight years ago. I&rsquo;m kind of embarrassed by the whole thing. I&rsquo;m sorry if it didn&rsquo;t work out very well for you.&rdquo;</p>
+
+<p>&ldquo;Daniel, Daniel, Daniel. Where&rsquo;s your faith? You&rsquo;re a wonderful lover. You can come into my lion&rsquo;s den any time.&rdquo;</p>
+
+<p>October 15, 1981. It&rsquo;s difficult to describe what happened during the operation. I&rsquo;ve been told that there was an I.V. that continuously dripped anesthesia into my arm to maintain a level of unconsciousness after the initial injection. The drug inhibited the pain: sawing through the temporal bone; cutting away of the cancerous growth. What wasn&rsquo;t explained was where my consciousness was when it wasn&rsquo;t feeling the pain. When I woke up, I felt like a tiny being inside a huge empty shell, and that somehow it was my job to expand this tiny fragile essence so that it could take up the whole shell, my body. It seemed an enormous task &mdash; one I didn&rsquo;t feel adequate to; like what a baby must feel when it awakens on the Earth. I was going to need lots of help.</p>
+
+<blockquote class="quote-1 large">
+<p><em>The silences are what I remember. Not speechless hesitations: it was as though she had withdrawn her &ldquo;person&rdquo; for a moment and gone elsewhere; or as though the telephone had been thrown into space and she was waiting for it to return to earth.</em></p>
+</blockquote>
+
+<p>December 29, 1981. I was on my way to Portland to see a neuro-ophthalmologist at Good Samaritan Hospital, and then to Salazar&rsquo;s office the next day for a post-operation visit. I was looking forward to seeing him again. A lot had transpired since the operation. There was some question in the surgeon&rsquo;s mind as to how the pressure of taking off and landing would affect the knitting of bones around my temple, so I ended up staying nearly four weeks in Minnesota. It was the most relaxed, restful month of my life.</p>
+
+<p>What I didn&rsquo;t expect to find, but did, on returning home, was that Janice had taken a lover, and was more or less ready for a separation. She wanted to take Devin with her. Before the operation I would not have been able to hear this; it would simply have been too devastating. But now, the growth removed from my skull, her decision was bearable. Not unpainful, but bearable. Many of our friends had gone the same route. I don&rsquo;t want to sound like this was no big deal. It was a very big deal. But the bottom line was that if Janice didn&rsquo;t want to live with me anymore, why the hell should she?</p>
+
+<p>Jerry picked me up at Hamburger Mary&rsquo;s, some blocks west of the Greyhound station. Although, as always, it was great to see Jerry, my thoughts of Hannah were closer to the surface than I realized. Not an hour had gone by, during the last few days, when her image had not penetrated my consciousness, even though we had had no communication since our night sojourn in the Rose Gardens. On the way to Jerry&rsquo;s house from the hospital, my eyes still dilated and unable to focus, he asked, &ldquo;Daniel, my friend, will you be getting trounced in cribbage this evening or meandering among the stars and roses?&rdquo;</p>
+
+<p>It was ten o&rsquo;clock, after a many-course meal at the Red Dragon and many glasses of wine and some warm Armanac, before I got the courage to dig into my wallet for Hannah&rsquo;s number. In fact I had it memorized. She wasn&rsquo;t in Portland, so I tried the Olympia number. A little girl answered, and yelled, &ldquo;Mommy! It&rsquo;s for you! A man!&rdquo;</p>
+
+<p>&ldquo;Hello.&rdquo;</p>
+
+<p>&ldquo;Hi, Hannah. It&rsquo;s Daniel Gaubert. Was that your daughter?&rdquo;</p>
+
+<p>&ldquo;Yes. Melissa. She and Aaron are staying with me now. Their father had a kind of nervous breakdown. How did the operation go?&rdquo;</p>
+
+<p>&ldquo;I wouldn&rsquo;t say fun exactly, but they cut the bad stuff out and my head seems to be healing pretty well. Today in Portland I saw a neuro-ophthalmologist. He did a series of tests on me and said that my eyes were better than his. Tomorrow I&rsquo;m on my way to Seattle to see Salazar again. I&rsquo;d really like to see you. Is that possible?&rdquo;</p>
+
+<p>Silence.</p>
+
+<p>(Now, several years later, when I occasionally think about Hannah, the silences are what I remember. Not speechless hesitations: it was as though she had withdrawn her &ldquo;person&rdquo; for a moment and gone elsewhere; or as though the telephone had been thrown into space and she was waiting for it to return to earth.)</p>
+
+<p>&ldquo;After school tomorrow, the children and I are leaving for the weekend. When is your appointment in Seattle?&rdquo;</p>
+
+<p>&ldquo;2:30.&rdquo;</p>
+
+<p>&ldquo;There&rsquo;s a bus that leaves Portland at 5:35 a.m. and arrives in Olympia at .&nbsp;.&nbsp;. 8:17. If you come on that, you can catch the 10:50 bus to Seattle. It will get you there at 12:25. I need to take the kids to school at 8:30, so I&rsquo;ll pick you up at the station after that.&rdquo;</p>
+
+<p>&ldquo;Sounds good. Thanks, Hannah. I&rsquo;m looking forward to it.&rdquo;</p>
+
+<p>&ldquo;See you tomorrow, Daniel.&rdquo;</p>
+
+<p>It was drizzling when the bus pulled into the Olympia terminal &mdash; my second visit to the state capital. I was tired. I bought some watery but hot coffee and took it outside, where buses and passengers waited for each other. I watched and listened to tires turn and slip on wet pavement.</p>
+
+<p>Hannah pulled up to the curb. Though it was cool and wet she had the window rolled down, elbow leaning on it. A wry Hannah smile.</p>
+
+<p>&ldquo;Where to, Mister?&rdquo;</p>
+
+<p>&ldquo;Wherever you&rsquo;re going.&rdquo;</p>
+
+<p>I put my suitcase in the back and leaned against the door to look at her. She wore the same red loafers, black velour pants, a long-sleeved, pink T-shirt, a black scarf around her neck, and a sky-blue beret. Her body seemed to give off a lot of heat.</p>
+
+<p>She lived in the downstairs of an older house with a porch and swing and white railing. The inside, with the exception of her children&rsquo;s room, was simple, almost stark. The living room area was large, and had recently been sanded and urethaned. There were large mirrors on one wall and a round oak barre.</p>
+
+<p>&ldquo;My dance studio. I took ballet lessons until I was nine. Then I had to stop because my father got laid off. But it has always been my dream. Before I separated from William, I thought I was too old &mdash; he said I was too old &mdash; but now I dance every day and take classes three times a week.&rdquo;</p>
+
+<p>The kitchen and dining area were clean and very minimal. The kids&rsquo; room had bunk beds, a small, round table with chairs, clothes and Legos and puzzles and stuffed animals and books everywhere. The walls had been colorfully painted and repainted. Hannah&rsquo;s room had large, south-facing windows with full-length white curtains, a low table with a cushion in front of it, a pine dresser, a tape deck with a scattering of tapes around it, and a large futon mattress on the floor.</p>
+
+<p>We exchanged a few words while she made tea. Then we went and sat on her bed. She lit a candle and a small mauve incense cone. It was clear we really had nothing to say. We sat there, holding each other and sipping the tea. We never undressed; we only touched and embraced, sometimes with strength, sometimes lightly. I have never felt so much life flowing through my body, or so much love coming into it.</p>
+
+<p>When I noticed a splash of sunlight on the wall behind the bed, the candle had already burned down several inches, and the incense cone was a tiny heap of ash. Hannah said, &ldquo;I have a surprise for you, Daniel.&rdquo;</p>
+
+<p>She got up and went out. I lay back and let my fingers play in the light veering in between the curtains. A few moments later Hannah tapped lightly on the door.</p>
+
+<p>&ldquo;Ten a.m. Time for wine and snacks before your flight to Seattle.&rdquo;</p>
+
+<p>She set down a tray of cheese, Greek olives, and crackers, along with two glasses and a bottle of wine with the cork mostly pulled out the top.</p>
+
+<p>&ldquo;Beaujolais, Monsieur. Louis Jadot, 1976. A splendid year for the French reds.&rdquo;</p>
+
+<p>Forty-five minutes later, when she dropped me at the bus station, I was feeling a little inebriated, in part at least from the wine.</p>
+
+<p>&ldquo;Will I ever see you again, Hannah?&rdquo;</p>
+
+<p>&ldquo;Who knows? Could be. Times change, minds change; only bus stations never change.&rdquo;</p>
+
+<p>&ldquo;Thanks for .&nbsp;.&nbsp;. the wine. And God bless you.&rdquo;</p>
+
+<p>&ldquo;You too, Daniel. You too.&rdquo;</p>
+
+<p>On this visit to Dr. Salazar, he greeted me like an old friend. Instead of shaking hands, he gave me a warm fraternal hug.</p>
+
+<p>&ldquo;Daniel, you&rsquo;re looking considerably better. The darkness around the right side of your head has been dispelled.&rdquo;</p>
+
+<p>We chatted awhile, and I brought him up to date on my marriage, or rather separation. He then had me lie down on a mat. I asked him to explain what he was doing.</p>
+
+<p>&ldquo;I lay my hands under your head, supporting it, so my fingers lie along the side of your neck, the path of the vagus, or tenth cranial nerve. I am feeling several sensations: the physical parts of your neck &mdash; skin, muscles, bone; the inequality of your pulse on both sides; your resistance to my touch. I watch your breath. As you relax, you allow my fingers to move in and penetrate your neck. The energy which runs through my body is able to move through my fingers into your body. I am able to witness what is happening inside you, below the surface of your skin. It&rsquo;s something like the point at which two creeks come together; there is a meeting and blending of currents.&rdquo;</p>
+
+<p>&ldquo;Can you tell me what it is you do to cure a disease? Or to make the pain go away?&rdquo;</p>
+
+<p>&ldquo;I&rsquo;m really just here to facilitate the healing process. A client comes to me because he wants to be healed &mdash; wants the pain &lsquo;to go away.&rsquo; I&rsquo;m here because I want to help with that process. That&rsquo;s <em>my</em> work. But it&rsquo;s you who got sick and it&rsquo;s you who will get better. Relatively speaking, I am neutral.&rdquo;</p>
+
+<p>He walked around me, touching me gently, raising my legs, rolling me from side to side, returning to my head.</p>
+
+<p>&ldquo;Daniel, I want you to do a headstand on this mat. I&rsquo;ll help you and be here to support your legs.&rdquo;</p>
+
+<p>For the first time in probably twenty years, I stood on my head. It was much easier than I expected. Then I lay down again, and Dr. Salazar walked his fingers around the area of the scar.</p>
+
+<p>&ldquo;It would seem that the surgeon removed all the malignancy. But your brain has not completely returned to its original position. It&rsquo;s pretty open right now. Time will tell.&rdquo;</p>
+
+<p>&ldquo;Time will tell what?&rdquo;</p>
+
+<p>&ldquo;Whether you&rsquo;re going to heal yourself or let the tumor back into the space inside your skull.&rdquo;</p>
+
+<p>There was something ominous about the way he said that. He made it sound like I wanted to have a head full of cancerous cells; I was sure I didn&rsquo;t. The more he talked, the better I grasped his approach to the healing process. For him, disease was not a whim of nature, not a random accident which strikes everyone with equal probability. Although it&rsquo;s not exactly a one-to-one correlation, it&rsquo;s as though I had created the tumor out of my own fear and frustration; perhaps my unwillingness to accept the failure of my marriage? Before I left, I agreed to come back the following year. I asked him, &ldquo;Do you think, Dr. Salazar, that there are .&nbsp;.&nbsp;. special messengers sent to help people through hard times or disease or emotional trials? Someone you just bump into on the street?&rdquo;</p>
+
+<p>&ldquo;Absolutely. Earth is the land of pain and struggle, disease and suffering. We are all each other&rsquo;s healers.&rdquo;</p>
+
+<p>January 11, 1984. I was waiting for Hannah at the United deboarding area of the Seattle Airport; I had just flown in from Honolulu. Some friends of mine, fed-up with the gray and wet Eugene climate, had taken the plunge and moved &mdash; lock, stock, and barrel &mdash; to Hawaii. They also had enough vision to offer to those of us who stay behind a chance at some deep winter sun. It took almost the entire first week before I was able to let go and enjoy the slow and unaggressive island lifestyle. It was here, and &mdash; I confess &mdash; under the influence of some Hawaiian herb that I first related the Hannah story to someone other than Jerry. Even though Janice and I had been divorced for more than a year, I realized that I still felt some bond to the traditional marriage vows, and residual guilt for having stepped outside them.</p>
+
+<p>Hannah was still alive and well in my memory, as was her telephone number. When I called, her sublessee answered, saying that Hannah had moved to Seattle for the semester to study dance at the University of Washington. When I explained that I was a close friend, she consented to give me Hannah&rsquo;s number.</p>
+
+<p>I was prepared to hear one of her empty silences when I told her who I was. But not this time. Instead, laughter.</p>
+
+<p>&ldquo;Oh, Daniel. I thought we had finished it. Shows what I know.&rdquo;</p>
+
+<p>&ldquo;Hannah, I&rsquo;m calling you from Hawaii.&rdquo;</p>
+
+<p>&ldquo;Hawaii, as in <em>hula</em> and <em>pineapple</em>?&rdquo;</p>
+
+<p>&ldquo;And <em>surfboards</em> and <em>volcanoes</em>. I&rsquo;m flying into Seattle on the fourteenth. I&rsquo;d really love to see you.&rdquo;</p>
+
+<p>Then came the silence. When she spoke again, her voice reclaimed its soft, ethereal undertone which I so well remembered.</p>
+
+<p>&ldquo;I have been living with a man, on and off, for the last several months. With that understood between us &mdash; that we&rsquo;re meeting as friends &mdash; I would be glad to meet you at the airport.&rdquo;</p>
+
+<p>I was exhausted from the trip and had a strange feeling that I would not recognize her. I never knew Hannah under normal, daily circumstances, only in irregular slices of fantasy. As she approached, I realized that I would more likely forget Janice than this woman who had helped to guide me out of the dark caverns of depression. She threw her arms around me and kissed me several times on the cheek, the way close cousins or old college lovers do. The subtle reticence had gone.</p>
+
+<p>We took the shuttle bus into downtown Seattle and then walked to an Italian restaurant overlooking the Bay. She stopped at the bar and talked to the bartender, returning with a bottle of Lilliano Chianti, and two glasses. We went through the bar and the main room of the restaurant to a small, glass-enclosed terrace: four tables, a candle burning from a wine bottle on each. There was only a stub left at our table. I could see now that Hannah was of Italian extract: a slight twist to the nose, black thick eyebrows, a certain shape to her upper lip, angled cheekbones. No longer Mrs. McKelvey, but Hannah Castaldi.</p>
+
+<p>It was difficult for me to talk, as though this were a chance meeting of near-strangers. Then gradually, as we sat there sipping the wine and watching each other in the muted light, everything shifted. The third dimension collapsed. Her warm angelic smile returned. Her face relaxed and lightness appeared about it.</p>
+
+<p>I poured the last of the wine into our glasses and we stood and looked out the window at the dark hole which was the Bay, circumscribed by city lights. We leaned against each other: that same, strange, nebulous feeling, like clouds merging; we were motionless except for our harmonious breathing. She took my left hand in her right and kissed the palm, then held it against her breast. I could feel heat coming into my hand, moving up through my arm, almost like a drug &mdash; a gentle euphoria. When she let go, I lost my balance. I let my head lean against the picture window, the coolness of the glass reviving me. It was only a second or two, but when I turned, she was gone &mdash; vanished without a sound.</p>
+
+<p>September 1, 1987. Like so many relationships: out of the dark we come into each other&rsquo;s lives, like individual suns. I see it now. I was sick and in need of cure. Hannah was my medicine. I can&rsquo;t help but wonder what role I played in her dance.</p>
+
+<p>As I remember now, the surprise of her disappearance was outweighed by an infusion of grief. It was finished. We could share nothing more together. I sat down again at our table, tasting the last few swallows of wine, enjoying the sad exhilaration I felt, until the candle became just a wick on a mass of paraffin. When it finally flickered and went out, I put a dollar on the table and left.</p>
+														</div>
+
+
+				
+<div class="sharing-bar article-sharing">
+	<div class="sharing-bar-first">
+		<a href="javascript:window.print();" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-printer"></use></svg> <span>Print</span></a>
+	</div>
+
+	<div class="sharing-bar-second">
+		<span class="alt-ff xsmall">Share:</span>
+		<a href="https://www.facebook.com/sharer/sharer.php?u=https://www.thesunmagazine.org/issues/145/hannah" target="_blank" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-facebook"></use></svg> <span>Facebook</span></a>
+		<a href="https://twitter.com/share?url=https://www.thesunmagazine.org/issues/145/hannah&amp;via=thesunmagazine" target="_blank" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-twitter"></use></svg> <span>Twitter</span></a>
+		<a href="#" class="b b-1 b-padding-tight xsmall js-toggle-mail-form"><svg><use xlink:href="#i-email"></use></svg> <span>Email</span></a>
+	</div>
+</div>
+
+<div class="send-to-friend-message-container">
+	<div class="alert alert-success xsmall">Thank you for sharing <em>The Sun</em>.</div>
+</div>
+
+<form method="post" action="/ajax/articles/send-to-a-friend" class="form fill-grey send-to-friend-form">
+		<input type="hidden" id="form_url" name="form[url]" value="https://www.thesunmagazine.org/issues/145/hannah" />
+
+	<ul class="form-fields">
+		<li><label for="form_sender_name"><span class="label-text">Your Full Name</span><span class="label-asterisk">*</span></label><input type="text" id="form_sender_name" name="form[sender_name]" required="required" /></li>
+		<li><label for="form_sender_email"><span class="label-text">Your Email Address</span><span class="label-asterisk">*</span></label><input type="email" id="form_sender_email" name="form[sender_email]" required="required" /></li>
+		<li><label for="form_recipient_name"><span class="label-text">Friend’s Name</span><span class="label-asterisk">*</span></label><input type="text" id="form_recipient_name" name="form[recipient_name]" required="required" /></li>
+		<li><label for="form_recipient_email"><span class="label-text">Friend’s Email Address</span><span class="label-asterisk">*</span></label><input type="email" id="form_recipient_email" name="form[recipient_email]" required="required" /></li>
+		<li><label for="form_message"><span class="label-text">Personalized Message</span></label><textarea id="form_message" name="form[message]"></textarea></li>
+	</ul>
+<div class="send-to-friend-message-container">
+	<div class="alert alert-error xsmall">Something went wrong. Please try again.</div>
+</div>
+
+<div class="g-recaptcha" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs"></div>
+<div class="form-actions"><button type="submit" id="form_submit" name="form[submit]"	class="form-actions-b-primary b b-1 b-loading xsmall"><svg><use xlink:href="#i-loading"></use></svg>
+		Submit
+	</button></div>
+<input type="hidden" id="form__token" name="form[_token]" value="01ff1c10f6335e72afb19d2419607d060016b493" /></form>
+
+<br>
+
+
+
+										<footer class="article-contributor contributors">
+									
+
+<div class="block-contributor">
+		
+
+		<div class="block-contributor-content">
+		<div class="block-contributor-bio small">
+			<p><span class="smallcaps"><strong>David Koteen</strong></span> dances and writes in Eugene, Oregon. His fiction is being syndicated through the Fiction Network in San Francisco.</p><a href="/contributors/david-koteen" class="block-contributor-link link-alt small">More From This Contributor&nbsp;&#9656;</a>		</div>
+	</div>
+</div>
+
+							</footer>
+						</article>
+
+
+				    <div class="paywall-subscription block-product">
+			<div class="columns">
+			<div class="paywall-banner span3 cta cta-l1">
+				<div class="cta-intro">
+					<h5 class="cta-title alt-ff">One Free Selection Left </h5>
+					<p class="cta-text xsmall"><a class="link-alt" href="https://www.thesunmagazine.org/subscriber/login" data-label="Already a subscriber?">Already a subscriber? Sign in ▸</a><br><br>Read two free selections from <em>The Sun</em> each month.</p>
+				</div>
+			</div>
+			<div class="paywall-banner span9 note note-1 text-center">
+				<h4 class="cta-title alt-ff">Subscribe to <em>The Sun</em> and save 45%</h4>
+				<p class="cta-text xsmall">Subscribers get full access to the current issue and more than 40 years of archives.</p>
+				<a class="b b-1 xsmall cta-trigger"  href="/subscribe1" data-label="Subscribe" data-ctatitle="Subscribe">Subscribe</a>
+			</div>
+		</div>
+
+		<div class="columns">
+			<div class="span12 paywall-cta-bottom">
+				<p>
+					<span class="cta-title-issue">Buy the December 1987 issue for $5.95</span>
+					<span class="xsmall">Order now to get instant access to this issue, and we’ll also send you a print copy.</span>
+					<a class="b b-5 xsmall corona"  href="#" data-product-type="issues" data-id="145" data-label="Order Now ▸">Order Now ▸</a>
+				</p>
+			</div>
+		</div>
+
+		
+
+</div>
+	
+	
+	
+	<div class="spacer"></div>
+	
+
+
+
+		
+		<div class="article-correspondence-cta">
+		<div class="cta cta-l1" data-url="https://www.thesunmagazine.org/letter-to-the-editor">
+			<div class="cta-intro">
+				<h5 class="cta-title alt-ff">Thinking about writing us a letter?</h5>
+				<p class="cta-text">Give in to the temptation. We love getting mail. <br><span class="xsmall">(Of course, we reserve the right to edit.)</span></p>
+			</div>
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" class="cta-button b b-4 b-padding-tight small" data-label="Write Us A Letter!">Write Us A Letter!</a>
+		</div>
+	</div>
+	
+
+			<div class="article-also layout-item-large full-bar fill-grey-mid-light">
+		<div class="layout-item-intro">
+			<h2>Also In This Issue</h2>
+			<a href="/issues/145" class="xsmall link-alt">December 1987&nbsp;&#9656;</a>
+		</div>
+		<div class="issue-articles-l1">
+			<div class="issue-articles-l1-content1">
+				
+<div class="cover cover-l1 block-product">
+	<div>
+							<a href="/issues/145" class="cover-thumb">
+				
+				<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 725'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/281x364r/import/issue/145.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/562x728r/import/issue/145.jpg
+	 alt=""
+	 class="lazy">
+
+			</a>
+		
+
+													<!-- <a href="/issues/145" data-product-type="issues" data-id="145" data-role="order" class="js-buy-single corona cover-button b b-1 b-full xsmall" data-label="Buy This Issue &#9656;">
+								Buy This Issue&nbsp;&#9656;
+			</a> -->
+			<a href="/issues/145" data-product-type="issues" data-id="145" class="js-buy-single corona cover-button b b-1 b-full xsmall" data-label="Buy This Issue &#9656;">
+								Buy This Issue&nbsp;&#9656;
+			</a>
+					
+					</div>
+</div>
+			</div>
+			<div class="issue-articles-l1-content2">
+				<div class="articles-l3">
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/145/suffering">Suffering</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/helen-m-luke">Helen M. Luke</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/readers-write">Readers Write</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/145/earned-wisdom">Earned Wisdom</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/our-readers">Our Readers</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/editors-note">Editor&#039;s Note</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/145/leaves">Leaves</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/sy-safransky">Sy Safransky</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/fiction">Fiction</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/145/rosies-way">Rosie’s Way</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/barbara-turino">Barbara Turino</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+									</div>
+			</div>
+		</div>
+	</div>
+	
+
+			<div class="article-related layout-item-large full-bar fill-pattern-light">
+		<div class="layout-item-intro">
+			<h2>Related Selections</h2>
+			<ul class="list-inline list-inline-tight"><li><a href="/topics/cancer" class="xsmall link-alt link-text">Cancer</a></li><li><a href="/topics/healing" class="xsmall link-alt link-text">Healing</a></li><li><a href="/topics/sexuality" class="xsmall link-alt link-text">Sexuality</a></li><li><a href="/topics/divorce" class="xsmall link-alt link-text">Divorce</a></li><li><a href="/topics/travel" class="xsmall link-alt link-text">Travel</a></li></ul>		</div>
+
+		<div class="articles-l2">
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/poetry">Poetry</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/423/selected-poems-steve-kowit-issue-423">Selected Poems</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/steve-kowit">Steve Kowit</a></li><li><a href="/issues/423">March 2011</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/423" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 727'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/140x182r/import/issue/423.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/import/issue/423.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/325/the-gifted-classes">The Gifted Classes</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/frances-lefkowitz">Frances Lefkowitz</a></li><li><a href="/issues/325">January 2003</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/325" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 727'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/140x182r/import/issue/325.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/import/issue/325.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/readers-write">Readers Write</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/153/having-fun">Having Fun</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/our-readers">Our Readers</a></li><li><a href="/issues/153">August 1988</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/153" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 725'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/141x182r/import/issue/153.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/281x364r/import/issue/153.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/23/the-life-and-times">The Life And Times</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/marilyn-michael">Marilyn Michael</a></li><li><a href="/issues/23">December 1976</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/23" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 725'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/141x182r/import/issue/023.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/281x364r/import/issue/023.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+					</div>
+	</div>
+	
+	
+					<form id="newsletterForm" method="post" action="https://www.thesunmagazine.org/newsletter" data-url-send="https://www.thesunmagazine.org/newsletter" class="form form-newsletter fill-grey" enctype="multipart/form-data" target="_blank">
+
+
+
+		<div class="form-newsletter-intro">
+			<h3 class="alt-ff large">Sign Up For Our Newsletter</h3>
+			<p>We’ll let you know about new website selections, upcoming events, special offers, and more.</p>
+		</div>
+
+		<ul class="form-newsletter-fields form-fields form-fields-inline">
+			<li>
+				<input name="name" type="text" maxlength="500" id="name" placeholder="Your Name">
+			</li>
+			<li>
+				<input name="email" type="text" maxlength="500" id="email" placeholder="Your E-mail">
+			</li>
+
+			<li class="form-fields-inline-button">
+				<button disabled="disabled" class="form-newsletter-send b b-4 b-padding-tight b-loading g-recaptcha" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs" data-callback="recaptcha_callback" name="SubmitButton" id="SubmitButton">
+					<svg><use xlink:href="#i-loading"></use></svg>
+					Sign&nbsp;Up
+				</button>
+			</li>
+		</ul>
+	</form>
+	<script id="hiddenlpsubmitdiv" style="display: none;"></script>
+
+
+
+<footer class="footer brand-grey-dark">
+			<div class="footer-first">
+		<h3 class="footer-tagline">Independent, Reader-Supported Publishing</h3>
+		<p class="footer-desc">In each issue of <em>The Sun</em> you’ll find some of the most radically intimate and socially conscious writing being published today. In an age of media conglomerates, we’re something of an oddity: an ad-free, independent, reader-supported magazine.</p>
+		<ul class="footer-nav list-inline-border xsmall">
+			
+		<li class=" first">
+			<a href="https://www.thesunmagazine.org/about" 	   class=''>
+	   About <em>the Sun</em>	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/staff" 	   class=''>
+	   Staff	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/find-the-sun" 	   class=''>
+	   Find <em>The Sun</em>&nbsp;&nbsp;in a Store Near You	</a>
+		
+	</li>
+
+
+		</ul>
+	</div>
+	
+		<div class="footer-second">
+		<ul class="footer-second-social list-inline">
+			<li><a href="https://www.facebook.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-facebook"></use></svg></span> Like Us</a></li>
+			<li><a href="https://twitter.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-twitter"></use></svg></span> Follow Us</a></li>
+			<li><a href="https://instagram.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-instagram"></use></svg></span> Take a Look</a></li>
+		</ul>
+
+		<div class="footer-second-content">
+			<ul class="footer-nav list-inline-border xsmall">
+				
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/" 	   class='current '>
+	   Home	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/privacy-policy" 	   class=''>
+	   Privacy Policy	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/terms-of-use" 	   class=''>
+	   Terms of Use	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/site-map" 	   class=''>
+	   Site Map	</a>
+		
+	</li>
+
+
+			</ul>
+			<p class="footer-copyright xxsmall">Copyright &copy; 1974–2020 <em>The Sun</em>. All rights reserved.</p>
+		</div>
+	</div>
+</footer>
+
+
+
+<div class="offset-nav">
+	<ul>
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/read" 	   class='current '>
+	   Read	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/issues/current" 	   class=''>
+	   Current Issue	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/archives" 	   class=''>
+	   Archives	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/featured" 	   class=''>
+	   Featured Selections	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/topics" 	   class=''>
+	   Browse Topics	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/sections" 	   class=''>
+	   Browse Sections	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/connect" 	   class=''>
+	   Connect	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/news" 	   class=''>
+	   News from <em>The Sun</em>	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" 	   class=''>
+	   Write a Letter to the Editor	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/discussion-groups" 	   class=''>
+	   Discussion & Writing Groups	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/make-a-suggestion" 	   class=''>
+	   Make a Suggestion	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/submit" 	   class=''>
+	   Submit	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/shop" 	   class=''>
+	   Shop	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/giftsub" 	   class=''>
+	   Gift Subscriptions	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/issues" 	   class=''>
+	   Issues	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+											
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/donatemenu" 	   class='highlight'>
+	   Donate	</a>
+		
+	</li>
+
+		<li class=" last">
+														<a href="/SubscribeNav1" 					   class=''>
+						Subscribe					</a>
+									
+	</li>
+
+
+					<li>
+				<a href="https://www.thesunmagazine.org/shop/cart">Cart ( <span class="cart-item-count">  0  </span>)</a>
+			</li>
+			<li><a href="https://www.thesunmagazine.org/subscriber/login" class="link-header-logout link-alt">Sign In</a></li>
+			</ul>
+	<ul>
+		<li class=" first">
+			<a href="https://www.thesunmagazine.org/about" 	   class=''>
+	   About <em>the Sun</em>	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/staff" 	   class=''>
+	   Staff	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/find-the-sun" 	   class=''>
+	   Find <em>The Sun</em>&nbsp;&nbsp;in a Store Near You	</a>
+		
+	</li>
+
+</ul>
+	<ul>
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/" 	   class='current '>
+	   Home	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/privacy-policy" 	   class=''>
+	   Privacy Policy	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/terms-of-use" 	   class=''>
+	   Terms of Use	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/site-map" 	   class=''>
+	   Site Map	</a>
+		
+	</li>
+
+</ul>
+</div>
+
+<div id="buy-popup-message" class="buy-popup mfp-hide white-popup white-popup-block">
+	<a class="popup-modal-dismiss" href="#"></a>
+	<h5>Due to fulfillment challenges related to the novel coronavirus, print copies are temporarily unavailable for individual sale. We are offering free PDFs until we are able to resume print sales.</h5>
+	<p>Enter your e-mail address below to download this issue.</p>
+	<form method="post" id="download-single" action="https://www.thesunmagazine.org/issue/pdfFree/531.pdf">
+		<label for="email"><span class="label-text">E-mail</span><span class="label-asterisk">*</span></label>
+		<input class="buy-single-email" id="email" type="email" name="email">
+		<button type="send" class="form-buy-issue-send b b-3 b-padding-tight b-loading">Send</button>
+		<button class="form-buy-issue-download b b-3 b-padding-tight b-loading">Download pdf</button>
+		<button type="send" class="popup-modal-dismiss b b-2 b-padding-tight b-loading">Close</button>
+		<div class="g-recaptcha" style="text-align: center" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs"></div>
+
+	</form>
+</div>
+
+			<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/plugins.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/site.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/newsletter.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/js/articles.js"></script>
+		</div>
+		</div>
+
+				<script>
+		(function (doc) {
+			var scripts = doc.getElementsByTagName('script');
+			var script = scripts[scripts.length - 1];
+			var xhr = new XMLHttpRequest();
+			xhr.onload = function () {
+				var div = doc.createElement('div');
+				div.innerHTML = this.responseText;
+				div.style.display = 'none';
+				script.parentNode.insertBefore(div, script);
+			}
+			xhr.open('get', '/theme/thesun//assets/build/img/sprite/sprite.svg', true);
+			xhr.send();
+		})(document);
+
+
+
+		</script>
+
+		<script>
+			// Submit function
+            function recaptcha_callback() {
+						var getUrl = $('.form-newsletter').data( "url-send" ),
+							getName = $('input#name').val(),
+							getEmail = $('input#email').val();
+						$.ajax({
+								type: "POST",
+								url: getUrl,
+								data: {
+									name: getName,
+									email: getEmail,
+									grecaptcharesponse: grecaptcha.getResponse()
+								}
+							}).done(function(response) {
+								console.log(response);
+									$('.form-fields').fadeOut(800, function () {
+										$('.form-fields').empty().append('<div class="newsletter-confirm-message">Thank you for signing up to receive news from <em>The Sun</em>. Your first newsletter will arrive soon.<div>').fadeIn(800);
+									});
+							});
+			}
+
+		</script>
+
+		<script>
+			function getUrlCode() {
+				var url_string = window.location.href;
+				var url = new URL(url_string);
+				var c = url.searchParams.get('promotion\_key');
+				if (typeof c !== 'undefined' && c !== null) {
+					setCookie("promotion_code",c);
+				}
+			}
+
+			function setCookie(cname, cvalue) {
+				document.cookie = cname + "=" + cvalue + ";" + "path=/";
+			}
+
+			function getCookie(cname) {
+				var name = cname + "=";
+				var decodedCookie = decodeURIComponent(document.cookie);
+				var ca = decodedCookie.split(';');
+				for(var i = 0; i <ca.length; i++) {
+					var c = ca[i];
+					while (c.charAt(0) == ' ') {
+						c = c.substring(1);
+					}
+					if (c.indexOf(name) == 0) {
+						return c.substring(name.length, c.length);
+					}
+				}
+				return "";
+			}
+			window.addEventListener( "load", getUrlCode );
+		</script>
+
+
+	</body>
+</html>

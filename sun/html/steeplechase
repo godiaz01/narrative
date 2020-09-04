@@ -1,0 +1,1329 @@
+
+<!DOCTYPE html>
+<html class="no-js" lang="en-US">
+	<head>
+		<title>Steeplechase - The Sun Magazine</title>
+
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		
+		<meta name="viewport" content="width=device-width, minimum-scale=1.0">
+
+		<link rel="dns-prefetch" href="//ajax.googleapis.com">
+		<link rel="dns-prefetch" href="//use.typekit.net">
+		
+		<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/modernizr.js"></script>
+		<script src="https://www.google.com/recaptcha/api.js"
+				async defer>
+		</script>
+
+		<script>(function(d) { var config = { kitId: 'kzw7ebk', scriptTimeout: 3000, async: true }, h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s) })(document);</script>
+
+
+				
+		<link rel="apple-touch-icon" sizes="57x57" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-57x57.png?v=2016">
+		<link rel="apple-touch-icon" sizes="60x60" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-60x60.png?v=2016">
+		<link rel="apple-touch-icon" sizes="72x72" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-72x72.png?v=2016">
+		<link rel="apple-touch-icon" sizes="76x76" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-76x76.png?v=2016">
+		<link rel="apple-touch-icon" sizes="114x114" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-114x114.png?v=2016">
+		<link rel="apple-touch-icon" sizes="120x120" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-120x120.png?v=2016">
+		<link rel="apple-touch-icon" sizes="144x144" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-144x144.png?v=2016">
+		<link rel="apple-touch-icon" sizes="152x152" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-152x152.png?v=2016">
+		<link rel="apple-touch-icon" sizes="180x180" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-180x180.png?v=2016">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-32x32.png?v=2016" sizes="32x32">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/android-chrome-192x192.png?v=2016" sizes="192x192">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-96x96.png?v=2016" sizes="96x96">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-16x16.png?v=2016" sizes="16x16">
+		<link rel="mask-icon" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/safari-pinned-tab.svg?v=2016" color="#444444">
+		<link rel="shortcut icon" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon.ico?v=2016">
+		<meta name="apple-mobile-web-app-title" content="The Sun Magazine">
+		<meta name="application-name" content="The Sun Magazine">
+		<meta name="msapplication-TileColor" content="#fcc330">
+		<meta name="msapplication-TileImage" content="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/mstile-144x144.png?v=2016">
+		<meta name="theme-color" content="#ffffff">
+
+				<link rel="stylesheet" type="text/css" href="https://cloud.typography.com/6578674/659928/css/fonts.css" />
+		<link rel="stylesheet" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/css/style.css">
+
+																		<meta property="og:site_name" content="The Sun Magazine">
+		<meta property="og:type" content="article">
+		<meta property="og:url" content="https://www.thesunmagazine.org/issues/360/steeplechase">
+		<meta property="og:image" content="http://www.thesunmagazine.org/files/2016-11/360-14-camara-preview.jpg">
+		<meta property="og:title" content="Steeplechase - The Sun Magazine">
+		<meta property="og:description" content="Evenings, the boardwalk was crowded with refugees from the hot city. Neon blazed, and loud music exploded from every arcade. The aroma of hot dogs, hamburgers, beer, and knishes mingled with the salt-scented breeze. It was the first time I&amp;rsquo;d known the expansive luxury of the open sky curving to the horizon.">
+		<meta property="fb:app_id" content="158741778010551">
+
+						<link rel="image_src" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.comhttp://www.thesunmagazine.org/files/2016-11/360-14-camara-preview.jpg">
+
+												<meta name="twitter:card" content="summary">
+		<meta name="twitter:title" content="Steeplechase - The Sun Magazine">
+		<meta name="twitter:description" content="Evenings, the boardwalk was crowded with refugees from the hot city. Neon blazed, and loud music exploded from every arcade. The aroma of hot dogs, hamburgers, beer, and knishes mingled with the salt-scented breeze. It was the first time I&amp;rsquo;d known the expansive luxury of the open sky curving to the horizon.">
+		<meta name="twitter:image" content="http://www.thesunmagazine.org/files/2016-11/360-14-camara-preview.jpg">
+		<meta name="twitter:site" content="@thesunmagazine">
+
+				<link rel="publisher" href="https://plus.google.com/113792980827145858211">
+        
+		<meta name="Description" content="Evenings, the boardwalk was crowded with refugees from the hot city. Neon blazed, and loud music exploded from every arcade. The aroma of hot dogs, hamburgers, beer, and knishes mingled with the salt-scented breeze. It was the first time I&amp;rsquo;d known the expansive luxury of the open sky curving to the horizon.">
+
+		
+		<!-- Google Tag Manager -->
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-TKBHCCG');</script>
+		<!-- End Google Tag Manager -->
+
+		<!-- Google Analytics -->
+		<script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+            ga('create', 'UA-2351127-1', 'auto');  // Replace with your property ID.
+            ga('send', 'pageview');
+            ga('require', 'ecommerce');   // Load the ecommerce plug-in.
+		</script>
+		<!-- End Google Analytics -->
+	</head>
+	<body id="">
+
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TKBHCCG"
+		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+		<header class="header" data-offset-start="80">
+		<div class="header-utilities">
+				<ul class="header-utilities-user list-inline list-inline-tight xxsmall">
+							<li>
+					<span class="header-utilities-user-intro">Already A Subscriber?</span> &nbsp;
+					<a href="https://www.thesunmagazine.org/subscriber/login" class="link-text link-alt">Sign In</a>
+				</li>
+					</ul>
+		<a href="https://www.thesunmagazine.org/shop/cart" class="header-utilities-cart  link-alt link-icon tiny">
+			<span class="i"><svg><use xlink:href="#i-cart"></use></svg></span>
+			<span class="cart-item-count">
+									0 Items
+				
+			</span>
+		</a>
+			</div>
+
+		<div class="header-bar">
+		<h1 class="header-logo logo">
+			<a href="/">
+				<img src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/img/logo-thesun.svg" class="logo-thesun" alt="The Sun Magazine">
+				<img src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/img/logo-tagline.svg" class="logo-tagline" alt="">
+			</a>
+		</h1>
+
+		<ul class="header-nav">
+			
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/read" 	   class='current '>
+	   Read	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/issues/current" 	   class=''>
+	   Current Issue	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/archives" 	   class=''>
+	   Archives	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/featured" 	   class=''>
+	   Featured Selections	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/topics" 	   class=''>
+	   Browse Topics	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/sections" 	   class=''>
+	   Browse Sections	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/connect" 	   class=''>
+	   Connect	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/news" 	   class=''>
+	   News from <em>The Sun</em>	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" 	   class=''>
+	   Write a Letter to the Editor	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/discussion-groups" 	   class=''>
+	   Discussion & Writing Groups	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/make-a-suggestion" 	   class=''>
+	   Make a Suggestion	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/submit" 	   class=''>
+	   Submit	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/shop" 	   class=''>
+	   Shop	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/giftsub" 	   class=''>
+	   Gift Subscriptions	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/issues" 	   class=''>
+	   Issues	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+											
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/donatemenu" 	   class='highlight'>
+	   Donate	</a>
+		
+	</li>
+
+		<li class=" last">
+														<a href="/SubscribeNav1" 					   class=''>
+						Subscribe					</a>
+									
+	</li>
+
+
+		</ul>
+
+		<button class="header-nav-toggle"><svg><use xlink:href="#i-menu" class="i-menu"></use><use xlink:href="#i-close" class="i-close"></use></svg></button>
+		<button class="header-search-toggle" data-form-wrapper=".header-search"><svg><use xlink:href="#i-magnifier" class="i-magnifier"></use><use xlink:href="#i-close" class="i-close"></use></svg></button>
+	</div>
+
+		<div class="header-search">
+		<div class="header-search-content">
+			<form action="https://www.thesunmagazine.org/search" class="form form-search" method="get">
+				<h2 class="alt-ff brand-link">Search Our 40 Years of Archives</h2>
+				<ul class="form-search-fields form-fields form-fields-inline">
+					<li><input type="text" name="q" value=""></li>
+					<li class="form-fields-inline-button"><button class="b b-1 b-padding-tight b-loading"><svg><use xlink:href="#i-loading"></use></svg>Search</button></li>
+				</ul>
+
+				<div class="header-search-content-shortcuts">
+					<h6 class="search-advanced alt-ff"><a class="js-handle-advanced" href="https://www.thesunmagazine.org/search?advanced=1">Advanced Search</a></h6>
+					<br>
+					<h6 class="alt-ff">Popular Pages</h6>
+					<ul class="list-inline-border list-inline-tight xxsmall"><li class=" first"><a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a></li><li class=""><a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a></li><li class=""><a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a></li><li class=""><a href="https://www.thesunmagazine.org/sections/quotations" 	   class=''>
+	   Quotations	</a></li><li class=""><a href="https://www.thesunmagazine.org/sections/readers-write" 	   class=''>
+	   Readers Write	</a></li><li class=" last"><a href="https://www.thesunmagazine.org/sections/poetry" 	   class=''>
+	   Poetry	</a></li></ul>				</div>
+			</form>
+		</div>
+	</div>
+</header>
+
+	<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+	<script type="text/javascript">
+		$(document).ready(function() {
+			$('.js-handle-advanced').on('click', function (e) {
+				e.preventDefault();
+				var getSearchValue = $('.form-search-fields input').val();
+				var getURL = $(this).attr('href');
+				var newURL = getURL + '&q=' + getSearchValue;
+				window.location.href = newURL;
+			});
+		});
+	</script>
+
+		<div class="container-hidden">
+		<div class="container">
+
+				
+	
+	<article class="article ">
+		<header class="block-content block-content-l1 block-content-center">
+						<div class="block-content-header">
+				<h6 class="b-content-section heading-square"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+				<h1 class="block-content-title">Steeplechase</h1>
+
+				
+				<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/michelle-cacho-negrete">Michelle Cacho-Negrete</a></li><li><a href="/issues/360">December 2005</a></li></ul>
+
+			</div>
+
+																			
+
+				<figure class="block-content-photo block-content-photo-large photo photo-outset-center-large">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 2360 1783'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/1180x1562r/photos/360-14-camara.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/2360x3124r/photos/360-14-camara.jpg
+	 alt="360 - Camara - Cacho-Negrete"
+	 class="lazy">
+
+										<figcaption>
+
+						
+																				<div class="photo-credit">
+								&copy;&nbsp;<a href="/contributors/john-camara">John Camara</a>
+							</div>
+																		</figcaption>
+									</figure>
+
+					</header>
+
+				<div class="article-body link-text-wrap">
+																		<p><strong>I WAS ELEVEN AND MY BROTHER WAS SEVEN.</strong> For most of that summer of 1955 we&rsquo;d roamed the Brooklyn streets while my mother worked for less than minimum wage, filing medical forms in the hot, dusty basement of an insurance company. Each night over dinner she quizzed us about our day. I didn&rsquo;t tell her I&rsquo;d stolen cookies and soda for my brother and me, nor that we&rsquo;d disobeyed her explicit orders and gone to the pool in the park half a mile away, where junkies shared needles. I told her about going to the library or reading on the fire escape. She was too shrewd, though, not to suspect the truth. She hated where we lived, but what choice did we have, on her salary? Yet that summer she shocked us by somehow saving enough money to rent a bungalow for a week in Coney Island.</p>
+
+<p>The rental was a tiny place, the kitchen so narrow there was room for only one person at a time. But the sound of the waves made that gray-shingled shack on the edge of the boardwalk as exotic to us as a Caribbean hideaway. At night the pungent smell of seaweed and the brassy music of the nearby merry-go-round floated in through the screen windows. My mother read on the beach every morning, her rich olive skin darkening to a burnished mahogany, a brown paper bag stocked with cigarettes, soda, candy, sandwiches, and extra books on the gritty sand beside her. My brother and I played at the edge of the water, dribbling wet sand through our fingers to build sand castles in the golden sunlight. We swam in the ocean for hours, emerging with blue lips and puckered skin, too excited even to eat lunch.</p>
+
+<p>Evenings, the boardwalk was crowded with refugees from the hot city. Neon blazed, and loud music exploded from every arcade. The aroma of hot dogs, hamburgers, beer, and knishes mingled with the salt-scented breeze. It was the first time I&rsquo;d known the expansive luxury of the open sky curving to the horizon.</p>
+
+<p>The biggest attraction on the boardwalk was Steeplechase Park&rsquo;s Pavilion of Fun, an enclosed carnival of rides and games. Rising above it was the Steeplechase Park racetrack, bathed in garish lights so bright you felt the heat of them on your skin. The elevated track circled the pavilion, and the screams of riders spiraling precariously down it on gravity-driven horses hinted at a thrill I would never experience: it cost fifty cents apiece to get into Steeplechase Park, and my mother had put all her spare money into renting our bungalow. Lips pursed around her ever-present cigarette, she paused with my brother and me as we stared at the careening bodies of the wooden horses, neon glinting off their shiny paint.</p>
+
+<p>&ldquo;Some ride,&rdquo; she said.</p>
+
+<p>We were too mesmerized to respond.</p>
+
+<p>Each night as we climbed into bed, our mother asked, &ldquo;Are you having fun?&rdquo; My brother, as affectionate and exuberant as a puppy, hugged her and kissed her again and again, shouting, &ldquo;Yes, yes, yes!&rdquo; My mother&rsquo;s eyes met mine over his head. I was her difficult child, wiry and fidgety, hardened by the streets, possessed of a premature adolescent angst, savvy to the ways of poverty. I saw in her eyes a plea for forgiveness, because of all she couldn&rsquo;t give us. I put my arms around her. &ldquo;Yes,&rdquo; I said. &ldquo;More fun than I&rsquo;ve ever had.&rdquo;</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">Though I haven&rsquo;t been there in many years, I&rsquo;ve begun to experience an inexplicable need to see Coney Island again, as compelling as the hunger I once experienced as a child.</p>
+
+<p>&ldquo;I <em>need</em> to go,&rdquo; I tell my husband.</p>
+
+<p>&ldquo;Then let&rsquo;s go,&rdquo; he answers.</p>
+
+<p>We leave our house in Maine before dawn. It&rsquo;s a five-hour trip to New York City. We don&rsquo;t listen to news, only music. We talk about the unusually warm weather; my husband&rsquo;s upcoming business trip; my insidious, low-level depression of the last few months. We don&rsquo;t talk about Iraq and the growing body count of American soldiers and Iraqi civilians, Abu Ghraib and the politics of interrogation, my flashbacks to the war-torn sixties and my brother&rsquo;s death in Vietnam. The sky brightens as we travel south into the waking day. The temperature climbs. We shed coats, then sweaters. It&rsquo;s December, and trees on front lawns are trimmed with tiny lights, Santa and his reindeer marooned on several roofs. Wind-whipped American flags provide spots of color in the drab landscape. Finally we&rsquo;ve arrived.</p>
+
+<p>Coney Island both is and isn&rsquo;t the same. The past and present live side by side here: fields of rubble and new developments crowding old houses that huddle in acceptance of the inevitable. But then there&rsquo;s the boardwalk and the foam-capped ocean stretching like a blue quilt to the horizon.</p>
+
+<p>Graffitied boards are nailed over storefronts. Faded signs advertise knishes, arcade games, psychic readings. A surreal cityscape of rides is bedded down for winter, all chrome and rust and peeling portraits of leering clowns. The wooden planks beneath our feet are splintered at the edges and spotted with rot, the iron railings lining the boardwalk tarnished. Trash cans overflow. Candy wrappers blow in a crackling ballet down the littered beach. Flags throw fluttering shadows at our feet. My husband, whose childhood world was one of neat suburban lawns, tidy houses, and immaculate cars, has never seen anything like it. He&rsquo;s a tourist here. I&rsquo;m home.</p>
+
+<p>I see Coney Island through my husband&rsquo;s eyes: so destitute, so tawdry. I cannot describe to him the ferocity of color and noise and irresistible, cheap jubilance that once enticed the working poor to come here, sprawl on the beach, plunge into the chilly ocean, scrape together a pocketful of nickels for games and rides.</p>
+
+<p>&ldquo;It was glorious,&rdquo; I tell him, defeated. &ldquo;It was what we had.&rdquo;</p>
+
+<p>&ldquo;It&rsquo;s winter,&rdquo; he says, trying to soothe me. &ldquo;Everything is shut down.&rdquo;</p>
+
+<p>His kindness embarrasses me. So does my obsessive need to come here.</p>
+
+<p>We stare up at the soaring metal remnants of the parachute jump, a skeletal tower flaked with rust. The frame of an old roller coaster rises beside it like the desiccated bones of some prehistoric beast. I remember the bustle, the waiting lines of kids pushing and daring each other, girls giggling and boys swallowing fear in a macho display.</p>
+
+<p>&ldquo;Let&rsquo;s sit in the sun,&rdquo; my husband says. He leads me to a bench, and we rest our feet on the metal railing. The tide nips at the shore like a timid animal, and the smell of ocean is tinged with the odor of rancid trash. Shrieking children run along the boardwalk, trailed by watchful parents. Elderly couples, bundled in heavy sweaters and wool hats, walk arm in arm. I close my eyes and listen to the bits of conversation swirling around me: English, Russian, Yiddish, Spanish. I&rsquo;m drowsy. The still-familiar sounds and smells of the beach and the taste of the air transport me. I feel myself teetering on a precipice of time, as if I might fall into the past and be unable to climb back into the present.</p>
+
+<p>&ldquo;Tell me about being a kid here,&rdquo; my husband says.</p>
+
+<p>My eyes snap open, and I look at him. His face is shaded by the visor of his cap, legs stretched out across the planks.</p>
+
+<p>&ldquo;Rode my bike. Played games in the arcades when we could get a couple of nickels.&rdquo; I smile. &ldquo;Ate hot dogs at Nathan&rsquo;s.&rdquo;</p>
+
+<p>He gives a mock shudder; we&rsquo;ve been vegetarians for twenty-five years.</p>
+
+<p>&ldquo;Who knew?&rdquo; I shrug. &ldquo;Back then it was meat, butter, and cigarettes.&rdquo;</p>
+
+<p>&ldquo;What was it like in its prime?&rdquo; he asks, pressing me.</p>
+
+<p>I stare out at the horizon and tell him about the screams drifting down from the parachute jump; pink wisps of cotton candy that melted on your tongue; the smooth glide of a skeeball up a narrow alley and the excitement of getting it into a fifty-point hole; rides we rode when we could find, or steal, the money. I hesitate, then force the words out: &ldquo;And Steeplechase Park.&rdquo; My voice breaks. In my mind I see the sinister smiling face above the entrance to Steeplechase Park&rsquo;s Pavilion of Fun.</p>
+
+<p>My husband takes my hand and says quietly, &ldquo;Steeplechase Park? It&rsquo;s gone, right?&rdquo;</p>
+
+<p>I nod. &ldquo;We rented a bungalow in Coney Island for a week one summer when it was still here.&rdquo;</p>
+
+<p>He&rsquo;s astonished, knowing the poverty of my childhood: my mom a single mother with a sixth-grade education supporting my brother and me.</p>
+
+<p>My brother, the gentle child.</p>
+
+<p><figure class="photo photo-outset-center-medium">
+	<div>
+					<div>
+				<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 1960 1281'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/980x641r/photos/360-17-dyas.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/1960x1281r/photos/360-17-dyas.jpg
+	 alt="360 - Dyas - Cacho-Negrete - 1"
+	 class="lazy">
+
+									<figcaption>
+																											<div class="photo-credit">
+																			© <a href="https://www.thesunmagazine.org/contributors/sandra-louise-dyas">
+											Sandra
+																							Louise
+																						Dyas
+										</a>
+																	</div>
+																								</figcaption>
+							</div>
+			</div>
+</figure>
+</p>
+
+<p class="dropcap">On our last day in Coney Island, my mother, flushed with pleasure, surprised us by counting out enough nickels, dimes, and pennies for us to go to Steeplechase Park.</p>
+
+<p>&ldquo;I&rsquo;ll wait for you over there,&rdquo; she said, pointing to a spot on the mobbed beach.</p>
+
+<p>&ldquo;Come too, Ma,&rdquo; my brother begged.</p>
+
+<p>She shook her head. &ldquo;Just enough money for two kids.&rdquo; She looked over his head at me. &ldquo;You,&rdquo; she said. &ldquo;Take care of your brother. Don&rsquo;t let him get hurt.&rdquo;</p>
+
+<p>I nodded and took his hand.</p>
+
+<p>We waited impatiently on the long line. I refused to look at that fiendish smile on the giant painted face above the entrance, watching instead the wooden horses and their riders flying by overhead. At the ticket window a teenage girl with brilliant blue eye shadow exchanged our money for passes. We stepped through the gate into a swirl of color and noise. Everyone was infused with an expectant, jittery energy, eating dripping ice cream, running from ride to ride, waving passes and jockeying for position on line. But there was only one ride we were interested in: the Steeplechase. We pushed our way through the crowd, showed the man our passes, and got on another line that snaked along the wall. While we waited, we assessed the eight horses as though they were alive. When it was our turn, we ran through the gate, wanting first choice of steeds. Adults pushed past us, crowding us out, but my brother stopped in front of a shiny brown horse with a flying mane and wide eyes.</p>
+
+<p>&ldquo;This one,&rdquo; he told me confidently. &ldquo;This one will win.&rdquo;</p>
+
+<p>Neither of us understood the mechanics of the race: that the inside track was the shortest, and that the heavier adult riders went faster. We thought we could triumph by sheer force of will. We climbed on, and my brother curled his arms around my waist. I held tight to the horse&rsquo;s neck as it began to move. We were thrilled by the whir of the chains that pulled the wheeled horses to the top on metal rails. Gravity would carry us from the crest to the finish line. I drifted into a dreamlike state where everything assumed exaggerated importance: the hum of the crowds beneath us, the sea gulls calling overhead, the smell of sauerkraut drifting up from the boardwalk below. When we reached the peak, the chains ended. For an instant we teetered at the brink; then we plunged down.</p>
+
+<p>My ears filled with the tuneless whistle of the wind. My brother&rsquo;s arms squeezed my ribs, and he cheered on the mechanical horse, his breath puffing hot against my neck: &ldquo;Go, go, go!&rdquo; We flew along through the sharp, salty air above the crowd, a blaze of heat slashing my shoulders as we passed through a ray of sun. Screams from the nearby parachute jump mingled with our shrieks of joy. As we rounded the loop, my legs gripped the wooden horse, and the wind stung my face. I had never felt such freedom, such immersion in pure sensation.</p>
+
+<p>Too soon the horses slowed, the wind lessened, and we arrived at our destination, the finish line. We had come in last. My brother remained seated, patting the wooden horse as if it were living flesh, whispering, &ldquo;Good job.&rdquo; Then he dismounted with trembling legs, laughing crazily. &ldquo;Let&rsquo;s go again,&rdquo; he said to me. His curtain of dark hair hung across his forehead, just grazing his wide brown eyes. I nodded and took his hand.</p>
+
+<p>The girl on the horse that had come in next-to-last dismounted, crying with disappointment. The child who&rsquo;d ridden with her, probably a stranger, ran off. My brother&rsquo;s eyes filled with sympathy as we passed her. &ldquo;Good riding,&rdquo; he told her. She swallowed her sobs, nearly smiled, and said, &ldquo;Thanks.&rdquo;</p>
+
+<p>I wished at that moment that I had his generous kindness. But I didn&rsquo;t.</p>
+
+<p>The <span class="smallcaps">exit</span> sign led us to a low-ceilinged wooden shed. The ceiling was so low we had to crawl through on our knees. What happened next is still chilling to me, forty years later.</p>
+
+<p>We emerged onto a long stage filled with screaming people. Clowns with painted faces and gaudy costumes stalked the panicky crowd, like parodies of congenial circus performers, and I thought of the enormous, menacing face at the entrance to the pavilion. Two clowns circled my brother and me, coming closer and closer, waving paddles and rods that buzzed mysteriously. As they advanced upon us, my confusion gave way to terror.</p>
+
+<p>I grabbed my brother&rsquo;s hand, and we ducked between the two clowns, the stiff edge of a ruffled sleeve grazing my face. Then we collided with a mass of fleeing children, and my brother&rsquo;s hand slipped from mine. I looked around wildly for a way out. At the edge of the stage, women shrieked and fought to hold down skirts blown up by gusts of air that exposed their panties, garters, and stockings. Taut-faced men tried to be good sports while fending off the clowns, but grew angrier and rougher as the attacks persisted.</p>
+
+<p>I heard laughter and looked down in surprise. An audience seated before the stage laughed and yelled to the clowns, &ldquo;Get them!&rdquo; Fingers pointed at children, women, men. A clown jabbed my brother&rsquo;s leg with his rod, and above my brother&rsquo;s cry of pain I heard a cheer from the spectators, as though the clown had scored a point for the home team.</p>
+
+<p>I froze, and my stillness drew the crowd&rsquo;s attention. Heads turned in my direction. Fingers pointed and voices screamed, &ldquo;Her! Get her!&rdquo; Pain shot through my body. I yelped and spun around. A clown danced around me, waving his stick in the air. Electric prods! The crowd applauded and stamped their feet as I staggered away from him. He bowed deeply, accepting their tribute. Somewhere my brother howled my name. I dodged among the people onstage, looking for him. Then I saw him, weeping and paralyzed with shock as a clown in whiteface and darkly drawn eyes paddled him. &ldquo;Run!&rdquo; I yelled. My brother turned in the direction of my voice, but his eyes were blank, clouded with fear. I felt faint in the overheated arena, and I shook my head furiously to clear it. I was responsible for my brother. I had to get us out of there.</p>
+
+<p>I kicked at the groin of an approaching clown, but he leapt out of the way with a nimble step that made the audience roar. Another one stung me on my calf. My body vibrated with the shock, but I mastered my fear, located my brother, and grabbed his hand. My touch roused him from his fear-induced paralysis, and we ran across the stage toward a door marked <span class="smallcaps">EXIT</span>. I heard laughter and the huffing of a clown close behind. My brother lost his balance and fell, and I dragged him along the stage, listening to my own whimpers as if from a distance. My body tingled and ached. Then the floor began to shake, like in a fun house, and I fell to my knees. Stacked barrels wobbled as though about to topple and bury us. I crawled, still dragging my brother, toward the brightly painted exit door. When we reached it, I stood on shaky legs and pulled it open. We were outside, free.</p>
+
+<p>We blinked in the blinding sun. The ground still seemed to heave beneath me. I took deep breaths, again and again, gripping the hand of my brother, who wailed without restraint. Passersby gave us no more than a curious glance. I turned and saw a long line at the entrance to the Steeplechase.</p>
+
+<p><figure class="photo photo-outset-center-medium">
+	<div>
+					<div>
+				<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 1960 1284'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/980x642r/photos/360-18-dyas.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/1960x1284r/photos/360-18-dyas.jpg
+	 alt="360 - Dyas - Cacho-Negrete - 2"
+	 class="lazy">
+
+									<figcaption>
+																											<div class="photo-credit">
+																			© <a href="https://www.thesunmagazine.org/contributors/sandra-louise-dyas">
+											Sandra
+																							Louise
+																						Dyas
+										</a>
+																	</div>
+																								</figcaption>
+							</div>
+			</div>
+</figure>
+</p>
+
+<p class="dropcap">My husband&rsquo;s face, after I&rsquo;ve told him my story, is pale and shocked. &ldquo;I can&rsquo;t believe that happened,&rdquo; he says. &ldquo;Once people knew, they wouldn&rsquo;t let it go on.&rdquo;</p>
+
+<p>Before I can speak, three young men of perhaps eighteen, one carrying a thundering boombox on his shoulder, come up the stairs from the sidewalk. They are dressed alike in low-slung baggy jeans, short-sleeved tees, and high-top sneakers with untied laces, their heavy sweat shirts tied around their waists and their thin, muscular arms gleaming in the winter sunlight. One boy has a pack of cigarettes rolled up in the sleeve of his <span class="smallcaps">T</span>-shirt. (I am surprised kids still do this.) He pulls out the pack, and they each take one. Then he flicks a silver lighter, and an enormous flame shoots up. They lean forward to light up, a circle of New York Yankee&ndash;capped heads. Cigarettes lit, they rest against the railing, fine profiles dark against the sky, voices raised over the strident rap music.</p>
+
+<p>&ldquo;I&rsquo;m telling you, man,&rdquo; the one with the boombox insists as he exhales sharply, &ldquo;this place really used to be something.&rdquo;</p>
+
+<p>The other two shake their heads.</p>
+
+<p>My husband moves closer to me so I can hear him and says, &ldquo;I know you&rsquo;re not lying, but that was a long time ago. I can&rsquo;t believe it was allowed to continue.&rdquo; I see in his eyes not doubt, but the desire to doubt.</p>
+
+<p>&ldquo;Believe it,&rdquo; I say.</p>
+
+<p>Later I will look it up and find everything exactly as I&rsquo;ve described it: the clowns, the prods, the moving floor, the audience that cheered the clowns on &mdash; all there. It was called &ldquo;The Pavilion of Fun&rsquo;s Insanitarium and Blowhole Theater,&rdquo; and it dated back to the turn of the century, when audiences had been thrilled by its impropriety. The attraction became seedier as time went on until, by its closing in 1964, it drew mostly an audience of leering older men.</p>
+
+<p>I lean back against the bench and close my eyes, and an irrational anger wells up inside me. Why am I still angry? It was so long ago. My eyes sting with tears, and then I understand my compulsive need to come to Coney Island: I have come here for my brother, to this place where I saved him once. I still want to save him, but he&rsquo;s gone, killed in Vietnam at the age of eighteen, his optimistic vision of the world shattered, the disillusionment expressed in a few letters home.</p>
+
+<p>A flock of sea gulls land and rise and land again in a flurry of flapping wings. With high-pitched squeals they fight over a clam. The sunlight grows hazy as clouds pass overhead. I take a deep breath, open my clenched fists, and stare down at the beach, the people walking along the water or reading on lounge chairs. Two small children, watched over by a woman who looks too young to be a mother, challenge the waves to wash over their sneakers, then leap back. A teenage couple threaten to throw each other in the water. Everything is normal.</p>
+
+<p>&ldquo;I guess you never went there again,&rdquo; my husband says finally.</p>
+
+<p>&ldquo;No.&rdquo; My laugh is strange to me. &ldquo;We went whenever we had enough money.&rdquo;</p>
+
+<p>He&rsquo;s astonished. &ldquo;But you knew what would happen. I don&rsquo;t understand.&rdquo;</p>
+
+<p>&ldquo;We figured next time we&rsquo;d be quick enough, smart enough. We thought we could get out without paying the consequences,&rdquo; I say flatly. &ldquo;We believed it no matter how many times we were proven wrong.&rdquo;</p>
+
+<p>News of the war in Iraq suddenly blasts on the boombox, and the boy carrying it fiddles with the tuner until he finds another rap station. He&rsquo;s about the same age my brother was when he died, probably as poor as we were. <em>It&rsquo;s mostly the poor who join the army</em>, I think bitterly. <em>The poor who fight, the poor who die.</em></p>
+
+<p>&ldquo;I&rsquo;m telling you, man,&rdquo; the one with the boombox says again. &ldquo;No bullshit. My grandmom told me. Billions .&nbsp;.&nbsp;. no, trillions of people used to come here. You know: eat, go on the rides, do shit. And this,&rdquo; his slender finger points to the intricate tower behind us, shorn of its faded parachutes, &ldquo;kids would wait for like an hour to get on it.&rdquo;</p>
+
+<p>They shake their heads as they inhale smoke from their cigarettes.</p>
+
+<p>&ldquo;No bullshit,&rdquo; the boy says again, insistent and loud over the music. &ldquo;That ride would hit the top &mdash;&rdquo; he smashes a fist against his hand &mdash; &ldquo;and you&rsquo;d go down in a parachute, like in the air force or something.&rdquo;</p>
+
+<p>His friend punches him lightly on the arm and says, &ldquo;Let&rsquo;s go. I&rsquo;m hungry.&rdquo; I glance at my watch: nearly noon. The three walk away with loose, long-legged strides. One dances on the edge of the boardwalk for a moment, all elbows and hands waving in the air; then they vanish down the ramp.</p>
+
+<p>I stand and pull my husband up by the hand. I want to get out of here. I want to stop thinking about war. I want to visit the Metropolitan Museum of Art, or see a movie, or take a walk through Central Park. My husband and I head to the car, past the boarded-up arcades, the custard stands and food booths closed for the season, the stretches of rubble. At the roller coaster we pause for a moment. Whole sections of it have eroded. &ldquo;The structure can&rsquo;t last much longer,&rdquo; my husband says. &ldquo;They&rsquo;ve got to fix it, or it&rsquo;ll collapse under its own weight.&rdquo; I nod in agreement. Our country&rsquo;s flag waves above us, its frayed edge unraveling in the wind.</p>
+														</div>
+
+
+				
+<div class="sharing-bar article-sharing">
+	<div class="sharing-bar-first">
+		<a href="javascript:window.print();" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-printer"></use></svg> <span>Print</span></a>
+	</div>
+
+	<div class="sharing-bar-second">
+		<span class="alt-ff xsmall">Share:</span>
+		<a href="https://www.facebook.com/sharer/sharer.php?u=https://www.thesunmagazine.org/issues/360/steeplechase" target="_blank" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-facebook"></use></svg> <span>Facebook</span></a>
+		<a href="https://twitter.com/share?url=https://www.thesunmagazine.org/issues/360/steeplechase&amp;via=thesunmagazine" target="_blank" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-twitter"></use></svg> <span>Twitter</span></a>
+		<a href="#" class="b b-1 b-padding-tight xsmall js-toggle-mail-form"><svg><use xlink:href="#i-email"></use></svg> <span>Email</span></a>
+	</div>
+</div>
+
+<div class="send-to-friend-message-container">
+	<div class="alert alert-success xsmall">Thank you for sharing <em>The Sun</em>.</div>
+</div>
+
+<form method="post" action="/ajax/articles/send-to-a-friend" class="form fill-grey send-to-friend-form">
+		<input type="hidden" id="form_url" name="form[url]" value="https://www.thesunmagazine.org/issues/360/steeplechase" />
+
+	<ul class="form-fields">
+		<li><label for="form_sender_name"><span class="label-text">Your Full Name</span><span class="label-asterisk">*</span></label><input type="text" id="form_sender_name" name="form[sender_name]" required="required" /></li>
+		<li><label for="form_sender_email"><span class="label-text">Your Email Address</span><span class="label-asterisk">*</span></label><input type="email" id="form_sender_email" name="form[sender_email]" required="required" /></li>
+		<li><label for="form_recipient_name"><span class="label-text">Friend’s Name</span><span class="label-asterisk">*</span></label><input type="text" id="form_recipient_name" name="form[recipient_name]" required="required" /></li>
+		<li><label for="form_recipient_email"><span class="label-text">Friend’s Email Address</span><span class="label-asterisk">*</span></label><input type="email" id="form_recipient_email" name="form[recipient_email]" required="required" /></li>
+		<li><label for="form_message"><span class="label-text">Personalized Message</span></label><textarea id="form_message" name="form[message]"></textarea></li>
+	</ul>
+<div class="send-to-friend-message-container">
+	<div class="alert alert-error xsmall">Something went wrong. Please try again.</div>
+</div>
+
+<div class="g-recaptcha" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs"></div>
+<div class="form-actions"><button type="submit" id="form_submit" name="form[submit]"	class="form-actions-b-primary b b-1 b-loading xsmall"><svg><use xlink:href="#i-loading"></use></svg>
+		Submit
+	</button></div>
+<input type="hidden" id="form__token" name="form[_token]" value="07d337b3103d1ea66e928c02927f981b42859fb2" /></form>
+
+<br>
+
+
+
+										<footer class="article-contributor contributors">
+									
+
+<div class="block-contributor">
+		
+
+		<div class="block-contributor-content">
+		<div class="block-contributor-bio small">
+			<p><strong><span class="smallcaps">Michelle Cacho-Negrete</span></strong> lives in a historic granite quarry in Wells, Maine, where she leads writing workshops and contemplates the frightening decline of the frog population. Her essay &ldquo;<a href="/article/489/">Heat</a>&rdquo; [January 2004] was listed as a Notable Essay in <em>Best American Essays 2005</em> (Houghton-Mifflin).</p><a href="/contributors/michelle-cacho-negrete" class="block-contributor-link link-alt small">More From This Contributor&nbsp;&#9656;</a>		</div>
+	</div>
+</div>
+
+							</footer>
+						</article>
+
+
+				    <div class="paywall-subscription block-product">
+			<div class="columns">
+			<div class="paywall-banner span3 cta cta-l1">
+				<div class="cta-intro">
+					<h5 class="cta-title alt-ff">One Free Selection Left </h5>
+					<p class="cta-text xsmall"><a class="link-alt" href="https://www.thesunmagazine.org/subscriber/login" data-label="Already a subscriber?">Already a subscriber? Sign in ▸</a><br><br>Read two free selections from <em>The Sun</em> each month.</p>
+				</div>
+			</div>
+			<div class="paywall-banner span9 note note-1 text-center">
+				<h4 class="cta-title alt-ff">Subscribe to <em>The Sun</em> and save 45%</h4>
+				<p class="cta-text xsmall">Subscribers get full access to the current issue and more than 40 years of archives.</p>
+				<a class="b b-1 xsmall cta-trigger"  href="/subscribe1" data-label="Subscribe" data-ctatitle="Subscribe">Subscribe</a>
+			</div>
+		</div>
+
+		<div class="columns">
+			<div class="span12 paywall-cta-bottom">
+				<p>
+					<span class="cta-title-issue">Buy the December 2005 issue for $5.95</span>
+					<span class="xsmall">Order now to get instant access to this issue, and we’ll also send you a print copy.</span>
+					<a class="b b-5 xsmall corona"  href="#" data-product-type="issues" data-id="360" data-label="Order Now ▸">Order Now ▸</a>
+				</p>
+			</div>
+		</div>
+
+		
+
+</div>
+	
+	
+	
+	<div class="spacer"></div>
+	
+
+
+
+			<div class="article-correspondence layout-item fill-pattern-light">
+		<div class="layout-item-intro">
+			<h2>Correspondence</h2>
+			<a class="xsmall link-alt" href="https://www.thesunmagazine.org/letter-to-the-editor">Write a Letter to the Editor&nbsp;&#9656;</a>
+		</div>
+
+		<div id="article-correspondences" class="correspondences correspondences-collapsed">
+								<div class="block-correspondence" id="1627">
+		<blockquote class="quote-2">
+			<p>Michelle Cacho-Negrete sure gives Coney Island a beating in her essay &ldquo;<a href="/article/278">Steeplechase</a>&rdquo; [December 2005]. As much of New York City is changing due to gentrification, I cling to Coney Island as a connection to the city&rsquo;s past. Plenty of people (including myself) still wait in line for hours to get on the rides. Even in the winter, when the attractions are all closed, people happily walk along the snow-covered beach with a certain look of satisfaction that only Coney Island can give.</p>
+							<p class="quote-2-author">M.P.<br>New York City, New York</p>
+					</blockquote>
+	</div>
+
+					</div>
+
+			</div>
+    
+		<div class="article-correspondence-cta">
+		<div class="cta cta-l1" data-url="https://www.thesunmagazine.org/letter-to-the-editor">
+			<div class="cta-intro">
+				<h5 class="cta-title alt-ff">Thinking about writing us a letter?</h5>
+				<p class="cta-text">Give in to the temptation. We love getting mail. <br><span class="xsmall">(Of course, we reserve the right to edit.)</span></p>
+			</div>
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" class="cta-button b b-4 b-padding-tight small" data-label="Write Us A Letter!">Write Us A Letter!</a>
+		</div>
+	</div>
+	
+
+			<div class="article-also layout-item-large full-bar fill-grey-mid-light">
+		<div class="layout-item-intro">
+			<h2>Also In This Issue</h2>
+			<a href="/issues/360" class="xsmall link-alt">December 2005&nbsp;&#9656;</a>
+		</div>
+		<div class="issue-articles-l1">
+			<div class="issue-articles-l1-content1">
+				
+<div class="cover cover-l1 block-product">
+	<div>
+							<a href="/issues/360" class="cover-thumb">
+				
+				<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 727'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/import/issue/360.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/561x728r/import/issue/360.jpg
+	 alt=""
+	 class="lazy">
+
+			</a>
+		
+
+													<!-- <a href="/issues/360" data-product-type="issues" data-id="360" data-role="order" class="js-buy-single corona cover-button b b-1 b-full xsmall" data-label="Buy This Issue &#9656;">
+								Buy This Issue&nbsp;&#9656;
+			</a> -->
+			<a href="/issues/360" data-product-type="issues" data-id="360" class="js-buy-single corona cover-button b b-1 b-full xsmall" data-label="Buy This Issue &#9656;">
+								Buy This Issue&nbsp;&#9656;
+			</a>
+					
+					</div>
+</div>
+			</div>
+			<div class="issue-articles-l1-content2">
+				<div class="articles-l3">
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/360/still-here">Still Here</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/corey-fischer">Corey Fischer</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/quotations">Quotations</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/360/sunbeams-360">Sunbeams</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/360/over-the-garden-fence">Over The Garden Fence</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/jane-braswell">Jane Braswell</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/fiction">Fiction</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/360/god-is-dead">God Is Dead</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/ronald-f-currie-jr">Ronald F. Currie Jr.</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+									</div>
+			</div>
+		</div>
+	</div>
+	
+
+			<div class="article-related layout-item-large full-bar fill-pattern-light">
+		<div class="layout-item-intro">
+			<h2>Related Selections</h2>
+			<ul class="list-inline list-inline-tight"><li><a href="/topics/childhood" class="xsmall link-alt link-text">Childhood</a></li><li><a href="/topics/parents" class="xsmall link-alt link-text">Parents</a></li><li><a href="/topics/siblings" class="xsmall link-alt link-text">Siblings</a></li><li><a href="/topics/death" class="xsmall link-alt link-text">Death</a></li><li><a href="/topics/fear" class="xsmall link-alt link-text">Fear</a></li></ul>		</div>
+
+		<div class="articles-l2">
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/sun-interview">The Sun Interview</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/112/cosmic-blues">Cosmic Blues</a></h3>
+					<p class="block-content-subtitle subtitle">A Reluctant Interview With Emmanuel</p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/howard-jay-rubin">Howard Jay Rubin</a></li><li><a href="/issues/112">March 1985</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/112" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 725'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/141x182r/import/issue/112.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/281x364r/import/issue/112.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/109/proximity">Proximity</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/kay-johnson">Kay Johnson</a></li><li><a href="/issues/109">December 1984</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/109" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 725'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/141x182r/import/issue/109.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/281x364r/import/issue/109.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/sun-interview">The Sun Interview</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/82/seeing-the-gift">Seeing the Gift</a></h3>
+					<p class="block-content-subtitle subtitle">An Interview With Hugh Prather</p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/sy-safransky">Sy Safransky</a></li><li><a href="/issues/82">September 1982</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/82" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 725'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/141x182r/import/issue/082.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/281x364r/import/issue/082.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/fiction">Fiction</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/43/when-it-is-right-with-the-world">When It Is Right With The World</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/viola-prune">Viola Prune</a></li><li><a href="/issues/43">March 1979</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/43" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 528 728'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/132x182r/import/issue/043.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/264x364r/import/issue/043.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+					</div>
+	</div>
+	
+	
+					<form id="newsletterForm" method="post" action="https://www.thesunmagazine.org/newsletter" data-url-send="https://www.thesunmagazine.org/newsletter" class="form form-newsletter fill-grey" enctype="multipart/form-data" target="_blank">
+
+
+
+		<div class="form-newsletter-intro">
+			<h3 class="alt-ff large">Sign Up For Our Newsletter</h3>
+			<p>We’ll let you know about new website selections, upcoming events, special offers, and more.</p>
+		</div>
+
+		<ul class="form-newsletter-fields form-fields form-fields-inline">
+			<li>
+				<input name="name" type="text" maxlength="500" id="name" placeholder="Your Name">
+			</li>
+			<li>
+				<input name="email" type="text" maxlength="500" id="email" placeholder="Your E-mail">
+			</li>
+
+			<li class="form-fields-inline-button">
+				<button disabled="disabled" class="form-newsletter-send b b-4 b-padding-tight b-loading g-recaptcha" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs" data-callback="recaptcha_callback" name="SubmitButton" id="SubmitButton">
+					<svg><use xlink:href="#i-loading"></use></svg>
+					Sign&nbsp;Up
+				</button>
+			</li>
+		</ul>
+	</form>
+	<script id="hiddenlpsubmitdiv" style="display: none;"></script>
+
+
+
+<footer class="footer brand-grey-dark">
+			<div class="footer-first">
+		<h3 class="footer-tagline">Independent, Reader-Supported Publishing</h3>
+		<p class="footer-desc">In each issue of <em>The Sun</em> you’ll find some of the most radically intimate and socially conscious writing being published today. In an age of media conglomerates, we’re something of an oddity: an ad-free, independent, reader-supported magazine.</p>
+		<ul class="footer-nav list-inline-border xsmall">
+			
+		<li class=" first">
+			<a href="https://www.thesunmagazine.org/about" 	   class=''>
+	   About <em>the Sun</em>	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/staff" 	   class=''>
+	   Staff	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/find-the-sun" 	   class=''>
+	   Find <em>The Sun</em>&nbsp;&nbsp;in a Store Near You	</a>
+		
+	</li>
+
+
+		</ul>
+	</div>
+	
+		<div class="footer-second">
+		<ul class="footer-second-social list-inline">
+			<li><a href="https://www.facebook.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-facebook"></use></svg></span> Like Us</a></li>
+			<li><a href="https://twitter.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-twitter"></use></svg></span> Follow Us</a></li>
+			<li><a href="https://instagram.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-instagram"></use></svg></span> Take a Look</a></li>
+		</ul>
+
+		<div class="footer-second-content">
+			<ul class="footer-nav list-inline-border xsmall">
+				
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/" 	   class='current '>
+	   Home	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/privacy-policy" 	   class=''>
+	   Privacy Policy	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/terms-of-use" 	   class=''>
+	   Terms of Use	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/site-map" 	   class=''>
+	   Site Map	</a>
+		
+	</li>
+
+
+			</ul>
+			<p class="footer-copyright xxsmall">Copyright &copy; 1974–2020 <em>The Sun</em>. All rights reserved.</p>
+		</div>
+	</div>
+</footer>
+
+
+
+<div class="offset-nav">
+	<ul>
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/read" 	   class='current '>
+	   Read	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/issues/current" 	   class=''>
+	   Current Issue	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/archives" 	   class=''>
+	   Archives	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/featured" 	   class=''>
+	   Featured Selections	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/topics" 	   class=''>
+	   Browse Topics	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/sections" 	   class=''>
+	   Browse Sections	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/connect" 	   class=''>
+	   Connect	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/news" 	   class=''>
+	   News from <em>The Sun</em>	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" 	   class=''>
+	   Write a Letter to the Editor	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/discussion-groups" 	   class=''>
+	   Discussion & Writing Groups	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/make-a-suggestion" 	   class=''>
+	   Make a Suggestion	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/submit" 	   class=''>
+	   Submit	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/shop" 	   class=''>
+	   Shop	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/giftsub" 	   class=''>
+	   Gift Subscriptions	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/issues" 	   class=''>
+	   Issues	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+											
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/donatemenu" 	   class='highlight'>
+	   Donate	</a>
+		
+	</li>
+
+		<li class=" last">
+														<a href="/SubscribeNav1" 					   class=''>
+						Subscribe					</a>
+									
+	</li>
+
+
+					<li>
+				<a href="https://www.thesunmagazine.org/shop/cart">Cart ( <span class="cart-item-count">  0  </span>)</a>
+			</li>
+			<li><a href="https://www.thesunmagazine.org/subscriber/login" class="link-header-logout link-alt">Sign In</a></li>
+			</ul>
+	<ul>
+		<li class=" first">
+			<a href="https://www.thesunmagazine.org/about" 	   class=''>
+	   About <em>the Sun</em>	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/staff" 	   class=''>
+	   Staff	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/find-the-sun" 	   class=''>
+	   Find <em>The Sun</em>&nbsp;&nbsp;in a Store Near You	</a>
+		
+	</li>
+
+</ul>
+	<ul>
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/" 	   class='current '>
+	   Home	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/privacy-policy" 	   class=''>
+	   Privacy Policy	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/terms-of-use" 	   class=''>
+	   Terms of Use	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/site-map" 	   class=''>
+	   Site Map	</a>
+		
+	</li>
+
+</ul>
+</div>
+
+<div id="buy-popup-message" class="buy-popup mfp-hide white-popup white-popup-block">
+	<a class="popup-modal-dismiss" href="#"></a>
+	<h5>Due to fulfillment challenges related to the novel coronavirus, print copies are temporarily unavailable for individual sale. We are offering free PDFs until we are able to resume print sales.</h5>
+	<p>Enter your e-mail address below to download this issue.</p>
+	<form method="post" id="download-single" action="https://www.thesunmagazine.org/issue/pdfFree/531.pdf">
+		<label for="email"><span class="label-text">E-mail</span><span class="label-asterisk">*</span></label>
+		<input class="buy-single-email" id="email" type="email" name="email">
+		<button type="send" class="form-buy-issue-send b b-3 b-padding-tight b-loading">Send</button>
+		<button class="form-buy-issue-download b b-3 b-padding-tight b-loading">Download pdf</button>
+		<button type="send" class="popup-modal-dismiss b b-2 b-padding-tight b-loading">Close</button>
+		<div class="g-recaptcha" style="text-align: center" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs"></div>
+
+	</form>
+</div>
+
+			<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/plugins.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/site.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/newsletter.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/js/articles.js"></script>
+		</div>
+		</div>
+
+				<script>
+		(function (doc) {
+			var scripts = doc.getElementsByTagName('script');
+			var script = scripts[scripts.length - 1];
+			var xhr = new XMLHttpRequest();
+			xhr.onload = function () {
+				var div = doc.createElement('div');
+				div.innerHTML = this.responseText;
+				div.style.display = 'none';
+				script.parentNode.insertBefore(div, script);
+			}
+			xhr.open('get', '/theme/thesun//assets/build/img/sprite/sprite.svg', true);
+			xhr.send();
+		})(document);
+
+
+
+		</script>
+
+		<script>
+			// Submit function
+            function recaptcha_callback() {
+						var getUrl = $('.form-newsletter').data( "url-send" ),
+							getName = $('input#name').val(),
+							getEmail = $('input#email').val();
+						$.ajax({
+								type: "POST",
+								url: getUrl,
+								data: {
+									name: getName,
+									email: getEmail,
+									grecaptcharesponse: grecaptcha.getResponse()
+								}
+							}).done(function(response) {
+								console.log(response);
+									$('.form-fields').fadeOut(800, function () {
+										$('.form-fields').empty().append('<div class="newsletter-confirm-message">Thank you for signing up to receive news from <em>The Sun</em>. Your first newsletter will arrive soon.<div>').fadeIn(800);
+									});
+							});
+			}
+
+		</script>
+
+		<script>
+			function getUrlCode() {
+				var url_string = window.location.href;
+				var url = new URL(url_string);
+				var c = url.searchParams.get('promotion\_key');
+				if (typeof c !== 'undefined' && c !== null) {
+					setCookie("promotion_code",c);
+				}
+			}
+
+			function setCookie(cname, cvalue) {
+				document.cookie = cname + "=" + cvalue + ";" + "path=/";
+			}
+
+			function getCookie(cname) {
+				var name = cname + "=";
+				var decodedCookie = decodeURIComponent(document.cookie);
+				var ca = decodedCookie.split(';');
+				for(var i = 0; i <ca.length; i++) {
+					var c = ca[i];
+					while (c.charAt(0) == ' ') {
+						c = c.substring(1);
+					}
+					if (c.indexOf(name) == 0) {
+						return c.substring(name.length, c.length);
+					}
+				}
+				return "";
+			}
+			window.addEventListener( "load", getUrlCode );
+		</script>
+
+
+	</body>
+</html>

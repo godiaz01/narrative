@@ -1,0 +1,1282 @@
+
+<!DOCTYPE html>
+<html class="no-js" lang="en-US">
+	<head>
+		<title>The Curtain - The Sun Magazine</title>
+
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		
+		<meta name="viewport" content="width=device-width, minimum-scale=1.0">
+
+		<link rel="dns-prefetch" href="//ajax.googleapis.com">
+		<link rel="dns-prefetch" href="//use.typekit.net">
+		
+		<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/modernizr.js"></script>
+		<script src="https://www.google.com/recaptcha/api.js"
+				async defer>
+		</script>
+
+		<script>(function(d) { var config = { kitId: 'kzw7ebk', scriptTimeout: 3000, async: true }, h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s) })(document);</script>
+
+
+				
+		<link rel="apple-touch-icon" sizes="57x57" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-57x57.png?v=2016">
+		<link rel="apple-touch-icon" sizes="60x60" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-60x60.png?v=2016">
+		<link rel="apple-touch-icon" sizes="72x72" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-72x72.png?v=2016">
+		<link rel="apple-touch-icon" sizes="76x76" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-76x76.png?v=2016">
+		<link rel="apple-touch-icon" sizes="114x114" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-114x114.png?v=2016">
+		<link rel="apple-touch-icon" sizes="120x120" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-120x120.png?v=2016">
+		<link rel="apple-touch-icon" sizes="144x144" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-144x144.png?v=2016">
+		<link rel="apple-touch-icon" sizes="152x152" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-152x152.png?v=2016">
+		<link rel="apple-touch-icon" sizes="180x180" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-180x180.png?v=2016">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-32x32.png?v=2016" sizes="32x32">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/android-chrome-192x192.png?v=2016" sizes="192x192">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-96x96.png?v=2016" sizes="96x96">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-16x16.png?v=2016" sizes="16x16">
+		<link rel="mask-icon" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/safari-pinned-tab.svg?v=2016" color="#444444">
+		<link rel="shortcut icon" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon.ico?v=2016">
+		<meta name="apple-mobile-web-app-title" content="The Sun Magazine">
+		<meta name="application-name" content="The Sun Magazine">
+		<meta name="msapplication-TileColor" content="#fcc330">
+		<meta name="msapplication-TileImage" content="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/mstile-144x144.png?v=2016">
+		<meta name="theme-color" content="#ffffff">
+
+				<link rel="stylesheet" type="text/css" href="https://cloud.typography.com/6578674/659928/css/fonts.css" />
+		<link rel="stylesheet" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/css/style.css">
+
+																		<meta property="og:site_name" content="The Sun Magazine">
+		<meta property="og:type" content="article">
+		<meta property="og:url" content="https://www.thesunmagazine.org/issues/407/the-curtain">
+		<meta property="og:image" content="http://www.thesunmagazine.org/files/2016-09/407-12-goldfarb-preview.jpg">
+		<meta property="og:title" content="The Curtain - The Sun Magazine">
+		<meta property="og:description" content="The color of the hospital curtain dividing the room changes with the light. If our neighbor by the window keeps the blinds open, the cloth that divides the room is a sea green riddled with purple. If the neighbor likes it dim, the curtain becomes the mottled color of a bruise just before it heals. When we have no neighbor, we push the curtain back so we can see the view of the black-papered roof.">
+		<meta property="fb:app_id" content="158741778010551">
+
+						<link rel="image_src" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.comhttp://www.thesunmagazine.org/files/2016-09/407-12-goldfarb-preview.jpg">
+
+												<meta name="twitter:card" content="summary">
+		<meta name="twitter:title" content="The Curtain - The Sun Magazine">
+		<meta name="twitter:description" content="The color of the hospital curtain dividing the room changes with the light. If our neighbor by the window keeps the blinds open, the cloth that divides the room is a sea green riddled with purple. If the neighbor likes it dim, the curtain becomes the mottled color of a bruise just before it heals. When we have no neighbor, we push the curtain back so we can see the view of the black-papered roof.">
+		<meta name="twitter:image" content="http://www.thesunmagazine.org/files/2016-09/407-12-goldfarb-preview.jpg">
+		<meta name="twitter:site" content="@thesunmagazine">
+
+				<link rel="publisher" href="https://plus.google.com/113792980827145858211">
+        
+		<meta name="Description" content="The color of the hospital curtain dividing the room changes with the light. If our neighbor by the window keeps the blinds open, the cloth that divides the room is a sea green riddled with purple. If the neighbor likes it dim, the curtain becomes the mottled color of a bruise just before it heals. When we have no neighbor, we push the curtain back so we can see the view of the black-papered roof.">
+
+		
+		<!-- Google Tag Manager -->
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-TKBHCCG');</script>
+		<!-- End Google Tag Manager -->
+
+		<!-- Google Analytics -->
+		<script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+            ga('create', 'UA-2351127-1', 'auto');  // Replace with your property ID.
+            ga('send', 'pageview');
+            ga('require', 'ecommerce');   // Load the ecommerce plug-in.
+		</script>
+		<!-- End Google Analytics -->
+	</head>
+	<body id="">
+
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TKBHCCG"
+		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+		<header class="header" data-offset-start="80">
+		<div class="header-utilities">
+				<ul class="header-utilities-user list-inline list-inline-tight xxsmall">
+							<li>
+					<span class="header-utilities-user-intro">Already A Subscriber?</span> &nbsp;
+					<a href="https://www.thesunmagazine.org/subscriber/login" class="link-text link-alt">Sign In</a>
+				</li>
+					</ul>
+		<a href="https://www.thesunmagazine.org/shop/cart" class="header-utilities-cart  link-alt link-icon tiny">
+			<span class="i"><svg><use xlink:href="#i-cart"></use></svg></span>
+			<span class="cart-item-count">
+									0 Items
+				
+			</span>
+		</a>
+			</div>
+
+		<div class="header-bar">
+		<h1 class="header-logo logo">
+			<a href="/">
+				<img src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/img/logo-thesun.svg" class="logo-thesun" alt="The Sun Magazine">
+				<img src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/img/logo-tagline.svg" class="logo-tagline" alt="">
+			</a>
+		</h1>
+
+		<ul class="header-nav">
+			
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/read" 	   class='current '>
+	   Read	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/issues/current" 	   class=''>
+	   Current Issue	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/archives" 	   class=''>
+	   Archives	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/featured" 	   class=''>
+	   Featured Selections	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/topics" 	   class=''>
+	   Browse Topics	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/sections" 	   class=''>
+	   Browse Sections	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/connect" 	   class=''>
+	   Connect	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/news" 	   class=''>
+	   News from <em>The Sun</em>	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" 	   class=''>
+	   Write a Letter to the Editor	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/discussion-groups" 	   class=''>
+	   Discussion & Writing Groups	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/make-a-suggestion" 	   class=''>
+	   Make a Suggestion	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/submit" 	   class=''>
+	   Submit	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/shop" 	   class=''>
+	   Shop	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/giftsub" 	   class=''>
+	   Gift Subscriptions	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/issues" 	   class=''>
+	   Issues	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+											
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/donatemenu" 	   class='highlight'>
+	   Donate	</a>
+		
+	</li>
+
+		<li class=" last">
+														<a href="/SubscribeNav1" 					   class=''>
+						Subscribe					</a>
+									
+	</li>
+
+
+		</ul>
+
+		<button class="header-nav-toggle"><svg><use xlink:href="#i-menu" class="i-menu"></use><use xlink:href="#i-close" class="i-close"></use></svg></button>
+		<button class="header-search-toggle" data-form-wrapper=".header-search"><svg><use xlink:href="#i-magnifier" class="i-magnifier"></use><use xlink:href="#i-close" class="i-close"></use></svg></button>
+	</div>
+
+		<div class="header-search">
+		<div class="header-search-content">
+			<form action="https://www.thesunmagazine.org/search" class="form form-search" method="get">
+				<h2 class="alt-ff brand-link">Search Our 40 Years of Archives</h2>
+				<ul class="form-search-fields form-fields form-fields-inline">
+					<li><input type="text" name="q" value=""></li>
+					<li class="form-fields-inline-button"><button class="b b-1 b-padding-tight b-loading"><svg><use xlink:href="#i-loading"></use></svg>Search</button></li>
+				</ul>
+
+				<div class="header-search-content-shortcuts">
+					<h6 class="search-advanced alt-ff"><a class="js-handle-advanced" href="https://www.thesunmagazine.org/search?advanced=1">Advanced Search</a></h6>
+					<br>
+					<h6 class="alt-ff">Popular Pages</h6>
+					<ul class="list-inline-border list-inline-tight xxsmall"><li class=" first"><a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a></li><li class=""><a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a></li><li class=""><a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a></li><li class=""><a href="https://www.thesunmagazine.org/sections/quotations" 	   class=''>
+	   Quotations	</a></li><li class=""><a href="https://www.thesunmagazine.org/sections/readers-write" 	   class=''>
+	   Readers Write	</a></li><li class=" last"><a href="https://www.thesunmagazine.org/sections/poetry" 	   class=''>
+	   Poetry	</a></li></ul>				</div>
+			</form>
+		</div>
+	</div>
+</header>
+
+	<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+	<script type="text/javascript">
+		$(document).ready(function() {
+			$('.js-handle-advanced').on('click', function (e) {
+				e.preventDefault();
+				var getSearchValue = $('.form-search-fields input').val();
+				var getURL = $(this).attr('href');
+				var newURL = getURL + '&q=' + getSearchValue;
+				window.location.href = newURL;
+			});
+		});
+	</script>
+
+		<div class="container-hidden">
+		<div class="container">
+
+				
+	
+	<article class="article ">
+		<header class="block-content block-content-l1 block-content-center">
+						<div class="block-content-header">
+				<h6 class="b-content-section heading-square"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+				<h1 class="block-content-title">The Curtain</h1>
+
+				
+				<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/maria-hummel">Maria Hummel</a></li><li><a href="/issues/407">November 2009</a></li></ul>
+
+			</div>
+
+																			
+
+				<figure class="block-content-photo block-content-photo-large photo photo-outset-center-large">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 2360 1579'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/1180x1764r/photos/407-12-goldfarb.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/2360x3527r/photos/407-12-goldfarb.jpg
+	 alt="407 - Goldfarb - Hummel"
+	 class="lazy">
+
+										<figcaption>
+
+						
+																				<div class="photo-credit">
+								&copy;&nbsp;<a href="/contributors/anders-goldfarb">Anders Goldfarb</a>
+							</div>
+																		</figcaption>
+									</figure>
+
+					</header>
+
+				<div class="article-body link-text-wrap">
+																		<p class="dropcap">The color of the hospital curtain dividing the room changes with the light. If our neighbor by the window keeps the blinds open, the cloth that divides the room is a sea green riddled with purple. If the neighbor likes it dim, the curtain becomes the mottled color of a bruise just before it heals. When we have no neighbor, we push the curtain back so we can see the view of the black-papered roof. I dance with our sick year-old son across the floor, and my husband kicks off his shoes. Then a nurse comes and tugs the divider back into place: incoming patient. The curtain hangs from metal rings. Jostle it the tiniest bit, and the rings make the sound of ice falling on a frozen lake.</p>
+
+<p>It&rsquo;s lunchtime in room 628-<span class="smallcaps">B</span>. My husband has left for class. On our side of the curtain blood is still spattered on the floor and sheets from when our son&rsquo;s <span class="smallcaps">IV</span> came out. The nurses have taped it back again, but they left the mopping up and the consoling to me. Bowie takes a shuddering breath. His tubes against my neck, he hugs me hard, as if trying to climb into my body. I stroke his blond head and whisper my useless apologies.</p>
+
+<p>On the other side a mother and father and their sick daughter, Katie, are watching <em>The Little Mermaid</em>. Every time the princess Ariel gets a chance to woo her prince, Bowie and I interrupt with another crying spell. I&rsquo;m starting to believe that it is our fault the beautiful mermaid doesn&rsquo;t get her guy, that we are changing the fairy tale into something sad and frantic with our bandages and machines.</p>
+
+<p>I can&rsquo;t keep up with all the procedures. Since arriving at the hospital four days ago, Bowie has had cameras sent up his rectum and down his throat, dozens of <span class="smallcaps">X</span>-rays, an <span class="smallcaps">IV</span> in his leg and one in each arm, a blood transfusion, and a tube up his nose that sprayed water into his stomach for eight hours straight. He has been sedated twice, once with a mask clamped over his mouth and nose. Nurses prick him constantly, filling their vials. He has twenty-three needle scars on his hands and feet.</p>
+
+<p>The dad&rsquo;s chair creaks, and he rises, suggesting pizza in a loud voice. He wants to do something for his family. He also wants to leave. Everybody wants to leave this room, a white square barely larger than the average kitchen and stuffed with two of everything &mdash; <span class="smallcaps">TV</span>s, phones, <span class="smallcaps">IV</span> machines, food trays, chairs, beds &mdash; all divided evenly by the curtain. The only single features are the sink and the window, and both are barricaded by personal possessions: we block the running water; our neighbors block the sunlight.</p>
+
+<p>The dad rounds the curtain looking trim, rumpled, ready to go. I don&rsquo;t want him, or anyone else, to see us like this, a long way from a hairbrush and a clean cotton onesie, but there&rsquo;s nowhere to hide. Besides, the dad and I already know each other&rsquo;s stories: our son has thousands of ulcers in his digestive tract; their three-year-old might need a kidney removed. They are polo-and-khaki parents. My husband and I wear black shirts and jeans. They work office jobs. We study and teach.</p>
+
+<p>As the dad passes me, he deliberately doesn&rsquo;t look at the blood on the sheets. &ldquo;I&rsquo;m going across the street,&rdquo; he says. &ldquo;Can I get you something?&rdquo;</p>
+
+<p>I shake my head, patting Bowie&rsquo;s back. &ldquo;It&rsquo;s all right,&rdquo; I say. &ldquo;We ate.&rdquo;</p>
+
+<p>The dad hovers before me, his eyebrows gathered, mouth turned down at the edges. &ldquo;Can I get you <em>anything</em>?&rdquo; he asks.</p>
+
+<p>I shift Bowie to my hip and decline again but with a tremor of gratitude in my voice. The dad gives a little nod, and for a moment we stand so close that he could put his arms around me. Then he turns away, squinting as he passes into the long, bright hall.</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">When he&rsquo;s not being poked or <span class="smallcaps">X</span>-rayed, Bowie likes to sit on my lap outside the cramped room and watch the nurses race by with their clipboards and syringes. He smiles at each nurse until she gives in and grins back. If she doesn&rsquo;t return the smile, his eyes follow her retreating spine, trying to figure out this strange creature who is resistant to his charms.</p>
+
+<p>The healthy Bowie often laughed in his sleep. His pediatrician called him &ldquo;one of those happy babies.&rdquo; He hardly even cried while teething. It took us months to understand that he was actually sick. Now I wonder how we refused to see it: Our friends&rsquo; one-year-olds are already toddling away from their parents; Bowie can barely crawl. They eat toast and crunchy cereal; he chokes when he chews, and his bowel movements are splats of red and green. We&rsquo;re serving time for our failure. Our lives have shrunk to this curtained cell.</p>
+
+<p>By late afternoon the neighbors and I are comrades in the trenches. I share parking tips. The father picks up Bowie&rsquo;s dropped blocks. The mother comes back from the shower room, her freckled face shining, curly hair swept up in a towel. &ldquo;Not bad,&rdquo; she says, sounding relieved. My husband arrives, and for a few hours we are two whole families, the room bursting with us. Nobody tries to hush. The curtain is drawn back against the wall.</p>
+
+<p>Katie&rsquo;s doctors come in. They are still unable to explain her condition but have a few &ldquo;leads.&rdquo; We can hear her parents&rsquo; disappointment, and we decide to escape for a while. My husband tucks Bowie into the strap-on carrier to walk the hospital corridors. On other floors we see the reverse of our situation: elderly parents in beds, their grown children hunched beside them. This is the natural course of things, yet somehow their situation seems sadder than ours with Bowie. Maybe it is the way babies resist being patients. They don&rsquo;t accept that anything is wrong with them. Disease is just another frustrating facet of life. Prick Bowie&rsquo;s arm and he screams, but ten minutes later he&rsquo;s forgotten about it.</p>
+
+<p>Our little neighbor Katie is three, though, and already I see the fear in her. When the nurses come, she starts whimpering, and her mother turns her voice into a fake singsong that nobody believes. It is impossible for her to be this person: the mother-torturer. She is supposed to protect and comfort, but she must embrace procedures that cause her daughter pain. Her miserable bribes echo in my ears as I press the elevator&rsquo;s <span class="smallcaps">UP</span> button:</p>
+
+<p>&ldquo;Drink your milk, Katie, so you can go home.&rdquo;</p>
+
+<p>&ldquo;Let the nurses take your temperature, Katie, and we&rsquo;ll get to go home.&rdquo;</p>
+
+<p>&ldquo;Eat this, Katie. You want to go home, don&rsquo;t you?&rdquo;</p>
+
+<p>Saint Augustine writes, &ldquo;The difference is not in what people suffer, but in the way they suffer.&rdquo; In the same fire, he says, gold glows and straw smokes.</p>
+
+<p>If you took a poll among the parents here, most would say they are straw. Or maybe we are both gold and straw; the distance between the two is so thin.</p>
+
+<p>The elevator thumps to a halt. We exit on our floor and pass the &ldquo;treatment room.&rdquo; Inside is where nurses restrain babies in sheets and draw blood or give injections, sending big metal needles into little arms and legs. Bowie&rsquo;s eyes slide over its windowless door. He doesn&rsquo;t recall screaming in there for an hour yesterday while the nurses tried to find a vein. But Katie is old enough to remember. Katie must feel terror every time she approaches this place.</p>
+
+<p>By nightfall my sympathy for the neighbors has reached a new peak. My job is hard, but their jobs are even harder. We draw the curtain again and go to bed: the children in their cribs; Katie&rsquo;s mother and I on our hard cots. We murmur, &ldquo;Good night,&rdquo; out of courtesy and dim the lights.</p>
+
+<p>Five minutes pass before the snoring begins. At first it sounds like a light breeze picking up outside the window. I press my head into my pillow. <em>I can bear this</em>, I think. Then the snoring grows louder, snorting and popping like a defective bottle rocket. I pull the thin hospital blanket over my head.</p>
+
+<p>Katie&rsquo;s <span class="smallcaps">IV</span> monitor starts beeping, indicating a problem with the machine. The noise sounds like the door chime to a convenience store: <em>Ding-deeng. Ding-deeng.</em> The mother snoozes on, protected by her snoring. I punch the call button and hiss into the intercom. The nurse comes to fiddle with the <span class="smallcaps">IV</span> machine, and her presence startles the mother from sleep. I hear her weary mumble. The nurse leaves, and for a few blessed minutes there is silence. Then the nasal sonata begins again.</p>
+
+<p>All night we go through this routine: the snores, the alarm, the nurse. Miraculously none of this disturbs Bowie, but I feel as if I am contracting a disease that jolts me awake every time my eyelids settle and my breathing slows. The sounds enter my dreams: A rush of wind, a door chime ringing. <em>Hello? Hello? Who&rsquo;s out there in the dark? I can&rsquo;t see you. Please, don&rsquo;t come in. Leave us alone.</em></p>
+
+<p>By morning I need the outside world. Badly. I need to bring air into this cave of sad mothers. I call my father on the cellphone, and his familiar baritone cheers me. For thirty-five years I have leaned on that voice for comfort and security. I tell him that we will do more tests to rule out allergies, parasites, and infection. Bowie continues to have loose, bloody stools, and he&rsquo;s losing weight, but he is not in pain, and this lack of pain puzzles everyone. My father combs over the facts we already know, searching for some overlooked clue. I list some other possibilities &mdash; Crohn&rsquo;s disease, ulcerative colitis &mdash; though these conditions rarely strike a child as young as Bowie. My son sits on my lap, warm and quiet, while we chat. I turn the pages of a book for him. When he needs a diaper change, I ask my father to call back in a few minutes and on the room phone. I still want to talk.</p>
+
+<p>As I&rsquo;m hanging up, the doctors arrive, rubbing their hands with disinfectant. Tall and good-looking, all of them, they stream over to the neighbors&rsquo; side to relate findings as disappointing as the ones they delivered yesterday.</p>
+
+<p>The room phone rings; it&rsquo;s on the other side of the curtain.</p>
+
+<p>&ldquo;Oh, these people,&rdquo; Katie&rsquo;s mother says, as if the whole world has been calling her all morning. (In fact she has received just one call, from her mother-in-law. I heard the entire strained exchange.) Now she picks up the receiver, snarls something into it, and slams it down.</p>
+
+<p>It takes me a few minutes to realize the caller must have been my dad. I call him back on my cell.</p>
+
+<p>&ldquo;The room number doesn&rsquo;t work,&rdquo; he says with a note of frustration. He&rsquo;s worried he has done something wrong, but this situation is not his fault. The mother hung up on my father because, consciously or not, she didn&rsquo;t want to hear me talking. Something unbuckles inside my tired, cranky body. I don&rsquo;t recognize the feeling at first, but it&rsquo;s deep and glorious. Then a salty taste fills my mouth, and I know: I hate the mother. Oh, God, how I hate her.</p>
+
+<p>I seethe all morning. As I change Bowie&rsquo;s bloody diapers, I fantasize about a giant, snoring nose sucking the mother up into it. <em>Sorry</em>, I say, <em>you should have asked who was calling.</em> As I play peekaboo through the crib bars, I imagine a cartoon tsunami sweeping her and her daughter and <em>The Little Mermaid</em> away. I don&rsquo;t want a neighbor. I want to look out the window she always keeps covered and use the bathroom without passing her bed and giving an apologetic smile.</p>
+
+<p>I make plans for my husband to take my place the next night. &ldquo;It&rsquo;s not that bad,&rdquo; I lie. I say I need time for my schoolwork, but really I just want to go. I want to go anywhere, to be the person stepping across the threshold. When my husband arrives, wearing clean clothes and smelling of the damp spring air, I hand Bowie over and practically bolt from the room: the cowardly mom, desperate to walk alone to the steamy cafeteria, to choose some vanilla ice cream from the cooler and wolf it down, to make a decision that is mine alone. I feel naked being by myself like this, without a baby or neighbors or nurses asking something of me. My shoulders slump. My ears ring. I look around to see if anyone is staring. What do I look like? I haven&rsquo;t glanced in a mirror in days.</p>
+
+<p>I am both giddy and heartbroken as I return to the room and pack my bag for the night. It seems impossible that I am leaving without my husband and my son. As I stand in the doorway, holding my coat, they look at me with identical pairs of blue eyes, my son&rsquo;s arms hooked to tubes that poke from his hospital johnny. When I gave birth, I expected the usual conflicts about bedtime and toys, the tussles for power at meals, but I didn&rsquo;t know I would face this fight within myself: the mother who would never leave her baby versus the mother who cannot bear it anymore. The one who says, <em>You are the person who gave him life</em>, pitted against the one who replies, <em>But his breath smells like an open wound.</em></p>
+
+<p>I hold the steering wheel so tight my palms hurt as I make the dark drive through the San Francisco hills, from the peak where the medical complex looms to the low slopes of our neighborhood. At home in our cold, silent apartment with our baby&rsquo;s empty crib and highchair, I find these rooms are places of waiting, too. But at least the mother on the other side of the curtain has not followed me here. I curl up in our bed and sleep soundly.</p>
+
+<p>My husband does not. Three hours into the night he buzzes the nurses and asks for earplugs. He yells out, &ldquo;Snore!&rdquo; hoping to startle our neighbor out of her crescendo. He requests a delivery of BreatheRight strips. None of it has any effect. We will laugh about this later. We will go into hysterics about one particularly delirious moment, when he suggests to a nurse that she construct a &ldquo;snore helmet&rdquo; out of a green plastic cafeteria bowl, gauze, and medical tape. He will not recall if this helmet was meant for him or for our neighbor.</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">Bowie swallows barium and lies under the menacing beige eye of the <span class="smallcaps">X</span>-ray. He rides into the giant doughnut of the <span class="smallcaps">CT</span> scan. The tests all come back negative for allergies, infection, and parasites. &ldquo;Maybe he swallowed a battery,&rdquo; a friend suggests, and I almost choke imagining a double-<span class="smallcaps">A</span> sliding down Bowie&rsquo;s small throat. It&rsquo;s as good an explanation as any.</p>
+
+<p>As the mystery grows, the procedures begin to take on the air of ancient religious rituals: flashing lights and symbols I don&rsquo;t know how to read; doctors watching them, nodding and frowning. They all call me by my title, just as they do Katie&rsquo;s mother, and every other mother here:</p>
+
+<p>&ldquo;Keep his arms still, Mom.&rdquo;</p>
+
+<p>&ldquo;Don&rsquo;t let him tear the tape, Mom.&rdquo;</p>
+
+<p>&ldquo;You sit here and hold him between your legs, Mom. When he passes out, you can step away.&rdquo;</p>
+
+<p>I do what I&rsquo;m told. I hold. I restrain. I wear a blue lead apron.</p>
+
+<p>&ldquo;Sing something, Mom.&rdquo;</p>
+
+<p>I warble a song about a tiny alpine flower. Bowie&rsquo;s face is beet red and slick with tears. He screams so loud I can&rsquo;t actually hear my own words, but I feel my mouth saying them: <em>Small and white, clean and bright, you look happy to meet me.</em></p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">There&rsquo;s a pantry for the families on our ward. Every morning somebody fills it with snacks: apple and orange juice, saltines, graham crackers, peanut butter, pudding, popsicles, ice cream. Every evening these supplies have been obliterated, the cupboards stripped down to the salt packets and plastic knives.</p>
+
+<p>Our hall has thirty-eight beds. Half the patients are babies, and a good percentage of the other half can&rsquo;t stand up. This means the pantry raiders must be family members: a few siblings, maybe, but mostly mothers like me. I confess I have eaten up to five pudding cups a day since my arrival. It takes about half a minute to finish one. Lately I&rsquo;ve begun to hate the pudding just a few bites in. Whoever came up with the idea of boiling milk and sugar to the texture of mucus?</p>
+
+<p>One day, as I fling my little plastic cup into the trash and tomahawk the spoon after it, another mother walks into the pantry. Everything about her is pragmatic, unadorned: flat chest, bluejeans, cotton shirt. We&rsquo;ve seen each other in the hall but never talked. Her name is Jeanine, and her son Damian has been here so long his door is a shaggy forest of cards and paintings. Damian&rsquo;s a teenager and spends most of the time upright in bed, curled on his side, his dark head aimed away from the door. His posture makes me think of a heron strapped to an airline seat.</p>
+
+<p>&ldquo;Do you know when you&rsquo;re getting out of here?&rdquo; Jeanine asks me.</p>
+
+<p>I shake my head. &ldquo;You?&rdquo;</p>
+
+<p>Jeanine talks so fast it&rsquo;s hard to know where her sentences begin and end. She introduces herself; expresses concern for my son; explains her son&rsquo;s own gastrointestinal problems (puking since birth) and their connection to a major hormonal glitch; mentions that she switched doctors; and lists her other children, some biological and some not. I have watched Jeanine corner other people this way, and I feel my face developing the same look of dazed sympathy I&rsquo;ve seen on them. I want to hug her tightly; I want to slap her cheek. Her voice never dips below the octave of hysteria, yet the longer she goes on, the more I start nodding. I don&rsquo;t have to see the bright side with Jeanine. I don&rsquo;t have to end my sentences with &ldquo;but I&rsquo;m sure they&rsquo;ll find out what&rsquo;s wrong with him&rdquo; or &ldquo;but I know he&rsquo;ll get through this.&rdquo; Something has been wrong with her son Damian for thirteen years. He has a tube running from his mouth to his small intestine. He&rsquo;s on five milligrams of morphine every two hours, his headaches are so bad.</p>
+
+<p>&ldquo;I listen to what a specialist in pediatric pain control told me a couple of years ago,&rdquo; Jeanine says. &ldquo;Have you heard of Dr. Roth? He is <em>wonderful</em>. I don&rsquo;t listen to anyone but him.&rdquo; Her fingers sweep the rest of the world&rsquo;s doctors from the air in front of her. &ldquo;He said Damian can&rsquo;t get addicted at this age. <em>Kids</em> can&rsquo;t get addicted.&rdquo;</p>
+
+<p><em>Damian won&rsquo;t be a kid much longer</em>, I think. Yet what choice does Jeanine have except to minimize her child&rsquo;s suffering? My calves begin to ache the way they did when I worked as a cashier at the <span class="smallcaps">A&amp;P</span>, standing for hours and sliding people&rsquo;s items down the belt. I open the pantry fridge again, even though I know there is nothing in there. Cold air wheezes out when I shut the door.</p>
+
+<p>&ldquo;I have to get back to my son,&rdquo; I say, suddenly so lonely I could sob.</p>
+
+<p>&ldquo;They should put people like us in rooms together,&rdquo; Jeanine says warmly. &ldquo;People with the same problems.&rdquo;</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">&ldquo;What color is the heart on your balloon?&rdquo; Katie&rsquo;s grandmother asks her. Grandma has come to visit with a big, bear-shaped balloon in tow. The bear wears his perfect valentine heart on the outside of his body. &ldquo;What color is the heart, sweetie?&rdquo;</p>
+
+<p>There&rsquo;s a silence, and then a very small voice says, &ldquo;Bwoo.&rdquo;</p>
+
+<p>&ldquo;That&rsquo;s right, blue. Did you hear her?&rdquo; Grandma says to the mother. &ldquo;She said, &lsquo;Blue.&rsquo;&nbsp;&rdquo;</p>
+
+<p><em>Blue</em> is the only word I have ever heard Katie say aloud. Apparently there is not much for a three-year-old to comment on in this dismal hospital. The blue-hearted bear floats above the curtain between us all day. It rubs the ceiling, wanting to go higher. Something about it makes me feel sorry again for Katie&rsquo;s mother. Spoons clatter on the other side of the curtain as she coaxes her daughter to eat. &ldquo;One more bite, Katie, so you can go home.&rdquo;</p>
+
+<p><em>Home</em> isn&rsquo;t really the point, but it&rsquo;s something achievable. If we can get back there, we might wake in our own beds, open our eyes again to the ordinary landslide of dirty socks and dishes, the little bodies that need hugging or wiping or feeding, the scattered toys, the crayon scrawls across the wall, the smudged windowpanes. One day we might see our children running past those windows, across the grass outside.</p>
+
+<p>At home we always have too much to do. I never before realized that this is a cause for joy.</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">Katie&rsquo;s dad and I catch the same elevator up to the room one afternoon, stepping together into the carpeted gray box. We exchange a quick greeting as the door closes.</p>
+
+<p>&ldquo;I just hope we get a diagnosis soon,&rdquo; he says, punching the button for our floor. &ldquo;Don&rsquo;t you?&rdquo;</p>
+
+<p>The question leaves me confused. What if the diagnosis is something incurable? What if it requires surgeons slicing into Bowie, or chemotherapy, or living at the hospital? What if it causes brain damage, developmental delays? What if it means my husband and I can&rsquo;t have any other children because our combined genes made this happen?</p>
+
+<p>I stare down at my neighbor&rsquo;s smudged white sneakers. &ldquo;I guess so,&rdquo; I say.</p>
+
+<p>His eyes narrow, as if he suspects me of deserting our common trench. &ldquo;Well, I&rsquo;d sure like to find out,&rdquo; he mutters.</p>
+
+<p>I nod, but I barely hear him. I barely hear anything these days but the aggravated cries of my son. A diagnosis would not make his pain, or the pain of any of these children, more fathomable to me.</p>
+
+<p>We reach our floor. The doors swoosh open, and we walk together down the pink hallway, past a light blue painting of a train. I understand that Katie&rsquo;s father wants his healthy daughter back, as I want my healthy son back, away from this place of uncertainty and pain, but my mind is too cloudy to find the words to say so. So I ask him if he knows about the fridge full of pudding and popsicles.</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">After a week the doctors have run out of scans and scopes, and they discharge us to wait for more vague results. My husband and I pack clothes, toys, books, and medicines into giant yellow plastic bags the nurse provides. Somehow it seems there is more of us than when we arrived. We may still be only a three-person family, but we take up more space now, lugging our possessions, Bowie riding along with his scarred arms, his ready smile. We can barely fit it all in the car.</p>
+
+<p>Katie and her parents left yesterday with a diagnosis and a prescription. They vanished while Bowie was getting a new <span class="smallcaps">IV </span>put in, but they&rsquo;d told us that morning that Katie wouldn&rsquo;t need the kidney operation; her infection was treatable. <em>Treatable.</em> It never struck me as a lovely word until I heard it falling from the mother&rsquo;s lips.</p>
+
+<p>Her relief lurks in my mind as we drive the long way back to our house, over Twin Peaks, one of the highest points in San Francisco. We circle the two bald golden mounds with their grand views of the city and the bay. I can&rsquo;t look down right now, so I look up over the hills, suddenly desperate for any omen of our future. I hope for a hawk, like the one I saw once, balanced on an upward gust, utterly still against the force bearing into it. But the sky is white and empty. We begin to descend. What will happen to us now? How do we go on? How does anyone go on living with the mystery of suffering? I look back at our son, his face as round as a clock and washed with light. Then I look ahead again and let my eyes see the streets, the houses, all the doors shutting and opening. Somewhere below us Katie is home.</p>
+														</div>
+
+
+				
+<div class="sharing-bar article-sharing">
+	<div class="sharing-bar-first">
+		<a href="javascript:window.print();" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-printer"></use></svg> <span>Print</span></a>
+	</div>
+
+	<div class="sharing-bar-second">
+		<span class="alt-ff xsmall">Share:</span>
+		<a href="https://www.facebook.com/sharer/sharer.php?u=https://www.thesunmagazine.org/issues/407/the-curtain" target="_blank" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-facebook"></use></svg> <span>Facebook</span></a>
+		<a href="https://twitter.com/share?url=https://www.thesunmagazine.org/issues/407/the-curtain&amp;via=thesunmagazine" target="_blank" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-twitter"></use></svg> <span>Twitter</span></a>
+		<a href="#" class="b b-1 b-padding-tight xsmall js-toggle-mail-form"><svg><use xlink:href="#i-email"></use></svg> <span>Email</span></a>
+	</div>
+</div>
+
+<div class="send-to-friend-message-container">
+	<div class="alert alert-success xsmall">Thank you for sharing <em>The Sun</em>.</div>
+</div>
+
+<form method="post" action="/ajax/articles/send-to-a-friend" class="form fill-grey send-to-friend-form">
+		<input type="hidden" id="form_url" name="form[url]" value="https://www.thesunmagazine.org/issues/407/the-curtain" />
+
+	<ul class="form-fields">
+		<li><label for="form_sender_name"><span class="label-text">Your Full Name</span><span class="label-asterisk">*</span></label><input type="text" id="form_sender_name" name="form[sender_name]" required="required" /></li>
+		<li><label for="form_sender_email"><span class="label-text">Your Email Address</span><span class="label-asterisk">*</span></label><input type="email" id="form_sender_email" name="form[sender_email]" required="required" /></li>
+		<li><label for="form_recipient_name"><span class="label-text">Friend’s Name</span><span class="label-asterisk">*</span></label><input type="text" id="form_recipient_name" name="form[recipient_name]" required="required" /></li>
+		<li><label for="form_recipient_email"><span class="label-text">Friend’s Email Address</span><span class="label-asterisk">*</span></label><input type="email" id="form_recipient_email" name="form[recipient_email]" required="required" /></li>
+		<li><label for="form_message"><span class="label-text">Personalized Message</span></label><textarea id="form_message" name="form[message]"></textarea></li>
+	</ul>
+<div class="send-to-friend-message-container">
+	<div class="alert alert-error xsmall">Something went wrong. Please try again.</div>
+</div>
+
+<div class="g-recaptcha" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs"></div>
+<div class="form-actions"><button type="submit" id="form_submit" name="form[submit]"	class="form-actions-b-primary b b-1 b-loading xsmall"><svg><use xlink:href="#i-loading"></use></svg>
+		Submit
+	</button></div>
+<input type="hidden" id="form__token" name="form[_token]" value="ebb75797e028a203ed3a2c9d8b3c42e5d2c88879" /></form>
+
+<br>
+
+
+
+										<footer class="article-contributor contributors">
+									
+
+<div class="block-contributor">
+		
+
+		<div class="block-contributor-content">
+		<div class="block-contributor-bio small">
+			<p><strong><span class="smallcaps">Maria Hummel</span></strong> is a Jones Lecturer at Stanford University and lives with her husband and son in San Francisco, near the only natural, aboveground creek in the city. Her writing has appeared in <em>Creative Nonfiction, Literary Mama</em>, and <em>Ploughshares</em>. Her essay in this issue won the 2009 Penelope Niven Creative Nonfiction Award from the Salem College Center for Women Writers.</p><a href="/contributors/maria-hummel" class="block-contributor-link link-alt small">More From This Contributor&nbsp;&#9656;</a>		</div>
+	</div>
+</div>
+
+							</footer>
+						</article>
+
+
+				    <div class="paywall-subscription block-product">
+			<div class="columns">
+			<div class="paywall-banner span3 cta cta-l1">
+				<div class="cta-intro">
+					<h5 class="cta-title alt-ff">One Free Selection Left </h5>
+					<p class="cta-text xsmall"><a class="link-alt" href="https://www.thesunmagazine.org/subscriber/login" data-label="Already a subscriber?">Already a subscriber? Sign in ▸</a><br><br>Read two free selections from <em>The Sun</em> each month.</p>
+				</div>
+			</div>
+			<div class="paywall-banner span9 note note-1 text-center">
+				<h4 class="cta-title alt-ff">Subscribe to <em>The Sun</em> and save 45%</h4>
+				<p class="cta-text xsmall">Subscribers get full access to the current issue and more than 40 years of archives.</p>
+				<a class="b b-1 xsmall cta-trigger"  href="/subscribe1" data-label="Subscribe" data-ctatitle="Subscribe">Subscribe</a>
+			</div>
+		</div>
+
+		<div class="columns">
+			<div class="span12 paywall-cta-bottom">
+				<p>
+					<span class="cta-title-issue">Buy the November 2009 issue for $5.95</span>
+					<span class="xsmall">Order now to get instant access to this issue, and we’ll also send you a print copy.</span>
+					<a class="b b-5 xsmall corona"  href="#" data-product-type="issues" data-id="407" data-label="Order Now ▸">Order Now ▸</a>
+				</p>
+			</div>
+		</div>
+
+		
+
+</div>
+	
+	
+	
+	<div class="spacer"></div>
+	
+
+
+
+		
+		<div class="article-correspondence-cta">
+		<div class="cta cta-l1" data-url="https://www.thesunmagazine.org/letter-to-the-editor">
+			<div class="cta-intro">
+				<h5 class="cta-title alt-ff">Thinking about writing us a letter?</h5>
+				<p class="cta-text">Give in to the temptation. We love getting mail. <br><span class="xsmall">(Of course, we reserve the right to edit.)</span></p>
+			</div>
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" class="cta-button b b-4 b-padding-tight small" data-label="Write Us A Letter!">Write Us A Letter!</a>
+		</div>
+	</div>
+	
+
+			<div class="article-also layout-item-large full-bar fill-grey-mid-light">
+		<div class="layout-item-intro">
+			<h2>Also In This Issue</h2>
+			<a href="/issues/407" class="xsmall link-alt">November 2009&nbsp;&#9656;</a>
+		</div>
+		<div class="issue-articles-l1">
+			<div class="issue-articles-l1-content1">
+				
+<div class="cover cover-l1 block-product">
+	<div>
+							<a href="/issues/407" class="cover-thumb">
+				
+				<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 727'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/import/issue/407.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/561x728r/import/issue/407.jpg
+	 alt=""
+	 class="lazy">
+
+			</a>
+		
+
+													<!-- <a href="/issues/407" data-product-type="issues" data-id="407" data-role="order" class="js-buy-single corona cover-button b b-1 b-full xsmall" data-label="Buy This Issue &#9656;">
+								Buy This Issue&nbsp;&#9656;
+			</a> -->
+			<a href="/issues/407" data-product-type="issues" data-id="407" class="js-buy-single corona cover-button b b-1 b-full xsmall" data-label="Buy This Issue &#9656;">
+								Buy This Issue&nbsp;&#9656;
+			</a>
+					
+					</div>
+</div>
+			</div>
+			<div class="issue-articles-l1-content2">
+				<div class="articles-l3">
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/readers-write">Readers Write</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/407/selling-out-issue-407">Selling Out</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/our-readers">Our Readers</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/poetry">Poetry</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/407/in-the-third-century-bc">In The Third Century B.C.</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/robert-p-cooke">Robert P. Cooke</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/poetry">Poetry</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/407/my-father-s-torso">My Father’s Torso</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/michael-chitwood">Michael Chitwood</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/fundraising-appeal">Fundraising Appeal</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/407/friend-of-the-sun-issue-407">Friend Of <em>The Sun</em></a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/sy-safransky">Sy Safransky</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+									</div>
+			</div>
+		</div>
+	</div>
+	
+
+			<div class="article-related layout-item-large full-bar fill-pattern-light">
+		<div class="layout-item-intro">
+			<h2>Related Selections</h2>
+			<ul class="list-inline list-inline-tight"><li><a href="/topics/parenting" class="xsmall link-alt link-text">Parenting</a></li><li><a href="/topics/healthcare" class="xsmall link-alt link-text">Healthcare</a></li></ul>		</div>
+
+		<div class="articles-l2">
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/poetry">Poetry</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/459/red-tights">Red Tights</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/danusha-lameris">Danusha Laméris</a></li><li><a href="/issues/459">March 2014</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/459" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 727'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/140x182r/import/issue/459.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/import/issue/459.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/readers-write">Readers Write</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/409/narrow-escapes">Narrow Escapes</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/our-readers">Our Readers</a></li><li><a href="/issues/409">January 2010</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/409" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 727'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/140x182r/import/issue/409.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/import/issue/409.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/quotations">Quotations</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/353/sunbeams-353">Sunbeams</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li><a href="/issues/353">May 2005</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/353" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 727'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/140x182r/import/issue/353.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/import/issue/353.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/photography">Photography</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/61/photographs-by-john-rosenthal">Photographs By John Rosenthal</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/john-rosenthal">John Rosenthal</a></li><li><a href="/issues/61">November 1980</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/61" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 725'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/141x182r/import/issue/061.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/281x364r/import/issue/061.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+					</div>
+	</div>
+	
+	
+					<form id="newsletterForm" method="post" action="https://www.thesunmagazine.org/newsletter" data-url-send="https://www.thesunmagazine.org/newsletter" class="form form-newsletter fill-grey" enctype="multipart/form-data" target="_blank">
+
+
+
+		<div class="form-newsletter-intro">
+			<h3 class="alt-ff large">Sign Up For Our Newsletter</h3>
+			<p>We’ll let you know about new website selections, upcoming events, special offers, and more.</p>
+		</div>
+
+		<ul class="form-newsletter-fields form-fields form-fields-inline">
+			<li>
+				<input name="name" type="text" maxlength="500" id="name" placeholder="Your Name">
+			</li>
+			<li>
+				<input name="email" type="text" maxlength="500" id="email" placeholder="Your E-mail">
+			</li>
+
+			<li class="form-fields-inline-button">
+				<button disabled="disabled" class="form-newsletter-send b b-4 b-padding-tight b-loading g-recaptcha" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs" data-callback="recaptcha_callback" name="SubmitButton" id="SubmitButton">
+					<svg><use xlink:href="#i-loading"></use></svg>
+					Sign&nbsp;Up
+				</button>
+			</li>
+		</ul>
+	</form>
+	<script id="hiddenlpsubmitdiv" style="display: none;"></script>
+
+
+
+<footer class="footer brand-grey-dark">
+			<div class="footer-first">
+		<h3 class="footer-tagline">Independent, Reader-Supported Publishing</h3>
+		<p class="footer-desc">In each issue of <em>The Sun</em> you’ll find some of the most radically intimate and socially conscious writing being published today. In an age of media conglomerates, we’re something of an oddity: an ad-free, independent, reader-supported magazine.</p>
+		<ul class="footer-nav list-inline-border xsmall">
+			
+		<li class=" first">
+			<a href="https://www.thesunmagazine.org/about" 	   class=''>
+	   About <em>the Sun</em>	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/staff" 	   class=''>
+	   Staff	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/find-the-sun" 	   class=''>
+	   Find <em>The Sun</em>&nbsp;&nbsp;in a Store Near You	</a>
+		
+	</li>
+
+
+		</ul>
+	</div>
+	
+		<div class="footer-second">
+		<ul class="footer-second-social list-inline">
+			<li><a href="https://www.facebook.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-facebook"></use></svg></span> Like Us</a></li>
+			<li><a href="https://twitter.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-twitter"></use></svg></span> Follow Us</a></li>
+			<li><a href="https://instagram.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-instagram"></use></svg></span> Take a Look</a></li>
+		</ul>
+
+		<div class="footer-second-content">
+			<ul class="footer-nav list-inline-border xsmall">
+				
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/" 	   class='current '>
+	   Home	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/privacy-policy" 	   class=''>
+	   Privacy Policy	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/terms-of-use" 	   class=''>
+	   Terms of Use	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/site-map" 	   class=''>
+	   Site Map	</a>
+		
+	</li>
+
+
+			</ul>
+			<p class="footer-copyright xxsmall">Copyright &copy; 1974–2020 <em>The Sun</em>. All rights reserved.</p>
+		</div>
+	</div>
+</footer>
+
+
+
+<div class="offset-nav">
+	<ul>
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/read" 	   class='current '>
+	   Read	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/issues/current" 	   class=''>
+	   Current Issue	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/archives" 	   class=''>
+	   Archives	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/featured" 	   class=''>
+	   Featured Selections	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/topics" 	   class=''>
+	   Browse Topics	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/sections" 	   class=''>
+	   Browse Sections	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/connect" 	   class=''>
+	   Connect	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/news" 	   class=''>
+	   News from <em>The Sun</em>	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" 	   class=''>
+	   Write a Letter to the Editor	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/discussion-groups" 	   class=''>
+	   Discussion & Writing Groups	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/make-a-suggestion" 	   class=''>
+	   Make a Suggestion	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/submit" 	   class=''>
+	   Submit	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/shop" 	   class=''>
+	   Shop	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/giftsub" 	   class=''>
+	   Gift Subscriptions	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/issues" 	   class=''>
+	   Issues	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+											
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/donatemenu" 	   class='highlight'>
+	   Donate	</a>
+		
+	</li>
+
+		<li class=" last">
+														<a href="/SubscribeNav1" 					   class=''>
+						Subscribe					</a>
+									
+	</li>
+
+
+					<li>
+				<a href="https://www.thesunmagazine.org/shop/cart">Cart ( <span class="cart-item-count">  0  </span>)</a>
+			</li>
+			<li><a href="https://www.thesunmagazine.org/subscriber/login" class="link-header-logout link-alt">Sign In</a></li>
+			</ul>
+	<ul>
+		<li class=" first">
+			<a href="https://www.thesunmagazine.org/about" 	   class=''>
+	   About <em>the Sun</em>	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/staff" 	   class=''>
+	   Staff	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/find-the-sun" 	   class=''>
+	   Find <em>The Sun</em>&nbsp;&nbsp;in a Store Near You	</a>
+		
+	</li>
+
+</ul>
+	<ul>
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/" 	   class='current '>
+	   Home	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/privacy-policy" 	   class=''>
+	   Privacy Policy	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/terms-of-use" 	   class=''>
+	   Terms of Use	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/site-map" 	   class=''>
+	   Site Map	</a>
+		
+	</li>
+
+</ul>
+</div>
+
+<div id="buy-popup-message" class="buy-popup mfp-hide white-popup white-popup-block">
+	<a class="popup-modal-dismiss" href="#"></a>
+	<h5>Due to fulfillment challenges related to the novel coronavirus, print copies are temporarily unavailable for individual sale. We are offering free PDFs until we are able to resume print sales.</h5>
+	<p>Enter your e-mail address below to download this issue.</p>
+	<form method="post" id="download-single" action="https://www.thesunmagazine.org/issue/pdfFree/531.pdf">
+		<label for="email"><span class="label-text">E-mail</span><span class="label-asterisk">*</span></label>
+		<input class="buy-single-email" id="email" type="email" name="email">
+		<button type="send" class="form-buy-issue-send b b-3 b-padding-tight b-loading">Send</button>
+		<button class="form-buy-issue-download b b-3 b-padding-tight b-loading">Download pdf</button>
+		<button type="send" class="popup-modal-dismiss b b-2 b-padding-tight b-loading">Close</button>
+		<div class="g-recaptcha" style="text-align: center" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs"></div>
+
+	</form>
+</div>
+
+			<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/plugins.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/site.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/newsletter.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/js/articles.js"></script>
+		</div>
+		</div>
+
+				<script>
+		(function (doc) {
+			var scripts = doc.getElementsByTagName('script');
+			var script = scripts[scripts.length - 1];
+			var xhr = new XMLHttpRequest();
+			xhr.onload = function () {
+				var div = doc.createElement('div');
+				div.innerHTML = this.responseText;
+				div.style.display = 'none';
+				script.parentNode.insertBefore(div, script);
+			}
+			xhr.open('get', '/theme/thesun//assets/build/img/sprite/sprite.svg', true);
+			xhr.send();
+		})(document);
+
+
+
+		</script>
+
+		<script>
+			// Submit function
+            function recaptcha_callback() {
+						var getUrl = $('.form-newsletter').data( "url-send" ),
+							getName = $('input#name').val(),
+							getEmail = $('input#email').val();
+						$.ajax({
+								type: "POST",
+								url: getUrl,
+								data: {
+									name: getName,
+									email: getEmail,
+									grecaptcharesponse: grecaptcha.getResponse()
+								}
+							}).done(function(response) {
+								console.log(response);
+									$('.form-fields').fadeOut(800, function () {
+										$('.form-fields').empty().append('<div class="newsletter-confirm-message">Thank you for signing up to receive news from <em>The Sun</em>. Your first newsletter will arrive soon.<div>').fadeIn(800);
+									});
+							});
+			}
+
+		</script>
+
+		<script>
+			function getUrlCode() {
+				var url_string = window.location.href;
+				var url = new URL(url_string);
+				var c = url.searchParams.get('promotion\_key');
+				if (typeof c !== 'undefined' && c !== null) {
+					setCookie("promotion_code",c);
+				}
+			}
+
+			function setCookie(cname, cvalue) {
+				document.cookie = cname + "=" + cvalue + ";" + "path=/";
+			}
+
+			function getCookie(cname) {
+				var name = cname + "=";
+				var decodedCookie = decodeURIComponent(document.cookie);
+				var ca = decodedCookie.split(';');
+				for(var i = 0; i <ca.length; i++) {
+					var c = ca[i];
+					while (c.charAt(0) == ' ') {
+						c = c.substring(1);
+					}
+					if (c.indexOf(name) == 0) {
+						return c.substring(name.length, c.length);
+					}
+				}
+				return "";
+			}
+			window.addEventListener( "load", getUrlCode );
+		</script>
+
+
+	</body>
+</html>

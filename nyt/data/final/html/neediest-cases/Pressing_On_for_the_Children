@@ -1,0 +1,337 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Pressing On for the Children - Audio - NYTimes.com</title>
+    <script id="nyt-capsule-data" type="text/json">
+        {
+            "lastTransform": "2018-04-09T12:59:02.528Z",
+            "screenshot": "https://archive.nytimes.com/screenshots/www.nytimes.com/interactive/2013/01/12/nyregion/neediest-oneyearlater-moms.jpg",
+            "isArticleOrInt": true,
+            "isArticle": false,
+            "isInt": true,
+            "hasFlash": true,
+            "severeMixed": true,
+            "warnMixed": true,
+            "hasFrames": false
+        }
+    </script>
+    <script src="https://archive.nytimes.com/_capsule/nyt-capsule.js" type="text/javascript"></script>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="robots" content="noarchive">
+    <meta name="hdl" content="Pressing On for the Children">
+    <meta name="lp" content="As part of the 2012-13 Neediest Cases campaign, The New York Times is catching up with some of the people who were profiled in recent campaigns.">
+    <meta name="dat" content="January 12, 2013">
+    <meta name="DISPLAYDATE" content="January 12, 2013">
+    <meta name="pdate" content="20130112">
+    <meta name="col" content="The Neediest Cases | One Year Later">
+    <meta name="dsk" content="N.Y. / Region">
+    <meta name="cre" content="By Tamara Best/The New York Times">
+    <meta name="tom" content="interactive_feature">
+    <meta name="display-text" content="Audio">
+    <meta name="display-name" content="interactive">
+    <meta name="url_thumb" content="/images/2011/11/13/nyregion/BULL-NEEDIEST/BULL-NEEDIEST-thumbStandard.jpg">
+    <meta name="url_thumb_wide" content="/images/2011/11/13/nyregion/BULL-NEEDIEST/BULL-NEEDIEST-thumbWide.jpg">
+    <meta name="ttl" content="">
+    <meta name="des" content="">
+    <meta name="per" content="">
+    <meta name="org" content="New York Times Neediest Cases Fund">
+    <meta name="geo" content="">
+    <meta name="misspelling" content="">
+    <meta name="keywords" content="New York Times Neediest Cases Fund">
+    <meta name="description" content="As part of the 2012-13 Neediest Cases campaign, The New York Times is catching up with some of the people who were profiled in recent campaigns.">
+    <meta name="MEDIA_TEMPLATE_VERSION" content="200">
+    <meta name="asset_id" content="100000001940687">
+    <meta name="CG" content="nyregion">
+    <meta name="SCG" content="">
+    <meta name="PT" content="Multimedia">
+    <meta name="PST" content="Interactive">
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="Pressing On for the Children">
+    <meta property="og:image" content="https://static01.nyt.com/images/2011/11/13/nyregion/BULL-NEEDIEST/BULL-NEEDIEST-thumbStandard.jpg">
+    <link rel="image_src" href="https://static01.nyt.com/images/2011/11/13/nyregion/BULL-NEEDIEST/BULL-NEEDIEST-thumbWide.jpg">
+    <link rel="stylesheet" type="text/css" href="https://static01.nyt.com/css/0.1/screen/build/interactive/styles.css?v=20121001">
+    <link rel="stylesheet" type="text/css" media="print" href="https://static01.nyt.com/css/0.1/print/styles.css">
+    <script type="text/javascript" src="https://static01.nyt.com/js/common.js"></script>
+    <script type="text/javascript" src="https://static01.nyt.com/js/common/screen/DropDown.js"></script>
+    <script type="text/javascript" src="https://static01.nyt.com/js/fileit.js"></script>
+    <script type="text/javascript" src="https://static01.nyt.com/js/util/tooltip.js"></script>
+    <script type="text/javascript" src="https://archive.nytimes.com/_brokenassets/js/common/2.0/shareTools.js"></script>
+    <script type="text/javascript" src="https://static01.nyt.com/js/app/save/crossPlatformSave.js"></script>
+    <script type="text/JavaScript">
+        var static_kw = ""; var dynamic_kw = "New+York+Times+Neediest+Cases+Fund"; var nyt_google_contents = dynamic_kw + static_kw; var nyt_google_ad_channel = "nyregion";
+    </script>
+    <link rel="stylesheet" type="text/css" href="https://archive.nytimes.com/_capsule/nyt-capsule.css">
+</head>
+
+<body id="interactiveABC" class="interactiveABC">
+    <a name="top"></a>
+    <div id="shell">
+        <div class="mainTabsContainer tabsContainer">
+            <ul id="mainTabs" class="mainTabs tabs">
+                <li class="first mainTabHome"><a href="https://www.nytimes.com">Home Page</a></li>
+                <li class="mainTabTodaysPaper"><a href="https://www.nytimes.com/pages/todayspaper/index.html">Today&apos;s Paper</a></li>
+                <li class="mainTabVideo"><a href="https://www.nytimes.com/video">Video</a></li>
+                <li class="mainTabMostPopular"><a href="https://www.nytimes.com/mostpopular">Most Popular</a></li>
+            </ul>
+        </div>
+        <div id="editionToggle" class="editionToggle">
+            Edition: <span id="editionToggleUS"><a href="https://www.nytimes.com" onmousedown="dcsMultiTrack(&apos;DCS.dcssip&apos;,&apos;www.nytimes.com&apos;,&apos;DCS.dcsuri&apos;,&apos;/toggleIHTtoNYT.html&apos;,&apos;WT.ti&apos;,&apos;toggleIHTtoNYT&apos;,&apos;WT.z_dcsm&apos;,&apos;1&apos;);" onclick="NYTD.EditionPref.setUS();">U.S.</a></span>            / <span id="editionToggleGlobal"><a href="https://global.nytimes.com/" onmousedown="dcsMultiTrack(&apos;DCS.dcssip&apos;,&apos;www.nytimes.com&apos;,&apos;DCS.dcsuri&apos;,&apos;/toggleNYTtoIHT.html&apos;,&apos;WT.ti&apos;,&apos;toggleNYTtoIHT&apos;,&apos;WT.z_dcsm&apos;,&apos;1&apos;);" onclick="NYTD.EditionPref.setGlobal();">Global</a></span>
+        </div>
+        <script type="text/javascript">
+            NYTD.loadEditionToggle();
+
+            window.setTimeout(function() {
+                var login = document.getElementById('memberToolsLogin');
+                if (login) {
+                    login.href += "?URI=" + window.location.href;
+                }
+            }, 0)
+        </script>
+        <div id="page" class="tabContent active">
+            <div id="masthead" class="wrap">
+                <div id="searchWidget">
+                    <div class="inlineSearchControl">
+                        <form enctype="application/x-www-form-urlencoded" action="https://query.nytimes.com/search/sitesearch" method="get" name="searchForm" id="searchForm">
+                            <input type="hidden" value="full" name="date_select">
+                            <label for="searchQuery">Search All NYTimes.com</label>
+                            <input type="text" class="text" value="" size="" name="query" id="searchQuery">
+                            <input type="hidden" id="searchAll" name="type" value="nyt">
+                            <input type="image" id="searchSubmit" title="Search" alt="Search" width="22" height="19" src="https://static01.nyt.com/images/global/buttons/go.gif">
+                        </form>
+                    </div>
+                </div>
+                <div id="branding">
+                    <a href="https://www.nytimes.com"><img src="https://static01.nyt.com/images/misc/nytlogo152x23.gif" alt="New York Times" id="NYTLogo"></a>
+                </div>
+                <div id="date">
+                    <p>
+                    </p>
+                </div>
+                <h2>
+                    <a href="https://www.nytimes.com/pages/nyregion/index.html">N.Y. / Region</a>
+                </h2>
+            </div>
+            <div class="navigation tabsContainer">
+                <ul class="tabs">
+                    <li id="navWorld" class="first ">
+                        <a href="https://www.nytimes.com/pages/world/index.html">World</a>
+                    </li>
+                    <li id="navUs">
+                        <a href="https://www.nytimes.com/pages/national/index.html">U.S.</a>
+                    </li>
+                    <li id="navNyregion" class="selected">
+                        <a href="https://www.nytimes.com/pages/nyregion/index.html">N.Y. / Region</a>
+                    </li>
+                    <li id="navBusiness">
+                        <a href="https://www.nytimes.com/pages/business/index.html">Business</a>
+                    </li>
+                    <li id="navTechnology">
+                        <a href="https://www.nytimes.com/pages/technology/index.html">Technology</a>
+                    </li>
+                    <li id="navScience">
+                        <a href="https://www.nytimes.com/pages/science/index.html">Science</a>
+                    </li>
+                    <li id="navHealth">
+                        <a href="https://www.nytimes.com/pages/health/index.html">Health</a>
+                    </li>
+                    <li id="navSports">
+                        <a href="https://www.nytimes.com/pages/sports/index.html">Sports</a>
+                    </li>
+                    <li id="navOpinion">
+                        <a href="https://www.nytimes.com/pages/opinion/index.html">Opinion</a>
+                    </li>
+                    <li id="navArts">
+                        <a href="https://www.nytimes.com/pages/arts/index.html">Arts</a>
+                    </li>
+                    <li id="navStyle">
+                        <a href="https://www.nytimes.com/pages/style/index.html">Style</a>
+                    </li>
+                    <li id="navTravel">
+                        <a href="https://www.nytimes.com/pages/travel/index.html">Travel</a>
+                    </li>
+                    <li id="navJobs">
+                        <a href="https://www.nytimes.com/pages/jobs/index.html">Jobs</a>
+                    </li>
+                    <li id="navRealestate">
+                        <a href="https://www.nytimes.com/pages/realestate/index.html">Real Estate</a>
+                    </li>
+                    <li id="navAutomobiles">
+                        <a href="https://www.nytimes.com/pages/automobiles/index.html">Autos</a>
+                    </li>
+                </ul>
+            </div>
+            <div id="main">
+                <div id="interactiveShell">
+                    <div class="columnGroup firstColumnGroup">
+                        <div class="ledeStory">
+                            <div class="module insetHFullWidth">
+                                <div class="shareTools shareToolsThemeClassic shareToolsThemeClassicHorizontal interactive970ShareTools" data-shares="facebook,twitter,google,email,showall|Share" data-title="Pressing On for the Children" data-url="https://www.nytimes.com/interactive/2013/01/12/nyregion/neediest-oneyearlater-moms.html"
+                                    data-description="As part of the 2012-13 Neediest Cases campaign, The New York Times is catching up with some of the people who were profiled in recent campaigns."></div>
+                                <meta name="emailThisHash" content="XHRDEqoUWiBwQ36bwYF82A">
+                                <div class="storyHeader">
+                                    <h6 class="dateline">
+                                        <span>Published: </span>January 12, 2013 </h6>
+                                    <h6 class="kicker">The Neediest Cases | One Year Later</h6>
+                                    <h1>Pressing On for the Children</h1>
+                                </div>
+                                <div class="storySummary">
+                                    <span class="summary">As part of the 2012-13 Neediest Cases campaign, The New York Times is catching up on some of the people who were profiled as part of recent campaigns. In the second of two parts, we revisit three mothers.</span>
+                                </div>
+                            </div>
+                            <div id="interactiveFreeFormMain">
+                                <script src="https://static01.nyt.com/packages/html/multimedia/js/swfobject.js"></script>
+                                <script src="https://static01.nyt.com/packages/html/multimedia/js/NYTInlineEmbed.js"></script>
+                                <div id="shell-container">
+                                    <table cellpadding="0" cellspacing="0" class="column-wrapper">
+                                        <tbody>
+                                            <tr valign="top" class="column-wrapper-row">
+                                                <td class="small-column">
+                                                    <div class="img-head">
+                                                        <img class="thumb-gallery" src="https://static01.nyt.com/images/2011/11/28/nyregion/NEEDIEST/NEEDIEST-custom1.jpg">
+                                                        <div class="img-credit">Michelle V. Agins/The New York Times</div>
+                                                    </div>
+                                                    <h3>Marjorie Suarez</h3>
+                                                    <div class="audio-player" style="visibility:hidden;" id="audio_0">
+                                                        <a href="https://static01.nyt.com/packages/audio/nyregion/neediestaudio/suarez3.mp3">CLICK FOR AUDIO</a>
+                                                        <script>
+                                                            mm.DI = true;
+                                                            mm.LI = false;
+                                                            mm.AH = "Giving Back";
+                                                            mm.AS = "";
+                                                            mm.AD = "64.72244897959183";
+                                                            mm.AU = "https://static01.nyt.com/packages/audio/nyregion/neediestaudio/suarez3.mp3";
+                                                            mm.IU = "";
+                                                            mm.ID = "audio_0";
+                                                            writePlayer();
+                                                        </script>
+                                                    </div>
+                                                    <p><strong>Background</strong>: After a minor injury turned into a devastating disability, Ms. Suarez has been unable to work. Her spirit, however, remains strong.</p>
+                                                    <p>Read her full story <a href="https://www.nytimes.com/2011/11/28/nyregion/once-a-protector-now-grateful-for-her-own-rescue.html"> here.</a></p>
+                                                </td>
+                                                <td class="small-column next-small-column">
+                                                    <div class="img-head">
+                                                        <img class="thumb-gallery" src="https://static01.nyt.com/images/2012/01/27/nyregion/NEEDIEST/NEEDIEST-custom1-v2.jpg">
+                                                        <div class="img-credit">Librado Romero/The New York Times
+                                                        </div>
+                                                    </div>
+                                                    <h3>Vonmarie Marrero</h3>
+                                                    <div class="audio-player" style="visibility:hidden;" id="audio_1">
+                                                        <a href="https://static01.nyt.com/packages/audio/nyregion/neediestaudio/vonmarie-final.mp3">CLICK FOR AUDIO</a>
+                                                        <script>
+                                                            mm.DI = true;
+                                                            mm.LI = false;
+                                                            mm.AH = "Pure Politics";
+                                                            mm.AS = "";
+                                                            mm.AD = "54:03.93469387755102";
+                                                            mm.AU = "https://static01.nyt.com/packages/audio/nyregion/neediestaudio/vonmarie-final.mp3";
+                                                            mm.IU = "";
+                                                            mm.ID = "audio_1";
+                                                            writePlayer();
+                                                        </script>
+                                                    </div>
+                                                    <p><strong>Background</strong>: Ms. Marrero recently moved back to the city from Hudson, N.Y., and is looking for a job to help provide for her daughters.</p>
+                                                    <p>Read her full story <a href="https://www.nytimes.com/2012/01/27/nyregion/pressing-beyond-a-violent-path-for-her-daughters-sake.html" <="" a="">here.</a></p><a href="https://www.nytimes.com/2012/01/27/nyregion/pressing-beyond-a-violent-path-for-her-daughters-sake.html"
+                                                        <="" a="">
+      </a></td>
+                                                <td class="small-column next-small-column">
+                                                    <div class="img-head">
+                                                        <img class="thumb-gallery" src="https://static01.nyt.com/images/2011/11/13/nyregion/BULL-NEEDIEST/BULL-NEEDIEST-custom1.jpg">
+                                                        <div class="img-credit">Nicole Bengiveno/The New York Times</div>
+                                                    </div>
+                                                    <h3>Shari Robeck</h3>
+                                                    <div class="audio-player" style="visibility:hidden;" id="audio_2">
+                                                        <a href="https://static01.nyt.com/packages/audio/nyregion/neediestaudio/robeck.mp3">CLICK FOR AUDIO</a>
+                                                        <script>
+                                                            mm.DI = true;
+                                                            mm.LI = false;
+                                                            mm.AH = "Opened Doors";
+                                                            mm.AS = "";
+                                                            mm.AD = "45.67755102040816";
+                                                            mm.AU = "https://static01.nyt.com/packages/audio/nyregion/neediestaudio/robeck.mp3";
+                                                            mm.IU = "";
+                                                            mm.ID = "audio_2";
+                                                            writePlayer();
+                                                        </script>
+                                                    </div>
+                                                    <p><strong>Background</strong>: For Ms. Robeck, having her two children attend camps has been a way to maintain a rare constant in their lives. </p>
+                                                    <p>Read her full story <a href="https://www.nytimes.com/2011/11/13/nyregion/trying-to-keep-stability-with-sleepaway-camp.html"> here.</a></p>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+                                <hr>
+                                <link href="https://static01.nyt.com/packages/css/multimedia/bundles/ColumnArticle.css" rel="stylesheet" type="text/css">
+                                <style type="text/css">
+                                    #shell-container table.column-wrapper p {
+                                        font-size: 1.24em;
+                                        line-height: 1.46em;
+                                        padding: 0 10px 10px;
+                                    }
+
+                                    #shell-container h3 {
+                                        color: #000000;
+                                        font-size: 1.2em;
+                                        line-height: 2em;
+                                        text-transform: uppercase;
+                                        padding: 0 10px;
+                                    }
+
+                                    #shell-container hr.split {
+                                        margin: 5px 0 25px;
+                                    }
+
+                                    #shell-container .img-head {
+                                        background: none;
+                                    }
+
+                                    #interactiveFreeFormMain #shell-container {
+                                        margin: 20px 10px;
+                                    }
+                                </style>
+                            </div>
+                            <div class="insetHFullWidth">
+                                <div id="interactiveFooter" class="opposingFloatControl wrap">
+                                    <div class="metaData element1">
+                                        <div class="module">
+                                            <span class="byline">By Tamara Best/The New York Times</span>
+                                        </div>
+                                    </div>
+                                    <div class="element2">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <footer class="pageFooter">
+                <div class="inset">
+                    <nav class="pageFooterNav">
+                        <ul class="pageFooterNavList wrap">
+                            <li class="firstItem"><a href="http://www.nytco.com/">&#xA9; 2013 The New York Times Company</a></li>
+                            <li><a href="http://spiderbites.nytimes.com/">Site Map</a></li>
+                            <li><a href="https://www.nytimes.com/privacy">Privacy</a></li>
+                            <li><a href="https://www.nytimes.com/ref/membercenter/help/privacy.html#pp">Your Ad Choices</a></li>
+                            <li><a href="http://www.nytimes.whsites.net/mediakit/">Advertise</a></li>
+                            <li><a href="https://www.nytimes.com/content/help/rights/sale/terms-of-sale.html ">Terms of Sale</a></li>
+                            <li><a href="https://www.nytimes.com/ref/membercenter/help/agree.html">Terms of Service</a></li>
+                            <li><a href="http://www.nytco.com/careers">Work With Us</a></li>
+                            <li><a href="https://www.nytimes.com/rss">RSS</a></li>
+                            <li><a href="https://www.nytimes.com/membercenter/sitehelp.html">Help</a></li>
+                            <li><a href="https://www.nytimes.com/ref/membercenter/help/infoservdirectory.html">Contact Us</a></li>
+                            <li class="lastItem"><a href="https://myaccount.nytimes.com/membercenter/feedback.html">Site Feedback</a></li>
+                        </ul>
+                    </nav>
+                </div>
+            </footer>
+        </div>
+    </div>
+    <script type="text/javascript" language="JavaScript" src="https://static01.nyt.com/js/app/homepage/articleCommentCounts.js"></script>
+    <script type="text/javascript" language="JavaScript">
+        ArticleCommentCounts.apply()
+    </script>
+</body>
+
+</html>

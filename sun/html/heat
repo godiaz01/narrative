@@ -1,0 +1,1338 @@
+
+<!DOCTYPE html>
+<html class="no-js" lang="en-US">
+	<head>
+		<title>Heat - The Sun Magazine</title>
+
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		
+		<meta name="viewport" content="width=device-width, minimum-scale=1.0">
+
+		<link rel="dns-prefetch" href="//ajax.googleapis.com">
+		<link rel="dns-prefetch" href="//use.typekit.net">
+		
+		<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/modernizr.js"></script>
+		<script src="https://www.google.com/recaptcha/api.js"
+				async defer>
+		</script>
+
+		<script>(function(d) { var config = { kitId: 'kzw7ebk', scriptTimeout: 3000, async: true }, h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s) })(document);</script>
+
+
+				
+		<link rel="apple-touch-icon" sizes="57x57" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-57x57.png?v=2016">
+		<link rel="apple-touch-icon" sizes="60x60" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-60x60.png?v=2016">
+		<link rel="apple-touch-icon" sizes="72x72" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-72x72.png?v=2016">
+		<link rel="apple-touch-icon" sizes="76x76" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-76x76.png?v=2016">
+		<link rel="apple-touch-icon" sizes="114x114" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-114x114.png?v=2016">
+		<link rel="apple-touch-icon" sizes="120x120" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-120x120.png?v=2016">
+		<link rel="apple-touch-icon" sizes="144x144" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-144x144.png?v=2016">
+		<link rel="apple-touch-icon" sizes="152x152" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-152x152.png?v=2016">
+		<link rel="apple-touch-icon" sizes="180x180" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-180x180.png?v=2016">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-32x32.png?v=2016" sizes="32x32">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/android-chrome-192x192.png?v=2016" sizes="192x192">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-96x96.png?v=2016" sizes="96x96">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-16x16.png?v=2016" sizes="16x16">
+		<link rel="mask-icon" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/safari-pinned-tab.svg?v=2016" color="#444444">
+		<link rel="shortcut icon" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon.ico?v=2016">
+		<meta name="apple-mobile-web-app-title" content="The Sun Magazine">
+		<meta name="application-name" content="The Sun Magazine">
+		<meta name="msapplication-TileColor" content="#fcc330">
+		<meta name="msapplication-TileImage" content="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/mstile-144x144.png?v=2016">
+		<meta name="theme-color" content="#ffffff">
+
+				<link rel="stylesheet" type="text/css" href="https://cloud.typography.com/6578674/659928/css/fonts.css" />
+		<link rel="stylesheet" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/css/style.css">
+
+																		<meta property="og:site_name" content="The Sun Magazine">
+		<meta property="og:type" content="article">
+		<meta property="og:url" content="https://www.thesunmagazine.org/issues/337/heat">
+		<meta property="og:image" content="http://www.thesunmagazine.org/files/2016-07/337-26-hersch-preview.jpg">
+		<meta property="og:title" content="Heat - The Sun Magazine">
+		<meta property="og:description" content="The heat that summer was a living thing that tangled around you, tripping you, slowing you to a crawl. New York City was draped in an impressionist haze. It was 1957. I was thirteen and had my first job, stapling tags onto winter clothes in the warehouse of a department store.">
+		<meta property="fb:app_id" content="158741778010551">
+
+						<link rel="image_src" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.comhttp://www.thesunmagazine.org/files/2016-07/337-26-hersch-preview.jpg">
+
+												<meta name="twitter:card" content="summary">
+		<meta name="twitter:title" content="Heat - The Sun Magazine">
+		<meta name="twitter:description" content="The heat that summer was a living thing that tangled around you, tripping you, slowing you to a crawl. New York City was draped in an impressionist haze. It was 1957. I was thirteen and had my first job, stapling tags onto winter clothes in the warehouse of a department store.">
+		<meta name="twitter:image" content="http://www.thesunmagazine.org/files/2016-07/337-26-hersch-preview.jpg">
+		<meta name="twitter:site" content="@thesunmagazine">
+
+				<link rel="publisher" href="https://plus.google.com/113792980827145858211">
+        
+		<meta name="Description" content="The heat that summer was a living thing that tangled around you, tripping you, slowing you to a crawl. New York City was draped in an impressionist haze. It was 1957. I was thirteen and had my first job, stapling tags onto winter clothes in the warehouse of a department store.">
+
+		
+		<!-- Google Tag Manager -->
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-TKBHCCG');</script>
+		<!-- End Google Tag Manager -->
+
+		<!-- Google Analytics -->
+		<script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+            ga('create', 'UA-2351127-1', 'auto');  // Replace with your property ID.
+            ga('send', 'pageview');
+            ga('require', 'ecommerce');   // Load the ecommerce plug-in.
+		</script>
+		<!-- End Google Analytics -->
+	</head>
+	<body id="">
+
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TKBHCCG"
+		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+		<header class="header" data-offset-start="80">
+		<div class="header-utilities">
+				<ul class="header-utilities-user list-inline list-inline-tight xxsmall">
+							<li>
+					<span class="header-utilities-user-intro">Already A Subscriber?</span> &nbsp;
+					<a href="https://www.thesunmagazine.org/subscriber/login" class="link-text link-alt">Sign In</a>
+				</li>
+					</ul>
+		<a href="https://www.thesunmagazine.org/shop/cart" class="header-utilities-cart  link-alt link-icon tiny">
+			<span class="i"><svg><use xlink:href="#i-cart"></use></svg></span>
+			<span class="cart-item-count">
+									0 Items
+				
+			</span>
+		</a>
+			</div>
+
+		<div class="header-bar">
+		<h1 class="header-logo logo">
+			<a href="/">
+				<img src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/img/logo-thesun.svg" class="logo-thesun" alt="The Sun Magazine">
+				<img src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/img/logo-tagline.svg" class="logo-tagline" alt="">
+			</a>
+		</h1>
+
+		<ul class="header-nav">
+			
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/read" 	   class='current '>
+	   Read	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/issues/current" 	   class=''>
+	   Current Issue	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/archives" 	   class=''>
+	   Archives	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/featured" 	   class=''>
+	   Featured Selections	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/topics" 	   class=''>
+	   Browse Topics	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/sections" 	   class=''>
+	   Browse Sections	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/connect" 	   class=''>
+	   Connect	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/news" 	   class=''>
+	   News from <em>The Sun</em>	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" 	   class=''>
+	   Write a Letter to the Editor	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/discussion-groups" 	   class=''>
+	   Discussion & Writing Groups	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/make-a-suggestion" 	   class=''>
+	   Make a Suggestion	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/submit" 	   class=''>
+	   Submit	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/shop" 	   class=''>
+	   Shop	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/giftsub" 	   class=''>
+	   Gift Subscriptions	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/issues" 	   class=''>
+	   Issues	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+											
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/donatemenu" 	   class='highlight'>
+	   Donate	</a>
+		
+	</li>
+
+		<li class=" last">
+														<a href="/SubscribeNav1" 					   class=''>
+						Subscribe					</a>
+									
+	</li>
+
+
+		</ul>
+
+		<button class="header-nav-toggle"><svg><use xlink:href="#i-menu" class="i-menu"></use><use xlink:href="#i-close" class="i-close"></use></svg></button>
+		<button class="header-search-toggle" data-form-wrapper=".header-search"><svg><use xlink:href="#i-magnifier" class="i-magnifier"></use><use xlink:href="#i-close" class="i-close"></use></svg></button>
+	</div>
+
+		<div class="header-search">
+		<div class="header-search-content">
+			<form action="https://www.thesunmagazine.org/search" class="form form-search" method="get">
+				<h2 class="alt-ff brand-link">Search Our 40 Years of Archives</h2>
+				<ul class="form-search-fields form-fields form-fields-inline">
+					<li><input type="text" name="q" value=""></li>
+					<li class="form-fields-inline-button"><button class="b b-1 b-padding-tight b-loading"><svg><use xlink:href="#i-loading"></use></svg>Search</button></li>
+				</ul>
+
+				<div class="header-search-content-shortcuts">
+					<h6 class="search-advanced alt-ff"><a class="js-handle-advanced" href="https://www.thesunmagazine.org/search?advanced=1">Advanced Search</a></h6>
+					<br>
+					<h6 class="alt-ff">Popular Pages</h6>
+					<ul class="list-inline-border list-inline-tight xxsmall"><li class=" first"><a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a></li><li class=""><a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a></li><li class=""><a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a></li><li class=""><a href="https://www.thesunmagazine.org/sections/quotations" 	   class=''>
+	   Quotations	</a></li><li class=""><a href="https://www.thesunmagazine.org/sections/readers-write" 	   class=''>
+	   Readers Write	</a></li><li class=" last"><a href="https://www.thesunmagazine.org/sections/poetry" 	   class=''>
+	   Poetry	</a></li></ul>				</div>
+			</form>
+		</div>
+	</div>
+</header>
+
+	<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+	<script type="text/javascript">
+		$(document).ready(function() {
+			$('.js-handle-advanced').on('click', function (e) {
+				e.preventDefault();
+				var getSearchValue = $('.form-search-fields input').val();
+				var getURL = $(this).attr('href');
+				var newURL = getURL + '&q=' + getSearchValue;
+				window.location.href = newURL;
+			});
+		});
+	</script>
+
+		<div class="container-hidden">
+		<div class="container">
+
+				
+	
+	<article class="article ">
+		<header class="block-content block-content-l1 block-content-center">
+						<div class="block-content-header">
+				<h6 class="b-content-section heading-square"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+				<h1 class="block-content-title">Heat</h1>
+
+				
+				<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/michelle-cacho-negrete">Michelle Cacho-Negrete</a></li><li><a href="/issues/337">January 2004</a></li></ul>
+
+			</div>
+
+																			
+
+				<figure class="block-content-photo block-content-photo-large photo photo-outset-center-small">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 1488 1960'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/744x980r/photos/337-26-hersch.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/1488x1960r/photos/337-26-hersch.jpg
+	 alt="337 - Hersch - Cacho-Negrette"
+	 class="lazy">
+
+										<figcaption>
+
+						
+																				<div class="photo-credit">
+								&copy;&nbsp;<a href="/contributors/jeffrey-hersch">Jeffrey Hersch</a>
+							</div>
+																		</figcaption>
+									</figure>
+
+					</header>
+
+				<div class="article-body link-text-wrap">
+																		<p class="dropcap">The heat that summer was a living thing that tangled around you, tripping you, slowing you to a crawl. New York City was draped in an impressionist haze. It was 1957. I was thirteen and had my first job, stapling tags onto winter clothes in the warehouse of a department store. Previous summers, my brother and I had roamed the streets, drenching ourselves in open fire hydrants, reveling in the water like puppies. We&rsquo;d sneaked into the air-conditioned movie theater. We&rsquo;d sucked ice cubes till our lips were blue and trembling. Our mother worked as a file clerk in Manhattan for fifty dollars a week. Our father had deserted us, and the summer days were ours to fill as we chose. But that summer I wanted an independent income. I was tired of doing without the things my mother couldn&rsquo;t buy and I couldn&rsquo;t steal.</p>
+
+<p>It was easier for a minor to get a job back then, though I still needed working papers. One Thursday I hopped a train to lower Manhattan to be examined by a state physician who&rsquo;d sign off that I was healthy enough to hire. The cavernous waiting room, with its tall, dust-coated windows, was mobbed and steamy with the sweat of too many kids. Under the rumble of voices, a nervous energy crackled. Everything was blurry in the heat, like a mirage. A few ancient floor fans whirred halfheartedly. The only effective one sat on the desk of the receptionist, who ushered us into the doctor&rsquo;s office, first come, first served. Everyone fidgeted restlessly on the hard wooden benches while she edged dangerously close to the fan and drank endless glasses of iced tea. Her voice was high-pitched and whiny, and each name she called sounded like a personal complaint. She glared at us through heavily made-up eyes as though we were responsible for the heat.</p>
+
+<p>The boys horsed around, and someone was shoved off a bench, thudding to the floor amid riotous laughter. &ldquo;Stop that,&rdquo; the receptionist snapped, briefly abandoning her stale, fanned breeze to point like a spaniel fingering a bird. Looking at her flushed face, I realized she was only eighteen or nineteen herself and probably nervous about being in charge of people so close to her in age.</p>
+
+<p>I focused on my shoes or read my book, my fingers leaving moist prints on the pages. Damp yellow circles stained the underarms of the boys&rsquo; shirts, and perspiration glistened on cheeks irritated by the unfamiliar practice of shaving. I crossed my arms to conceal my bra and nipples, which were outlined by my damp, clinging blouse. Around the room, sweat etched trails through makeup, and faint lines of mascara bled into hairlines. I tried to read but was nauseous from the heat and had a frightening fantasy of throwing up on the doctor.</p>
+
+<p>When the receptionist finally called my name, she ran the syllables together so that I didn&rsquo;t recognize it at first. She repeated it sharply. When I stood up, she scowled as though I&rsquo;d been hiding, and pointed. &ldquo;In there.&rdquo; Then she checked my name off the list.</p>
+
+<p>The doctor&rsquo;s office was dank, and every available surface pearled with tiny drops of moisture. A bored elderly man with a stethoscope around his neck sat on a stool, his glasses flecked with dust or cigarette ash, his shirt collar darkened by perspiration. Barely glancing at me, he took my working papers, rested his cigarette in an overflowing ashtray, then placed the stethoscope on my chest. &ldquo;Cough,&rdquo; he said. I offered an exaggerated imitation of a bronchial cough I&rsquo;d had six months earlier. He nodded, performed a cursory examination of my throat and ears, scribbled his signature on the papers, and gestured me out. The cigarette was back in his mouth before I had left the room. It took maybe two minutes in all. I closed the door behind me, smiling foolishly, as though I&rsquo;d accomplished some great feat. The receptionist threw me a dirty look as I passed, and then she massacred the next name on the list.</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">In what would become our ritual, my mother and I left for work together on my first day. She gave my seven-year-old brother a quarter and told him that the upstairs neighbor had promised to keep an eye on him. He looked at me sorrowfully, as though I was abandoning him, and I felt a brief moment of emotion: not guilt but envy. He was still free to roam the neighborhood, but I&rsquo;d passed over some pinnacle into adulthood and would never be that wild again. My mother looked at him doubtfully, despite his promise to remain on the block, keep his key around his neck, and not get into trouble. She was self-educated, having completed only fifth grade before going to work, but extremely savvy. Compulsive reading had given her an immense vocabulary, and she would finish the <em>New York Times</em> crossword puzzle each Sunday. She warned my brother, &ldquo;Don&rsquo;t underestimate the dangers of the street, no matter how smart you think you are. Stay close to home and don&rsquo;t hang out with the boys on the corner.&rdquo; She kissed him goodbye, tucked <em>Crime and Punishment</em> into her purse, and motioned me out ahead of her, tossing a final &ldquo;Remember what I told you&rdquo; over her shoulder.</p>
+
+<p>A few neighbors yelled, &ldquo;Good luck!&rdquo; to me as we passed. I flushed with pride, though I knew that my accomplishment was a mere consequence of growing older. My mother waved back, also proud. The brisk clicking of her high heels was drowned out by rumbling trucks and car horns. She expertly navigated the cracked sidewalks, never once catching a heel. After a block, my dress and crinolines were sweat-soaked and heavy, while her shirtwaist remained crisp, her short auburn hair unruffled. Though only seven in the morning, it was hot as noon. A few people were still pulling in their mattresses from the fire escapes, where they&rsquo;d slept to take the edge off the deadening heat.</p>
+
+<p>&ldquo;You think I can trust him?&rdquo; my mother asked, referring to my brother.</p>
+
+<p>Certain she couldn&rsquo;t, I answered, &ldquo;Sure.&rdquo; Then, to take her mind off him, I added, &ldquo;It&rsquo;s hot as hell.&rdquo;</p>
+
+<p>She smiled at my nonchalant use of the word <em>hell</em> and said, &ldquo;Summer is always a scorcher in New York.&rdquo;</p>
+
+<p>Halfway down the next block was the Italian deli. Like perspiration under heavy perfume, the smell of garbage put out for the trucks was partially hidden beneath the aroma of garlic, oregano, and tomatoes. My mother stopped and smiled conspiratorially at me. &ldquo;In here, just for today.&rdquo; Five minutes later we emerged with scrambled-egg-and-hot-pepper sandwiches in two brown paper bags rapidly darkening with grease: a treat to honor my entry into the labor force.</p>
+
+<p>&ldquo;Thanks, Ma,&rdquo; I said, and she nodded. A block farther was the movie theater, where a man in jeans and a white undershirt was up on a ladder changing the marquee. I had a momentary fantasy that I&rsquo;d go home and get my brother and the two of us would sneak in through the back door when the first matinee let out. My mother looked at me sternly, as though she knew what I was thinking, and I quickly faced forward. She examined her watch and sped up, marching silently until we reached the train station.</p>
+
+<p>As we waited on the platform, I looked at my wrinkled dress and asked, &ldquo;Do I look <span class="smallcaps">OK</span>?&rdquo;</p>
+
+<p>My mother tossed a venomous look at a man who&rsquo;d shoved her, then casually mashed her high heel on the toe of his polished shoe. He stomped away, mumbling something under his breath. &ldquo;You look very nice, very businesslike,&rdquo; she assured me.</p>
+
+<p>The train blasted steamy heat as it clanged to a stop in front of us. Everyone pushed in. The car was so mobbed we didn&rsquo;t even sway as the train started moving. Overhead fans served only to disperse the acrid scent of perspiration throughout the subway car. Sweat dripped from my neck and armpits, and I was sure I&rsquo;d stink by the time I got to work.</p>
+
+<p>My mother left her book in her purse and talked about everyone&rsquo;s favorite topic: &ldquo;I don&rsquo;t remember heat like this,&rdquo; she said solemnly. &ldquo;Even here.&rdquo;</p>
+
+<p>Those crammed against us nodded, and one man added, &ldquo;Amen.&rdquo;</p>
+
+<p>She smiled at him and said to me, &ldquo;See, everyone agrees.&rdquo;</p>
+
+<p>&ldquo;I agree too, Ma,&rdquo; I told her.</p>
+
+<p>My stop came first, and she nudged me toward the door. &ldquo;Have a good day. Work hard.&rdquo; She pulled out her book as the door closed behind me.</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">New York was always being torn down or built up, and I was nearly deafened by the pounding of heavy equipment on the street. The fine white dust of destruction drifted over my face and hair and caught on the tips of my lashes. I passed by, eyes down, afraid of catcalls from the workmen, though I was too small and undeveloped to inspire any. I skirted rubble and broken glass and swung my lunch bag as though holding my mother&rsquo;s hand, something I hadn&rsquo;t done in years.</p>
+
+<p>The office building had three floors, the lowest one the warehouse. The secretary announced my name over the loudspeaker. Her hair, blown gracefully around her face by a fan, was reminiscent of a television commercial. I experienced resentment at my own tight curls. A moment later an attractive, middle-aged black woman with conked hair, brown-rimmed glasses, and mauve lipstick opened a side door and beckoned to me. Dressed in jeans and a blouse, she smiled in amusement at my dress. &ldquo;I&rsquo;m Alice.&rdquo; She held out a calloused hand and shook mine with authority. &ldquo;Come upstairs and meet the boss. Then we&rsquo;ll go to the Floor.&rdquo;</p>
+
+<p>I followed her upstairs to a small, air-conditioned office. The man behind the desk stood when we came in. He was shaped like a hairy banana, and his forward slant made me worry that he could see down my dress, boring though the view might be. He studied my working papers, then looked at me as though I were transparent. &ldquo;Michelle,&rdquo; he said. I nodded. &ldquo;Well, Michelle, work hard, listen to Alice, don&rsquo;t get in trouble, and it&rsquo;ll work out.&rdquo; I nodded again, and Alice escorted me from his office.</p>
+
+<p>The Floor was exactly that. It ran the length of the building, with units separated by type of clothing. Just the sight and smell of dark, wintry wools was enough to start me itching. A few tall floor fans were scattered around, but the corridors between the rows were so narrow that the fanned breeze didn&rsquo;t stand a chance of penetrating them. It was like a giant closet, crammed full, with no room to breathe. I was given a fat chrome machine on wheels with which to staple the price on each item. The temperature on the Floor was a good fifteen degrees hotter than anywhere else in the building. Everyone sweated freely, dangerously. By the end of the first week, I was imitating my more experienced co-workers &mdash; all teenagers, it seemed &mdash; who spitefully wiped their necks and faces and arms on the clothing to be sold in air-conditioned stores to unsuspecting customers.</p>
+
+<p>I was clumsy at first and more than once stapled my fingers. But Alice was patient, working with me until I got the hang of it. Before she walked off, she said quietly, &ldquo;A dress like that, crinolines: not the best thing to wear here.&rdquo;</p>
+
+<p>I nodded, having already figured that out. This wasn&rsquo;t business. It was something else entirely.</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">The second day, despite the unflagging heat, I wore jeans and a long-sleeved shirt to protect my skin from the irritating wool. When the day was over, the warehouse bathrooms filled with kids washing up with paper towels and changing into shorts and tank tops or halters.</p>
+
+<p>All I remember of the other employees, besides the boss and Alice, is one woman and three boys. Mitch had slicked-back hair, tight jeans, a half-open shirt, and a confident smile: a stereotypical greaser. Halfway through the summer I went to a movie with Mitch. I was thrilled to be having my first date with such a looker. He necked with me as though it were a chore, but I was too inexperienced and flattered to refuse. He left me at my door with a cool goodbye kiss. After that he slipped between the suits and coats whenever he saw me, avoiding even a casual hello. The week before Labor Day, Mitch exhibited for the boys a list of the girls he&rsquo;d made out with. It comprised all of us on the Floor and included some of the secretaries from the second and third floors. Because I was a loner, I experienced a strange pride at being included, finally one of the gang.</p>
+
+<p>David and Mark lived near each other in the Bronx. They were both crowned with kinky Jewish hair like mine, and they dressed in colorful striped shirts and jeans that emphasized their stockiness. The three of us developed a summertime friendship, eating lunch and sometimes going to a movie together. One evening we all had dinner at Mark&rsquo;s place, a fussy, middle-class, five-room apartment with glass lamps, brocaded living-room set, and carefully arranged drapes. There were a number of fans, and I was as cool there as anywhere that steamy summer. Mark&rsquo;s mother dismissed me as a possible girlfriend for her son when she learned I lived in Williamsburg, a low-income ghetto. After dinner she didn&rsquo;t want the boys to accompany me home on the one-hour train ride. I stood firm despite her pursed mouth and shrill &ldquo;Why is it necessary?&rdquo; Mark was thrilled to commit this small act of rebellion against her. He and David complained about their mothers all the way to Brooklyn.</p>
+
+<p>And, as I said, I remember one woman from the Floor: Mary.</p>
+
+<p>That first day, Alice led me down the rows, pushing the machine ahead of us, her deft fingers making fast work of sleeve after sleeve. &ldquo;It&rsquo;s not hard. Just take your time at first,&rdquo; she said as we reached the end of the row and rounded a corner. A woman wearing a drooping skirt and sloppy blouse turned at the sound of Alice&rsquo;s voice. Her brown hair was wild, a field of reeds blown by an unrelenting wind. Her eyes, slanted in the manner of Down syndrome, were thickly circled with black eyeliner, her mascara smeared and beaded. Her mouth was a blinding scarlet, white teeth rippled with lipstick. She was in her late twenties or early thirties and, despite her slouching shoulders, had a full, fine body. She offered an enormous smile and a poorly articulated hello.</p>
+
+<p>&ldquo;Hi,&rdquo; I answered, and smiled back.</p>
+
+<p>&ldquo;Get to work, Mary,&rdquo; Alice said, pushing the machine to the next row.</p>
+
+<p>As Mary turned away, I said, &ldquo;My name is Michelle. Pleased to meet you, Mary.&rdquo;</p>
+
+<p>Mary flashed another quick smile. Then, with a glance at Alice, she returned to stapling with a practiced, smooth precision.</p>
+
+<p>&ldquo;She&rsquo;s harmless,&rdquo; Alice said when we were once again buried in coats.</p>
+
+<p>&ldquo;I&rsquo;m not afraid,&rdquo; I answered. There were two Down syndrome kids on my block: a boy with cowlicks and a lazy eye, and a fat girl who sat on her front steps and greeted everyone who passed. They tried to stay out of range of the neighborhood bullies, who punched or teased them.</p>
+
+<p>Though Mary had worked there six years, I noticed that, aside from the usual good-mornings, people treated her like a part of the warehouse scenery.</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">I settled into a boring routine: my mother and I traveling together in the morning, usually reading; the shipments of clothes that awaited me each day; smoking breaks and half-hour lunches; then home. At least once a day the boss checked up on the Floor. His rapid footsteps stopped at the beginning of each row, then moved by so quickly it seemed impossible for him to have seen whether anyone was working. He always appeared before a break or lunch, thus preventing anyone from sneaking out early. The sight of his long body curving forward in its strange manner nudged me from my dreamy, heat-induced lethargy, and I stapled with the smooth, swift regularity of a clock ticking. I decided then that, when I was an adult, I would be my own boss, despite the heavy odds against it. I was determined to be the only one who could judge how hard I was working.</p>
+
+<p>Each morning I exchanged hellos with Mary, who was the only worker besides Alice that the boss knew by name. I was touched by her quiet shyness, an exaggerated version of my own lack of confidence. Sometimes I shared a cookie with her at break before joining Mark and David outside to smoke, although usually she went off by herself or never even appeared. Her rows were done before anybody else&rsquo;s, and she often told herself, &ldquo;Good work, Mary,&rdquo; when a line was completed. She flashed her odd, full-mouthed smile to everyone who said hi to her. When the boss appeared, though, she shrank, her head vanishing into whatever she was stapling, her back curving forward and her knees moving tightly together.</p>
+
+<p>One particular afternoon, Mary was in the next row over from me, both of us buried in thick black coats with enormous brass buttons shaped like anchors. The sleeves were heavy as five-pound weights. I was wiping my forehead and hands on the lining of one of the coats when I heard the boss growl, &ldquo;What are you doing, Mary?&rdquo; I jumped, wondering how I could have missed his arrival. I buttoned the coat and began to staple furiously. A moment later I heard, &ldquo;You&rsquo;re a bad girl, Mary. No break today.&rdquo;</p>
+
+<p>I stopped stapling. Mary a &ldquo;bad girl&rdquo;? She always worked steadily, lost in her thoughts, until Alice tapped her on the shoulder to remind her to take lunch or go home. The boss&rsquo;s footsteps thudded by. He paused for a moment at the head of my row. I stood motionless and waited to see if he&rsquo;d call me a bad girl, too, but he went swiftly out the door. I heard Mary&rsquo;s machine drag down to the end of the row and saw her shuffle like a frightened mouse to some suits against the farthest wall. &ldquo;I&rsquo;m sorry, Mary,&rdquo; I said, but she kept walking.</p>
+
+<p>Alice called for break, and the click of the machines halted like a field of crickets gone quiet. I stood and stretched, eager to leave the building, but when I passed Alice leaning against the wall and fingering her cigarette, I paused. She looked at me crossly, one eyebrow raised. I almost walked past, but the thought of Mary working without respite from the stifling heat stopped me, and I stuttered, &ldquo;The boss told Mary she couldn&rsquo;t go out on break.&rdquo;</p>
+
+<p>Alice remained silent.</p>
+
+<p>&ldquo;Isn&rsquo;t that illegal?&rdquo; I asked, embarrassed at the nervous break in my voice.</p>
+
+<p>Alice stared at me impassively and said, &ldquo;He&rsquo;s the boss. He knows what&rsquo;s legal. Keep your nose out of it.&rdquo;</p>
+
+<p>I flushed red as she walked toward the door. Mark appeared, grabbing my arm. &ldquo;Come on,&rdquo; he said. &ldquo;We&rsquo;ve only got fifteen minutes, and one&rsquo;s already wasted.&rdquo; David put his hands on my back and said, &ldquo;Hurry up.&rdquo; I allowed myself to be gently pushed out into the street to smoke and pray for a merciful breeze.</p>
+
+<p>The next morning, jammed between commuters, I asked my mother, &ldquo;Isn&rsquo;t it illegal not to give somebody their coffee break?&rdquo;</p>
+
+<p>She lowered her book and looked at me. &ldquo;Did somebody tell you not to take your break?&rdquo;</p>
+
+<p>&ldquo;Not me,&rdquo; I said. &ldquo;Another worker.&rdquo;</p>
+
+<p>My mother, usually a champion of the underdog, said, &ldquo;Let the other worker stick up for herself.&rdquo; At my puzzled look she explained, &ldquo;It&rsquo;s part of growing up, learning how to take care of yourself. The world isn&rsquo;t going to do you any favors.&rdquo; She patted my shoulder and went back to her book.</p>
+
+<p>I didn&rsquo;t voice my question: <em>What if the other worker can&rsquo;t grow up?</em></p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">After that, I became aware that the boss told Mary a couple of times a week that she was a &ldquo;bad girl&rdquo; who wouldn&rsquo;t get her coffee break. I raged inside at the injustice. Without Alice&rsquo;s support, however, I felt impotent and very young. I tried to approach Alice again, but she walked away before I could say a word. I got the message.</p>
+
+<p>Briefly escaping the oppressive heat of the Floor seemed the only way to survive that job, but whenever I stepped outside on break to smoke, the thought of Mary still working tainted my pleasure with guilt. One afternoon I finished the last cigarette in my pack and wanted another, but my spare pack was in my purse under my machine.</p>
+
+<p>&ldquo;Have one of mine,&rdquo; Mark said, and he held out his menthols.</p>
+
+<p>&ldquo;No,&rdquo; I answered. &ldquo;I don&rsquo;t like that sissy peppermint flavor you smoke.&rdquo;</p>
+
+<p>He pretended to punch me, and I ducked.</p>
+
+<p>&ldquo;No hitting girls,&rdquo; David said. Then he narrowed his eyes and added, &ldquo;Well, maybe this one.&rdquo;</p>
+
+<p>Thrilled to be friends with two boys, I retorted gleefully, &ldquo;I can take you both with one hand.&rdquo;</p>
+
+<p>&ldquo;Go on and try,&rdquo; Mark said, his acne-scarred face assuming a comically ferocious expression.</p>
+
+<p>&ldquo;I&rsquo;ll be back in a minute to take care of you,&rdquo; I said.</p>
+
+<p>The dense heat inside closed around me like a trap, and I broke out in a sweat. As I reached down to retrieve my purse, I deliberately wiped the sleeve of a suit across my forehead. A soft whimpering from a row near the back wall stopped me.</p>
+
+<p>I was frightened at first, as though a warehouse ghost were making its presence known. Then I chided myself and angled between the heavy walls of wool to investigate. Shielded from view by a long green coat with epaulets, I looked out.</p>
+
+<p>Mary sat, legs sprawled, against the stained green wall. Her face was flushed, mottled with sweat and tears. Her eyes were screwed shut. She continued to whimper. The boss stood over her, narrow shoulders outlined by the wet shirt clinging to his back. He turned and zipped his fly, face expressionless. Sweat glistened on his upper lip and forehead. I softly pulled back behind the coats until I was one row over. The boss strode past. His footsteps reached the door and started up the stairs. My head pounded, and I fought both a feeling that I might faint and an overwhelming need to pee. My mind skittered away from what I was certain had happened, perhaps was happening regularly. I ran to find Alice. She had to do something. This was far more than depriving someone of a coffee break.</p>
+
+<p>She was just coming back on the Floor, cigarette still in her hand, preparing to call everyone in. I stood in front of her, sweat dripping down my face, barely able to get the words out:</p>
+
+<p>&ldquo;Mary, the boss, he&rsquo;s &mdash;&rdquo;</p>
+
+<p>&ldquo;You didn&rsquo;t see nothing,&rdquo; she interrupted. She ground out her cigarette on the floor and looked at me, her eyes hard and unrelenting. &ldquo;What the hell are you doing in here? You&rsquo;re supposed to be on break.&rdquo;</p>
+
+<p>&ldquo;The boss &mdash;&rdquo; I began again hoarsely, certain she didn&rsquo;t understand.</p>
+
+<p>&ldquo;&nbsp;&lsquo;The boss&rsquo; nothing,&rdquo; she said. &ldquo;Mind your own business, girl. And you think about what you&rsquo;re about to say, because I <em>know</em> you&rsquo;re wrong.&rdquo; She shook her head once more, her mouth crimped and furious, and walked off, her shoulder slamming mine. I sank against the wall, dizzy and nauseous, and began to doubt what I&rsquo;d seen. Had I misunderstood? A moment later, Alice shouted, &ldquo;Break&rsquo;s over! We&rsquo;ve got a whole new shipment to finish today. Come on, people.&rdquo; She stood in the doorway, backlit, and clapped her hands. I lowered my head, ashamed, though I didn&rsquo;t know of what.</p>
+
+<p>&ldquo;Where did you go?&rdquo; David said. Then he looked at me with concern and asked, &ldquo;Are you sick?&rdquo;</p>
+
+<p>I stared at his round, wet face and brown eyes magnified behind his glasses and thought about telling him. I shook my head dumbly. &ldquo;A little sick to my stomach from the heat. That&rsquo;s all.&rdquo; I went to the bathroom, peed, and stared at my white, frightened face in the mirror. My lips were trembling. A tiny muscle twitched beneath my eye. I sponged my face and neck with paper towels, took a deep breath, and went back to the Floor.</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">I had nightmares. Each morning I woke up swearing I&rsquo;d tell somebody. But who was there to tell? Who would actually help some retarded worker in a shit-wage job? Was I right, or had I misunderstood? I wished that I&rsquo;d stayed home with my brother, remained a child running wild in the street. The summer was almost over.</p>
+
+<p>August was so hot that my mother let us move our mattresses and alarm clocks onto the fire escape the way everyone else did. Rows of bedding lined the side of the tenement like faded prayer flags. The snores of the man upstairs interrupted my sleep, and I tossed uncomfortably, reliving what I&rsquo;d seen. I&rsquo;d grown silent of late as I walked beside my mother to the train station. She asked a few times if I was all right, and I told her it was just the heat.</p>
+
+<p>&ldquo;Yeah,&rdquo; she said. &ldquo;it&rsquo;s bad.&rdquo;</p>
+
+<p>Each morning, as I punched my card, Alice gave me a brusque nod and turned away. I greeted Mary effusively, asked how she was, and gave her my cookies or fruit from lunch. She always answered, &ldquo;I&rsquo;m fine, thank you,&rdquo; in her shy, flat voice, and smiled widely. Still, I worked as far from her as possible. I cringed on the two occasions that I was close enough to hear the boss tell her she couldn&rsquo;t go on break. The first time, I tried to speak with Alice again. She seemed to pull into herself, like a turtle bracing against an attack.</p>
+
+<p>&ldquo;What business is it of yours?&rdquo; she snapped. &ldquo;What do you think you know? Anyway, Mary needs this job. Where the hell else is she going to find work? It&rsquo;s the boss keeps her on the Floor. You want to get her fired? Just shut your mouth. Forget it.&rdquo;</p>
+
+<p>I had no idea what Mary&rsquo;s life was like outside of the Floor, whether she had parents or friends or a social worker. Maybe Alice was right, after all. What did I know?</p>
+
+<p>Alice deviated from her position only once. Mary had a bad cold, her face flushed enough to suggest a fever. She sneezed through tissue after tissue, plagued by great, wrenching coughs. Alice assigned her to a massive shipment of cotton turtlenecks, and when the boss appeared, she called sharply, &ldquo;Mary, come here and help me carry these boxes out. No break for you today.&rdquo; He spun and stared at Alice, but she met his gaze full on. Mary stepped forward, and he watched them retreat down the hallway to the storeroom. His shoulders tightened, and he went back to his office. Alice came back puffing, not fit enough for that kind of physical labor. Mary was coughing and sneezing, her nose red and swollen.</p>
+
+<p>The boss didn&rsquo;t come down the rest of the week.</p>
+
+<p>I woke up every morning feeling as if an animal were trapped inside me, pushing at my chest, struggling to break out. I thought I might be wrong to remain silent, but I&rsquo;d told Alice. Who else was there who could help? One morning, sardined beside my mother on the train, I asked, &ldquo;Ma, what can anybody do if they think they&rsquo;re doing something wrong?&rdquo;</p>
+
+<p>She put her finger in the page of her book and asked, &ldquo;You done something wrong?&rdquo;</p>
+
+<p>&ldquo;No,&rdquo; I said hastily. &ldquo;I just wondered. How do you make it right?&rdquo;</p>
+
+<p>She lowered her book and leaned close so that I might hear her over the roaring of the train. &ldquo;You&rsquo;re talking about Yom Kippur. That&rsquo;s what it&rsquo;s about. Atonement. That&rsquo;s when you ask to be forgiven. You can&rsquo;t make what you did right, but you try to do better.&rdquo;</p>
+
+<p>I wanted to cry. She studied me but wisely remained silent.</p>
+
+<p>&ldquo;What if you don&rsquo;t think you can do better in a situation, if it seems impossible?&rdquo; I blurted out. &ldquo;It&rsquo;s such a bad world. How can you do anything?&rdquo;</p>
+
+<p>She shook her head and said, &ldquo;It&rsquo;s impossible to change the world. You just pick your battles. Figure out which ones you stand a chance of winning and let the rest go, or you&rsquo;ll make yourself crazy.&rdquo; She smiled sadly. &ldquo;Such a tough lesson to learn, how to figure out what you can actually do, sometimes even to figure out if you&rsquo;ve done wrong or right in the first place.&rdquo; She tsked sympathetically. &ldquo;In this world there are people with power and people without it. I think those without it can freely give only compassion. They don&rsquo;t have anything else in abundance.&rdquo; She put her hand on my shoulder and said, &ldquo;If you atone on Yom Kippur, search your soul for answers, and try to make up for your mistakes, you&rsquo;ve done the best you can do, and nobody can ask for anything more.&rdquo;</p>
+
+<p>I was disappointed by her response. I&rsquo;d been expecting some Yiddish-socialist doctrine that needed only a leader to propagate it, a movement like the one that would come later, for civil rights. But she offered me the only advice most of us could manage to follow: to do the best we can.</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">I quit that job a week before Labor Day. On my last day I gave Mary a box of chocolates and hugged her goodbye. She accepted it gratefully. Mark and David were surprised, but promised to keep in touch. They gave me a pack of cigarettes as a going-away present. Alice shook my hand and wished me luck. Before we parted, she came up close to me, the scent of her toilet water heavy in the summer heat, and asked, &ldquo;What&rsquo;s the cheapest commodity in the world?&rdquo;</p>
+
+<p>I thought for a few moments before shrugging and answering, &ldquo;Tootsie Rolls.&rdquo;</p>
+
+<p>Something in her seemed to lighten at my answer, and she threw her head back and laughed a little too loud. When she stopped, her eyes were wet, and she rubbed her sleeve over them. &ldquo;No,&rdquo; she told me. &ldquo;We are. <em>We</em> are.&rdquo;</p>
+
+<p>My stomach tightened as she walked away.</p>
+
+<p>After a few desultory phone calls, Mark, David, and I gave up. My brother was glad to have me back. We filled the days with movies and fire hydrants, sneaking onto the subway a few times to go to Coney Island. Despite having my own money, I stole a record number of ice pops and ice-cream cones those last few weeks of summer. I stole other things, too, recklessly, wantonly, as if defying somebody to challenge me. Once, I walked out of a department store with a pair of shoes in my hand. Nobody stopped me.</p>
+
+<p>I took a job in a hospital the following summer, filing endless folders in a dusty basement, and then another job the summer after that, each summer melting into the next, though the heat never quite approached the summer of 1957. I forced myself to forget about Mary, but certain things still resurrect her bright, sloppy smile: the opening line of Bob Dylan&rsquo;s &ldquo;All along the Watchtower&rdquo; (&ldquo; &lsquo;There must be some way out of here,&rsquo; / said the joker to the thief&rdquo;); Diane Arbus photographs; and, a few years ago, the film <em>The Dream Life of Angels</em>.</p>
+
+<p>After high-school graduation I worked in offices, married, and had two sons. I joined the feminist movement and worked with abused women and children. Then, seventeen years later, after my divorce, I put myself well over my head in debt and went back to school till I had a master&rsquo;s in social work. After my mother died, I moved to Maine, found a few jobs in community-health organizations, and worked with the poor and the disabled. As soon as I could, I started a private practice with a sliding scale.</p>
+
+<p>One hot summer day a woman came into my office leading her nineteen-year-old daughter by the hand. The girl had Down syndrome, and she&rsquo;d been raped. They lived two blocks from my office. The mother had no insurance but could swing ten dollars a week. My office was air-conditioned, and we sat comfortably, the girl staring at the floor while the mother spoke and I listened. The daughter answered my occasional questions with a flat yes or no, never looking up at me. Her dark hair was neat and cared for, her worn jeans spotless. The mother held her hand the whole time. I took the case.</p>
+
+<p>That Yom Kippur I walked on the beach, tossing bread to the sea gulls and a message to my mother: <em>Ma, I&rsquo;m doing the best I can</em>.</p>
+														</div>
+
+
+				
+<div class="sharing-bar article-sharing">
+	<div class="sharing-bar-first">
+		<a href="javascript:window.print();" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-printer"></use></svg> <span>Print</span></a>
+	</div>
+
+	<div class="sharing-bar-second">
+		<span class="alt-ff xsmall">Share:</span>
+		<a href="https://www.facebook.com/sharer/sharer.php?u=https://www.thesunmagazine.org/issues/337/heat" target="_blank" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-facebook"></use></svg> <span>Facebook</span></a>
+		<a href="https://twitter.com/share?url=https://www.thesunmagazine.org/issues/337/heat&amp;via=thesunmagazine" target="_blank" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-twitter"></use></svg> <span>Twitter</span></a>
+		<a href="#" class="b b-1 b-padding-tight xsmall js-toggle-mail-form"><svg><use xlink:href="#i-email"></use></svg> <span>Email</span></a>
+	</div>
+</div>
+
+<div class="send-to-friend-message-container">
+	<div class="alert alert-success xsmall">Thank you for sharing <em>The Sun</em>.</div>
+</div>
+
+<form method="post" action="/ajax/articles/send-to-a-friend" class="form fill-grey send-to-friend-form">
+		<input type="hidden" id="form_url" name="form[url]" value="https://www.thesunmagazine.org/issues/337/heat" />
+
+	<ul class="form-fields">
+		<li><label for="form_sender_name"><span class="label-text">Your Full Name</span><span class="label-asterisk">*</span></label><input type="text" id="form_sender_name" name="form[sender_name]" required="required" /></li>
+		<li><label for="form_sender_email"><span class="label-text">Your Email Address</span><span class="label-asterisk">*</span></label><input type="email" id="form_sender_email" name="form[sender_email]" required="required" /></li>
+		<li><label for="form_recipient_name"><span class="label-text">Friend’s Name</span><span class="label-asterisk">*</span></label><input type="text" id="form_recipient_name" name="form[recipient_name]" required="required" /></li>
+		<li><label for="form_recipient_email"><span class="label-text">Friend’s Email Address</span><span class="label-asterisk">*</span></label><input type="email" id="form_recipient_email" name="form[recipient_email]" required="required" /></li>
+		<li><label for="form_message"><span class="label-text">Personalized Message</span></label><textarea id="form_message" name="form[message]"></textarea></li>
+	</ul>
+<div class="send-to-friend-message-container">
+	<div class="alert alert-error xsmall">Something went wrong. Please try again.</div>
+</div>
+
+<div class="g-recaptcha" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs"></div>
+<div class="form-actions"><button type="submit" id="form_submit" name="form[submit]"	class="form-actions-b-primary b b-1 b-loading xsmall"><svg><use xlink:href="#i-loading"></use></svg>
+		Submit
+	</button></div>
+<input type="hidden" id="form__token" name="form[_token]" value="6d8df218ec88d31b87ce84ea86052076fa33dae4" /></form>
+
+<br>
+
+
+
+										<footer class="article-contributor contributors">
+									
+
+<div class="block-contributor">
+		
+
+		<div class="block-contributor-content">
+		<div class="block-contributor-bio small">
+			<p><strong><span class="smallcaps">Michelle Cacho-Negrete</span></strong> is a retired social worker living in Maine. She is currently writing a book-length memoir, from which her essay in this issue is taken. Her work is forthcoming in <em>Psychotherapy Networker</em>. She conducts writing workshops for groups and individuals.</p><a href="/contributors/michelle-cacho-negrete" class="block-contributor-link link-alt small">More From This Contributor&nbsp;&#9656;</a>		</div>
+	</div>
+</div>
+
+							</footer>
+						</article>
+
+
+				    <div class="paywall-subscription block-product">
+			<div class="columns">
+			<div class="paywall-banner span3 cta cta-l1">
+				<div class="cta-intro">
+					<h5 class="cta-title alt-ff">One Free Selection Left </h5>
+					<p class="cta-text xsmall"><a class="link-alt" href="https://www.thesunmagazine.org/subscriber/login" data-label="Already a subscriber?">Already a subscriber? Sign in ▸</a><br><br>Read two free selections from <em>The Sun</em> each month.</p>
+				</div>
+			</div>
+			<div class="paywall-banner span9 note note-1 text-center">
+				<h4 class="cta-title alt-ff">Subscribe to <em>The Sun</em> and save 45%</h4>
+				<p class="cta-text xsmall">Subscribers get full access to the current issue and more than 40 years of archives.</p>
+				<a class="b b-1 xsmall cta-trigger"  href="/subscribe1" data-label="Subscribe" data-ctatitle="Subscribe">Subscribe</a>
+			</div>
+		</div>
+
+		<div class="columns">
+			<div class="span12 paywall-cta-bottom">
+				<p>
+					<span class="cta-title-issue">Buy the January 2004 issue for $5.95</span>
+					<span class="xsmall">Order now to get instant access to this issue, and we’ll also send you a print copy.</span>
+					<a class="b b-5 xsmall corona"  href="#" data-product-type="issues" data-id="337" data-label="Order Now ▸">Order Now ▸</a>
+				</p>
+			</div>
+		</div>
+
+		
+
+</div>
+	
+	
+	
+	<div class="spacer"></div>
+	
+
+
+
+		
+		<div class="article-correspondence-cta">
+		<div class="cta cta-l1" data-url="https://www.thesunmagazine.org/letter-to-the-editor">
+			<div class="cta-intro">
+				<h5 class="cta-title alt-ff">Thinking about writing us a letter?</h5>
+				<p class="cta-text">Give in to the temptation. We love getting mail. <br><span class="xsmall">(Of course, we reserve the right to edit.)</span></p>
+			</div>
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" class="cta-button b b-4 b-padding-tight small" data-label="Write Us A Letter!">Write Us A Letter!</a>
+		</div>
+	</div>
+	
+
+			<div class="article-also layout-item-large full-bar fill-grey-mid-light">
+		<div class="layout-item-intro">
+			<h2>Also In This Issue</h2>
+			<a href="/issues/337" class="xsmall link-alt">January 2004&nbsp;&#9656;</a>
+		</div>
+		<div class="issue-articles-l1">
+			<div class="issue-articles-l1-content1">
+				
+<div class="cover cover-l1 block-product">
+	<div>
+							<a href="/issues/337" class="cover-thumb">
+				
+				<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 728 945'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/2016-04/1460138620_337.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/561x728r/2016-04/1460138620_337.jpg
+	 alt=""
+	 class="lazy">
+
+			</a>
+		
+
+													<!-- <a href="/issues/337" data-product-type="issues" data-id="337" data-role="order" class="js-buy-single corona cover-button b b-1 b-full xsmall" data-label="Buy This Issue &#9656;">
+								Buy This Issue&nbsp;&#9656;
+			</a> -->
+			<a href="/issues/337" data-product-type="issues" data-id="337" class="js-buy-single corona cover-button b b-1 b-full xsmall" data-label="Buy This Issue &#9656;">
+								Buy This Issue&nbsp;&#9656;
+			</a>
+					
+					</div>
+</div>
+			</div>
+			<div class="issue-articles-l1-content2">
+				<div class="articles-l3">
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/337/getting-away">Getting Away</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/susan-parker">Susan Parker</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/337/how-to-make-god-laugh">How To Make God Laugh</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/sarah-pemberton-strong">Sarah Pemberton Strong</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/337/a-plan-to-change-the-world">A Plan To Change The World</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/lorenzo-w-milam">Lorenzo W. Milam</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/337/prodigal-daughter">Prodigal Daughter</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/alison-luterman">Alison Luterman</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+									</div>
+			</div>
+		</div>
+	</div>
+	
+
+			<div class="article-related layout-item-large full-bar fill-pattern-light">
+		<div class="layout-item-intro">
+			<h2>Related Selections</h2>
+			<ul class="list-inline list-inline-tight"><li><a href="/topics/oppression" class="xsmall link-alt link-text">Oppression</a></li><li><a href="/topics/sexual-violence" class="xsmall link-alt link-text">Sexual Violence</a></li><li><a href="/topics/disability" class="xsmall link-alt link-text">Disability</a></li></ul>		</div>
+
+		<div class="articles-l2">
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/quotations">Quotations</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/514/sunbeams-issue-514">Sunbeams</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li><a href="/issues/514">October 2018</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/514" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 727'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/140x182r/2018-09/514.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/2018-09/514.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/readers-write">Readers Write</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/367/waking-up">Waking Up</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/our-readers">Our Readers</a></li><li><a href="/issues/367">July 2006</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/367" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 727'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/140x182r/import/issue/367.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/import/issue/367.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/338/sparrows-in-purity-supreme">Sparrows In Purity Supreme</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/sybil-smith">Sybil Smith</a></li><li><a href="/issues/338">February 2004</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/338" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 561 728'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/140x182r/2016-11/338.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/281x364r/2016-11/338.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/fiction">Fiction</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/69/birdseye">Birdseye</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/pat-ellis-taylor">Pat Ellis Taylor</a></li><li><a href="/issues/69">August 1981</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/69" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 725'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/141x182r/import/issue/069.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/281x364r/import/issue/069.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+					</div>
+	</div>
+	
+	
+					<form id="newsletterForm" method="post" action="https://www.thesunmagazine.org/newsletter" data-url-send="https://www.thesunmagazine.org/newsletter" class="form form-newsletter fill-grey" enctype="multipart/form-data" target="_blank">
+
+
+
+		<div class="form-newsletter-intro">
+			<h3 class="alt-ff large">Sign Up For Our Newsletter</h3>
+			<p>We’ll let you know about new website selections, upcoming events, special offers, and more.</p>
+		</div>
+
+		<ul class="form-newsletter-fields form-fields form-fields-inline">
+			<li>
+				<input name="name" type="text" maxlength="500" id="name" placeholder="Your Name">
+			</li>
+			<li>
+				<input name="email" type="text" maxlength="500" id="email" placeholder="Your E-mail">
+			</li>
+
+			<li class="form-fields-inline-button">
+				<button disabled="disabled" class="form-newsletter-send b b-4 b-padding-tight b-loading g-recaptcha" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs" data-callback="recaptcha_callback" name="SubmitButton" id="SubmitButton">
+					<svg><use xlink:href="#i-loading"></use></svg>
+					Sign&nbsp;Up
+				</button>
+			</li>
+		</ul>
+	</form>
+	<script id="hiddenlpsubmitdiv" style="display: none;"></script>
+
+
+
+<footer class="footer brand-grey-dark">
+			<div class="footer-first">
+		<h3 class="footer-tagline">Independent, Reader-Supported Publishing</h3>
+		<p class="footer-desc">In each issue of <em>The Sun</em> you’ll find some of the most radically intimate and socially conscious writing being published today. In an age of media conglomerates, we’re something of an oddity: an ad-free, independent, reader-supported magazine.</p>
+		<ul class="footer-nav list-inline-border xsmall">
+			
+		<li class=" first">
+			<a href="https://www.thesunmagazine.org/about" 	   class=''>
+	   About <em>the Sun</em>	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/staff" 	   class=''>
+	   Staff	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/find-the-sun" 	   class=''>
+	   Find <em>The Sun</em>&nbsp;&nbsp;in a Store Near You	</a>
+		
+	</li>
+
+
+		</ul>
+	</div>
+	
+		<div class="footer-second">
+		<ul class="footer-second-social list-inline">
+			<li><a href="https://www.facebook.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-facebook"></use></svg></span> Like Us</a></li>
+			<li><a href="https://twitter.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-twitter"></use></svg></span> Follow Us</a></li>
+			<li><a href="https://instagram.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-instagram"></use></svg></span> Take a Look</a></li>
+		</ul>
+
+		<div class="footer-second-content">
+			<ul class="footer-nav list-inline-border xsmall">
+				
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/" 	   class='current '>
+	   Home	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/privacy-policy" 	   class=''>
+	   Privacy Policy	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/terms-of-use" 	   class=''>
+	   Terms of Use	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/site-map" 	   class=''>
+	   Site Map	</a>
+		
+	</li>
+
+
+			</ul>
+			<p class="footer-copyright xxsmall">Copyright &copy; 1974–2020 <em>The Sun</em>. All rights reserved.</p>
+		</div>
+	</div>
+</footer>
+
+
+
+<div class="offset-nav">
+	<ul>
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/read" 	   class='current '>
+	   Read	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/issues/current" 	   class=''>
+	   Current Issue	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/archives" 	   class=''>
+	   Archives	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/featured" 	   class=''>
+	   Featured Selections	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/topics" 	   class=''>
+	   Browse Topics	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/sections" 	   class=''>
+	   Browse Sections	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/connect" 	   class=''>
+	   Connect	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/news" 	   class=''>
+	   News from <em>The Sun</em>	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" 	   class=''>
+	   Write a Letter to the Editor	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/discussion-groups" 	   class=''>
+	   Discussion & Writing Groups	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/make-a-suggestion" 	   class=''>
+	   Make a Suggestion	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/submit" 	   class=''>
+	   Submit	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/shop" 	   class=''>
+	   Shop	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/giftsub" 	   class=''>
+	   Gift Subscriptions	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/issues" 	   class=''>
+	   Issues	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+											
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/donatemenu" 	   class='highlight'>
+	   Donate	</a>
+		
+	</li>
+
+		<li class=" last">
+														<a href="/SubscribeNav1" 					   class=''>
+						Subscribe					</a>
+									
+	</li>
+
+
+					<li>
+				<a href="https://www.thesunmagazine.org/shop/cart">Cart ( <span class="cart-item-count">  0  </span>)</a>
+			</li>
+			<li><a href="https://www.thesunmagazine.org/subscriber/login" class="link-header-logout link-alt">Sign In</a></li>
+			</ul>
+	<ul>
+		<li class=" first">
+			<a href="https://www.thesunmagazine.org/about" 	   class=''>
+	   About <em>the Sun</em>	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/staff" 	   class=''>
+	   Staff	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/find-the-sun" 	   class=''>
+	   Find <em>The Sun</em>&nbsp;&nbsp;in a Store Near You	</a>
+		
+	</li>
+
+</ul>
+	<ul>
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/" 	   class='current '>
+	   Home	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/privacy-policy" 	   class=''>
+	   Privacy Policy	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/terms-of-use" 	   class=''>
+	   Terms of Use	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/site-map" 	   class=''>
+	   Site Map	</a>
+		
+	</li>
+
+</ul>
+</div>
+
+<div id="buy-popup-message" class="buy-popup mfp-hide white-popup white-popup-block">
+	<a class="popup-modal-dismiss" href="#"></a>
+	<h5>Due to fulfillment challenges related to the novel coronavirus, print copies are temporarily unavailable for individual sale. We are offering free PDFs until we are able to resume print sales.</h5>
+	<p>Enter your e-mail address below to download this issue.</p>
+	<form method="post" id="download-single" action="https://www.thesunmagazine.org/issue/pdfFree/531.pdf">
+		<label for="email"><span class="label-text">E-mail</span><span class="label-asterisk">*</span></label>
+		<input class="buy-single-email" id="email" type="email" name="email">
+		<button type="send" class="form-buy-issue-send b b-3 b-padding-tight b-loading">Send</button>
+		<button class="form-buy-issue-download b b-3 b-padding-tight b-loading">Download pdf</button>
+		<button type="send" class="popup-modal-dismiss b b-2 b-padding-tight b-loading">Close</button>
+		<div class="g-recaptcha" style="text-align: center" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs"></div>
+
+	</form>
+</div>
+
+			<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/plugins.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/site.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/newsletter.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/js/articles.js"></script>
+		</div>
+		</div>
+
+				<script>
+		(function (doc) {
+			var scripts = doc.getElementsByTagName('script');
+			var script = scripts[scripts.length - 1];
+			var xhr = new XMLHttpRequest();
+			xhr.onload = function () {
+				var div = doc.createElement('div');
+				div.innerHTML = this.responseText;
+				div.style.display = 'none';
+				script.parentNode.insertBefore(div, script);
+			}
+			xhr.open('get', '/theme/thesun//assets/build/img/sprite/sprite.svg', true);
+			xhr.send();
+		})(document);
+
+
+
+		</script>
+
+		<script>
+			// Submit function
+            function recaptcha_callback() {
+						var getUrl = $('.form-newsletter').data( "url-send" ),
+							getName = $('input#name').val(),
+							getEmail = $('input#email').val();
+						$.ajax({
+								type: "POST",
+								url: getUrl,
+								data: {
+									name: getName,
+									email: getEmail,
+									grecaptcharesponse: grecaptcha.getResponse()
+								}
+							}).done(function(response) {
+								console.log(response);
+									$('.form-fields').fadeOut(800, function () {
+										$('.form-fields').empty().append('<div class="newsletter-confirm-message">Thank you for signing up to receive news from <em>The Sun</em>. Your first newsletter will arrive soon.<div>').fadeIn(800);
+									});
+							});
+			}
+
+		</script>
+
+		<script>
+			function getUrlCode() {
+				var url_string = window.location.href;
+				var url = new URL(url_string);
+				var c = url.searchParams.get('promotion\_key');
+				if (typeof c !== 'undefined' && c !== null) {
+					setCookie("promotion_code",c);
+				}
+			}
+
+			function setCookie(cname, cvalue) {
+				document.cookie = cname + "=" + cvalue + ";" + "path=/";
+			}
+
+			function getCookie(cname) {
+				var name = cname + "=";
+				var decodedCookie = decodeURIComponent(document.cookie);
+				var ca = decodedCookie.split(';');
+				for(var i = 0; i <ca.length; i++) {
+					var c = ca[i];
+					while (c.charAt(0) == ' ') {
+						c = c.substring(1);
+					}
+					if (c.indexOf(name) == 0) {
+						return c.substring(name.length, c.length);
+					}
+				}
+				return "";
+			}
+			window.addEventListener( "load", getUrlCode );
+		</script>
+
+
+	</body>
+</html>

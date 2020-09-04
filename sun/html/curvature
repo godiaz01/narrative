@@ -1,0 +1,1241 @@
+
+<!DOCTYPE html>
+<html class="no-js" lang="en-US">
+	<head>
+		<title>Curvature - The Sun Magazine</title>
+
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		
+		<meta name="viewport" content="width=device-width, minimum-scale=1.0">
+
+		<link rel="dns-prefetch" href="//ajax.googleapis.com">
+		<link rel="dns-prefetch" href="//use.typekit.net">
+		
+		<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/modernizr.js"></script>
+		<script src="https://www.google.com/recaptcha/api.js"
+				async defer>
+		</script>
+
+		<script>(function(d) { var config = { kitId: 'kzw7ebk', scriptTimeout: 3000, async: true }, h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s) })(document);</script>
+
+
+				
+		<link rel="apple-touch-icon" sizes="57x57" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-57x57.png?v=2016">
+		<link rel="apple-touch-icon" sizes="60x60" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-60x60.png?v=2016">
+		<link rel="apple-touch-icon" sizes="72x72" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-72x72.png?v=2016">
+		<link rel="apple-touch-icon" sizes="76x76" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-76x76.png?v=2016">
+		<link rel="apple-touch-icon" sizes="114x114" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-114x114.png?v=2016">
+		<link rel="apple-touch-icon" sizes="120x120" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-120x120.png?v=2016">
+		<link rel="apple-touch-icon" sizes="144x144" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-144x144.png?v=2016">
+		<link rel="apple-touch-icon" sizes="152x152" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-152x152.png?v=2016">
+		<link rel="apple-touch-icon" sizes="180x180" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-180x180.png?v=2016">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-32x32.png?v=2016" sizes="32x32">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/android-chrome-192x192.png?v=2016" sizes="192x192">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-96x96.png?v=2016" sizes="96x96">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-16x16.png?v=2016" sizes="16x16">
+		<link rel="mask-icon" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/safari-pinned-tab.svg?v=2016" color="#444444">
+		<link rel="shortcut icon" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon.ico?v=2016">
+		<meta name="apple-mobile-web-app-title" content="The Sun Magazine">
+		<meta name="application-name" content="The Sun Magazine">
+		<meta name="msapplication-TileColor" content="#fcc330">
+		<meta name="msapplication-TileImage" content="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/mstile-144x144.png?v=2016">
+		<meta name="theme-color" content="#ffffff">
+
+				<link rel="stylesheet" type="text/css" href="https://cloud.typography.com/6578674/659928/css/fonts.css" />
+		<link rel="stylesheet" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/css/style.css">
+
+																		<meta property="og:site_name" content="The Sun Magazine">
+		<meta property="og:type" content="article">
+		<meta property="og:url" content="https://www.thesunmagazine.org/issues/402/curvature">
+		<meta property="og:image" content="http://www.thesunmagazine.org/files/2016-08/402-26-carter-preview.jpg">
+		<meta property="og:title" content="Curvature - The Sun Magazine">
+		<meta property="og:description" content="&amp;ldquo;Please, call me Dr. Jim.&amp;rdquo; My father, whose boots were caked with hog manure, appeared relieved, and they sat down to review what would happen on the day of my sister&amp;rsquo;s surgery. Dina had to have her back operated on, or her S-shaped spinal column would eventually crush her heart.">
+		<meta property="fb:app_id" content="158741778010551">
+
+						<link rel="image_src" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.comhttp://www.thesunmagazine.org/files/2016-08/402-26-carter-preview.jpg">
+
+												<meta name="twitter:card" content="summary">
+		<meta name="twitter:title" content="Curvature - The Sun Magazine">
+		<meta name="twitter:description" content="&amp;ldquo;Please, call me Dr. Jim.&amp;rdquo; My father, whose boots were caked with hog manure, appeared relieved, and they sat down to review what would happen on the day of my sister&amp;rsquo;s surgery. Dina had to have her back operated on, or her S-shaped spinal column would eventually crush her heart.">
+		<meta name="twitter:image" content="http://www.thesunmagazine.org/files/2016-08/402-26-carter-preview.jpg">
+		<meta name="twitter:site" content="@thesunmagazine">
+
+				<link rel="publisher" href="https://plus.google.com/113792980827145858211">
+        
+		<meta name="Description" content="&amp;ldquo;Please, call me Dr. Jim.&amp;rdquo; My father, whose boots were caked with hog manure, appeared relieved, and they sat down to review what would happen on the day of my sister&amp;rsquo;s surgery. Dina had to have her back operated on, or her S-shaped spinal column would eventually crush her heart.">
+
+		
+		<!-- Google Tag Manager -->
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-TKBHCCG');</script>
+		<!-- End Google Tag Manager -->
+
+		<!-- Google Analytics -->
+		<script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+            ga('create', 'UA-2351127-1', 'auto');  // Replace with your property ID.
+            ga('send', 'pageview');
+            ga('require', 'ecommerce');   // Load the ecommerce plug-in.
+		</script>
+		<!-- End Google Analytics -->
+	</head>
+	<body id="">
+
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TKBHCCG"
+		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+		<header class="header" data-offset-start="80">
+		<div class="header-utilities">
+				<ul class="header-utilities-user list-inline list-inline-tight xxsmall">
+							<li>
+					<span class="header-utilities-user-intro">Already A Subscriber?</span> &nbsp;
+					<a href="https://www.thesunmagazine.org/subscriber/login" class="link-text link-alt">Sign In</a>
+				</li>
+					</ul>
+		<a href="https://www.thesunmagazine.org/shop/cart" class="header-utilities-cart  link-alt link-icon tiny">
+			<span class="i"><svg><use xlink:href="#i-cart"></use></svg></span>
+			<span class="cart-item-count">
+									0 Items
+				
+			</span>
+		</a>
+			</div>
+
+		<div class="header-bar">
+		<h1 class="header-logo logo">
+			<a href="/">
+				<img src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/img/logo-thesun.svg" class="logo-thesun" alt="The Sun Magazine">
+				<img src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/img/logo-tagline.svg" class="logo-tagline" alt="">
+			</a>
+		</h1>
+
+		<ul class="header-nav">
+			
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/read" 	   class='current '>
+	   Read	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/issues/current" 	   class=''>
+	   Current Issue	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/archives" 	   class=''>
+	   Archives	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/featured" 	   class=''>
+	   Featured Selections	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/topics" 	   class=''>
+	   Browse Topics	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/sections" 	   class=''>
+	   Browse Sections	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/connect" 	   class=''>
+	   Connect	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/news" 	   class=''>
+	   News from <em>The Sun</em>	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" 	   class=''>
+	   Write a Letter to the Editor	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/discussion-groups" 	   class=''>
+	   Discussion & Writing Groups	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/make-a-suggestion" 	   class=''>
+	   Make a Suggestion	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/submit" 	   class=''>
+	   Submit	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/shop" 	   class=''>
+	   Shop	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/giftsub" 	   class=''>
+	   Gift Subscriptions	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/issues" 	   class=''>
+	   Issues	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+											
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/donatemenu" 	   class='highlight'>
+	   Donate	</a>
+		
+	</li>
+
+		<li class=" last">
+														<a href="/SubscribeNav1" 					   class=''>
+						Subscribe					</a>
+									
+	</li>
+
+
+		</ul>
+
+		<button class="header-nav-toggle"><svg><use xlink:href="#i-menu" class="i-menu"></use><use xlink:href="#i-close" class="i-close"></use></svg></button>
+		<button class="header-search-toggle" data-form-wrapper=".header-search"><svg><use xlink:href="#i-magnifier" class="i-magnifier"></use><use xlink:href="#i-close" class="i-close"></use></svg></button>
+	</div>
+
+		<div class="header-search">
+		<div class="header-search-content">
+			<form action="https://www.thesunmagazine.org/search" class="form form-search" method="get">
+				<h2 class="alt-ff brand-link">Search Our 40 Years of Archives</h2>
+				<ul class="form-search-fields form-fields form-fields-inline">
+					<li><input type="text" name="q" value=""></li>
+					<li class="form-fields-inline-button"><button class="b b-1 b-padding-tight b-loading"><svg><use xlink:href="#i-loading"></use></svg>Search</button></li>
+				</ul>
+
+				<div class="header-search-content-shortcuts">
+					<h6 class="search-advanced alt-ff"><a class="js-handle-advanced" href="https://www.thesunmagazine.org/search?advanced=1">Advanced Search</a></h6>
+					<br>
+					<h6 class="alt-ff">Popular Pages</h6>
+					<ul class="list-inline-border list-inline-tight xxsmall"><li class=" first"><a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a></li><li class=""><a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a></li><li class=""><a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a></li><li class=""><a href="https://www.thesunmagazine.org/sections/quotations" 	   class=''>
+	   Quotations	</a></li><li class=""><a href="https://www.thesunmagazine.org/sections/readers-write" 	   class=''>
+	   Readers Write	</a></li><li class=" last"><a href="https://www.thesunmagazine.org/sections/poetry" 	   class=''>
+	   Poetry	</a></li></ul>				</div>
+			</form>
+		</div>
+	</div>
+</header>
+
+	<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+	<script type="text/javascript">
+		$(document).ready(function() {
+			$('.js-handle-advanced').on('click', function (e) {
+				e.preventDefault();
+				var getSearchValue = $('.form-search-fields input').val();
+				var getURL = $(this).attr('href');
+				var newURL = getURL + '&q=' + getSearchValue;
+				window.location.href = newURL;
+			});
+		});
+	</script>
+
+		<div class="container-hidden">
+		<div class="container">
+
+				
+	
+	<article class="article ">
+		<header class="block-content block-content-l1 block-content-center">
+						<div class="block-content-header">
+				<h6 class="b-content-section heading-square"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+				<h1 class="block-content-title">Curvature</h1>
+
+				
+				<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/doug-crandell">Doug Crandell</a></li><li><a href="/issues/402">June 2009</a></li></ul>
+
+			</div>
+
+																			
+
+				<figure class="block-content-photo block-content-photo-large photo photo-outset-center-large">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 2360 1559'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/1180x1786r/photos/402-26-carter.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/2360x3573r/photos/402-26-carter.jpg
+	 alt="402 - Carter - Crandell"
+	 class="lazy">
+
+										<figcaption>
+
+						
+																				<div class="photo-credit">
+								&copy;&nbsp;<a href="/contributors/william-carter">William Carter</a>
+							</div>
+																		</figcaption>
+									</figure>
+
+					</header>
+
+				<div class="article-body link-text-wrap">
+																		<p><strong><em><span class="large">The doctor,</span></em></strong> who we all assumed was from India but was actually a native of Pakistan, was gentle, reassuring, and patient with my Midwestern farm family. We couldn&rsquo;t pronounce his name, and as he shook my father&rsquo;s hand he said, in his soothing accent, &ldquo;Please, call me Dr. Jim.&rdquo; My father, whose boots were caked with hog manure, appeared relieved, and they sat down to review what would happen on the day of my sister&rsquo;s surgery. Dina had to have her back operated on, or her <span class="smallcaps">S</span>-shaped spinal column would eventually crush her heart. Dr. Jim talked as if Dina&rsquo;s back were the most important medical problem in the world, and he expertly sketched out the surgery for us on a sheet of paper. It resembled a plan for a marvelous spaceship: difficult to decipher but beautiful.</p>
+
+<p>On the drive home my mother had a gleam in her eye and said Dr. Jim looked like &ldquo;a tanned Elvis.&rdquo; It was the summer of 1979, the height of the energy crisis. Every gas station we passed had long lines at the pump.</p>
+
+<p>&nbsp;</p>
+
+<p><strong><em><span class="large">One month later</span></em></strong> Dina celebrated her sixteenth birthday in a rotating bed at Parkview Hospital in Fort Wayne, Indiana. When we brought in her cake, she was positioned facedown in midair, pins in her temples and knees to hold the weights that were supposed to straighten her crooked spine in preparation for the surgery, in which Dr. Jim would graft rods to her vertebrae to keep them in line. Eleven years old, I slid under the metal contraption that held Dina aloft and waited for my mother to hand me the round cake with pink icing and the words &ldquo;Hot Stuff&rdquo; spelled out in fructose-laden letters.</p>
+
+<p>&ldquo;Be careful,&rdquo; my mother said as she placed the cake in my wobbly hands. Her voice was dull, and she sounded exhausted. I feared she was becoming depressed.</p>
+
+<p>It had been my idea to crawl under the strange bed and have Dina blow her candles out through the canvas mask that held her head in place. (My mother had stuffed cotton along the edges of the mask to prevent a rash that had started to circle Dina&rsquo;s face.) But I scooted too quickly on my rear end, and the cake flopped over onto the tile floor.</p>
+
+<p>My mother dangled a wad of Kleenex at me. &ldquo;Here,&rdquo; she said, &ldquo;wipe it up, honey, so the bugs don&rsquo;t come in.&rdquo;</p>
+
+<p>I tried to clean the mess but only made it worse. The icing just kept fanning out in wider and wider circles. I was anxious because I didn&rsquo;t want the accident to deepen my mother&rsquo;s sadness. When I looked up at Dina&rsquo;s face, framed in canvas and cotton, her eyes were tearing up. Soon we were both crying. I reached to wipe her tears and managed to leave a glob of sticky icing on her red cheek. We began laughing then, while still sobbing.</p>
+
+<p>&ldquo;Well, for goodness&rsquo; sake. This is supposed to be a birthday party,&rdquo; our mother said, sounding as though she were reading from a script.</p>
+
+<p>Our mother was recovering from a hysterectomy at age thirty-eight, without hormone-replacement therapy. Her elderly male doctor in our hometown had told her she needed to get it done now: &ldquo;You&rsquo;ve got five kids already. That&rsquo;s enough.&rdquo; This was the same doctor who had delivered us all and gave us our flu shots every fall but could rarely remember our names. He was a good man but paternalistic, and the surgery he&rsquo;d insisted on would leave my mother depressed for years. I became her emotional support, trying to keep her spirits up by listening to her talk about all the things she was going to do to change her life: get a new hairstyle, lose weight, go to church more often. And I kept her company while she spent her days caring for Dina.</p>
+
+<p>We were still upset about the ruined cake when our mother looked at her watch and realized it was time for Dina to be turned over. Every hour my sister had to be rotated like a roast chicken on a spit, to make sure that the traction pulled her spine as straight as it could go. Our mother turned the crank handle on the bed, and Dina went from facedown to faceup. I awkwardly tried to hug my sister, patted her cheeks dry with the Kleenex, and told her I was sorry; I hadn&rsquo;t meant to drop the cake. All three of us were sniffling, eyes red, my mother dabbing Dina&rsquo;s nose with a tissue, when Dr. Jim strolled into the room and opened his arms wide.</p>
+
+<p>&ldquo;Now, what is this?&rdquo; he asked, his accent like liquid silver. &ldquo;No, no, no,&rdquo; he said. &ldquo;This is too beautiful of a day to be sad.&rdquo; He touched my mother on the elbow, and she smiled. She always seemed to liven up when he was around, which took some of the pressure off me. Dr. Jim approached me and bowed. &ldquo;Mr. Douglas,&rdquo; he said, patting my head. Then he sat down on a rolling stool and tilted the rotating bed so that he and Dina could be face to face. &ldquo;How are you feeling?&rdquo; he asked her. &ldquo;How is my <em>bhangra</em> dancer today?&rdquo;</p>
+
+<p>Dina smiled through her tears, chapped lips shiny with Vaseline. (Her mouth was perpetually dry, though we fed her ice chips constantly.) As Dr. Jim took Dina&rsquo;s blood pressure and listened to her heart, he noticed the mess from the dropped cake under the bed but said nothing. &ldquo;Singing just like <em>titili</em>,&rdquo; he said of Dina&rsquo;s heart. He looked to my mother and me and said, &ldquo;It means &lsquo;butterfly.&rsquo;&nbsp;&rdquo; He stroked Dina&rsquo;s head and made a humming sound to soothe her, and for a brief moment I wished I were the one he was spoiling. He put a tiny piece of candy in my sister&rsquo;s mouth, then said to my mother, &ldquo;Don&rsquo;t worry, Mama. It&rsquo;s only a spearmint drop, good for her.&rdquo; He motioned for us to sit and kept Dina tilted to include her in our conversation. He wasn&rsquo;t rushed. It was as if he had no other patients to see.</p>
+
+<p>&ldquo;So,&rdquo; he said casually, &ldquo;why the tears? Are you homesick?&rdquo; He sucked on a spearmint drop like the one he&rsquo;d given Dina. He smelled of soap and spice, and his hair was shiny and thick.</p>
+
+<p>My mother&rsquo;s eyes danced, and she straightened her posture. &ldquo;No, it&rsquo;s not that. It&rsquo;s just that today is Dina&rsquo;s birthday, and we&rsquo;re all kind of sad.&rdquo; I was pleased she hadn&rsquo;t mentioned that I&rsquo;d ruined the cake. I didn&rsquo;t want Dr. Jim to think me careless.</p>
+
+<p>&ldquo;Ah,&rdquo; he said, clasping his hands before him. &ldquo;I see.&rdquo; He rubbed Dina&rsquo;s arm and in a stage whisper said to her, &ldquo;You&rsquo;d rather be at the beach with a boyfriend than in Dr. Jim&rsquo;s torture bed, eh?&rdquo;</p>
+
+<p>Dina laughed.</p>
+
+<p>Dr. Jim sat and talked with us about our farm back home and his love of plants. My mother licked her lips and patted her sweaty forehead with a tissue. Finally Dr. Jim stood up and bowed slightly. He said to Dina, &ldquo;Do not be sad, my flower. You&rsquo;ll be out of this place in no time, and next summer the boys will all want to take you on a picnic.&rdquo; With that he left the room.</p>
+
+<p>After his visit our mood was more upbeat. We put some Donna Summer on a portable tape player, and I opened Dina&rsquo;s gifts from our siblings: a five-dollar bill from each of our brothers and a candy necklace from our baby sister. She strained her eyes to see each one. Then a candy striper came in. For a moment I thought she was going to scold us for having the music too loud, but she stepped back out into the hallway and fetched the janitor to clean up the cake under the rotating bed. &ldquo;Dr. Jim said Dina is so sweet she drips sugar,&rdquo; she told us, and to the janitor she said, &ldquo;This is Dr. Jim&rsquo;s favorite patient.&rdquo;</p>
+
+<p>When visiting hours were over, my mother and I drove in our old station wagon back to the <span class="smallcaps">KOA</span> campground where we were staying. The hospital was an hour&rsquo;s drive from our home in Wabash, Indiana. At first we&rsquo;d driven back and forth for each visit, but my mother had grown tired of sitting in long lines to buy gas, so we&rsquo;d borrowed a pop-up camper from some friends and were living in it at a campground just a few miles from the hospital. My two brothers were home helping Dad with the farm, and our baby sister was with our grandparents. I remember eating a lot of macaroni and cheese and trying to watch <em>The Love Boat</em> on a staticky black-and-white portable television.</p>
+
+<p>On our ride back that evening, the sunset glowed orange above the highway, and the lines of cars and trucks at the gas stations seemed to go on forever. As we traveled slowly, maintaining a lower speed to conserve gas, I noticed my mother was humming the way Dr. Jim had to Dina. I joined in, and she winked at me. Together we tried to make the sounds of a man whose name we couldn&rsquo;t pronounce.</p>
+
+<p>&nbsp;</p>
+
+<p><strong><em><span class="large">The next morning</span></em></strong> a fog had descended over the campground, shrouding the trailers, <span class="smallcaps">RV</span>s, and tents in white. My mother and I sat at our camper&rsquo;s little table, which at night turned into the bed where I slept. She shook Froot Loops into a bowl for me while I sipped from the can of Fresca I liked to have with breakfast. She seemed depressed again. Sequestered away in the camper with her, I felt the weight of responsibility return, and my stomach tightened. But then I thought of Dr. Jim and felt better. His optimistic view of everything was so different from our own. Our health problems, the farm, and our finances were always a source of doom, but Dr. Jim seemed to navigate trauma effortlessly, as if he could turn pain into joy the way he turned a crooked spine into an arrow.</p>
+
+<p>Since her hysterectomy, my mother had taken to wearing too much makeup. The greenish eye shadow, splotched with sleep, was smeared from her eyelids up toward her temples. I&rsquo;d had a strange dream during the night and wanted to talk to her about it. I often talked to her about dreams or crushes or poetry. In that way I felt more like a daughter to her than a son. My mother loved to write rhyming poems, and in her depression after the surgery she&rsquo;d written more of them than ever before. I thought she was the best poet I&rsquo;d ever heard, and I worked hard at writing some myself, scrawling little ditties on notebook paper.</p>
+
+<p>&ldquo;Mom?&rdquo;</p>
+
+<p>&ldquo;Yes, honey?&rdquo; she said as she sipped her coffee and blotted her lips.</p>
+
+<p>&ldquo;What&rsquo;s it mean when you dream about someone?&rdquo; I crunched my cereal and gulped it down with a swallow of Fresca.</p>
+
+<p>My mother scooted over to me, her polyester pants rubbing against the vinyl seat of the camper. &ldquo;Why? Who was the dream about?&rdquo;</p>
+
+<p>&ldquo;Well,&rdquo; I said, &ldquo;I dreamt Dr. Jim and I were stranded on this island, and there were these weird-looking birds with really long beaks. We had to fight them off at night, and then we ate dinner over a campfire, and he showed me how to heal the sick.&rdquo;</p>
+
+<p>&ldquo;Tell me more,&rdquo; my mother said, as if she&rsquo;d just been offered a juicy bit of gossip. Outside our camper windows the fog was lifting, and tents emerged from the haze. The man whose silver Winnebago was parked next to us poked at the remnants of the previous night&rsquo;s fire, a poodle tucked under his arm.</p>
+
+<p>&ldquo;That&rsquo;s all,&rdquo; I said, mouth stuffed with cereal.</p>
+
+<p>My mother seemed to lose some of her vigor then, so I asked her to read me one of her poems. She beamed and said, &ldquo;You&rsquo;re not going to believe this, but I wrote a poem about a dream <em>I</em> had of Dr. Jim.&rdquo; She lifted her shoulders in glee and waited for my response. I sat back from my bowl to listen, stomach queasy from all the sugar.</p>
+
+<p>The poem was about angels and the various colors of their skin: brown and pink and yellow and red. It was a long poem, and she turned her notebook pages with some agitation, as if she were going to rip the paper out. When she got to her last line, which proclaimed the doctor &ldquo;the Slim Messiah, Jim,&rdquo; I clapped.</p>
+
+<p>&nbsp;</p>
+
+<p><strong><em><span class="large">By the time</span></em></strong> we left to visit Dina at the hospital, the air outside was as clear as glass. The drive was pleasant, and there weren&rsquo;t nearly as many cars backed up at gas stations. Perhaps some extra gas had been found, I thought. For the first time since we&rsquo;d been staying at the campground, Mom drove the speed limit and even gunned the motor a few times. I think we were both just as eager to see Dr. Jim as we were to see Dina.</p>
+
+<p>At the hospital many people were wandering around the waiting area, heads hung low, crying or consoling others. Dr. Jim was there, his sleeves rolled up, helping teary-eyed families. There&rsquo;d been an accident on the highway, someone told us, a pileup due to the dense fog. My mother, clutching her poem, stopped to wave at Dr. Jim, but he was too busy to notice. After a second attempt, she let her arm fall to her side, and I realized that Dr. Jim would not always be there for us. After Dina came home, our lives would be as they had been before, and I would be the only one to keep my mother from sadness.</p>
+
+<p>As we made our way through the crowd to the elevators, my mother whispered to me, &ldquo;Pray for them, sweetie.&rdquo; I closed my eyes to pray while getting on the elevator and bumped into my mother.</p>
+
+<p>&ldquo;What are you doing?&rdquo; she asked.</p>
+
+<p>&ldquo;Praying,&rdquo; I said, a little irritated.</p>
+
+<p>&ldquo;You know you can pray with your eyes open,&rdquo; she said. The goodwill we&rsquo;d shared that morning, confessing our dreams of Dr. Jim, had vanished. I think the thought that we had to share him with other people had made us cranky.</p>
+
+<p>When we got to the hospital room, Dina was tired but talkative, the pins in her temples freshly cleaned and silvery. &ldquo;He&rsquo;s such a great human being,&rdquo; she said of Dr. Jim. &ldquo;He told me about his childhood, about how he had a parasite and couldn&rsquo;t gain weight. He saw his little sister die. That&rsquo;s why he became a doctor and moved to the United States: he wants to go back to set up a hospital in his hometown.&rdquo; My sister had a dreamy look on her face. Extra water bags had been added to weigh the bed down even more, and the tension pulled at her eyes.</p>
+
+<p>For a while we listened to music and talked about the accident and helped my sister eat from a tray of steaming cafeteria food. The sky outside grew dark as a storm approached. Then the clouds dumped sheets of rain against the glass, as if we were in a carwash. Dina became sleepy, and we all dozed while the storm raged outside.</p>
+
+<p>Around five o&rsquo;clock it was dark enough to turn on the overhead lights, and Dr. Jim came into the room. His confident stride seemed compromised, and he carefully rolled down his sleeves and buttoned them at his wrists. Dina strained to look at him. &ldquo;Don&rsquo;t fight, flower. I&rsquo;ll get my chair so we can talk.&rdquo; He rolled on a stool to Dina&rsquo;s bedside and smiled at her and stroked her forehead. &ldquo;How are you today?&rdquo; he asked.</p>
+
+<p>Dina didn&rsquo;t want to talk about herself. &ldquo;How are all those people hurt in the wreck?&rdquo;</p>
+
+<p>Dr. Jim put his hand to his mouth, and the skin between his eyes wrinkled, as if he were holding back emotion. Finally he put his hand back in his lap. &ldquo;They are fine, my sweet patient. You are very kind to ask. All of them are just fine. The staff here cared for them with the best intentions.&rdquo; His head drooped. For the first time since we&rsquo;d known Dr. Jim, he seemed downcast; it was scary to think a man with his optimism could become so sad. Later we&rsquo;d find out that two small children had died in the accident. But we didn&rsquo;t know that then as Dr. Jim took a deep breath and called the nurses into the room.</p>
+
+<p>He actually said, &ldquo;Voil&agrave;!&rdquo; as the nurses brought in a huge bouquet of pink roses and more than a dozen balloons printed in silver lettering: <span class="smallcaps">Happy Sweet 16!</span></p>
+
+<p>Dr. Jim began to sing &ldquo;Happy Birthday&rdquo; to my sister, and all of us joined in. Dina cried, and so did my mother and I. Dr. Jim stayed with us for more than half an hour, chatting about Dina&rsquo;s plans for after her recovery: plant a garden, eat a picnic by the reservoir, study harder, pray more. Dr. Jim told her, &ldquo;Flower, you&rsquo;re already a living prayer. God hears you as you breathe.&rdquo; Dina nodded, as if they&rsquo;d already talked about this.</p>
+
+<p>&nbsp;</p>
+
+<p><strong><em><span class="large">Two days later,</span></em></strong> the traction finally over, Dina underwent the surgery. The operation was a success, and after several weeks of recuperation the day came when my sister was to leave the hospital. All our family had driven up to bring her home. Dr. Jim was there, of course, and he rode the elevator down to the lobby with us. Our dad pulled the station wagon around and honked. The other kids ran out the doors while our mother and Dina and I said goodbye to Dr. Jim. Our mother hugged him, then sobbed, then sucked it back in, all within a few seconds. I thought I might cry too, but I didn&rsquo;t. Dr. Jim kissed Dina on the forehead, and we pushed her in a wheelchair to the car, where an attendant waited to help her into the back seat, because of her cumbersome white body cast. When I looked back at the hospital doors, Dr. Jim was already gone.</p>
+
+<p>My siblings got into the station wagon with Dad and Dina. My mother blew her nose and told me to ride in the truck with her. As we made our way back to Wabash, she cried some more. The gas lines were long again, and she commented, &ldquo;I don&rsquo;t know what the world will come to now. We&rsquo;re using up all of our energy, sweetie. Every bit of it.&rdquo;</p>
+
+<p>I was tired and fell asleep listening to her list all the things she was going to change once we got home. I dreamt again of Dr. Jim and woke up as we turned onto the gravel lane to the farm, and my mother said, &ldquo;I really don&rsquo;t know what we&rsquo;ll do now.&rdquo;</p>
+														</div>
+
+
+				
+<div class="sharing-bar article-sharing">
+	<div class="sharing-bar-first">
+		<a href="javascript:window.print();" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-printer"></use></svg> <span>Print</span></a>
+	</div>
+
+	<div class="sharing-bar-second">
+		<span class="alt-ff xsmall">Share:</span>
+		<a href="https://www.facebook.com/sharer/sharer.php?u=https://www.thesunmagazine.org/issues/402/curvature" target="_blank" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-facebook"></use></svg> <span>Facebook</span></a>
+		<a href="https://twitter.com/share?url=https://www.thesunmagazine.org/issues/402/curvature&amp;via=thesunmagazine" target="_blank" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-twitter"></use></svg> <span>Twitter</span></a>
+		<a href="#" class="b b-1 b-padding-tight xsmall js-toggle-mail-form"><svg><use xlink:href="#i-email"></use></svg> <span>Email</span></a>
+	</div>
+</div>
+
+<div class="send-to-friend-message-container">
+	<div class="alert alert-success xsmall">Thank you for sharing <em>The Sun</em>.</div>
+</div>
+
+<form method="post" action="/ajax/articles/send-to-a-friend" class="form fill-grey send-to-friend-form">
+		<input type="hidden" id="form_url" name="form[url]" value="https://www.thesunmagazine.org/issues/402/curvature" />
+
+	<ul class="form-fields">
+		<li><label for="form_sender_name"><span class="label-text">Your Full Name</span><span class="label-asterisk">*</span></label><input type="text" id="form_sender_name" name="form[sender_name]" required="required" /></li>
+		<li><label for="form_sender_email"><span class="label-text">Your Email Address</span><span class="label-asterisk">*</span></label><input type="email" id="form_sender_email" name="form[sender_email]" required="required" /></li>
+		<li><label for="form_recipient_name"><span class="label-text">Friend’s Name</span><span class="label-asterisk">*</span></label><input type="text" id="form_recipient_name" name="form[recipient_name]" required="required" /></li>
+		<li><label for="form_recipient_email"><span class="label-text">Friend’s Email Address</span><span class="label-asterisk">*</span></label><input type="email" id="form_recipient_email" name="form[recipient_email]" required="required" /></li>
+		<li><label for="form_message"><span class="label-text">Personalized Message</span></label><textarea id="form_message" name="form[message]"></textarea></li>
+	</ul>
+<div class="send-to-friend-message-container">
+	<div class="alert alert-error xsmall">Something went wrong. Please try again.</div>
+</div>
+
+<div class="g-recaptcha" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs"></div>
+<div class="form-actions"><button type="submit" id="form_submit" name="form[submit]"	class="form-actions-b-primary b b-1 b-loading xsmall"><svg><use xlink:href="#i-loading"></use></svg>
+		Submit
+	</button></div>
+<input type="hidden" id="form__token" name="form[_token]" value="d3c9b9f6114315ff3696f7e771b31901f5196b16" /></form>
+
+<br>
+
+
+
+										<footer class="article-contributor contributors">
+									
+
+<div class="block-contributor">
+			<a href="/contributors/doug-crandell" class="block-contributor-photo">
+		
+		<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 400 400'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/80x80r/2019-06/crandell.png data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/160x160r/2019-06/crandell.png
+	 alt=""
+	 class="lazy">
+
+	</a>
+	
+
+		<div class="block-contributor-content">
+		<div class="block-contributor-bio small">
+			<p><strong><span class="smallcaps">Doug Crandell</span></strong> lives with his wife and two children in Douglasville, Georgia, where his family faithfully supports his writing: his wife, Nancy, edits his work; his son, Walker, allows him to talk about it; and his daughter, Kennedy, suggests alternate endings.</p><a href="/contributors/doug-crandell" class="block-contributor-link link-alt small">More From This Contributor&nbsp;&#9656;</a>		</div>
+	</div>
+</div>
+
+							</footer>
+						</article>
+
+
+				    <div class="paywall-subscription block-product">
+			<div class="columns">
+			<div class="paywall-banner span3 cta cta-l1">
+				<div class="cta-intro">
+					<h5 class="cta-title alt-ff">One Free Selection Left </h5>
+					<p class="cta-text xsmall"><a class="link-alt" href="https://www.thesunmagazine.org/subscriber/login" data-label="Already a subscriber?">Already a subscriber? Sign in ▸</a><br><br>Read two free selections from <em>The Sun</em> each month.</p>
+				</div>
+			</div>
+			<div class="paywall-banner span9 note note-1 text-center">
+				<h4 class="cta-title alt-ff">Subscribe to <em>The Sun</em> and save 45%</h4>
+				<p class="cta-text xsmall">Subscribers get full access to the current issue and more than 40 years of archives.</p>
+				<a class="b b-1 xsmall cta-trigger"  href="/subscribe1" data-label="Subscribe" data-ctatitle="Subscribe">Subscribe</a>
+			</div>
+		</div>
+
+		<div class="columns">
+			<div class="span12 paywall-cta-bottom">
+				<p>
+					<span class="cta-title-issue">Buy the June 2009 issue for $5.95</span>
+					<span class="xsmall">Order now to get instant access to this issue, and we’ll also send you a print copy.</span>
+					<a class="b b-5 xsmall corona"  href="#" data-product-type="issues" data-id="402" data-label="Order Now ▸">Order Now ▸</a>
+				</p>
+			</div>
+		</div>
+
+		
+
+</div>
+	
+	
+	
+	<div class="spacer"></div>
+	
+
+
+
+		
+		<div class="article-correspondence-cta">
+		<div class="cta cta-l1" data-url="https://www.thesunmagazine.org/letter-to-the-editor">
+			<div class="cta-intro">
+				<h5 class="cta-title alt-ff">Thinking about writing us a letter?</h5>
+				<p class="cta-text">Give in to the temptation. We love getting mail. <br><span class="xsmall">(Of course, we reserve the right to edit.)</span></p>
+			</div>
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" class="cta-button b b-4 b-padding-tight small" data-label="Write Us A Letter!">Write Us A Letter!</a>
+		</div>
+	</div>
+	
+
+			<div class="article-also layout-item-large full-bar fill-grey-mid-light">
+		<div class="layout-item-intro">
+			<h2>Also In This Issue</h2>
+			<a href="/issues/402" class="xsmall link-alt">June 2009&nbsp;&#9656;</a>
+		</div>
+		<div class="issue-articles-l1">
+			<div class="issue-articles-l1-content1">
+				
+<div class="cover cover-l1 block-product">
+	<div>
+							<a href="/issues/402" class="cover-thumb">
+				
+				<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 727'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/import/issue/402.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/561x728r/import/issue/402.jpg
+	 alt=""
+	 class="lazy">
+
+			</a>
+		
+
+													<!-- <a href="/issues/402" data-product-type="issues" data-id="402" data-role="order" class="js-buy-single corona cover-button b b-1 b-full xsmall" data-label="Buy This Issue &#9656;">
+								Buy This Issue&nbsp;&#9656;
+			</a> -->
+			<a href="/issues/402" data-product-type="issues" data-id="402" class="js-buy-single corona cover-button b b-1 b-full xsmall" data-label="Buy This Issue &#9656;">
+								Buy This Issue&nbsp;&#9656;
+			</a>
+					
+					</div>
+</div>
+			</div>
+			<div class="issue-articles-l1-content2">
+				<div class="articles-l3">
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/readers-write">Readers Write</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/402/crushes">Crushes</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/our-readers">Our Readers</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/402/my-vertigo">My Vertigo</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/sparrow">Sparrow</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/fiction">Fiction</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/402/brightest-corners">Brightest Corners</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/erin-stalcup">Erin Stalcup</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/poetry">Poetry</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/402/calligraphy">Calligraphy</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/mark-smith-soto">Mark Smith-Soto</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+									</div>
+			</div>
+		</div>
+	</div>
+	
+
+			<div class="article-related layout-item-large full-bar fill-pattern-light">
+		<div class="layout-item-intro">
+			<h2>Related Selections</h2>
+			<ul class="list-inline list-inline-tight"><li><a href="/topics/healing" class="xsmall link-alt link-text">Healing</a></li><li><a href="/topics/physical-health" class="xsmall link-alt link-text">Physical Health</a></li><li><a href="/topics/childhood" class="xsmall link-alt link-text">Childhood</a></li><li><a href="/topics/parents" class="xsmall link-alt link-text">Parents</a></li></ul>		</div>
+
+		<div class="articles-l2">
+							
+
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/490/a-good-daughter">A Good Daughter</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/amber-burke">Amber Burke</a></li><li><a href="/issues/490">October 2016</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/490" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 727'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/140x182r/2016-10/490.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/2016-10/490.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/197/games-people-play">Games People Play</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/sy-safransky">Sy Safransky</a></li><li><a href="/issues/197">April 1992</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/197" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 725'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/141x182r/import/issue/197.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/281x364r/import/issue/197.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/7/the-depression-years-costly-memories">The Depression Years: Costly Memories</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/rose-safransky">Rose Safransky</a></li><li><a href="/issues/7">January 1975</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/7" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 455 728'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/114x182r/import/issue/007.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/228x364r/import/issue/007.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/1/sys-space-issue-1">Sy’s Space</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/sy-safransky">Sy Safransky</a></li><li><a href="/issues/1">January 1974</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/1" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 689'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/148x182r/import/issue/001.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/296x364r/import/issue/001.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+					</div>
+	</div>
+	
+	
+					<form id="newsletterForm" method="post" action="https://www.thesunmagazine.org/newsletter" data-url-send="https://www.thesunmagazine.org/newsletter" class="form form-newsletter fill-grey" enctype="multipart/form-data" target="_blank">
+
+
+
+		<div class="form-newsletter-intro">
+			<h3 class="alt-ff large">Sign Up For Our Newsletter</h3>
+			<p>We’ll let you know about new website selections, upcoming events, special offers, and more.</p>
+		</div>
+
+		<ul class="form-newsletter-fields form-fields form-fields-inline">
+			<li>
+				<input name="name" type="text" maxlength="500" id="name" placeholder="Your Name">
+			</li>
+			<li>
+				<input name="email" type="text" maxlength="500" id="email" placeholder="Your E-mail">
+			</li>
+
+			<li class="form-fields-inline-button">
+				<button disabled="disabled" class="form-newsletter-send b b-4 b-padding-tight b-loading g-recaptcha" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs" data-callback="recaptcha_callback" name="SubmitButton" id="SubmitButton">
+					<svg><use xlink:href="#i-loading"></use></svg>
+					Sign&nbsp;Up
+				</button>
+			</li>
+		</ul>
+	</form>
+	<script id="hiddenlpsubmitdiv" style="display: none;"></script>
+
+
+
+<footer class="footer brand-grey-dark">
+			<div class="footer-first">
+		<h3 class="footer-tagline">Independent, Reader-Supported Publishing</h3>
+		<p class="footer-desc">In each issue of <em>The Sun</em> you’ll find some of the most radically intimate and socially conscious writing being published today. In an age of media conglomerates, we’re something of an oddity: an ad-free, independent, reader-supported magazine.</p>
+		<ul class="footer-nav list-inline-border xsmall">
+			
+		<li class=" first">
+			<a href="https://www.thesunmagazine.org/about" 	   class=''>
+	   About <em>the Sun</em>	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/staff" 	   class=''>
+	   Staff	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/find-the-sun" 	   class=''>
+	   Find <em>The Sun</em>&nbsp;&nbsp;in a Store Near You	</a>
+		
+	</li>
+
+
+		</ul>
+	</div>
+	
+		<div class="footer-second">
+		<ul class="footer-second-social list-inline">
+			<li><a href="https://www.facebook.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-facebook"></use></svg></span> Like Us</a></li>
+			<li><a href="https://twitter.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-twitter"></use></svg></span> Follow Us</a></li>
+			<li><a href="https://instagram.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-instagram"></use></svg></span> Take a Look</a></li>
+		</ul>
+
+		<div class="footer-second-content">
+			<ul class="footer-nav list-inline-border xsmall">
+				
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/" 	   class='current '>
+	   Home	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/privacy-policy" 	   class=''>
+	   Privacy Policy	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/terms-of-use" 	   class=''>
+	   Terms of Use	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/site-map" 	   class=''>
+	   Site Map	</a>
+		
+	</li>
+
+
+			</ul>
+			<p class="footer-copyright xxsmall">Copyright &copy; 1974–2020 <em>The Sun</em>. All rights reserved.</p>
+		</div>
+	</div>
+</footer>
+
+
+
+<div class="offset-nav">
+	<ul>
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/read" 	   class='current '>
+	   Read	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/issues/current" 	   class=''>
+	   Current Issue	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/archives" 	   class=''>
+	   Archives	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/featured" 	   class=''>
+	   Featured Selections	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/topics" 	   class=''>
+	   Browse Topics	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/sections" 	   class=''>
+	   Browse Sections	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/connect" 	   class=''>
+	   Connect	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/news" 	   class=''>
+	   News from <em>The Sun</em>	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" 	   class=''>
+	   Write a Letter to the Editor	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/discussion-groups" 	   class=''>
+	   Discussion & Writing Groups	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/make-a-suggestion" 	   class=''>
+	   Make a Suggestion	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/submit" 	   class=''>
+	   Submit	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/shop" 	   class=''>
+	   Shop	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/giftsub" 	   class=''>
+	   Gift Subscriptions	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/issues" 	   class=''>
+	   Issues	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+											
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/donatemenu" 	   class='highlight'>
+	   Donate	</a>
+		
+	</li>
+
+		<li class=" last">
+														<a href="/SubscribeNav1" 					   class=''>
+						Subscribe					</a>
+									
+	</li>
+
+
+					<li>
+				<a href="https://www.thesunmagazine.org/shop/cart">Cart ( <span class="cart-item-count">  0  </span>)</a>
+			</li>
+			<li><a href="https://www.thesunmagazine.org/subscriber/login" class="link-header-logout link-alt">Sign In</a></li>
+			</ul>
+	<ul>
+		<li class=" first">
+			<a href="https://www.thesunmagazine.org/about" 	   class=''>
+	   About <em>the Sun</em>	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/staff" 	   class=''>
+	   Staff	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/find-the-sun" 	   class=''>
+	   Find <em>The Sun</em>&nbsp;&nbsp;in a Store Near You	</a>
+		
+	</li>
+
+</ul>
+	<ul>
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/" 	   class='current '>
+	   Home	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/privacy-policy" 	   class=''>
+	   Privacy Policy	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/terms-of-use" 	   class=''>
+	   Terms of Use	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/site-map" 	   class=''>
+	   Site Map	</a>
+		
+	</li>
+
+</ul>
+</div>
+
+<div id="buy-popup-message" class="buy-popup mfp-hide white-popup white-popup-block">
+	<a class="popup-modal-dismiss" href="#"></a>
+	<h5>Due to fulfillment challenges related to the novel coronavirus, print copies are temporarily unavailable for individual sale. We are offering free PDFs until we are able to resume print sales.</h5>
+	<p>Enter your e-mail address below to download this issue.</p>
+	<form method="post" id="download-single" action="https://www.thesunmagazine.org/issue/pdfFree/531.pdf">
+		<label for="email"><span class="label-text">E-mail</span><span class="label-asterisk">*</span></label>
+		<input class="buy-single-email" id="email" type="email" name="email">
+		<button type="send" class="form-buy-issue-send b b-3 b-padding-tight b-loading">Send</button>
+		<button class="form-buy-issue-download b b-3 b-padding-tight b-loading">Download pdf</button>
+		<button type="send" class="popup-modal-dismiss b b-2 b-padding-tight b-loading">Close</button>
+		<div class="g-recaptcha" style="text-align: center" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs"></div>
+
+	</form>
+</div>
+
+			<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/plugins.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/site.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/newsletter.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/js/articles.js"></script>
+		</div>
+		</div>
+
+				<script>
+		(function (doc) {
+			var scripts = doc.getElementsByTagName('script');
+			var script = scripts[scripts.length - 1];
+			var xhr = new XMLHttpRequest();
+			xhr.onload = function () {
+				var div = doc.createElement('div');
+				div.innerHTML = this.responseText;
+				div.style.display = 'none';
+				script.parentNode.insertBefore(div, script);
+			}
+			xhr.open('get', '/theme/thesun//assets/build/img/sprite/sprite.svg', true);
+			xhr.send();
+		})(document);
+
+
+
+		</script>
+
+		<script>
+			// Submit function
+            function recaptcha_callback() {
+						var getUrl = $('.form-newsletter').data( "url-send" ),
+							getName = $('input#name').val(),
+							getEmail = $('input#email').val();
+						$.ajax({
+								type: "POST",
+								url: getUrl,
+								data: {
+									name: getName,
+									email: getEmail,
+									grecaptcharesponse: grecaptcha.getResponse()
+								}
+							}).done(function(response) {
+								console.log(response);
+									$('.form-fields').fadeOut(800, function () {
+										$('.form-fields').empty().append('<div class="newsletter-confirm-message">Thank you for signing up to receive news from <em>The Sun</em>. Your first newsletter will arrive soon.<div>').fadeIn(800);
+									});
+							});
+			}
+
+		</script>
+
+		<script>
+			function getUrlCode() {
+				var url_string = window.location.href;
+				var url = new URL(url_string);
+				var c = url.searchParams.get('promotion\_key');
+				if (typeof c !== 'undefined' && c !== null) {
+					setCookie("promotion_code",c);
+				}
+			}
+
+			function setCookie(cname, cvalue) {
+				document.cookie = cname + "=" + cvalue + ";" + "path=/";
+			}
+
+			function getCookie(cname) {
+				var name = cname + "=";
+				var decodedCookie = decodeURIComponent(document.cookie);
+				var ca = decodedCookie.split(';');
+				for(var i = 0; i <ca.length; i++) {
+					var c = ca[i];
+					while (c.charAt(0) == ' ') {
+						c = c.substring(1);
+					}
+					if (c.indexOf(name) == 0) {
+						return c.substring(name.length, c.length);
+					}
+				}
+				return "";
+			}
+			window.addEventListener( "load", getUrlCode );
+		</script>
+
+
+	</body>
+</html>

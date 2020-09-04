@@ -1,0 +1,1264 @@
+
+<!DOCTYPE html>
+<html class="no-js" lang="en-US">
+	<head>
+		<title>Mumsie - The Sun Magazine</title>
+
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		
+		<meta name="viewport" content="width=device-width, minimum-scale=1.0">
+
+		<link rel="dns-prefetch" href="//ajax.googleapis.com">
+		<link rel="dns-prefetch" href="//use.typekit.net">
+		
+		<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/modernizr.js"></script>
+		<script src="https://www.google.com/recaptcha/api.js"
+				async defer>
+		</script>
+
+		<script>(function(d) { var config = { kitId: 'kzw7ebk', scriptTimeout: 3000, async: true }, h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s) })(document);</script>
+
+
+				
+		<link rel="apple-touch-icon" sizes="57x57" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-57x57.png?v=2016">
+		<link rel="apple-touch-icon" sizes="60x60" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-60x60.png?v=2016">
+		<link rel="apple-touch-icon" sizes="72x72" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-72x72.png?v=2016">
+		<link rel="apple-touch-icon" sizes="76x76" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-76x76.png?v=2016">
+		<link rel="apple-touch-icon" sizes="114x114" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-114x114.png?v=2016">
+		<link rel="apple-touch-icon" sizes="120x120" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-120x120.png?v=2016">
+		<link rel="apple-touch-icon" sizes="144x144" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-144x144.png?v=2016">
+		<link rel="apple-touch-icon" sizes="152x152" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-152x152.png?v=2016">
+		<link rel="apple-touch-icon" sizes="180x180" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-180x180.png?v=2016">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-32x32.png?v=2016" sizes="32x32">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/android-chrome-192x192.png?v=2016" sizes="192x192">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-96x96.png?v=2016" sizes="96x96">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-16x16.png?v=2016" sizes="16x16">
+		<link rel="mask-icon" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/safari-pinned-tab.svg?v=2016" color="#444444">
+		<link rel="shortcut icon" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon.ico?v=2016">
+		<meta name="apple-mobile-web-app-title" content="The Sun Magazine">
+		<meta name="application-name" content="The Sun Magazine">
+		<meta name="msapplication-TileColor" content="#fcc330">
+		<meta name="msapplication-TileImage" content="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/mstile-144x144.png?v=2016">
+		<meta name="theme-color" content="#ffffff">
+
+				<link rel="stylesheet" type="text/css" href="https://cloud.typography.com/6578674/659928/css/fonts.css" />
+		<link rel="stylesheet" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/css/style.css">
+
+																		<meta property="og:site_name" content="The Sun Magazine">
+		<meta property="og:type" content="article">
+		<meta property="og:url" content="https://www.thesunmagazine.org/issues/253/mumsie">
+		<meta property="og:image" content="http://www.thesunmagazine.org/files/import/issue/253.jpg">
+		<meta property="og:title" content="Mumsie - The Sun Magazine">
+		<meta property="og:description" content="She loathed weakness for the simple reason that it prevented one from seizing life&amp;rsquo;s opportunities. In her case, opportunity consisted of being born with a hundred thousand megawatts of pure drive and determination, and a father who pegged her early along as one of the Divine: a daddy who let her drive a car when she was twelve; a daddy who gave her a twenty-two-room mansion on Riverside Avenue for a wedding present; a daddy who adored her beyond all reason.">
+		<meta property="fb:app_id" content="158741778010551">
+
+						<link rel="image_src" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.comhttp://www.thesunmagazine.org/files/import/issue/253.jpg">
+
+												<meta name="twitter:card" content="summary">
+		<meta name="twitter:title" content="Mumsie - The Sun Magazine">
+		<meta name="twitter:description" content="She loathed weakness for the simple reason that it prevented one from seizing life&amp;rsquo;s opportunities. In her case, opportunity consisted of being born with a hundred thousand megawatts of pure drive and determination, and a father who pegged her early along as one of the Divine: a daddy who let her drive a car when she was twelve; a daddy who gave her a twenty-two-room mansion on Riverside Avenue for a wedding present; a daddy who adored her beyond all reason.">
+		<meta name="twitter:image" content="http://www.thesunmagazine.org/files/import/issue/253.jpg">
+		<meta name="twitter:site" content="@thesunmagazine">
+
+				<link rel="publisher" href="https://plus.google.com/113792980827145858211">
+        
+		<meta name="Description" content="She loathed weakness for the simple reason that it prevented one from seizing life&amp;rsquo;s opportunities. In her case, opportunity consisted of being born with a hundred thousand megawatts of pure drive and determination, and a father who pegged her early along as one of the Divine: a daddy who let her drive a car when she was twelve; a daddy who gave her a twenty-two-room mansion on Riverside Avenue for a wedding present; a daddy who adored her beyond all reason.">
+
+		
+		<!-- Google Tag Manager -->
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-TKBHCCG');</script>
+		<!-- End Google Tag Manager -->
+
+		<!-- Google Analytics -->
+		<script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+            ga('create', 'UA-2351127-1', 'auto');  // Replace with your property ID.
+            ga('send', 'pageview');
+            ga('require', 'ecommerce');   // Load the ecommerce plug-in.
+		</script>
+		<!-- End Google Analytics -->
+	</head>
+	<body id="">
+
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TKBHCCG"
+		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+		<header class="header" data-offset-start="80">
+		<div class="header-utilities">
+				<ul class="header-utilities-user list-inline list-inline-tight xxsmall">
+							<li>
+					<span class="header-utilities-user-intro">Already A Subscriber?</span> &nbsp;
+					<a href="https://www.thesunmagazine.org/subscriber/login" class="link-text link-alt">Sign In</a>
+				</li>
+					</ul>
+		<a href="https://www.thesunmagazine.org/shop/cart" class="header-utilities-cart  link-alt link-icon tiny">
+			<span class="i"><svg><use xlink:href="#i-cart"></use></svg></span>
+			<span class="cart-item-count">
+									0 Items
+				
+			</span>
+		</a>
+			</div>
+
+		<div class="header-bar">
+		<h1 class="header-logo logo">
+			<a href="/">
+				<img src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/img/logo-thesun.svg" class="logo-thesun" alt="The Sun Magazine">
+				<img src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/img/logo-tagline.svg" class="logo-tagline" alt="">
+			</a>
+		</h1>
+
+		<ul class="header-nav">
+			
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/read" 	   class='current '>
+	   Read	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/issues/current" 	   class=''>
+	   Current Issue	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/archives" 	   class=''>
+	   Archives	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/featured" 	   class=''>
+	   Featured Selections	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/topics" 	   class=''>
+	   Browse Topics	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/sections" 	   class=''>
+	   Browse Sections	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/connect" 	   class=''>
+	   Connect	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/news" 	   class=''>
+	   News from <em>The Sun</em>	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" 	   class=''>
+	   Write a Letter to the Editor	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/discussion-groups" 	   class=''>
+	   Discussion & Writing Groups	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/make-a-suggestion" 	   class=''>
+	   Make a Suggestion	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/submit" 	   class=''>
+	   Submit	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/shop" 	   class=''>
+	   Shop	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/giftsub" 	   class=''>
+	   Gift Subscriptions	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/issues" 	   class=''>
+	   Issues	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+											
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/donatemenu" 	   class='highlight'>
+	   Donate	</a>
+		
+	</li>
+
+		<li class=" last">
+														<a href="/SubscribeNav1" 					   class=''>
+						Subscribe					</a>
+									
+	</li>
+
+
+		</ul>
+
+		<button class="header-nav-toggle"><svg><use xlink:href="#i-menu" class="i-menu"></use><use xlink:href="#i-close" class="i-close"></use></svg></button>
+		<button class="header-search-toggle" data-form-wrapper=".header-search"><svg><use xlink:href="#i-magnifier" class="i-magnifier"></use><use xlink:href="#i-close" class="i-close"></use></svg></button>
+	</div>
+
+		<div class="header-search">
+		<div class="header-search-content">
+			<form action="https://www.thesunmagazine.org/search" class="form form-search" method="get">
+				<h2 class="alt-ff brand-link">Search Our 40 Years of Archives</h2>
+				<ul class="form-search-fields form-fields form-fields-inline">
+					<li><input type="text" name="q" value=""></li>
+					<li class="form-fields-inline-button"><button class="b b-1 b-padding-tight b-loading"><svg><use xlink:href="#i-loading"></use></svg>Search</button></li>
+				</ul>
+
+				<div class="header-search-content-shortcuts">
+					<h6 class="search-advanced alt-ff"><a class="js-handle-advanced" href="https://www.thesunmagazine.org/search?advanced=1">Advanced Search</a></h6>
+					<br>
+					<h6 class="alt-ff">Popular Pages</h6>
+					<ul class="list-inline-border list-inline-tight xxsmall"><li class=" first"><a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a></li><li class=""><a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a></li><li class=""><a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a></li><li class=""><a href="https://www.thesunmagazine.org/sections/quotations" 	   class=''>
+	   Quotations	</a></li><li class=""><a href="https://www.thesunmagazine.org/sections/readers-write" 	   class=''>
+	   Readers Write	</a></li><li class=" last"><a href="https://www.thesunmagazine.org/sections/poetry" 	   class=''>
+	   Poetry	</a></li></ul>				</div>
+			</form>
+		</div>
+	</div>
+</header>
+
+	<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+	<script type="text/javascript">
+		$(document).ready(function() {
+			$('.js-handle-advanced').on('click', function (e) {
+				e.preventDefault();
+				var getSearchValue = $('.form-search-fields input').val();
+				var getURL = $(this).attr('href');
+				var newURL = getURL + '&q=' + getSearchValue;
+				window.location.href = newURL;
+			});
+		});
+	</script>
+
+		<div class="container-hidden">
+		<div class="container">
+
+				
+	
+	<article class="article ">
+		<header class="block-content block-content-l1 block-content-center">
+						<div class="block-content-header">
+				<h6 class="b-content-section heading-square"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+				<h1 class="block-content-title">Mumsie</h1>
+
+				
+				<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a href="/contributors/lorenzo-w-milam">Lorenzo Wilson Milam</a></li><li><a href="/issues/253">January 1997</a></li></ul>
+
+			</div>
+
+								</header>
+
+				<div class="article-body link-text-wrap">
+																		<p><em>&ldquo;In short,&rdquo; he concluded, speaking with great vehemence, &ldquo;I accuse the prisoner of behaving at his mother&rsquo;s funeral in a way that showed that he was already a criminal at heart.&rdquo;</em></p>
+
+<p class="text-right"><em>&mdash; Albert Camus, </em>The Stranger</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">She came to me in my dreams last night. In keeping with the way of dreams, she looks different &mdash; shorter, peasant looking, with a peasant&rsquo;s dress.</p>
+
+<p>In the way of dreams, I know it&rsquo;s her, so I say, &ldquo;Mum, you can&rsquo;t be here. You&rsquo;re dead.&rdquo;</p>
+
+<p>&ldquo;No,&rdquo; she says, &ldquo;I&rsquo;m not dead. I&rsquo;ve just been off in Europe, for the last six months, visiting.&rdquo;</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">They&rsquo;ve placed her in an overlarge dark bronze box, with flowers draped over it, set it on a little stage in front of us.</p>
+
+<p>People mouth the words, the usual words, about how good and generous and wise and kind and alive she was, how she taught classes on the stock market right up to the very last; barely able to move, or hear, and there she was, hunched over, going on about gross and net, price-to-earnings, one- and five-year return on invested dollar, IBM, Texaco, Campbell&rsquo;s Soup, AT&amp;T, Coca-Cola.</p>
+
+<p>Then they open their mouths in song, as in Handel, the <em>Messiah</em>. It&rsquo;s always the <em>Messiah</em>. <em>Why not the Beatles, for God&rsquo;s sake? Why not &ldquo;Taxman</em>&rdquo;<em>? She loathed the IRS, spent her whole damn life trying to get out from under taxes.</em></p>
+
+<p>Then my brother launches into a talk about her life and good works. He asked me if I would write the speech, and give it. Said he wanted everyone to be involved &mdash; this wasn&rsquo;t just his show. After all, I&rsquo;m the writer in the family.</p>
+
+<p>So I got charged up, wrote a fine funny sweet unsentimental word-shot about Mumsie. <em>Let me tell you about her and stoplights and politicians, </em>I said<em>. The only time in her life that she used what she called &ldquo;gutter language&rdquo; was when she was talking about the goddamn stoplights and the goddamn politicians. She didn&rsquo;t hate them. She loathed them.</em></p>
+
+<p>But no, my brother decided to do the whole show after all, took my speech and trashed it &mdash; all ten pages of it, except for a couple of lines &mdash; and came up with a panegyric of his own, speaking of her as if she were a grown woman. And yet we know she had all the reasonableness of a thirteen-year-old juvenile, one you want to shoot up with Ritalin, hoping she will stop trashing everything. <em>That was the point of my speech: what an outrageous, sulky, joyful child she was. Hyperactive, childish, funny. And he talks as if she were a paragon of dry wisdom and maturity.</em></p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">I think of Mum all packed up in that dark shipping case, ready to go. <em>I wonder what they&rsquo;ll be writing on her tombstone? How about</em> &ldquo;I&rsquo;m hard as nails&rdquo;? <em>That was what she said, with a sigh, whenever some special stupid burden came down the line, threatening to squash her.</em></p>
+
+<p><em>Maybe they should use her favorite quote from Oscar Wilde: Wilde is dying, and his friends bring him to the Hotel Metropol, in Paris. He looks around the gussied-up room, and says, </em>&ldquo;I&rsquo;m dying beyond my means.&rdquo;<em> That would be rich.</em></p>
+
+<p><em>No, best,</em></p>
+
+<p class="text-center"><strong>Why must you<br />
+do this to me?</strong></p>
+
+<p><em>It was a specialty of hers &mdash; always said whenever we kids did something she didn&rsquo;t like.</em></p>
+
+<p>&ldquo;Suppose they&rsquo;ve gone and put someone else in there,&rdquo; I think. That very large, very oily, very professional sad-eyed man from Hardy Morticians in his starched white shirt and black suit: he&rsquo;s quite capable of it. He knew what a heller Mum was. Maybe he slipped a spare pickled-in-a-jar wino into the box &mdash; just for protection, just in case she were to wake up, jerk back the cover, and say, &ldquo;I&rsquo;m not going to put up with this nonsense.&rdquo; (She didn&rsquo;t much care for funerals anyway.)</p>
+
+<p><em>My psychiatrist is going to have a field day with this one. He&rsquo;ll write in his notebook, &ldquo;Patient imagines that someone else has been substituted for his mother in coffin, thinks that she is going to rise up, take leave of her own funeral.&rdquo;</em></p>
+
+<p>They couldn&rsquo;t slip just any old leather-skin from Main Street into this high-rent box, though. Four-baths-a-day Mum wouldn&rsquo;t tolerate a smelly boozer occupying this hutch. She couldn&rsquo;t stand those guys who lurched about the back alleys, pushing shopping carts, a bottle of Mogen David in their hip pockets. <em>I can&rsquo;t think of a time when any of them came up to my straight-backed, patrician Mum to ask for a handout. One look at her and they knew what the answer would be. She may have been worth a mill or so, but they wouldn&rsquo;t dare try to cadge a quarter from her.</em></p>
+
+<p>I just hope whoever they put in here isn&rsquo;t as banged up as poor old Mum. Ninety-six years puts a hell of a lot of wear-and-tear on the chassis. &ldquo;If they&rsquo;ve stuck another body in that bronze box,&rdquo; I think, &ldquo;please let it be someone to her liking.&rdquo; Which will take some doing. She not only couldn&rsquo;t stand the IRS and politicians &mdash; she loathed Muslims, Indians, Evangelicals, Mexicans, Jews, door-to-door salesmen, bureaucrats, men who smoked cigars, bend-your-ear boozer types, children (especially those who cried, or threw up too much), all blacks (except those who worked for her, whom she cared for in that special Southern paternalistic way), dogbeaters, wifebeaters, psychiatrists. <em>Remember when she went to see a psychiatrist? It must have been forty years ago, when all her children had finally left home. &ldquo;Damn fool just sat there,&rdquo; she told us. &ldquo;No matter what I said, he just sat there.&rdquo; She never went back.</em></p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">She loathed weakness for the simple reason that it prevented one from seizing life&rsquo;s opportunities. In her case, opportunity consisted of being born with a hundred thousand megawatts of pure drive and determination, and a father who pegged her early along as one of the Divine: a daddy who let her drive a car when she was twelve; a daddy who gave her a twenty-two-room mansion on Riverside Avenue for a wedding present; a daddy who adored her beyond all reason.</p>
+
+<p>Lorenzo Arthur Wilson, the fertilizer magnate of north Florida, known lovingly as Daddy. In 1910 he brought home a Hudson Terraplane, the first car in Jacksonville. His beloved twelve-year-old-daughter, Meriel &mdash; her friends called her &ldquo;Mule&rdquo; &mdash; commandeered it at once, drove it from then on. I can see her now, in her white cotton dress and silk cross-stitched blouse, a red sash holding down her unruly hair, sitting straight-backed in the driver&rsquo;s seat, pushing the spark advance, pulling back on the choke, stomping white pumps on the accelerator, then the brakes, dashing between the horse-drawn carts, driving with supreme surety, going exactly where she wanted, and damn the torpedoes.</p>
+
+<p>I can see Don Lorenzo in his linen suit sitting beside her, hanging on to his straw boater. &ldquo;Meriel,&rdquo; he says, the word turning to &ldquo;Meriyel&rdquo; in his soft, north-Florida accent: &ldquo;Meriel &mdash; don&rsquo;t go so fast, now. You almost hit that boy on the bike.&rdquo; And she says, &ldquo;Pooh, Daddy.&rdquo; She always said &ldquo;pooh&rdquo; when we complained about the way she drove, which was awful. &ldquo;Pooh, Daddy,&rdquo; she says. &ldquo;Don&rsquo;t you think I know what I&rsquo;m doing? If they don&rsquo;t get out of the way, it&rsquo;ll be their own fault.&rdquo; And she sniffs, giving out, early on, one of the great philosophical stones of her life. &ldquo;If they don&rsquo;t get out of the way, it&rsquo;s their own damn fault.&rdquo; And Don Lorenzo concentrates stoically on the dusty horse trail and road apples before them, bemused by the light of his life, and says nothing more, ever, about her atrocious driving.</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">Daddy, Daddy. Daddy this, Daddy that. They laid him in the ground in 1936 but for the rest of her days &mdash; at least once a day, often more &mdash; she would tell us what Daddy had said. &ldquo;Daddy said never invest in bonds. He said you should only invest in good stocks.&rdquo; &ldquo;Daddy said that Florida land would always be worth it. But you have to be careful who you buy it from.&rdquo; &ldquo;Daddy said to always mark the level on the liquor bottles. Because of the servants.&rdquo; &ldquo;Daddy said never to be afraid.&rdquo;</p>
+
+<p>And as far as I know, she always bought stocks, invested in good land, marked all the liquor bottles, and never showed fear. She showed her anger, she showed her class; but fear, that great leveler: never.</p>
+
+<p>Never be afraid, said Daddy. And, on the last day, in December 1995, as she lay blind and crippled and almost completely deaf, her heart racing on in anticipation of shutting down forever, her blood pressure wildly out of control &mdash; they say that when they asked her how she was doing, a mere twelve hours before she was to draw her ninety-six years of life to a close, when they said, &ldquo;Meriel, how are you?&rdquo; she, barely able to speak above a whisper, managed to get out the words: &ldquo;Fine,&rdquo; she said. &ldquo;I&rsquo;m doing fine.&rdquo;</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">Only one day after she exhaled in final, glottal stop, I am on her narrow, lumpy, too-soft hospital bed, with its smell.</p>
+
+<p>To return for the ceremony of death I had to take a twenty-two-hour stitched-together flight from the wilds of Central America. When I arrived, they offered to put me in a motel, but I said, no, I might as well stay with her. <em>I spent a lifetime running away from her. Now that we think she&rsquo;s dead (although some of us have our doubts), we (being me and all my schizoid selves) might as well spend some time in her bed, doing quality time with her &mdash; time we could never do while she was alive.</em></p>
+
+<p>I expected a whiff of death in that room &mdash; urine, sweat, the stink of old ghosts. But there&rsquo;s only the sweet scent of .&nbsp;.&nbsp;. what is it? Ah, Pond&rsquo;s Vanishing Cream, which she put on her face and neck and hands every night for most of her life. Just before going to sleep, she would open up the three-pound jar filled with a sweet greasy pink goo and massage it into cheeks, under eyes, along the neck, on the wide, never-furrowed forehead.</p>
+
+<p>It was her stink, and mine, too. I would go to her bedroom overlooking the great wide St. Johns River, to say my goodnights (this is fifty years ago, mind you, and the smell of it still lies richly in the soft bed of my memories). There she is, her unlined face greased down, and she turns her cheek to me, and I touch her cheek with my cheek (ever so lightly), kiss the air just before her ear, and it&rsquo;s goodnight.</p>
+
+<p>But that&rsquo;s not all. The smell has a double rich meaning for me. For when I turned thirteen, when I first learned the sweet ecstasy of sweet self-abuse, I turned to Mumsie&rsquo;s vanishing cream to help my stampeding lust vanish for a few minutes.</p>
+
+<p>While they were downstairs, on the verandah, having their highballs, I would sneak into her bedroom and open the jar and get a fingerful of Pond&rsquo;s and then, hiding the goop in my fist, would run back to my bathroom, shut the door, turn on the lights and the noisy fan (background noise to hide the noise of me too much in love with myself), drop my pants, and watch myself in the shaving mirror as I pulled on this new, mysterious, wonderful extension of me, something that belonged to me, no one else but me, mine and mine alone. And so we (me and it) in a back-and-forth ramble of a gorgeous minute and a half until my eyes clouded over the smell of sweet Pond&rsquo;s swept my nostrils followed by the richer more exuberant smell as I cast two hundred million of my babies into the cold sink.</p>
+
+<p>We thought it was just temporary, didn&rsquo;t we? Something we gave up when we grew up, right? Ha. If I could just find that jar of pink Pond&rsquo;s face cream right now. That would be a fine literary turn, no? Me in the hospital bed of my just-dead Mum, enmeshed in the rites of Onan.</p>
+
+<p><em>It&rsquo;s her fault. She never taught me how to love. Too unpredictable, you can lose control too easily. (She didn&rsquo;t use words, but I got the message.)</em></p>
+
+<p><em>I learned your lesson well, Mum. Despite marriage and children and too many lovers, there was only one person I could trust.</em></p>
+
+<p><em>You remember him, don&rsquo;t you, Mum? That half-naked, skinny kid, looming over the sink, reflected in on himself, in love with himself.</em></p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">Though it seems to be fixed, the world is forever moving below us. They say the core of it is an iron ball, never turning as fast as the crust, but rather revolving slowly, creating huge eddies of magnetic power and heat and (possibly) magic, a massy globe moving tortuously, shifting our worlds ever so slightly.</p>
+
+<p>It&rsquo;s dark here in Central America. It&rsquo;s three in the morning, the morning of the winter solstice. The earth may have pushed the sun up over there to the East, where I came into being, but it still remains dark here.</p>
+
+<p>Above me the ceiling fan is rattling round, stirring up the heavy night air, keeping the mosquitoes at bay. My kind love Jes&uacute;s has lit seven candles and set them under the table: religious <em>veladoras</em> in tall glass jars, with Our Dark Lady of Guadalupe &mdash; the Black Mar&iacute;a &mdash; painted on the sides. I have found that having Our Lady casting shadows on the ceiling all night long may not keep the bogyman at bay, but it at least makes him more tolerable.</p>
+
+<p>Jes&uacute;s is lying next to me, dead asleep, my own chocolate cr&egrave;me pie &mdash; dark, and warm, and delicious. Despite my drunkenness, and my fatigue, and my noisy arthritic bones, I have just brought the two of us off to a sweaty fare-thee-well.</p>
+
+<p>Yet I lie awake. (They don&rsquo;t let us sleep much after we pass the half-century mark.) It is at this very moment that I learn that Mumsie is ready to be packed away into the steaming earth below us. This is how it happens:</p>
+
+<p>I notice that there is a hell of a lot of noise emanating from the other room of the house, what they call the <em>sala</em>. It is as if five or six people had decided &mdash; without my specific permission &mdash; to embark on a vigorous panel discussion around the dinner table, debating, say, recent trends in the stock market. But the voices are so muddled that I can&rsquo;t tell if they are speaking Dow-Jones or Standard &amp; Poors.</p>
+
+<p>Later I learn that this otherworldly conference started at the very moment Mumsie checked out. I tell you, she sent her business goblins three thousand miles west to advise me of her departure. I hear them &mdash; they could wake the dead &mdash; but I&rsquo;m not about to go out there to check on the action.</p>
+
+<p>I spend the rest of the night with my head under the pillow, wondering why my Prozac isn&rsquo;t doing its job.</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">They performed, according to her wishes, &ldquo;no heroic measures.&rdquo; She had oxygen, but nothing else, right up until the last few weeks. Then the hospice service started her on morphine.&nbsp;.&nbsp;.&nbsp;. Morphine! Straight, no chaser.</p>
+
+<p>I am now thinking of my old Mum, who never availed herself of the panoply of mind-altering drugs offered willy-nilly to the rest of us &mdash; the drugs that changed our lives so profoundly. Puritan Mum was scornful of drugs despite a lifetime of scoliosis (which can hurt like hell, especially at the end of the day, especially after yielding up seven children to the world). She took nothing stronger than aspirin, and only a minimal dose of that.</p>
+
+<p>But finally, at last, under the aegis of the Springfield Memorial Hospice, Mumsie is tying one on with the best of us, stoned on the drug invented so long ago to soothe the beast they call Living, especially when it closes in on the beast they call Dying. And I wish I could have been with her as the morphine began to take effect, when she was saying to herself, as she <em>had</em> to be saying, &ldquo;Good Lord.&rdquo;</p>
+
+<p>And: <em>&ldquo;Wow!&rdquo;</em></p>
+
+<p>During the course of her life, I never heard her utter the <em>W-</em>word. It was, if you recall, the code for those of us who partook of the sacraments of the sixties on some shabby couch in some shabby friend&rsquo;s shabby apartment, our first trip, wallowing about in the waves of the universe, piling up &mdash; in ten hours &mdash; a thousand years of psychedelic wisdom.</p>
+
+<p>Stoned out of our fucking gourds, we suddenly understood how to talk to God. <em>Is that you God? I&rsquo;m here too God. I C U. Do you see me too God?</em></p>
+
+<p>And then we intoned the universal dope mantra,</p>
+
+<p>&ldquo;Oh, Man.&rdquo;</p>
+
+<p>And then (slowly, very slowly),</p>
+
+<p><em>&ldquo;Oh, Wow.&rdquo;</em></p>
+
+<p>And now my sweet old Mum is swept up in the rapture that she never saw before. With this new swelling of perception, she now sees and hears and feels what body-mind is capable of.</p>
+
+<p>Mum&rsquo;s was a lifetime of body being pushed about from here to there, the body of <em>duty</em>, the body delivering <em>husband pleasure</em>, the body delivering <em>children pain</em>. But now this new feeling, a new special joy brewed by the gods, infused in the soul, shooting her up to the heavens, firing across the ages, a spurt of white heat pushing up from the cold ground below, swamping all senses, and she wonders, <em>How could my body have kept this from me so long?</em> And the sweep of the universe raises her up, and she says, &ldquo;Wow.&rdquo;</p>
+
+<p>Or, rather,</p>
+
+<h2 class="text-center">WOW!</h2>
+														</div>
+
+
+				
+<div class="sharing-bar article-sharing">
+	<div class="sharing-bar-first">
+		<a href="javascript:window.print();" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-printer"></use></svg> <span>Print</span></a>
+	</div>
+
+	<div class="sharing-bar-second">
+		<span class="alt-ff xsmall">Share:</span>
+		<a href="https://www.facebook.com/sharer/sharer.php?u=https://www.thesunmagazine.org/issues/253/mumsie" target="_blank" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-facebook"></use></svg> <span>Facebook</span></a>
+		<a href="https://twitter.com/share?url=https://www.thesunmagazine.org/issues/253/mumsie&amp;via=thesunmagazine" target="_blank" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-twitter"></use></svg> <span>Twitter</span></a>
+		<a href="#" class="b b-1 b-padding-tight xsmall js-toggle-mail-form"><svg><use xlink:href="#i-email"></use></svg> <span>Email</span></a>
+	</div>
+</div>
+
+<div class="send-to-friend-message-container">
+	<div class="alert alert-success xsmall">Thank you for sharing <em>The Sun</em>.</div>
+</div>
+
+<form method="post" action="/ajax/articles/send-to-a-friend" class="form fill-grey send-to-friend-form">
+		<input type="hidden" id="form_url" name="form[url]" value="https://www.thesunmagazine.org/issues/253/mumsie" />
+
+	<ul class="form-fields">
+		<li><label for="form_sender_name"><span class="label-text">Your Full Name</span><span class="label-asterisk">*</span></label><input type="text" id="form_sender_name" name="form[sender_name]" required="required" /></li>
+		<li><label for="form_sender_email"><span class="label-text">Your Email Address</span><span class="label-asterisk">*</span></label><input type="email" id="form_sender_email" name="form[sender_email]" required="required" /></li>
+		<li><label for="form_recipient_name"><span class="label-text">Friend’s Name</span><span class="label-asterisk">*</span></label><input type="text" id="form_recipient_name" name="form[recipient_name]" required="required" /></li>
+		<li><label for="form_recipient_email"><span class="label-text">Friend’s Email Address</span><span class="label-asterisk">*</span></label><input type="email" id="form_recipient_email" name="form[recipient_email]" required="required" /></li>
+		<li><label for="form_message"><span class="label-text">Personalized Message</span></label><textarea id="form_message" name="form[message]"></textarea></li>
+	</ul>
+<div class="send-to-friend-message-container">
+	<div class="alert alert-error xsmall">Something went wrong. Please try again.</div>
+</div>
+
+<div class="g-recaptcha" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs"></div>
+<div class="form-actions"><button type="submit" id="form_submit" name="form[submit]"	class="form-actions-b-primary b b-1 b-loading xsmall"><svg><use xlink:href="#i-loading"></use></svg>
+		Submit
+	</button></div>
+<input type="hidden" id="form__token" name="form[_token]" value="3683a12a5de648e4741ee37e28ed4a3b3294662d" /></form>
+
+<br>
+
+
+
+										<footer class="article-contributor contributors">
+									
+
+<div class="block-contributor">
+		
+
+		<div class="block-contributor-content">
+		<div class="block-contributor-bio small">
+			<p><span class="smallcaps"><strong>Lorenzo Wilson Milam</strong></span>&rsquo;s most recent book, with coauthor Jonathan Algernon Gallant, is a summary of American history and customs titled <em>Gringolandia: A Guide for Puzzled Mexicans</em> (Mho &amp; Mho Works).</p><a href="/contributors/lorenzo-w-milam" class="block-contributor-link link-alt small">More From This Contributor&nbsp;&#9656;</a>		</div>
+	</div>
+</div>
+
+							</footer>
+						</article>
+
+
+				    <div class="paywall-subscription block-product">
+			<div class="columns">
+			<div class="paywall-banner span3 cta cta-l1">
+				<div class="cta-intro">
+					<h5 class="cta-title alt-ff">One Free Selection Left </h5>
+					<p class="cta-text xsmall"><a class="link-alt" href="https://www.thesunmagazine.org/subscriber/login" data-label="Already a subscriber?">Already a subscriber? Sign in ▸</a><br><br>Read two free selections from <em>The Sun</em> each month.</p>
+				</div>
+			</div>
+			<div class="paywall-banner span9 note note-1 text-center">
+				<h4 class="cta-title alt-ff">Subscribe to <em>The Sun</em> and save 45%</h4>
+				<p class="cta-text xsmall">Subscribers get full access to the current issue and more than 40 years of archives.</p>
+				<a class="b b-1 xsmall cta-trigger"  href="/subscribe1" data-label="Subscribe" data-ctatitle="Subscribe">Subscribe</a>
+			</div>
+		</div>
+
+		<div class="columns">
+			<div class="span12 paywall-cta-bottom">
+				<p>
+					<span class="cta-title-issue">Buy the January 1997 issue for $5.95</span>
+					<span class="xsmall">Order now to get instant access to this issue, and we’ll also send you a print copy.</span>
+					<a class="b b-5 xsmall corona"  href="#" data-product-type="issues" data-id="253" data-label="Order Now ▸">Order Now ▸</a>
+				</p>
+			</div>
+		</div>
+
+		
+
+</div>
+	
+	
+	
+	<div class="spacer"></div>
+	
+
+
+
+			<div class="article-correspondence layout-item fill-pattern-light">
+		<div class="layout-item-intro">
+			<h2>Correspondence</h2>
+			<a class="xsmall link-alt" href="https://www.thesunmagazine.org/letter-to-the-editor">Write a Letter to the Editor&nbsp;&#9656;</a>
+		</div>
+
+		<div id="article-correspondences" class="correspondences correspondences-collapsed">
+								<div class="block-correspondence" id="2664">
+		<blockquote class="quote-2">
+			<p>My mother died on February 9. A few days later, I picked up the January issue of <strong>The Sun</strong>, which I hadn&rsquo;t had time to read before then, and opened to Lorenzo Wilson Milam&rsquo;s beautiful essay &ldquo;<a href="/article/1823">Mumsie</a>.&rdquo; He talks of &ldquo;doing quality time with her &mdash; time we could never do while she was alive.&rdquo; That was my mama, too. Hugging her was like hugging an ironing board that wanted to spring open, push you away. She didn&rsquo;t show much emotion; my joys and disasters were greeted with a modulated &ldquo;That&rsquo;s nice, dear&rdquo; or &ldquo;That&rsquo;s too bad, dear.&rdquo; Going through her papers, I read that she thought I had &ldquo;no feeling for her generation,&rdquo; but she shared nothing personal to make that generation come alive for me.</p>
+
+<p>My daughter and I play a tape of her voice, muted by years of disintegration. The last words I heard clearly were in the emergency room in 1992, when Mama said firmly, over and over: &ldquo;I am not the same. I am not alive.&rdquo; A good daughter would have shot her then. She would have preferred it.</p>
+
+<p>On February 8, the day before her death, I was in San Juan, crying over some little Mexican bird that reminded me of Mama, and thinking how she would have loved it there. All that day and the next, I wished she could be there. That next night, upon my return, I heard that she had died. The doctor had called my fourteen-year-old daughter and said, &ldquo;Your grandmother has just expired.&rdquo; (&ldquo;As if she were a can of peas,&rdquo; my daughter said.) She&rsquo;d picked the only day in years that I was unavailable by phone. <em>The hell with this,</em> she must have thought. <em>I&rsquo;m going to San Juan!</em></p>
+							<p class="quote-2-author">Leslie English<br>New Paltz, New York</p>
+					</blockquote>
+	</div>
+
+					</div>
+
+			</div>
+    
+		<div class="article-correspondence-cta">
+		<div class="cta cta-l1" data-url="https://www.thesunmagazine.org/letter-to-the-editor">
+			<div class="cta-intro">
+				<h5 class="cta-title alt-ff">Thinking about writing us a letter?</h5>
+				<p class="cta-text">Give in to the temptation. We love getting mail. <br><span class="xsmall">(Of course, we reserve the right to edit.)</span></p>
+			</div>
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" class="cta-button b b-4 b-padding-tight small" data-label="Write Us A Letter!">Write Us A Letter!</a>
+		</div>
+	</div>
+	
+
+			<div class="article-also layout-item-large full-bar fill-grey-mid-light">
+		<div class="layout-item-intro">
+			<h2>Also In This Issue</h2>
+			<a href="/issues/253" class="xsmall link-alt">January 1997&nbsp;&#9656;</a>
+		</div>
+		<div class="issue-articles-l1">
+			<div class="issue-articles-l1-content1">
+				
+<div class="cover cover-l1 block-product">
+	<div>
+							<a href="/issues/253" class="cover-thumb">
+				
+				<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 725'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/281x364r/import/issue/253.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/562x728r/import/issue/253.jpg
+	 alt=""
+	 class="lazy">
+
+			</a>
+		
+
+													<!-- <a href="/issues/253" data-product-type="issues" data-id="253" data-role="order" class="js-buy-single corona cover-button b b-1 b-full xsmall" data-label="Buy This Issue &#9656;">
+								Buy This Issue&nbsp;&#9656;
+			</a> -->
+			<a href="/issues/253" data-product-type="issues" data-id="253" class="js-buy-single corona cover-button b b-1 b-full xsmall" data-label="Buy This Issue &#9656;">
+								Buy This Issue&nbsp;&#9656;
+			</a>
+					
+					</div>
+</div>
+			</div>
+			<div class="issue-articles-l1-content2">
+				<div class="articles-l3">
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/quotations">Quotations</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/253/sunbeams-issue-253">Sunbeams</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/poetry">Poetry</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/253/coyote-genesis">Coyote Genesis</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/john-r-spivey">John R. Spivey</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/sun-interview">The Sun Interview</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/253/when-nature-speaks">When Nature Speaks</a></h3>
+					<p class="block-content-subtitle subtitle">An Interview With Jim Nollman</p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/derrick-jensen">Derrick Jensen</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/poetry">Poetry</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/253/choice">Choice</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/scarecrow">Scarecrow</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+									</div>
+			</div>
+		</div>
+	</div>
+	
+
+			<div class="article-related layout-item-large full-bar fill-pattern-light">
+		<div class="layout-item-intro">
+			<h2>Related Selections</h2>
+			<ul class="list-inline list-inline-tight"><li><a href="/topics/parents" class="xsmall link-alt link-text">Parents</a></li><li><a href="/topics/death" class="xsmall link-alt link-text">Death</a></li><li><a href="/topics/grief" class="xsmall link-alt link-text">Grief</a></li><li><a href="/topics/medicine" class="xsmall link-alt link-text">Medicine</a></li></ul>		</div>
+
+		<div class="articles-l2">
+							
+
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/readers-write">Readers Write</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/420/the-office">The Office</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/our-readers">Our Readers</a></li><li><a href="/issues/420">December 2010</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/420" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 727'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/140x182r/import/issue/420.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/import/issue/420.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/316/we-decided-to-call-it-baseball">We Decided To Call It Baseball</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/michael-mccolly">Michael McColly</a></li><li><a href="/issues/316">April 2002</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/316" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 561 728'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/140x182r/2016-10/316.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/281x364r/2016-10/316.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/quotations">Quotations</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/198/sunbeams-issue-198">Sunbeams</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li><a href="/issues/198">May 1992</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/198" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 725'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/141x182r/import/issue/198.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/281x364r/import/issue/198.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/quotations">Quotations</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/188/sunbeams-issue-188">Sunbeams</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li><a href="/issues/188">July 1991</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/188" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 725'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/141x182r/import/issue/188.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/281x364r/import/issue/188.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+					</div>
+	</div>
+	
+	
+					<form id="newsletterForm" method="post" action="https://www.thesunmagazine.org/newsletter" data-url-send="https://www.thesunmagazine.org/newsletter" class="form form-newsletter fill-grey" enctype="multipart/form-data" target="_blank">
+
+
+
+		<div class="form-newsletter-intro">
+			<h3 class="alt-ff large">Sign Up For Our Newsletter</h3>
+			<p>We’ll let you know about new website selections, upcoming events, special offers, and more.</p>
+		</div>
+
+		<ul class="form-newsletter-fields form-fields form-fields-inline">
+			<li>
+				<input name="name" type="text" maxlength="500" id="name" placeholder="Your Name">
+			</li>
+			<li>
+				<input name="email" type="text" maxlength="500" id="email" placeholder="Your E-mail">
+			</li>
+
+			<li class="form-fields-inline-button">
+				<button disabled="disabled" class="form-newsletter-send b b-4 b-padding-tight b-loading g-recaptcha" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs" data-callback="recaptcha_callback" name="SubmitButton" id="SubmitButton">
+					<svg><use xlink:href="#i-loading"></use></svg>
+					Sign&nbsp;Up
+				</button>
+			</li>
+		</ul>
+	</form>
+	<script id="hiddenlpsubmitdiv" style="display: none;"></script>
+
+
+
+<footer class="footer brand-grey-dark">
+			<div class="footer-first">
+		<h3 class="footer-tagline">Independent, Reader-Supported Publishing</h3>
+		<p class="footer-desc">In each issue of <em>The Sun</em> you’ll find some of the most radically intimate and socially conscious writing being published today. In an age of media conglomerates, we’re something of an oddity: an ad-free, independent, reader-supported magazine.</p>
+		<ul class="footer-nav list-inline-border xsmall">
+			
+		<li class=" first">
+			<a href="https://www.thesunmagazine.org/about" 	   class=''>
+	   About <em>the Sun</em>	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/staff" 	   class=''>
+	   Staff	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/find-the-sun" 	   class=''>
+	   Find <em>The Sun</em>&nbsp;&nbsp;in a Store Near You	</a>
+		
+	</li>
+
+
+		</ul>
+	</div>
+	
+		<div class="footer-second">
+		<ul class="footer-second-social list-inline">
+			<li><a href="https://www.facebook.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-facebook"></use></svg></span> Like Us</a></li>
+			<li><a href="https://twitter.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-twitter"></use></svg></span> Follow Us</a></li>
+			<li><a href="https://instagram.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-instagram"></use></svg></span> Take a Look</a></li>
+		</ul>
+
+		<div class="footer-second-content">
+			<ul class="footer-nav list-inline-border xsmall">
+				
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/" 	   class='current '>
+	   Home	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/privacy-policy" 	   class=''>
+	   Privacy Policy	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/terms-of-use" 	   class=''>
+	   Terms of Use	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/site-map" 	   class=''>
+	   Site Map	</a>
+		
+	</li>
+
+
+			</ul>
+			<p class="footer-copyright xxsmall">Copyright &copy; 1974–2020 <em>The Sun</em>. All rights reserved.</p>
+		</div>
+	</div>
+</footer>
+
+
+
+<div class="offset-nav">
+	<ul>
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/read" 	   class='current '>
+	   Read	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/issues/current" 	   class=''>
+	   Current Issue	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/archives" 	   class=''>
+	   Archives	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/featured" 	   class=''>
+	   Featured Selections	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/topics" 	   class=''>
+	   Browse Topics	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/sections" 	   class=''>
+	   Browse Sections	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/connect" 	   class=''>
+	   Connect	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/news" 	   class=''>
+	   News from <em>The Sun</em>	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" 	   class=''>
+	   Write a Letter to the Editor	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/discussion-groups" 	   class=''>
+	   Discussion & Writing Groups	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/make-a-suggestion" 	   class=''>
+	   Make a Suggestion	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/submit" 	   class=''>
+	   Submit	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/shop" 	   class=''>
+	   Shop	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/giftsub" 	   class=''>
+	   Gift Subscriptions	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/issues" 	   class=''>
+	   Issues	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+											
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/donatemenu" 	   class='highlight'>
+	   Donate	</a>
+		
+	</li>
+
+		<li class=" last">
+														<a href="/SubscribeNav1" 					   class=''>
+						Subscribe					</a>
+									
+	</li>
+
+
+					<li>
+				<a href="https://www.thesunmagazine.org/shop/cart">Cart ( <span class="cart-item-count">  0  </span>)</a>
+			</li>
+			<li><a href="https://www.thesunmagazine.org/subscriber/login" class="link-header-logout link-alt">Sign In</a></li>
+			</ul>
+	<ul>
+		<li class=" first">
+			<a href="https://www.thesunmagazine.org/about" 	   class=''>
+	   About <em>the Sun</em>	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/staff" 	   class=''>
+	   Staff	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/find-the-sun" 	   class=''>
+	   Find <em>The Sun</em>&nbsp;&nbsp;in a Store Near You	</a>
+		
+	</li>
+
+</ul>
+	<ul>
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/" 	   class='current '>
+	   Home	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/privacy-policy" 	   class=''>
+	   Privacy Policy	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/terms-of-use" 	   class=''>
+	   Terms of Use	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/site-map" 	   class=''>
+	   Site Map	</a>
+		
+	</li>
+
+</ul>
+</div>
+
+<div id="buy-popup-message" class="buy-popup mfp-hide white-popup white-popup-block">
+	<a class="popup-modal-dismiss" href="#"></a>
+	<h5>Due to fulfillment challenges related to the novel coronavirus, print copies are temporarily unavailable for individual sale. We are offering free PDFs until we are able to resume print sales.</h5>
+	<p>Enter your e-mail address below to download this issue.</p>
+	<form method="post" id="download-single" action="https://www.thesunmagazine.org/issue/pdfFree/531.pdf">
+		<label for="email"><span class="label-text">E-mail</span><span class="label-asterisk">*</span></label>
+		<input class="buy-single-email" id="email" type="email" name="email">
+		<button type="send" class="form-buy-issue-send b b-3 b-padding-tight b-loading">Send</button>
+		<button class="form-buy-issue-download b b-3 b-padding-tight b-loading">Download pdf</button>
+		<button type="send" class="popup-modal-dismiss b b-2 b-padding-tight b-loading">Close</button>
+		<div class="g-recaptcha" style="text-align: center" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs"></div>
+
+	</form>
+</div>
+
+			<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/plugins.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/site.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/newsletter.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/js/articles.js"></script>
+		</div>
+		</div>
+
+				<script>
+		(function (doc) {
+			var scripts = doc.getElementsByTagName('script');
+			var script = scripts[scripts.length - 1];
+			var xhr = new XMLHttpRequest();
+			xhr.onload = function () {
+				var div = doc.createElement('div');
+				div.innerHTML = this.responseText;
+				div.style.display = 'none';
+				script.parentNode.insertBefore(div, script);
+			}
+			xhr.open('get', '/theme/thesun//assets/build/img/sprite/sprite.svg', true);
+			xhr.send();
+		})(document);
+
+
+
+		</script>
+
+		<script>
+			// Submit function
+            function recaptcha_callback() {
+						var getUrl = $('.form-newsletter').data( "url-send" ),
+							getName = $('input#name').val(),
+							getEmail = $('input#email').val();
+						$.ajax({
+								type: "POST",
+								url: getUrl,
+								data: {
+									name: getName,
+									email: getEmail,
+									grecaptcharesponse: grecaptcha.getResponse()
+								}
+							}).done(function(response) {
+								console.log(response);
+									$('.form-fields').fadeOut(800, function () {
+										$('.form-fields').empty().append('<div class="newsletter-confirm-message">Thank you for signing up to receive news from <em>The Sun</em>. Your first newsletter will arrive soon.<div>').fadeIn(800);
+									});
+							});
+			}
+
+		</script>
+
+		<script>
+			function getUrlCode() {
+				var url_string = window.location.href;
+				var url = new URL(url_string);
+				var c = url.searchParams.get('promotion\_key');
+				if (typeof c !== 'undefined' && c !== null) {
+					setCookie("promotion_code",c);
+				}
+			}
+
+			function setCookie(cname, cvalue) {
+				document.cookie = cname + "=" + cvalue + ";" + "path=/";
+			}
+
+			function getCookie(cname) {
+				var name = cname + "=";
+				var decodedCookie = decodeURIComponent(document.cookie);
+				var ca = decodedCookie.split(';');
+				for(var i = 0; i <ca.length; i++) {
+					var c = ca[i];
+					while (c.charAt(0) == ' ') {
+						c = c.substring(1);
+					}
+					if (c.indexOf(name) == 0) {
+						return c.substring(name.length, c.length);
+					}
+				}
+				return "";
+			}
+			window.addEventListener( "load", getUrlCode );
+		</script>
+
+
+	</body>
+</html>

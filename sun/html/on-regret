@@ -1,0 +1,1226 @@
+
+<!DOCTYPE html>
+<html class="no-js" lang="en-US">
+	<head>
+		<title>On Regret - The Sun Magazine</title>
+
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		
+		<meta name="viewport" content="width=device-width, minimum-scale=1.0">
+
+		<link rel="dns-prefetch" href="//ajax.googleapis.com">
+		<link rel="dns-prefetch" href="//use.typekit.net">
+		
+		<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/modernizr.js"></script>
+		<script src="https://www.google.com/recaptcha/api.js"
+				async defer>
+		</script>
+
+		<script>(function(d) { var config = { kitId: 'kzw7ebk', scriptTimeout: 3000, async: true }, h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s) })(document);</script>
+
+
+				
+		<link rel="apple-touch-icon" sizes="57x57" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-57x57.png?v=2016">
+		<link rel="apple-touch-icon" sizes="60x60" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-60x60.png?v=2016">
+		<link rel="apple-touch-icon" sizes="72x72" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-72x72.png?v=2016">
+		<link rel="apple-touch-icon" sizes="76x76" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-76x76.png?v=2016">
+		<link rel="apple-touch-icon" sizes="114x114" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-114x114.png?v=2016">
+		<link rel="apple-touch-icon" sizes="120x120" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-120x120.png?v=2016">
+		<link rel="apple-touch-icon" sizes="144x144" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-144x144.png?v=2016">
+		<link rel="apple-touch-icon" sizes="152x152" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-152x152.png?v=2016">
+		<link rel="apple-touch-icon" sizes="180x180" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-180x180.png?v=2016">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-32x32.png?v=2016" sizes="32x32">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/android-chrome-192x192.png?v=2016" sizes="192x192">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-96x96.png?v=2016" sizes="96x96">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-16x16.png?v=2016" sizes="16x16">
+		<link rel="mask-icon" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/safari-pinned-tab.svg?v=2016" color="#444444">
+		<link rel="shortcut icon" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon.ico?v=2016">
+		<meta name="apple-mobile-web-app-title" content="The Sun Magazine">
+		<meta name="application-name" content="The Sun Magazine">
+		<meta name="msapplication-TileColor" content="#fcc330">
+		<meta name="msapplication-TileImage" content="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/mstile-144x144.png?v=2016">
+		<meta name="theme-color" content="#ffffff">
+
+				<link rel="stylesheet" type="text/css" href="https://cloud.typography.com/6578674/659928/css/fonts.css" />
+		<link rel="stylesheet" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/css/style.css">
+
+																		<meta property="og:site_name" content="The Sun Magazine">
+		<meta property="og:type" content="article">
+		<meta property="og:url" content="https://www.thesunmagazine.org/issues/252/on-regret">
+		<meta property="og:image" content="http://www.thesunmagazine.org/files/import/issue/252.jpg">
+		<meta property="og:title" content="On Regret - The Sun Magazine">
+		<meta property="og:description" content="Of all the things Greenfeld said, the word that resonates most when I ponder the question of regret is kittenness. &amp;ldquo;It&amp;rsquo;s hard when they lose their kittenness,&amp;rdquo; he said.">
+		<meta property="fb:app_id" content="158741778010551">
+
+						<link rel="image_src" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.comhttp://www.thesunmagazine.org/files/import/issue/252.jpg">
+
+												<meta name="twitter:card" content="summary">
+		<meta name="twitter:title" content="On Regret - The Sun Magazine">
+		<meta name="twitter:description" content="Of all the things Greenfeld said, the word that resonates most when I ponder the question of regret is kittenness. &amp;ldquo;It&amp;rsquo;s hard when they lose their kittenness,&amp;rdquo; he said.">
+		<meta name="twitter:image" content="http://www.thesunmagazine.org/files/import/issue/252.jpg">
+		<meta name="twitter:site" content="@thesunmagazine">
+
+				<link rel="publisher" href="https://plus.google.com/113792980827145858211">
+        
+		<meta name="Description" content="Of all the things Greenfeld said, the word that resonates most when I ponder the question of regret is kittenness. &amp;ldquo;It&amp;rsquo;s hard when they lose their kittenness,&amp;rdquo; he said.">
+
+		
+		<!-- Google Tag Manager -->
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-TKBHCCG');</script>
+		<!-- End Google Tag Manager -->
+
+		<!-- Google Analytics -->
+		<script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+            ga('create', 'UA-2351127-1', 'auto');  // Replace with your property ID.
+            ga('send', 'pageview');
+            ga('require', 'ecommerce');   // Load the ecommerce plug-in.
+		</script>
+		<!-- End Google Analytics -->
+	</head>
+	<body id="">
+
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TKBHCCG"
+		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+		<header class="header" data-offset-start="80">
+		<div class="header-utilities">
+				<ul class="header-utilities-user list-inline list-inline-tight xxsmall">
+							<li>
+					<span class="header-utilities-user-intro">Already A Subscriber?</span> &nbsp;
+					<a href="https://www.thesunmagazine.org/subscriber/login" class="link-text link-alt">Sign In</a>
+				</li>
+					</ul>
+		<a href="https://www.thesunmagazine.org/shop/cart" class="header-utilities-cart  link-alt link-icon tiny">
+			<span class="i"><svg><use xlink:href="#i-cart"></use></svg></span>
+			<span class="cart-item-count">
+									0 Items
+				
+			</span>
+		</a>
+			</div>
+
+		<div class="header-bar">
+		<h1 class="header-logo logo">
+			<a href="/">
+				<img src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/img/logo-thesun.svg" class="logo-thesun" alt="The Sun Magazine">
+				<img src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/img/logo-tagline.svg" class="logo-tagline" alt="">
+			</a>
+		</h1>
+
+		<ul class="header-nav">
+			
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/read" 	   class='current '>
+	   Read	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/issues/current" 	   class=''>
+	   Current Issue	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/archives" 	   class=''>
+	   Archives	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/featured" 	   class=''>
+	   Featured Selections	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/topics" 	   class=''>
+	   Browse Topics	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/sections" 	   class=''>
+	   Browse Sections	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/connect" 	   class=''>
+	   Connect	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/news" 	   class=''>
+	   News from <em>The Sun</em>	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" 	   class=''>
+	   Write a Letter to the Editor	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/discussion-groups" 	   class=''>
+	   Discussion & Writing Groups	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/make-a-suggestion" 	   class=''>
+	   Make a Suggestion	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/submit" 	   class=''>
+	   Submit	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/shop" 	   class=''>
+	   Shop	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/giftsub" 	   class=''>
+	   Gift Subscriptions	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/issues" 	   class=''>
+	   Issues	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+											
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/donatemenu" 	   class='highlight'>
+	   Donate	</a>
+		
+	</li>
+
+		<li class=" last">
+														<a href="/SubscribeNav1" 					   class=''>
+						Subscribe					</a>
+									
+	</li>
+
+
+		</ul>
+
+		<button class="header-nav-toggle"><svg><use xlink:href="#i-menu" class="i-menu"></use><use xlink:href="#i-close" class="i-close"></use></svg></button>
+		<button class="header-search-toggle" data-form-wrapper=".header-search"><svg><use xlink:href="#i-magnifier" class="i-magnifier"></use><use xlink:href="#i-close" class="i-close"></use></svg></button>
+	</div>
+
+		<div class="header-search">
+		<div class="header-search-content">
+			<form action="https://www.thesunmagazine.org/search" class="form form-search" method="get">
+				<h2 class="alt-ff brand-link">Search Our 40 Years of Archives</h2>
+				<ul class="form-search-fields form-fields form-fields-inline">
+					<li><input type="text" name="q" value=""></li>
+					<li class="form-fields-inline-button"><button class="b b-1 b-padding-tight b-loading"><svg><use xlink:href="#i-loading"></use></svg>Search</button></li>
+				</ul>
+
+				<div class="header-search-content-shortcuts">
+					<h6 class="search-advanced alt-ff"><a class="js-handle-advanced" href="https://www.thesunmagazine.org/search?advanced=1">Advanced Search</a></h6>
+					<br>
+					<h6 class="alt-ff">Popular Pages</h6>
+					<ul class="list-inline-border list-inline-tight xxsmall"><li class=" first"><a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a></li><li class=""><a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a></li><li class=""><a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a></li><li class=""><a href="https://www.thesunmagazine.org/sections/quotations" 	   class=''>
+	   Quotations	</a></li><li class=""><a href="https://www.thesunmagazine.org/sections/readers-write" 	   class=''>
+	   Readers Write	</a></li><li class=" last"><a href="https://www.thesunmagazine.org/sections/poetry" 	   class=''>
+	   Poetry	</a></li></ul>				</div>
+			</form>
+		</div>
+	</div>
+</header>
+
+	<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+	<script type="text/javascript">
+		$(document).ready(function() {
+			$('.js-handle-advanced').on('click', function (e) {
+				e.preventDefault();
+				var getSearchValue = $('.form-search-fields input').val();
+				var getURL = $(this).attr('href');
+				var newURL = getURL + '&q=' + getSearchValue;
+				window.location.href = newURL;
+			});
+		});
+	</script>
+
+		<div class="container-hidden">
+		<div class="container">
+
+				
+	
+	<article class="article ">
+		<header class="block-content block-content-l1 block-content-center">
+						<div class="block-content-header">
+				<h6 class="b-content-section heading-square"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+				<h1 class="block-content-title">On Regret</h1>
+
+				
+				<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/jane-bernstein">Jane Bernstein</a></li><li><a href="/issues/252">December 1996</a></li></ul>
+
+			</div>
+
+								</header>
+
+				<div class="article-body link-text-wrap">
+																		<p><span class="dropcap">A</span> TV-talk-show host once asked me if I regretted my daughter Rachel&rsquo;s birth. I answered the question at the time, and answered it well, I thought, but eight years later I find myself struggling to revise what I originally said.</p>
+
+<p>Rachel is thirteen now, and defies easy classification. While I could fill a page with acronyms and names of disabilities, let me just say that there&rsquo;s little she can do independently, except trail me around the house, asking the same questions over and over, talking and talking, and only sometimes making sense. She needs to be near me at all times, and calls my name constantly, but she is never satisfied by my response, and does not like to be hugged or held. Once, my arms were enough; now there is little I can do for her.</p>
+
+<p>&ldquo;If the choice were yours,&rdquo; the talk-show host asked, &ldquo;would you have chosen for her not to have been born?&rdquo;</p>
+
+<p>Had I been asked this question when Rachel was an infant, I would surely have said yes, since this baby was like a bomb that exploded in my house, damaging my husband and my older daughter, and the relationship we had with each other, this lovely, fragile thing we called our family. That Rachel was beloved did not lessen the chaos her birth wrought.</p>
+
+<p>In my commitment to Rachel, and to somehow repairing the damage to our family, I did not pose the question to myself. Instead, I did what I imagine most parents do when a less-than-perfect child is born: I cried a lot, then threw away bit by bit all the dreams I&rsquo;d never known I had for this child, and tried to come up with new ones. But it was hard to know what to wish for and what hopes to cast off. Rachel did not have a disorder with a definite, unvarying set of symptoms and disabilities. I was told she was at &ldquo;significant risk&rdquo; for having a seizure disorder and faced a &ldquo;high likelihood&rdquo; of being &ldquo;intellectually impaired,&rdquo; but it was possible that these things would <em>not</em> happen. A year passed before I buried my dream that she would go to college; two years before I accepted that she would never go to high school; and another three before I began to acknowledge that she would never be fully independent. Each time my expectations were diminished, another dream surfaced to take the place of the one she would never fulfill.</p>
+
+<p>Before Rachel&rsquo;s birth, when I saw a mother with a retarded child, I would wonder how she went on shaking cantaloupes or playing tennis so blithely; how she kept up the strength to raise a child who, it seemed to me, had no expectations, no future. With Rachel&rsquo;s arrival, my beliefs changed: of course she could have a future, and a good one. My job was to continue to cast off my old notions about what she might grow up to do and be. My job was to help her find her way.</p>
+
+<p>I do not mean to minimize my family&rsquo;s struggle &mdash; one far too tumultuous and unpredictable to arrange into neat little stages, as psychologists are wont to do. But five years after her birth it seemed we had accommodated Rachel, in much the same way I imagine a person losing an arm or a leg eventually accommodates. We didn&rsquo;t celebrate her disabilities. We missed the life we&rsquo;d had before her birth. We were aware of what we had lost. But we were OK about it; we were pushing forward. If I used the word <em>challenged</em> in those days, it was in reference to myself. And I felt up to the challenge of helping Rachel find her place in the world.</p>
+
+<p>This is what I was feeling when I appeared as a guest on that afternoon talk show, promoting the book I had written about my family&rsquo;s early years with Rachel. I had written the book because I was a writer and this story had crowded out all other stories in my head. But what probably gave me the strength &mdash; or the gall &mdash; to tell our story was that I had read every book I could find about &ldquo;special children&rdquo; and had found most of them seriously lacking in realism. The writers dismissed the inevitable domestic turmoil with a sentence like &ldquo;That first year passed in a blur,&rdquo; and went on to elevate the child to the status of &ldquo;one of God&rsquo;s special children&rdquo; and &ldquo;a gift to the family.&rdquo; It was as if the only way these authors could come to terms with a child like Rachel was to elevate and sanctify her &mdash; an approach that deeply offended me because it ignored all the complicated worries and fears I had, and because it suggested that she was somehow too holy, too special ever to be part of the mainstream world.</p>
+
+<p>The host, a smart, forthright woman, sat on a pink couch in a Los Angeles studio with another author, Josh Greenfeld, while I spoke from a grimy sound stage many miles away, in front of no audience, talking to millions and to no one at all. Greenfeld&rsquo;s books about his autistic son, Noah, were the only ones I admired in the genre, the only ones I had not found saccharine and false. I had expected to feel some rapport with him, to exchange similar points of view.</p>
+
+<p>We were nearing the end of the show when the host asked us the question concerning regret. I jumped at it, with the same wild passion to tell the &ldquo;real&rdquo; truth that had prompted me to write my family&rsquo;s story. Rachel wasn&rsquo;t a holy child, I told them. She wasn&rsquo;t a gift from above. But she was my daughter, and I loved her. &ldquo;She is who she is,&rdquo; I said. I was used to her and did not regret her birth.</p>
+
+<p>To say this was a tremendous step for me, and I went on a bit about my belief that, if I worked hard with Rachel, I would be able to help her find a place in the world.</p>
+
+<p>Greenfeld answered next. He said that he, too, loved and was dedicated to his son. But, he said, Noah woke every day in a foreign country, where he did not speak the language and was &ldquo;at the mercy of strangers and dependent upon their kindness.&rdquo; When Greenfeld thought seriously about the life that Noah had to live and the fate that was in store for him, then, no, he would not &ldquo;wish to impose such a life on any individual.&rdquo;</p>
+
+<p>At the time I did not think, <em>My daughter is five; his son is twenty-two</em>. What I thought &mdash; and said, rather defensively &mdash; was that Rachel had some ability to get by in the world, and in that sense was different from Noah. I could imagine her living in a group home someday, and working at a simple job.</p>
+
+<p>If I relied on memory alone, I would report that Greenfeld was a curmudgeon mired in regret, while I had evolved to the point where I could see that there was room for everyone &mdash; not just ambitious, highly educated people, but people like Noah and Rachel. I would remember myself as enlightened.</p>
+
+<p>But I have a videotape of that interview, and, watching it again a few years later, I was stunned by how much softer and younger I looked then, and by how naive I was. I was positively dreamy eyed as I gazed into the camera and spoke of my unconditional love for and acceptance of Rachel. I was so woozy with love I never realized that when Greenfeld spoke with bitterness about his son&rsquo;s life in &ldquo;a care-and-support system that neither cares nor supports,&rdquo; he was warning me. I did not hear him. I thought the whole story was about accommodation, that my being used to Rachel meant that everything else would fall into place.</p>
+
+<p>&nbsp;</p>
+
+<p><span class="dropcap">O</span>f all the things Greenfeld said, the word that resonates most when I ponder the question of regret is <em>kittenness</em>. &ldquo;It&rsquo;s hard when they lose their kittenness,&rdquo; he said.</p>
+
+<p>I remembered this while addressing not millions of people, but one particular person I met at a writers conference: a sinewy, middle-aged woman from Ohio with a helmet of teased hair, very blue eyes, and an insistent, blissful smile. One afternoon, when everyone was assembled for a seminar I was giving, she leaned across the desk and said to me, &ldquo;Did you see that adorable little crippled girl? You know she was adopted? Why, I think that&rsquo;s the most wonderful thing!&rdquo;</p>
+
+<p>Something about her juxtaposition of <em>adorable</em> and <em>crippled</em> reminded me of the six years Rachel had spent moving through a series of benign programs &mdash; first an early-intervention program, then a special-needs day care, and finally preschool. Everyone in these places doted on her. When Rachel toddled down the hallway, people left their offices, cooed over her, knelt to hold her in their arms. At holidays, she and her classmates received so many toys from charities and businesses that I rarely bought her any playthings. Holidays also brought visits by dewy-eyed celebrities &mdash; TV stars, princesses, presidents&rsquo; wives. Dandling cute &ldquo;special-needs&rdquo; kids on their knees, they would make pitches before the cameras, their unspoken message: &ldquo;<em>We</em> love them, therefore anyone can love them.&rdquo; Although these photo opportunities irked me, I must confess that the affection strangers lavished on my daughter helped me to believe that she was valued, that the world was benevolent toward my child.</p>
+
+<p>As my daughter and her peers grew up, however, the media lost interest in them. Only the handicapped infants and preschoolers got toys. The older kids, who were no longer kittenish and needed far more than toys, got nothing.</p>
+
+<p>So when the woman from Ohio began to croon about the &ldquo;adorable little crippled girl,&rdquo; the heat rose in my cheeks. <em>You like that cute girl?</em> I wanted to say. <em>Take her, please! Not just for an hour &mdash; for a year. For </em>five<em> years! Change her diapers! Find her friends! Figure out what to do with her when the two of you are home alone!</em></p>
+
+<p>What else did I want? I wanted the visiting princess to pose for the cameras with a spastic teenager strapped into his wheelchair, his face chafed from drooling. I wanted, for once, to read a human-interest story in which the parents of a not-so-cute girl struggle to find services so that the girl can reach her potential, then struggle to find funding for those services. I wanted to tell the woman from Ohio that my regrets about Rachel have nothing to do with the effects of her birth on my family, or with the fact that she is different &mdash; I&rsquo;m over that! Of course there should be room for Rachel. But if I were asked about regret today, if I knew what was in store for Rachel and had a choice .&nbsp;.&nbsp;.</p>
+
+<p>In my mind, the woman from Ohio says, &ldquo;You have no right to choose.&rdquo;</p>
+
+<p>She says, &ldquo;God has a way of turning bad things into good.&rdquo;</p>
+
+<p>She says, &ldquo;Trust in prayer.&rdquo;</p>
+
+<p>I wouldn&rsquo;t keep harping on this woman from Ohio if she were merely sentimental. No, what really gets me &mdash; what I can&rsquo;t fathom &mdash; is that her love of God&rsquo;s special children is somehow linked with the conviction that there should be less government and lower taxes. Should her wish come true and deep cuts be made in social services, our special-needs babies will likely continue to get all the toys they need from the private sector, but the lives of our older, less photogenic children will be empty and bleak.</p>
+
+<p>I am reminded of the old saying &ldquo;The problem with kittens is that they become cats.&rdquo; If cuteness is the criterion for judging our children&rsquo;s worthiness, I suppose the problem with &ldquo;special&rdquo; babies is that they become adults who are no longer considered special, whose presence no longer inspires any message about the sanctity and holiness of life.</p>
+
+<p>&nbsp;</p>
+
+<p><span class="dropcap">M</span>y daughter is still cute, but I know now what I did not have the foresight to know years ago: that cute is a dreadfully short-lived and risky condition. Looking back, I see that cute allowed me to get my bearings with Rachel and enjoy the sensual pleasures she afforded me &mdash; her softness, sweetness, loveliness. Cute paved the way, got Rachel attention and toys. Perhaps it was a mistake to lose myself for so long &mdash; but, then again, she is my child.</p>
+
+<p>There was no single moment when cute stopped being enough, no single event that changed things. Time passed; my daughter&rsquo;s demands grew, but her means did not. She has never walked down the block alone, never crossed a street, never bought an apple or a piece of candy. She has no friends. (The neighborhood children don&rsquo;t knock on our door anymore; now that Rachel is grown, she appears alien and scary to them.) Often, on weekends, all she does is follow me around the house. The reality is: Rachel keeps getting more difficult, and I keep getting less able to give her what she needs.</p>
+
+<blockquote class="quote-1 large">
+<p>The problem with &ldquo;special&rdquo; babies is that they become adults who are no longer considered special, whose presence no longer inspires any message about the sanctity and holiness of life.</p>
+</blockquote>
+
+<p>That&rsquo;s why I squirm a bit whenever people tell me how lucky Rachel is to have me for a mother. True, she gets food, clothing, the best medical care available; I strive to treat her with dignity, fairness, and no small amount of affection. But really lucky, I can&rsquo;t help but believe, would be having a parent completely devoted to her well-being, with no other aspirations, no need for a life apart from her, because she prospers only when given constant attention and structure. I suspect, however, that this perfect parent doesn&rsquo;t exist, and that someone like Rachel can be well taken care of only if the ordinary, imperfect parents get outside help.</p>
+
+<p>Whatever my failures, real or imagined, I have pushed the local school district for funding to enroll my daughter in an approved private school. I have sought out the small amount of county money available to help cover the fees for her adaptive physical-education class, and a play group on Sundays &mdash; her only opportunities to be with other children outside school. One summer, a never-give-up kind of social worker helped me find funds to send Rachel to an overnight camp for special-needs children. My most poignant memory of that summer was of my husband, my older daughter, and me sitting on the back porch on a Sunday afternoon. We had lingered over lunch, finished all our sentences, and now we were relaxed, for once: an ordinary family doing ordinary things.</p>
+
+<p>As for Rachel, she swam, went horseback riding, painted pictures, rehearsed songs from <em>Cats</em> for the camp show on visiting day. She had friends, bunkmates, and counselors from around the world.</p>
+
+<p>I have a recurrent nightmare in which a politician stands up before Congress with Rachel&rsquo;s thick file in his hands. He&rsquo;s about to use her as an example of wasteful government spending. Perhaps, as he skips past her medical records &mdash; the appointments with her ophthalmologist, endocrinologist, orthopedist, pediatrician, psychologist, psychiatrist, and neurologist &mdash; he resurrects the cart metaphor: the giant cart with twenty million undeserving riding inside, and the rest of us pulling it. Rachel&rsquo;s file is the size of an urban phone book. The politician won&rsquo;t bother with her placement in an &ldquo;approved private school,&rdquo; or the details of the services she gets at the school &mdash; the speech therapy, occupational therapy, adaptive physical therapy. No, it&rsquo;s the paperwork authorizing the funds to send her to camp that he wants. Forget the approval for &ldquo;perceptual training.&rdquo; (What the hell is that anyhow?) He wants to zero in on the horseback riding. And so he steps up to the microphone, whips out the sheet of paper that documents approval for horseback riding, and says, &ldquo;We&rsquo;re spending taxpayer money to send this child <em>horseback</em> riding?&rdquo;</p>
+
+<p>And, like an American Khrushchev, he slaps her file on the podium for emphasis. <em>Boom!</em> &ldquo;Horseback riding?&rdquo; <em>Boom!</em> &ldquo;I can&rsquo;t even send my <em>own</em> daughter horseback riding!&rdquo;</p>
+
+<p>What do I have to say in Rachel&rsquo;s defense? In my own?</p>
+
+<p>In this dream, I am speechless. I know it looks bad. Although I could recite here the justification for sending Rachel horseback riding &mdash; the data showing that, for dyspraxic children, such activity stimulates the vestibular system and helps with balance and coordination &mdash; if I were up there on the witness stand, limited to a one-word answer, I&rsquo;d have to agree that it is nonessential. She can live without horseback riding, just as any of us can live without books or music or art.</p>
+
+<p>If I held up a picture of Rachel on horseback, would that make a difference? My daughter cannot share her memories with me, but in the picture I have, there is a huge smile on her face, the kind of joy she rarely displays at home.</p>
+
+<p>This is what I want to say: My daughter is not just flesh and blood, but heart and soul, too. She is thirteen years old, no longer a cuddly, adorable poster child. That she cannot tell me if someone has harmed her, that she never said a word when a hank of hair was pulled from her head on the school bus, that she could not explain the bite marks on her arms &mdash; none of this means that she does not feel pain. She knows pain, just as she knows boredom and happiness. As her mother and advocate, I accept the job of interpreting what she wants. I accept that for the rest of my life I must be her voice. But I cannot be the sole provider of all that she needs. I need social services to help me, and programs to help her when I am no longer around. Yes, I want these services to make her happy, but I value them also because they will help her become more independent &mdash; not to satisfy politicians, but for her own protection and well-being. Yet these days, whenever I ask a social worker or psychologist about services for Rachel, I hear the same uncertainty: &ldquo;It depends on the funding stream.&rdquo; &ldquo;Cuts are being made.&rdquo; &ldquo;We really don&rsquo;t know.&rdquo;</p>
+
+<p>My imaginary politician could tell me that if I died tomorrow, Social Security Disability Insurance would provide my daughter with shelter and food.</p>
+
+<p>&ldquo;I know that,&rdquo; I would say to him, but then I would ask him to look again at the photograph of Rachel on horseback, at that smile across her face. She is someone&rsquo;s child, utterly defenseless. The availability of substandard care, administered by a steady stream of impersonal caregivers being paid minimum wage, is little comfort to me. &ldquo;A care-and-support system that neither cares nor supports .&nbsp;.&nbsp;.&rdquo;</p>
+
+<p>My daughter is sweet, attractive, and utterly fearless: if Attila the Hun held out his hand, she would go off with him. What kind of life will she have when I am no longer by her side? Who will protect her and make sure she is not sexually molested? Who will feed her nourishing, nonfattening food, floss her teeth, make sure she gets exercise? Who will train her for the sort of simple job I dream she will one day have? Who will help her find activities that give her pleasure? Since my daughter cannot pursue her own happiness, who will help her realize this &ldquo;inalienable&rdquo; right? Or does our Constitution not apply to her?</p>
+
+<p>&nbsp;</p>
+
+<p><span class="dropcap">M</span>y daughter is not displeased with herself or sad about her limitations; more than anything, this fact has taken away much of my sadness about her. If for Rachel the world is indeed a foreign country, it seems not to trouble her at all. She laughs easily. She loves to swim, swing, sing, and ride horses. She thrives in a classroom, alongside other children. She enjoys having contact with others. She could still have a good life.</p>
+
+<p>In the meantime, I put up my dukes and slug it out for Rachel, though sometimes, out of love and out of fear of what&rsquo;s in store for her, I do regret that she was born. Once in a while, weary from struggling on her behalf, I let myself dream about her future. The other day, I caught myself eyeing a bagger at the supermarket, sizing him up as a potential suitor, thinking: <em>OK, group home, a mildly retarded guy to cherish her and keep her warm in bed</em> .&nbsp;.&nbsp;. Even as I was working up this scenario, I knew how dangerous it would be to entrust my child to the good graces of any man. But what else can I do? If she were your child, you would not look into the future and wish for nothing more than a bed in a heated room. If she were your child, you would think, <em>Please, let there be someone to care for her</em>.</p>
+														</div>
+
+
+				
+<div class="sharing-bar article-sharing">
+	<div class="sharing-bar-first">
+		<a href="javascript:window.print();" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-printer"></use></svg> <span>Print</span></a>
+	</div>
+
+	<div class="sharing-bar-second">
+		<span class="alt-ff xsmall">Share:</span>
+		<a href="https://www.facebook.com/sharer/sharer.php?u=https://www.thesunmagazine.org/issues/252/on-regret" target="_blank" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-facebook"></use></svg> <span>Facebook</span></a>
+		<a href="https://twitter.com/share?url=https://www.thesunmagazine.org/issues/252/on-regret&amp;via=thesunmagazine" target="_blank" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-twitter"></use></svg> <span>Twitter</span></a>
+		<a href="#" class="b b-1 b-padding-tight xsmall js-toggle-mail-form"><svg><use xlink:href="#i-email"></use></svg> <span>Email</span></a>
+	</div>
+</div>
+
+<div class="send-to-friend-message-container">
+	<div class="alert alert-success xsmall">Thank you for sharing <em>The Sun</em>.</div>
+</div>
+
+<form method="post" action="/ajax/articles/send-to-a-friend" class="form fill-grey send-to-friend-form">
+		<input type="hidden" id="form_url" name="form[url]" value="https://www.thesunmagazine.org/issues/252/on-regret" />
+
+	<ul class="form-fields">
+		<li><label for="form_sender_name"><span class="label-text">Your Full Name</span><span class="label-asterisk">*</span></label><input type="text" id="form_sender_name" name="form[sender_name]" required="required" /></li>
+		<li><label for="form_sender_email"><span class="label-text">Your Email Address</span><span class="label-asterisk">*</span></label><input type="email" id="form_sender_email" name="form[sender_email]" required="required" /></li>
+		<li><label for="form_recipient_name"><span class="label-text">Friend’s Name</span><span class="label-asterisk">*</span></label><input type="text" id="form_recipient_name" name="form[recipient_name]" required="required" /></li>
+		<li><label for="form_recipient_email"><span class="label-text">Friend’s Email Address</span><span class="label-asterisk">*</span></label><input type="email" id="form_recipient_email" name="form[recipient_email]" required="required" /></li>
+		<li><label for="form_message"><span class="label-text">Personalized Message</span></label><textarea id="form_message" name="form[message]"></textarea></li>
+	</ul>
+<div class="send-to-friend-message-container">
+	<div class="alert alert-error xsmall">Something went wrong. Please try again.</div>
+</div>
+
+<div class="g-recaptcha" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs"></div>
+<div class="form-actions"><button type="submit" id="form_submit" name="form[submit]"	class="form-actions-b-primary b b-1 b-loading xsmall"><svg><use xlink:href="#i-loading"></use></svg>
+		Submit
+	</button></div>
+<input type="hidden" id="form__token" name="form[_token]" value="4b6c6082820d4491b016ad694322acc53e399d23" /></form>
+
+<br>
+
+
+
+										<footer class="article-contributor contributors">
+									
+
+<div class="block-contributor">
+		
+
+		<div class="block-contributor-content">
+		<div class="block-contributor-bio small">
+			<p><strong><span class="smallcaps">Jane Bernstein</span></strong>&rsquo;s books include <em>Departures</em> (Holt, Rinehard, and Winston) and <em>Loving Rachel</em> (Little, Brown). She lives in Pittsburgh, Pennsylvania, and is currently working on a screen adaptation of Kaye Gibbons&rsquo;s novel <em>A Cure for Dreams</em>.</p><a href="/contributors/jane-bernstein" class="block-contributor-link link-alt small">More From This Contributor&nbsp;&#9656;</a>		</div>
+	</div>
+</div>
+
+							</footer>
+						</article>
+
+
+				    <div class="paywall-subscription block-product">
+			<div class="columns">
+			<div class="paywall-banner span3 cta cta-l1">
+				<div class="cta-intro">
+					<h5 class="cta-title alt-ff">One Free Selection Left </h5>
+					<p class="cta-text xsmall"><a class="link-alt" href="https://www.thesunmagazine.org/subscriber/login" data-label="Already a subscriber?">Already a subscriber? Sign in ▸</a><br><br>Read two free selections from <em>The Sun</em> each month.</p>
+				</div>
+			</div>
+			<div class="paywall-banner span9 note note-1 text-center">
+				<h4 class="cta-title alt-ff">Subscribe to <em>The Sun</em> and save 45%</h4>
+				<p class="cta-text xsmall">Subscribers get full access to the current issue and more than 40 years of archives.</p>
+				<a class="b b-1 xsmall cta-trigger"  href="/subscribe1" data-label="Subscribe" data-ctatitle="Subscribe">Subscribe</a>
+			</div>
+		</div>
+
+		<div class="columns">
+			<div class="span12 paywall-cta-bottom">
+				<p>
+					<span class="cta-title-issue">Buy the December 1996 issue for $5.95</span>
+					<span class="xsmall">Order now to get instant access to this issue, and we’ll also send you a print copy.</span>
+					<a class="b b-5 xsmall corona"  href="#" data-product-type="issues" data-id="252" data-label="Order Now ▸">Order Now ▸</a>
+				</p>
+			</div>
+		</div>
+
+		
+
+</div>
+	
+	
+	
+	<div class="spacer"></div>
+	
+
+
+
+			<div class="article-correspondence layout-item fill-pattern-light">
+		<div class="layout-item-intro">
+			<h2>Correspondence</h2>
+			<a class="xsmall link-alt" href="https://www.thesunmagazine.org/letter-to-the-editor">Write a Letter to the Editor&nbsp;&#9656;</a>
+		</div>
+
+		<div id="article-correspondences" class="correspondences correspondences-collapsed">
+								<div class="block-correspondence" id="2707">
+		<blockquote class="quote-2">
+			<p>My heart goes out to Jane Bernstein [&ldquo;<a href="/article/1813/">On Regret</a>,&rdquo; December 1996]. I certainly know what she&rsquo;s going through. Our son, George, had open-heart surgery when he was not yet five. The surgeon botched the operation, causing George to have a massive stroke.</p>
+
+<p>Our son is eleven now, and we&rsquo;ve been through many hells. Luckily, he can walk and talk, but it seems likely he will need us to care for him as long as we are able. (I&rsquo;m forty-eight and trying to stay in good health.) Do we have time to finish a sentence? Not for a while now. We&rsquo;ve learned to abbreviate.</p>
+							<p class="quote-2-author">Tom Prior<br>Haiku, Hawaii</p>
+					</blockquote>
+	</div>
+
+					</div>
+
+			</div>
+    
+		<div class="article-correspondence-cta">
+		<div class="cta cta-l1" data-url="https://www.thesunmagazine.org/letter-to-the-editor">
+			<div class="cta-intro">
+				<h5 class="cta-title alt-ff">Thinking about writing us a letter?</h5>
+				<p class="cta-text">Give in to the temptation. We love getting mail. <br><span class="xsmall">(Of course, we reserve the right to edit.)</span></p>
+			</div>
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" class="cta-button b b-4 b-padding-tight small" data-label="Write Us A Letter!">Write Us A Letter!</a>
+		</div>
+	</div>
+	
+
+			<div class="article-also layout-item-large full-bar fill-grey-mid-light">
+		<div class="layout-item-intro">
+			<h2>Also In This Issue</h2>
+			<a href="/issues/252" class="xsmall link-alt">December 1996&nbsp;&#9656;</a>
+		</div>
+		<div class="issue-articles-l1">
+			<div class="issue-articles-l1-content1">
+				
+<div class="cover cover-l1 block-product">
+	<div>
+							<a href="/issues/252" class="cover-thumb">
+				
+				<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 725'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/281x364r/import/issue/252.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/562x728r/import/issue/252.jpg
+	 alt=""
+	 class="lazy">
+
+			</a>
+		
+
+													<!-- <a href="/issues/252" data-product-type="issues" data-id="252" data-role="order" class="js-buy-single corona cover-button b b-1 b-full xsmall" data-label="Buy This Issue &#9656;">
+								Buy This Issue&nbsp;&#9656;
+			</a> -->
+			<a href="/issues/252" data-product-type="issues" data-id="252" class="js-buy-single corona cover-button b b-1 b-full xsmall" data-label="Buy This Issue &#9656;">
+								Buy This Issue&nbsp;&#9656;
+			</a>
+					
+					</div>
+</div>
+			</div>
+			<div class="issue-articles-l1-content2">
+				<div class="articles-l3">
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/poetry">Poetry</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/252/reminder">Reminder</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/kim-addonizio">Kim Addonizio</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/readers-write">Readers Write</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/252/begging">Begging</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/our-readers">Our Readers</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/sy-safranskys-notebook">Sy Safransky&#039;s Notebook</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/252/sy-safranskys-notebook-issue-252">December 1996</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/sy-safransky">Sy Safransky</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/fiction">Fiction</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/252/last-day-at-lemon-acres">Last Day At Lemon Acres</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/poe-ballantine">Poe Ballantine</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+									</div>
+			</div>
+		</div>
+	</div>
+	
+
+			<div class="article-related layout-item-large full-bar fill-pattern-light">
+		<div class="layout-item-intro">
+			<h2>Related Selections</h2>
+			<ul class="list-inline list-inline-tight"><li><a href="/topics/parenting" class="xsmall link-alt link-text">Parenting</a></li><li><a href="/topics/disability" class="xsmall link-alt link-text">Disability</a></li><li><a href="/topics/social-justice" class="xsmall link-alt link-text">Social Justice</a></li><li><a href="/topics/government" class="xsmall link-alt link-text">Government</a></li><li><a href="/topics/pregnancy-and-childbirth" class="xsmall link-alt link-text">Pregnancy and Childbirth</a></li></ul>		</div>
+
+		<div class="articles-l2">
+							
+
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/photography">Photography</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/497/animal-shelter">Animal Shelter</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/mark-ross">Mark Ross</a></li><li><a href="/issues/497">May 2017</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/497" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 727'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/140x182r/2017-05/497.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/2017-05/497.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/460/blue-magic">Blue Magic</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/jb-mccray">J.B. McCray</a></li><li><a href="/issues/460">April 2014</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/460" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 727'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/140x182r/import/issue/460.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/import/issue/460.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/fiction">Fiction</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/453/alternate">Alternate</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/amy-bonnaffons">Amy Bonnaffons</a></li><li><a href="/issues/453">September 2013</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/453" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 727'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/140x182r/import/issue/453.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/import/issue/453.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/sun-interview">The Sun Interview</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/329/tricks-of-the-trade">Tricks Of The Trade</a></h3>
+					<p class="block-content-subtitle subtitle">Alfred McCoy On How The CIA Got Involved In Global Drug Trafficking</p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/derrick-jensen">Derrick Jensen</a></li><li><a href="/issues/329">May 2003</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/329" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 727'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/140x182r/import/issue/329.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/import/issue/329.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+					</div>
+	</div>
+	
+	
+					<form id="newsletterForm" method="post" action="https://www.thesunmagazine.org/newsletter" data-url-send="https://www.thesunmagazine.org/newsletter" class="form form-newsletter fill-grey" enctype="multipart/form-data" target="_blank">
+
+
+
+		<div class="form-newsletter-intro">
+			<h3 class="alt-ff large">Sign Up For Our Newsletter</h3>
+			<p>We’ll let you know about new website selections, upcoming events, special offers, and more.</p>
+		</div>
+
+		<ul class="form-newsletter-fields form-fields form-fields-inline">
+			<li>
+				<input name="name" type="text" maxlength="500" id="name" placeholder="Your Name">
+			</li>
+			<li>
+				<input name="email" type="text" maxlength="500" id="email" placeholder="Your E-mail">
+			</li>
+
+			<li class="form-fields-inline-button">
+				<button disabled="disabled" class="form-newsletter-send b b-4 b-padding-tight b-loading g-recaptcha" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs" data-callback="recaptcha_callback" name="SubmitButton" id="SubmitButton">
+					<svg><use xlink:href="#i-loading"></use></svg>
+					Sign&nbsp;Up
+				</button>
+			</li>
+		</ul>
+	</form>
+	<script id="hiddenlpsubmitdiv" style="display: none;"></script>
+
+
+
+<footer class="footer brand-grey-dark">
+			<div class="footer-first">
+		<h3 class="footer-tagline">Independent, Reader-Supported Publishing</h3>
+		<p class="footer-desc">In each issue of <em>The Sun</em> you’ll find some of the most radically intimate and socially conscious writing being published today. In an age of media conglomerates, we’re something of an oddity: an ad-free, independent, reader-supported magazine.</p>
+		<ul class="footer-nav list-inline-border xsmall">
+			
+		<li class=" first">
+			<a href="https://www.thesunmagazine.org/about" 	   class=''>
+	   About <em>the Sun</em>	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/staff" 	   class=''>
+	   Staff	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/find-the-sun" 	   class=''>
+	   Find <em>The Sun</em>&nbsp;&nbsp;in a Store Near You	</a>
+		
+	</li>
+
+
+		</ul>
+	</div>
+	
+		<div class="footer-second">
+		<ul class="footer-second-social list-inline">
+			<li><a href="https://www.facebook.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-facebook"></use></svg></span> Like Us</a></li>
+			<li><a href="https://twitter.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-twitter"></use></svg></span> Follow Us</a></li>
+			<li><a href="https://instagram.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-instagram"></use></svg></span> Take a Look</a></li>
+		</ul>
+
+		<div class="footer-second-content">
+			<ul class="footer-nav list-inline-border xsmall">
+				
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/" 	   class='current '>
+	   Home	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/privacy-policy" 	   class=''>
+	   Privacy Policy	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/terms-of-use" 	   class=''>
+	   Terms of Use	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/site-map" 	   class=''>
+	   Site Map	</a>
+		
+	</li>
+
+
+			</ul>
+			<p class="footer-copyright xxsmall">Copyright &copy; 1974–2020 <em>The Sun</em>. All rights reserved.</p>
+		</div>
+	</div>
+</footer>
+
+
+
+<div class="offset-nav">
+	<ul>
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/read" 	   class='current '>
+	   Read	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/issues/current" 	   class=''>
+	   Current Issue	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/archives" 	   class=''>
+	   Archives	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/featured" 	   class=''>
+	   Featured Selections	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/topics" 	   class=''>
+	   Browse Topics	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/sections" 	   class=''>
+	   Browse Sections	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/connect" 	   class=''>
+	   Connect	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/news" 	   class=''>
+	   News from <em>The Sun</em>	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" 	   class=''>
+	   Write a Letter to the Editor	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/discussion-groups" 	   class=''>
+	   Discussion & Writing Groups	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/make-a-suggestion" 	   class=''>
+	   Make a Suggestion	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/submit" 	   class=''>
+	   Submit	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/shop" 	   class=''>
+	   Shop	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/giftsub" 	   class=''>
+	   Gift Subscriptions	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/issues" 	   class=''>
+	   Issues	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+											
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/donatemenu" 	   class='highlight'>
+	   Donate	</a>
+		
+	</li>
+
+		<li class=" last">
+														<a href="/SubscribeNav1" 					   class=''>
+						Subscribe					</a>
+									
+	</li>
+
+
+					<li>
+				<a href="https://www.thesunmagazine.org/shop/cart">Cart ( <span class="cart-item-count">  0  </span>)</a>
+			</li>
+			<li><a href="https://www.thesunmagazine.org/subscriber/login" class="link-header-logout link-alt">Sign In</a></li>
+			</ul>
+	<ul>
+		<li class=" first">
+			<a href="https://www.thesunmagazine.org/about" 	   class=''>
+	   About <em>the Sun</em>	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/staff" 	   class=''>
+	   Staff	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/find-the-sun" 	   class=''>
+	   Find <em>The Sun</em>&nbsp;&nbsp;in a Store Near You	</a>
+		
+	</li>
+
+</ul>
+	<ul>
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/" 	   class='current '>
+	   Home	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/privacy-policy" 	   class=''>
+	   Privacy Policy	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/terms-of-use" 	   class=''>
+	   Terms of Use	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/site-map" 	   class=''>
+	   Site Map	</a>
+		
+	</li>
+
+</ul>
+</div>
+
+<div id="buy-popup-message" class="buy-popup mfp-hide white-popup white-popup-block">
+	<a class="popup-modal-dismiss" href="#"></a>
+	<h5>Due to fulfillment challenges related to the novel coronavirus, print copies are temporarily unavailable for individual sale. We are offering free PDFs until we are able to resume print sales.</h5>
+	<p>Enter your e-mail address below to download this issue.</p>
+	<form method="post" id="download-single" action="https://www.thesunmagazine.org/issue/pdfFree/531.pdf">
+		<label for="email"><span class="label-text">E-mail</span><span class="label-asterisk">*</span></label>
+		<input class="buy-single-email" id="email" type="email" name="email">
+		<button type="send" class="form-buy-issue-send b b-3 b-padding-tight b-loading">Send</button>
+		<button class="form-buy-issue-download b b-3 b-padding-tight b-loading">Download pdf</button>
+		<button type="send" class="popup-modal-dismiss b b-2 b-padding-tight b-loading">Close</button>
+		<div class="g-recaptcha" style="text-align: center" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs"></div>
+
+	</form>
+</div>
+
+			<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/plugins.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/site.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/newsletter.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/js/articles.js"></script>
+		</div>
+		</div>
+
+				<script>
+		(function (doc) {
+			var scripts = doc.getElementsByTagName('script');
+			var script = scripts[scripts.length - 1];
+			var xhr = new XMLHttpRequest();
+			xhr.onload = function () {
+				var div = doc.createElement('div');
+				div.innerHTML = this.responseText;
+				div.style.display = 'none';
+				script.parentNode.insertBefore(div, script);
+			}
+			xhr.open('get', '/theme/thesun//assets/build/img/sprite/sprite.svg', true);
+			xhr.send();
+		})(document);
+
+
+
+		</script>
+
+		<script>
+			// Submit function
+            function recaptcha_callback() {
+						var getUrl = $('.form-newsletter').data( "url-send" ),
+							getName = $('input#name').val(),
+							getEmail = $('input#email').val();
+						$.ajax({
+								type: "POST",
+								url: getUrl,
+								data: {
+									name: getName,
+									email: getEmail,
+									grecaptcharesponse: grecaptcha.getResponse()
+								}
+							}).done(function(response) {
+								console.log(response);
+									$('.form-fields').fadeOut(800, function () {
+										$('.form-fields').empty().append('<div class="newsletter-confirm-message">Thank you for signing up to receive news from <em>The Sun</em>. Your first newsletter will arrive soon.<div>').fadeIn(800);
+									});
+							});
+			}
+
+		</script>
+
+		<script>
+			function getUrlCode() {
+				var url_string = window.location.href;
+				var url = new URL(url_string);
+				var c = url.searchParams.get('promotion\_key');
+				if (typeof c !== 'undefined' && c !== null) {
+					setCookie("promotion_code",c);
+				}
+			}
+
+			function setCookie(cname, cvalue) {
+				document.cookie = cname + "=" + cvalue + ";" + "path=/";
+			}
+
+			function getCookie(cname) {
+				var name = cname + "=";
+				var decodedCookie = decodeURIComponent(document.cookie);
+				var ca = decodedCookie.split(';');
+				for(var i = 0; i <ca.length; i++) {
+					var c = ca[i];
+					while (c.charAt(0) == ' ') {
+						c = c.substring(1);
+					}
+					if (c.indexOf(name) == 0) {
+						return c.substring(name.length, c.length);
+					}
+				}
+				return "";
+			}
+			window.addEventListener( "load", getUrlCode );
+		</script>
+
+
+	</body>
+</html>

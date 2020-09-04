@@ -1,0 +1,1366 @@
+
+<!DOCTYPE html>
+<html class="no-js" lang="en-US">
+	<head>
+		<title>Peep Show - The Sun Magazine</title>
+
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		
+		<meta name="viewport" content="width=device-width, minimum-scale=1.0">
+
+		<link rel="dns-prefetch" href="//ajax.googleapis.com">
+		<link rel="dns-prefetch" href="//use.typekit.net">
+		
+		<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/modernizr.js"></script>
+		<script src="https://www.google.com/recaptcha/api.js"
+				async defer>
+		</script>
+
+		<script>(function(d) { var config = { kitId: 'kzw7ebk', scriptTimeout: 3000, async: true }, h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s) })(document);</script>
+
+
+				
+		<link rel="apple-touch-icon" sizes="57x57" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-57x57.png?v=2016">
+		<link rel="apple-touch-icon" sizes="60x60" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-60x60.png?v=2016">
+		<link rel="apple-touch-icon" sizes="72x72" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-72x72.png?v=2016">
+		<link rel="apple-touch-icon" sizes="76x76" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-76x76.png?v=2016">
+		<link rel="apple-touch-icon" sizes="114x114" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-114x114.png?v=2016">
+		<link rel="apple-touch-icon" sizes="120x120" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-120x120.png?v=2016">
+		<link rel="apple-touch-icon" sizes="144x144" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-144x144.png?v=2016">
+		<link rel="apple-touch-icon" sizes="152x152" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-152x152.png?v=2016">
+		<link rel="apple-touch-icon" sizes="180x180" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-180x180.png?v=2016">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-32x32.png?v=2016" sizes="32x32">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/android-chrome-192x192.png?v=2016" sizes="192x192">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-96x96.png?v=2016" sizes="96x96">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-16x16.png?v=2016" sizes="16x16">
+		<link rel="mask-icon" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/safari-pinned-tab.svg?v=2016" color="#444444">
+		<link rel="shortcut icon" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon.ico?v=2016">
+		<meta name="apple-mobile-web-app-title" content="The Sun Magazine">
+		<meta name="application-name" content="The Sun Magazine">
+		<meta name="msapplication-TileColor" content="#fcc330">
+		<meta name="msapplication-TileImage" content="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/mstile-144x144.png?v=2016">
+		<meta name="theme-color" content="#ffffff">
+
+				<link rel="stylesheet" type="text/css" href="https://cloud.typography.com/6578674/659928/css/fonts.css" />
+		<link rel="stylesheet" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/css/style.css">
+
+																		<meta property="og:site_name" content="The Sun Magazine">
+		<meta property="og:type" content="article">
+		<meta property="og:url" content="https://www.thesunmagazine.org/issues/350/peep-show">
+		<meta property="og:image" content="http://www.thesunmagazine.org/files/2016-12/350-24-langer-preview.jpg">
+		<meta property="og:title" content="Peep Show - The Sun Magazine">
+		<meta property="og:description" content="Back in my peep-show youth, at New York&amp;rsquo;s seedier venues, the small booth windows were glassless, and patrons were strongly encouraged to reach through and touch the dancers for a small fee.">
+		<meta property="fb:app_id" content="158741778010551">
+
+						<link rel="image_src" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.comhttp://www.thesunmagazine.org/files/2016-12/350-24-langer-preview.jpg">
+
+												<meta name="twitter:card" content="summary">
+		<meta name="twitter:title" content="Peep Show - The Sun Magazine">
+		<meta name="twitter:description" content="Back in my peep-show youth, at New York&amp;rsquo;s seedier venues, the small booth windows were glassless, and patrons were strongly encouraged to reach through and touch the dancers for a small fee.">
+		<meta name="twitter:image" content="http://www.thesunmagazine.org/files/2016-12/350-24-langer-preview.jpg">
+		<meta name="twitter:site" content="@thesunmagazine">
+
+				<link rel="publisher" href="https://plus.google.com/113792980827145858211">
+        
+		<meta name="Description" content="Back in my peep-show youth, at New York&amp;rsquo;s seedier venues, the small booth windows were glassless, and patrons were strongly encouraged to reach through and touch the dancers for a small fee.">
+
+		
+		<!-- Google Tag Manager -->
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-TKBHCCG');</script>
+		<!-- End Google Tag Manager -->
+
+		<!-- Google Analytics -->
+		<script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+            ga('create', 'UA-2351127-1', 'auto');  // Replace with your property ID.
+            ga('send', 'pageview');
+            ga('require', 'ecommerce');   // Load the ecommerce plug-in.
+		</script>
+		<!-- End Google Analytics -->
+	</head>
+	<body id="">
+
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TKBHCCG"
+		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+		<header class="header" data-offset-start="80">
+		<div class="header-utilities">
+				<ul class="header-utilities-user list-inline list-inline-tight xxsmall">
+							<li>
+					<span class="header-utilities-user-intro">Already A Subscriber?</span> &nbsp;
+					<a href="https://www.thesunmagazine.org/subscriber/login" class="link-text link-alt">Sign In</a>
+				</li>
+					</ul>
+		<a href="https://www.thesunmagazine.org/shop/cart" class="header-utilities-cart  link-alt link-icon tiny">
+			<span class="i"><svg><use xlink:href="#i-cart"></use></svg></span>
+			<span class="cart-item-count">
+									0 Items
+				
+			</span>
+		</a>
+			</div>
+
+		<div class="header-bar">
+		<h1 class="header-logo logo">
+			<a href="/">
+				<img src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/img/logo-thesun.svg" class="logo-thesun" alt="The Sun Magazine">
+				<img src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/img/logo-tagline.svg" class="logo-tagline" alt="">
+			</a>
+		</h1>
+
+		<ul class="header-nav">
+			
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/read" 	   class='current '>
+	   Read	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/issues/current" 	   class=''>
+	   Current Issue	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/archives" 	   class=''>
+	   Archives	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/featured" 	   class=''>
+	   Featured Selections	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/topics" 	   class=''>
+	   Browse Topics	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/sections" 	   class=''>
+	   Browse Sections	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/connect" 	   class=''>
+	   Connect	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/news" 	   class=''>
+	   News from <em>The Sun</em>	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" 	   class=''>
+	   Write a Letter to the Editor	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/discussion-groups" 	   class=''>
+	   Discussion & Writing Groups	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/make-a-suggestion" 	   class=''>
+	   Make a Suggestion	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/submit" 	   class=''>
+	   Submit	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/shop" 	   class=''>
+	   Shop	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/giftsub" 	   class=''>
+	   Gift Subscriptions	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/issues" 	   class=''>
+	   Issues	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+											
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/donatemenu" 	   class='highlight'>
+	   Donate	</a>
+		
+	</li>
+
+		<li class=" last">
+														<a href="/SubscribeNav1" 					   class=''>
+						Subscribe					</a>
+									
+	</li>
+
+
+		</ul>
+
+		<button class="header-nav-toggle"><svg><use xlink:href="#i-menu" class="i-menu"></use><use xlink:href="#i-close" class="i-close"></use></svg></button>
+		<button class="header-search-toggle" data-form-wrapper=".header-search"><svg><use xlink:href="#i-magnifier" class="i-magnifier"></use><use xlink:href="#i-close" class="i-close"></use></svg></button>
+	</div>
+
+		<div class="header-search">
+		<div class="header-search-content">
+			<form action="https://www.thesunmagazine.org/search" class="form form-search" method="get">
+				<h2 class="alt-ff brand-link">Search Our 40 Years of Archives</h2>
+				<ul class="form-search-fields form-fields form-fields-inline">
+					<li><input type="text" name="q" value=""></li>
+					<li class="form-fields-inline-button"><button class="b b-1 b-padding-tight b-loading"><svg><use xlink:href="#i-loading"></use></svg>Search</button></li>
+				</ul>
+
+				<div class="header-search-content-shortcuts">
+					<h6 class="search-advanced alt-ff"><a class="js-handle-advanced" href="https://www.thesunmagazine.org/search?advanced=1">Advanced Search</a></h6>
+					<br>
+					<h6 class="alt-ff">Popular Pages</h6>
+					<ul class="list-inline-border list-inline-tight xxsmall"><li class=" first"><a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a></li><li class=""><a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a></li><li class=""><a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a></li><li class=""><a href="https://www.thesunmagazine.org/sections/quotations" 	   class=''>
+	   Quotations	</a></li><li class=""><a href="https://www.thesunmagazine.org/sections/readers-write" 	   class=''>
+	   Readers Write	</a></li><li class=" last"><a href="https://www.thesunmagazine.org/sections/poetry" 	   class=''>
+	   Poetry	</a></li></ul>				</div>
+			</form>
+		</div>
+	</div>
+</header>
+
+	<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+	<script type="text/javascript">
+		$(document).ready(function() {
+			$('.js-handle-advanced').on('click', function (e) {
+				e.preventDefault();
+				var getSearchValue = $('.form-search-fields input').val();
+				var getURL = $(this).attr('href');
+				var newURL = getURL + '&q=' + getSearchValue;
+				window.location.href = newURL;
+			});
+		});
+	</script>
+
+		<div class="container-hidden">
+		<div class="container">
+
+				
+	
+	<article class="article ">
+		<header class="block-content block-content-l1 block-content-center">
+						<div class="block-content-header">
+				<h6 class="b-content-section heading-square"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+				<h1 class="block-content-title">Peep Show</h1>
+
+				
+				<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/jamie-berger">Jamie Berger</a></li><li><a href="/issues/350">February 2005</a></li></ul>
+
+			</div>
+
+																			
+
+				<figure class="block-content-photo block-content-photo-large photo photo-outset-center-small">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 1960 2470'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/778x980r/photos/350-24-langer.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/1555x1960r/photos/350-24-langer.jpg
+	 alt="350 - Langer - Berger"
+	 class="lazy">
+
+										<figcaption>
+
+												<div class="photo-caption">
+							<p><strong>Getty Images</strong></p>
+						</div>
+						
+																				<div class="photo-credit">
+								&copy;&nbsp;<a href="/contributors/jason-langer">Jason Langer</a>
+							</div>
+																		</figcaption>
+									</figure>
+
+					</header>
+
+				<div class="article-body link-text-wrap">
+																		<p><em>I understand that sex should be peaceful and good and loving, but what about the things that turn me on and are repellent at the same time?</em></p>
+
+<p class="text-right"><em>&mdash; Lisa Palac, </em>The Edge of the Bed</p>
+
+<p><em>The men [who frequent peep shows] don&rsquo;t know it, but they are secretly coming to church. They are seeking absolution, acceptance, compassion, kindness, and caring from a willing, friendly woman &mdash; if she is pretty, so much the better. They believe themselves to be fundamentally unlovable because of their sexuality.&nbsp;.&nbsp;.&nbsp;. Granting these men acceptance and understanding instead of disgust and ridicule is the single most profound aspect of sex work.</em></p>
+
+<p class="text-right"><em>&mdash; Nina Hartley, &ldquo;Bodhisattvas among Us&rdquo;</em></p>
+
+<p>&nbsp;</p>
+
+<p><span class="dropcap">I</span>n the fall of 1997, my friend G. asked me to read my work at a benefit for a San Francisco alternative performance space. G. is a radical queer woman. I am a heterosexual white man. I hemmed and hawed and tried to duck her invitation. I said I was busy, that I hadn&rsquo;t written anything in ages. I even told her I just plain didn&rsquo;t want to do it, but she wasn&rsquo;t buying my excuses. The truth is, I was not eager to be the token straight white male in the show. It&rsquo;s not that I&rsquo;m uncomfortable in the radical queer world. (OK, maybe I&rsquo;m a little uncomfortable.) I just have absolutely no interest in stepping up in front of that community and proudly representing the patriarchy.</p>
+
+<p>With about a month to go before the event, though, I acquiesced. All too quickly it was the week of the show. My name was on the flier, and I had no idea what I would read. Instead of writing something, I spent much of my time trying to think of a plausible excuse to bail out: Broken limb? Dead relative? Laryngitis? As the date drew near, I anxiously sifted through old grad school poems, pulling out some &ldquo;nice&rdquo; ones: about my mother and a snowstorm, about a fondly remembered ex-girlfriend, about a long nighttime drive filled with hopeful thoughts of the future. Hey, leather-clad lesbians like mothers and ex-girlfriends and hopeful thoughts of the future, right?</p>
+
+<p>In the back of my mind, though, nudging at me, was a new piece of writing that I had been working on. It was a short story called &ldquo;Close,&rdquo; and it was the first fiction I&rsquo;d written that I actually liked; it was also the worst possible piece for this particular show.</p>
+
+<p>&ldquo;Close&rdquo; is the journal of a museum guard named Henry, a mulletted, unkempt, oily-faced junior-college dropout in his early forties. Socially inept and utterly isolated, Henry divides his time between home, work, and a Times Square peep-show joint, where he&rsquo;s fallen in love with a curvy Slav whose stage name is Nadja. The story includes several scenes of Henry participating in the only form of intimacy he knows: masturbating while awkwardly touching Nadja&rsquo;s breasts through the eye-level porthole of the peep-show booth. I imagined I&rsquo;d have a hard time reading &ldquo;Close&rdquo; out loud anywhere &mdash; much less to an audience of hard-core dykes &mdash; for fear of offending people and revealing way too much personal knowledge about strippers and peep shows, the sort of knowledge that can only be learned firsthand.</p>
+
+<p>&nbsp;</p>
+
+<p><span class="dropcap">I</span> grew up the only child of two academics, a feminist English professor and a moral philosopher. Together we formed a left-of-liberal family unit whose values included strong stances against racism, sexism, homophobia, and social injustice. Though the Berger family values were ethical guidelines, not moralistic strictures, they engendered as much guilt and shame as Catholic doctrine.</p>
+
+<p>My parents made no explicit rules prohibiting drinking, drugs, and swearing. (Well, words that were offensive to various oppressed groups were forbidden. And the word <em>sucks </em>was also a no-no, I think because it debased the sucker, as in &ldquo;cocksucker,&rdquo; who is by inference a woman or a gay man. But <em>fuck </em>was acceptable in moderation &mdash; in fact, I&rsquo;m pretty sure I first heard the word from Mom.) Civil-liberties concerns aside, though, both my parents were certainly against pornography. So, naturally, I found it incredibly enticing. After a brief preadolescent obsession with forbidden toy guns &mdash; I traded some prized Matchbox cars for a couple of heavy, metallic toy pistols &mdash; I quickly moved on to the glossy pages of <em>Playboy </em>and <em>Penthouse</em>. Soon I made the jump to the grittier, nastier <em>Hustler </em>and <em>Club</em>.</p>
+
+<p>I stole my first <em>Hustler </em>from Tom Denton&rsquo;s house one night when I was in eighth grade. Denton was a gentle giant, a star football lineman who effortlessly tossed opponents about without malice &mdash; it was just what you did. Then the game would end, and he&rsquo;d become his big, harmless, stoner self again. The Dentons&rsquo; liquor cabinet was always fully stocked and open for the raiding. A bong sat out on the rec-room ping-pong table. And, most exciting to me, Tom left porn just lying around in the open. One night I snuck a <em>Hustler </em>into the secret zipper pocket of my parka.</p>
+
+<p>I still have the cover of that magazine somewhere, with its picture of a devilish blonde in shiny red leather, head thrown back and to the side, mouth forming an O. The look in her eyes is not soft-focus come-hither but straight-up lust. The image, a thrilling combination of the combative and the submissive, contradicted everything I&rsquo;d been taught. This woman was objectified and loving it. She was horny. She didn&rsquo;t want to be tenderly made love to. She wanted &mdash; no, she <em>needed </em>&mdash; to be taken, to be fucked, and fucked hard. This was so wrong, so confusing &mdash; and so damn <em>hot</em>.</p>
+
+<p>The images inside the magazine evoked similar contradictory feelings, both exciting and disturbing. In my first, furtive jerk-off sessions to the photographs, I focused on the soft smoothness of breasts and bellies, legs and asses, averting my gaze from the pink, fleshy wetness. Learning to like pictures of women&rsquo;s genitalia was like learning to like the taste of booze. The pictures in <em>Hustler</em> burned like bourbon. I started with little sips.</p>
+
+<p>&nbsp;</p>
+
+<p><span class="dropcap">I</span> discovered Times Square in its <span class="smallcaps">LIVE! NUDE! GIRLS!</span> heyday late one night in my freshman year of college after a punk-rock show at Roseland Ballroom. I was walking through midtown with my jaded New Yorker friends (I was a recent arrival from upstate, still wide-eyed, just beginning to discover big-city splendors) when we passed by the peep shows on 42<sup>nd</sup> Street. I was riveted. Of course, there was no way I was going to admit, let alone indulge, my fascination in my friends&rsquo; company; it would&rsquo;ve been uncool on so many levels. But after that night, at least once a week, I took a subway trip downtown and spent several guilty, anxious hours lurking outside peep show after peep show in the late-autumn cold, furtively glancing at the windows and wanting badly to go inside, but always chickening out and heading back uptown to my safe college haven. What was I so afraid of? I can&rsquo;t say exactly. That I&rsquo;d be &ldquo;sinning&rdquo;? That I&rsquo;d get caught? That I&rsquo;d suddenly be sucked into a vortex of scantily clad women who&rsquo;d scorn me and lure me into giving them all my work-study money only to disappoint me in the end? Something along those lines.</p>
+
+<p>Finally one night I had a couple of beers, got up my nerve, and walked into Show World on the corner of 42<sup>nd</sup> Street and Eighth Avenue, the least seedy, most legit-looking of the porn-and-peeps emporiums. I remember fluorescent lights and magazines that showed actual penetration on their covers. It had the grotesque allure of a street fight or a car wreck. A flashing, multicolored arrow that read, <span class="smallcaps">Live Show</span>, pointed upstairs.</p>
+
+<p>I didn&rsquo;t go upstairs that first day, but I did soon after, to the little peep-show windows like the ones in my story &ldquo;Close.&rdquo; That first incursion was both unsatisfying and achingly thrilling. I practically sprinted away afterward, repeating to myself, <em>I&rsquo;m a pig. I&rsquo;m a bad, bad person. I will never, ever do that again. I&rsquo;m a pig. I&rsquo;m a bad, bad person</em> &mdash; my secular-humanist Hail Mary.</p>
+
+<p>I&rsquo;ve been going back to peep shows more or less regularly ever since, for ten years in New York and another twelve in San Francisco. As the panic and shame faded (but of course never entirely disappeared, especially the shame), I slowly learned how to get what I wanted and needed from that world. The kind of peep-show performer I craved was hard to find. She had to be someone I found physically attractive, of course, but more important, she had to look me in the eye and appear to <em>see </em>me, to willingly accept my gaze, my confession.</p>
+
+<p>&nbsp;</p>
+
+<p><span class="dropcap">T</span>he peep-show scenes in &ldquo;Close&rdquo; are meant to show how unhappy Henry is in his isolation, how badly he needs human contact, which he finally finds with a young museum patron. Though he evokes sympathy, Henry remains an objectifying, straight white male who jerks off daily to peep-show strippers. &ldquo;Close&rdquo; is the memoir of a man who could easily (if rashly) be labeled a misogynist, but who is meant to be seen as a pariah, a freak, the kind of person for whom porn and strippers serve a clearly ameliorative purpose. Henry&rsquo;s interactions with Nadja lack any of the mortifying ambiguity of his other interactions with women, or with people in general. He pays her; she gives him what he needs.</p>
+
+<p>&nbsp;</p>
+
+<p><span class="dropcap">T</span>o this day, I have never caught my father checking out a woman. I&rsquo;ve always known, somehow, that this isn&rsquo;t from a lack of desire on his part, but rather an abundance of principle: it&rsquo;s something you just don&rsquo;t do. One time an attractive young woman working behind a shop counter was extremely friendly, even flirtatious with my dad (who bears a strong resemblance to Paul Newman), and, after we left the store, he said, &ldquo;What a <em>bright </em>young woman.&rdquo; The message, as I interpreted it, was that a woman had to be intelligent or interesting in some other, nonphysical way for a man to like her, and only after she&rsquo;d been well appreciated as a fellow human being could she be &mdash; maybe, someday &mdash; physically desired. Never objectified, of course, but desired. Though I don&rsquo;t think my father overtly tried to teach me this lesson, I learned it nonetheless.</p>
+
+<p>I never imagined that my dad would ever let himself think, let alone say, <em>Wow, those are some sexy eyes</em>, or, heaven forbid, <em>What a rack on that broad.</em> Part of me is proud of him and wants to follow his example. Another part likes to believe that he can leer and fantasize with the best of us &mdash; or perhaps I should say the worst of us. Most important, with me.</p>
+
+<p>&nbsp;</p>
+
+<p><span class="dropcap">B</span>ack in my peep-show youth, at New York&rsquo;s seedier venues, the small booth windows were glassless, and patrons were strongly encouraged to reach through and touch the dancers for a small fee. These women didn&rsquo;t actually dance. They sat naked in chairs on the stage, looking preternaturally bored, barely able to muster the energy to mumble, &ldquo;Tipping, honey?&rdquo; in accents that ranged from the Bronx to Prague. If you said yes, she&rsquo;d come over to your window. (The windows of several different booths would all open to the same raised stage.) &ldquo;Up or down?&rdquo; she&rsquo;d ask. It cost more for down. At first I didn&rsquo;t want to touch at all &mdash; hell, I didn&rsquo;t even want to touch the booth&rsquo;s doorknob &mdash; but the only way to get a stripper (they didn&rsquo;t actually strip either; they were naked from the start) to come over to your window was to tip, and if you wanted to tip but not touch, well, that was considered weird.</p>
+
+<p>At first I found the experience repulsive and dirty &mdash; some of the dancers would even wipe themselves with wet naps after each customer &mdash; but I kept going back. It was another acquired taste, and I acquired it. I always went for &ldquo;up,&rdquo; so the woman would kneel down to my level, where I could hold a breast and, more important, look at her face. If I was lucky, she might look back.</p>
+
+<p>&nbsp;</p>
+
+<p><span class="dropcap">I</span>&rsquo;ve never liked fancy strip clubs. I go to peep shows not to relax or to talk to women. I can do that elsewhere. I go first and foremost to get off, and that just doesn&rsquo;t happen at expensive &ldquo;gentlemen&rsquo;s&rdquo; clubs &mdash; at least not without a whole lot more money than I&rsquo;ve got to spend. The fancy clubs are all about tips, and I&rsquo;ve never had the cash for that, either. Plus, if a man tips at a fancy club, a dancer will dance for him and talk to him even if she&rsquo;s repulsed by him &mdash; he&rsquo;s a paying customer, after all &mdash; and the inherent artificiality of that transaction is more than my suspension of disbelief can handle.</p>
+
+<p>At contemporary peeps, unlike the Times Square shows of my youth, there&rsquo;s no tipping, and no touching the dancers. And while it&rsquo;s still an undoubtedly commercial interaction, the balance of power is a little more to my liking. I&rsquo;m a sort of captive in my little cagelike booth: the dancer can choose to come over to my window or not, and once there she&rsquo;s not bound or influenced by money; she can stay and dance for me until I&rsquo;m done, or she can just walk away. It allows me to feel that, as improbable as this may sound, once in the bluest of blue moons a dancer may actually, conceivably enjoy our wordless interaction. Part of me wants to believe that if I can make even the tiniest connection with a woman in this most wretchedly sexist and commodified environment, I can somehow be forgiven for my eternal objectifying and wanton lust. Eye contact from a stripper can be sexually satisfying, and even spiritually fulfilling, in a way that cannot be duplicated outside that unique, controlled space.</p>
+
+<p>&nbsp;</p>
+
+<p><span class="dropcap">O</span>n the floor of the peep-show booth: Other men&rsquo;s semen, with its eerily clean, bleachy smell. Tissues. Quarters that men have dropped and weren&rsquo;t about to pick up. Condoms, some from couples who have sex in the booths, but also, I think, from men who jerk off into them. (Which just seems depressing: why would anyone jerk off into a condom?)</p>
+
+<p>Once, there was a semen-stained twenty-dollar bill down in the muck, and I concocted a story for how it got there: I imagined a khakied yuppie, laughing nervously at the way-too-real-looking women on the other side of the glass. (This is a quarter peep show, after all, not Larry Flynt&rsquo;s posh Hustler Club next door.) He laughs because it&rsquo;s too much to handle otherwise. I pictured him jerking off even though the dancers don&rsquo;t even vaguely resemble Pamela Anderson. (<em>Dude, I&rsquo;m here, why the hell not?</em>) Then, after he&rsquo;s done, he realizes he has nothing to clean himself up with, and, again chuckling, he pulls out a bill, which chafes a bit but does the job well enough that he can stick his dick back in his Dockers. He laughs a third time as he imagines some poor little immigrant who won&rsquo;t be able to resist picking up the gooey twenty: his come on another man&rsquo;s hands.</p>
+
+<p>This story gives me solace: I&rsquo;m not nearly as bad as my imagined yuppie, I think, tugging at my own member, looking back up through the thick glass at a fine, round ass, a pair of swaying hips. I&rsquo;m a very different kind of man, indeed. I&rsquo;m more like the women I&rsquo;m jerking off to than I am like him. And then, just as I&rsquo;m about to let go, I think, <em>Hey, did </em>I <em>drop that bill?</em></p>
+
+<p>&nbsp;</p>
+
+<p><span class="dropcap">I</span>n the months leading up to the benefit at which I was to read my work, I had been frequenting San Francisco&rsquo;s famed Lusty Lady club two or three times a week. I had my own &ldquo;Nadja,&rdquo; a stripper whose stage name was Sassafras. I knew her schedule and planned my visits accordingly. She was small, maybe five-three, with auburn hair down to her shoulders, full breasts, a freckled, catlike face, and smoldering cat eyes that were somehow simultaneously sultry and kind. But it wasn&rsquo;t so much the way she looked that did it for me &mdash; peep shows are filled with women I find physically attractive. It was the way she looked <em>at me</em> that made her perfect.</p>
+
+<p>As soon as I shut the door and slipped my first quarter into the slot, she would come right over, say a soft, smiling hello, and begin to dance for me. Eventually she would kneel down, to be at my eye level, and just look at me and hold her breasts in her hands and faintly hum. Through the glass, I could never make out what she was humming, just that it wasn&rsquo;t the Jane&rsquo;s Addiction or Prince song playing through the <span class="smallcaps">PA</span>. I was never sure if she knew I could hear her, but the humming was just the sweetest, sexiest thing to me. And best of all, she looked at me as if she were actually seeing me, as if she inherently knew and was happy to give me what I needed: acceptance, forgiveness, release. I had found my ideal confessor.</p>
+
+<p>One day I went to the Lusty Lady, and Sass (as I liked to think of her; &ldquo;Sassafras&rdquo; didn&rsquo;t remotely do her justice) was dancing at another window. I found myself enjoying watching her dance for another man, without her knowing I was there. It&rsquo;s kind of ridiculous to feel voyeuristic at a peep show, but that&rsquo;s the way it felt, as if I were actually peeping. From time to time I could see the man&rsquo;s face through the window. He was a small, elderly Asian man, and he craned his neck to look up at her, his eyes wide. Then she turned her back to him and faced me, and when I saw her face, I could tell she wasn&rsquo;t humming.</p>
+
+<p>Soon the other man left, and Sass came over with her usual warm, mischievous smile. This time she didn&rsquo;t dance for me at all, just immediately got down on her knees, brought her face right up to the window, and started to sway and hum and hum and hum.</p>
+
+<p>&nbsp;</p>
+
+<p><span class="dropcap">T</span>he names of radical feminists like Catharine MacKinnon and Andrea Dworkin were familiar to me even as a preteen from eavesdropping on my mom&rsquo;s women&rsquo;s group. Sitting at the top of the stairs in my pajamas, I learned that thousands of years of patriarchy, with its literal and metaphorical sexual slavery, had done women an incalculable injustice. I also learned that men started wars and were the source of violence, greed, hate, murder, rape, and just about everything else that&rsquo;s awful in the world.</p>
+
+<p>The seventies was a hyperbolic time for the women&rsquo;s movement, and while I now know that my mother didn&rsquo;t intend to teach me that men were evil per se, that&rsquo;s the lesson I absorbed. I came to think of penetration as an inherently violent act. As I grew older, I began to see myself as oppressor-by-default and &mdash; though it may seem melodramatic and hyper politically correct today &mdash; my penis as a weapon of that oppression. Let me tell you, it put a real crimp in my enjoyment of sex (not to mention my performance), but it added immensely to the rush (and, afterward, the shame) of indulging in pornography and strippers.</p>
+
+<p>&nbsp;</p>
+
+<p><span class="dropcap">T</span>he day before the dreaded Saturday benefit reading, I had my little passel of sensitive-male poems ready to go, but an unwelcome thought was edging its way into my brain: that I should read &ldquo;Close,&rdquo; my museum-guard story, instead.</p>
+
+<p>I fought the impulse with all my might, couldn&rsquo;t believe I was even considering it. But I also wanted to read the best work I had, and, despite my fears, the story was, in a sense, absolutely appropriate for the sexually radical and politically engaged audience I envisioned. That night I asked my wife whether I should read it.</p>
+
+<p>Digression: Yes, I was married during my Lusty Lady period. My wife not only knew about and accepted my visits, but encouraged them and got off on my descriptions of that world and the porn in my collection. Now my ex, she has always identified with men and masculinity. Her father is a strong, silent heart surgeon. Her four brothers are all great athletes, quietly brilliant types who build beautiful, solid things with their hands. In many ways my ex tried to be &mdash; and in many ways succeeded in becoming &mdash; the fifth boy in her family.</p>
+
+<p>So I, who never really learned the manly arts of plumbing and carpentry, was married to a woman who&rsquo;d become a professional carpenter, painter, and contractor to supplement a markedly less lucrative career as a dancer and choreographer. When we redid our floors, she wouldn&rsquo;t let me handle the big, unwieldy belt sander, nor would she let me touch a paintbrush when she painted our apartment, although she was kind enough (or patronizing enough &mdash; you make the call) to let me sand a couple of walls &mdash; after which she touched up my work.</p>
+
+<p>She desired, in an ideal lover, someone bigger, stronger, and tougher than she, to make her feel more feminine. I met the physical requirements, barely. My pervy predilections were my most masculine feature, and offset my more wifely qualities, such as making sure she paid her parking tickets and brushed her teeth and made it to doctor appointments and returned phone calls. She painted the walls, but I arranged the furniture and hung the art just so.</p>
+
+<p>When I asked my wife whether I should read &ldquo;Close&rdquo; at the benefit, she replied that she didn&rsquo;t see why not. I tried to explain exactly why not: i.e., that they&rsquo;d fucking hate me, that&rsquo;s why not. She still didn&rsquo;t see it. &ldquo;It&rsquo;s a great story,&rdquo; she said. &ldquo;Read it. What&rsquo;s the worst that can happen?&rdquo;</p>
+
+<p>I reiterated: &ldquo;The worst that can happen is that <em>they will hate me.&rdquo;</em></p>
+
+<p>&ldquo;And then what?&rdquo;</p>
+
+<p>&ldquo;And then what? They&rsquo;ll hate me, that&rsquo;s what, and I don&rsquo;t want to be hated.&rdquo;</p>
+
+<p>&ldquo;They won&rsquo;t hate you,&rdquo; she replied. But then, she loved me. What did she know?</p>
+
+<p>I asked another friend and got pretty much the same response. Just letting the friend read the story had been petrifying. Why was I even thinking about reading it in public? I kept saying to myself, <em>No way,</em> but I was starting to think, <em>Yes way. I&rsquo;m going to read that story, and it will be great. The audience is going to love it, and radical lesbians will begin to understand men in a new way, and their understanding and eventual forgiveness will allow men to grow to better appreciate and respect women, and a movement will rise, misogyny will die, and peace and love will reign supreme on earth.</em></p>
+
+<p>Maybe I was getting a little ahead of myself. But clearly I had decided to read &ldquo;Close&rdquo; at the show.</p>
+
+<p>That night I slept horribly, and I awoke agitated and filled with second thoughts.</p>
+
+<p>&nbsp;</p>
+
+<p><span class="dropcap">O</span>nce, I was jerking off while watching a dancer who had always pointedly ignored me. She just plain didn&rsquo;t like me. Usually this ruins it for me, but her body was incredible &mdash; long and lean and strong, with smooth olive skin, small breasts, and tiny, button nipples. And sure, her aloofness was sexy too. For some reason she deigned to dance for me that day, with just the perfect hint of disdain in her eyes.</p>
+
+<p>I must have stopped stroking myself for a moment and put my hand up by the window (I&rsquo;m left-handed), because she noticed my wedding ring and dryly said, &ldquo;Why don&rsquo;t you go home and fuck your wife?&rdquo;</p>
+
+<p>&ldquo;I will,&rdquo; I replied, more angry than embarrassed. <em>What&rsquo;s your point?</em> I wanted to say. <em>They&rsquo;re two completely different things. I&rsquo;m not coming here instead of fucking my wife.</em> But there was no way to have a discussion through the thick plexiglass about the difference between sex with one&rsquo;s spouse and masturbating while looking at a sex worker. And of course the disgusted dancer would have had no interest in any such conversation.</p>
+
+<p>Rather than leave chastened, I fed the machine more quarters and kept jerking away, almost frantically. As frustrated and angry as I was, I got off, looking at her ass swaying haughtily, almost mockingly, to the beat. It was the only time in my life I can remember coming in anger.</p>
+
+<p class="ckeditor-shortcode"><figure class="photo photo-outset-center-small">
+	<div>
+					<div>
+				<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 1560 1551'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/780x776r/photos/350-29-walker.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/1560x1551r/photos/350-29-walker.jpg
+	 alt="350 - Walker - Berger"
+	 class="lazy">
+
+									<figcaption>
+																											<div class="photo-credit">
+																			© <a href="https://www.thesunmagazine.org/contributors/andrea-j-walker">
+											Andrea
+																							J.
+																						Walker
+										</a>
+																	</div>
+																								</figcaption>
+							</div>
+			</div>
+</figure>
+</p>
+
+<p><span class="dropcap">I</span>t&rsquo;s the Saturday of the show, and I feel awful, my stomach tied in a knot. In the afternoon I stop by the Lusty Lady, hoping to relieve my anxiety over reading a story about jerking off to strippers by jerking off to strippers. Sass isn&rsquo;t there, and I&rsquo;m not turned on by any of the other women, so I go into a video booth and watch porn, jumping from channel to channel: women&rsquo;s bodies, a mouth on a cock, come spurting onto artificially enhanced breasts. I have to pull hard and fast to get there, but eventually I have a weak, twitchy orgasm. My anxiety is lessened somewhat, but also compounded by guilt and shame.</p>
+
+<p>I go home and shower, put on a pair of old cords and my favorite vintage button-down shirt &mdash; a simple, nonconfrontational outfit &mdash; and head over to the theater with both &ldquo;Close&rdquo; and the &ldquo;nice&rdquo; poems under my arm, just in case.</p>
+
+<p>A big crowd is already filling all the chairs and spilling out almost into the hallway. The audience is more mixed than I&rsquo;d expected: maybe 65 percent women, maybe 30 percent of them with some degree of leather, chains, piercings, or elaborate tattooing. And then there are my friends and neighbors, my little support group. Most of them have no idea what I&rsquo;ll be reading either, and I worry about their reaction. I say hi to G., who tells me I&rsquo;m scheduled to read at the end of the first half. I&rsquo;ll be great, she says. (Oh, how I hate when people say that.) She tells me to relax and gives me a big hug, and I just want to melt into her embrace and disappear. I haven&rsquo;t told her what I&rsquo;m reading, and I begin to imagine her fury and embarrassment when she hears it, perhaps even my ritual hanging-in-effigy to close out the evening.</p>
+
+<p>The readers who go on before me include a very young, beautiful, gay Asian man and a lesbian poet who is not only leather-clad and angry, but palsied and in a wheelchair to boot. The boisterous crowd is loudly supportive of both of them. And then G. introduces me.</p>
+
+<p>As I step onstage, the audience gives me what I hear as a decidedly lukewarm welcome. I feel big and male and straight and ungainly. The blood begins its mad rush to my face, as if I needed to be red to be seen. I arrange my papers on the music stand, adjust the mike, look around the room, mumble a hello, give a spastic laugh, and take a deep breath.</p>
+
+<p>&ldquo;This is a short story called &lsquo;Close,&rsquo;&nbsp;&rdquo; I say. My amplified voice sounds very loud. &ldquo;It&rsquo;s .&nbsp;.&nbsp;.&rdquo; I stifle the urge to explain or apologize up front. &ldquo;It&rsquo;s the journal of a museum guard named Henry.&rdquo;</p>
+
+<p>I take a deep breath and look around the room, searching for friendly faces. Then, just as I&rsquo;m about to look down again, I see her. Unfathomably, in the back left corner of the room, leaning against the wall, is none other than .&nbsp;.&nbsp;. Sass. I look down, blink twice in what feels like slow motion, and think, <em>Hey, I just imagined I saw Sassafras in the audience. How wacky is that?</em> I look up again. She&rsquo;s still there. I did not imagine it. She can&rsquo;t possibly be here, and yet there she is, looking right at me &mdash; I mean, of course she&rsquo;s looking right at me. Where else would she be looking?</p>
+
+<p>Her presence is actually not all that improbable. San Francisco is like a small town within its artistic communities. In fact, I know several women &mdash; one a writer, one a dancer, one a budding academic &mdash; who have done stints at the Lusty Lady. The Lusty Lady has always been an offbeat, radicalized strip club (it&rsquo;s the first of its kind to be worker-owned), and, accordingly, it attracts intellectual, artsy employees, many of whom just want to try stripping to see what it&rsquo;s like.</p>
+
+<p>So to run into a stripper in my life outside the Lusty Lady is not so unlikely. But to see Sass in the audience when I&rsquo;m about to read &ldquo;Close&rdquo; for the first time is no less than breathtaking. She is my perfect erotic dancer, my dream &mdash; and nightmare &mdash; audience member. As much as I&rsquo;ve always wanted to be seen by strippers, I never imagined this. Here, she is a real person, wearing clothes, perhaps even a writer like me. But also not so much like me at all, more like the women in front of whom I&rsquo;m so petrified to read my story.</p>
+
+<p>For a moment I hold my breath and ride that fine, masochistic edge between exquisite pleasure and almost unbearable discomfort. I begin to wonder if there&rsquo;s enough blood in my legs to hold me up. I am petrified, thrilled, nauseated. I think to myself, <em>Don&rsquo;t lock your knees.</em> I remember marching in a Columbus Day parade as a kid, standing and waiting for hours in a hot woolen uniform, and being told: <em>Don&rsquo;t lock your knees.</em> <em>That&rsquo;s when you pass out.</em> So I bend my knees a little, look down at my pages, and begin to read:</p>
+
+<blockquote>
+<p>April. The weather is getting warmer. The other day I was walking home after my stop off, and I looked through the window of the old office building on West 52<sup>nd</sup> they&rsquo;ve gutted and are turning into a Sure-Guard Storage. They finally installed the shiny corrugated lockers. I looked through the window and just happened to be right in front of number 1354, which is also the last four digits of my Social Security number. This may mean something. Or not. Sometimes these coincidences mean things.</p>
+</blockquote>
+
+<p>I look up from time to time at the listening faces. I don&rsquo;t look toward the back left corner. A page or so in, I pause, take a sip of water, slip out of Henry&rsquo;s edgy persona, and smile as if to say, <em>Hey, everybody, don&rsquo;t forget: that&rsquo;s Henry; I&rsquo;m Jamie.</em> I think of the clich&eacute;d advice offered to nervous public speakers &mdash; imagine the audience naked &mdash; and I almost laugh out loud. I&rsquo;m feeling more naked than I imagine Sass has ever felt in front of me.</p>
+
+<p>About two pages in, I get to the tough stuff: &ldquo;After work, I stop at Babeland.&rdquo; I feel as if I&rsquo;m about to freeze up &mdash; or throw up &mdash; but I manage to keep reading:</p>
+
+<blockquote>
+<p>Today Nadja is there. I feed the machine an extra bill and give her five bucks through the window even though it only costs three to touch. I tell her &ldquo;high&rdquo; and she kneels down so I can reach her. I hold one breast gently with my left hand and jerk off with my right. I like how heavy it is. The breast. I like that she kneels so we&rsquo;re at eye level. I like to feel the weight, the warmth.&nbsp;.&nbsp;.&nbsp;. Sometimes she holds my face in her hands and calls me &ldquo;baby.&rdquo; I know it&rsquo;s an act but still it feels good. &ldquo;Baby,&rdquo; she says, &ldquo;my sweet baby.&rdquo; I always forget to bring tissues.</p>
+</blockquote>
+
+<p>The audience laughs at the &ldquo;tissues&rdquo; line, and I&rsquo;m starting to feel a rush. I&rsquo;m becoming Henry, slipping deeper inside his clipped, anxious voice. The final pages go by with a kind of rich, elastic slowness that I&rsquo;ve never experienced before, onstage or off.</p>
+
+<p>At the end of &ldquo;Close,&rdquo; Henry accomplishes something monumental for him: he spends an afternoon with a woman without a plexiglass wall between them. I feel as if I&rsquo;ve broken down some barriers of my own as I read his story: I&rsquo;ve done something difficult and monumental for me, and done it as clearly and honestly as I can. I notice my pulse slowing, my sweat cooling me. The story ends, and I say thank you.</p>
+
+<p>There&rsquo;s a pause, then a roar as the audience begins to whoop and whistle and clap. My applause probably isn&rsquo;t any longer or louder than any other reader&rsquo;s, but to me it feels like absolute thunder. I say thank you again and step offstage.</p>
+
+<p>G. announces the intermission, and several people, among them a couple of the women I was so afraid of offending, come up to tell me how much they liked the story. A tough and talented writer tells me she&rsquo;s &ldquo;heard a lot of crap on that subject&rdquo; but my piece was &ldquo;really pretty <span class="smallcaps">OK</span>,&rdquo; which I&rsquo;m later told is high praise coming from her. And G. gives me another hug and, with a proud grin, tells me I did a great job.</p>
+
+<p>Suddenly I remember that back left corner. I wheel around and look for Sass, but she&rsquo;s not there. I scan the room like Rocky, punch-drunk and reeling, searching for Adrian after the big fight. And then, over by the door, I spot a familiar face, and the woman I know only as Sassafras gives me that sweet, sly smile, turns, and is gone.</p>
+														</div>
+
+
+				
+<div class="sharing-bar article-sharing">
+	<div class="sharing-bar-first">
+		<a href="javascript:window.print();" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-printer"></use></svg> <span>Print</span></a>
+	</div>
+
+	<div class="sharing-bar-second">
+		<span class="alt-ff xsmall">Share:</span>
+		<a href="https://www.facebook.com/sharer/sharer.php?u=https://www.thesunmagazine.org/issues/350/peep-show" target="_blank" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-facebook"></use></svg> <span>Facebook</span></a>
+		<a href="https://twitter.com/share?url=https://www.thesunmagazine.org/issues/350/peep-show&amp;via=thesunmagazine" target="_blank" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-twitter"></use></svg> <span>Twitter</span></a>
+		<a href="#" class="b b-1 b-padding-tight xsmall js-toggle-mail-form"><svg><use xlink:href="#i-email"></use></svg> <span>Email</span></a>
+	</div>
+</div>
+
+<div class="send-to-friend-message-container">
+	<div class="alert alert-success xsmall">Thank you for sharing <em>The Sun</em>.</div>
+</div>
+
+<form method="post" action="/ajax/articles/send-to-a-friend" class="form fill-grey send-to-friend-form">
+		<input type="hidden" id="form_url" name="form[url]" value="https://www.thesunmagazine.org/issues/350/peep-show" />
+
+	<ul class="form-fields">
+		<li><label for="form_sender_name"><span class="label-text">Your Full Name</span><span class="label-asterisk">*</span></label><input type="text" id="form_sender_name" name="form[sender_name]" required="required" /></li>
+		<li><label for="form_sender_email"><span class="label-text">Your Email Address</span><span class="label-asterisk">*</span></label><input type="email" id="form_sender_email" name="form[sender_email]" required="required" /></li>
+		<li><label for="form_recipient_name"><span class="label-text">Friend’s Name</span><span class="label-asterisk">*</span></label><input type="text" id="form_recipient_name" name="form[recipient_name]" required="required" /></li>
+		<li><label for="form_recipient_email"><span class="label-text">Friend’s Email Address</span><span class="label-asterisk">*</span></label><input type="email" id="form_recipient_email" name="form[recipient_email]" required="required" /></li>
+		<li><label for="form_message"><span class="label-text">Personalized Message</span></label><textarea id="form_message" name="form[message]"></textarea></li>
+	</ul>
+<div class="send-to-friend-message-container">
+	<div class="alert alert-error xsmall">Something went wrong. Please try again.</div>
+</div>
+
+<div class="g-recaptcha" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs"></div>
+<div class="form-actions"><button type="submit" id="form_submit" name="form[submit]"	class="form-actions-b-primary b b-1 b-loading xsmall"><svg><use xlink:href="#i-loading"></use></svg>
+		Submit
+	</button></div>
+<input type="hidden" id="form__token" name="form[_token]" value="18cabf742afd3a73a725a3e45b2ab44da43147f7" /></form>
+
+<br>
+
+
+
+										<footer class="article-contributor contributors">
+									
+
+<div class="block-contributor">
+		
+
+		<div class="block-contributor-content">
+		<div class="block-contributor-bio small">
+			<p><span class="smallcaps"><strong>Jamie Berger</strong></span> moved from New York City to San Francisco in 1992 after finishing a master&rsquo;s degree in poetry. He hasn&rsquo;t written a poem since. His two monologues, <em>Knowing the Questions</em> and <em>Regrets Only</em>, had extended runs in San Francisco and New York. His writing has appeared in the<em> San Francisco Chronicle</em>, McSweeneys.net, and <em>Negative Capability</em>.</p><a href="/contributors/jamie-berger" class="block-contributor-link link-alt small">More From This Contributor&nbsp;&#9656;</a>		</div>
+	</div>
+</div>
+
+							</footer>
+						</article>
+
+
+				    <div class="paywall-subscription block-product">
+			<div class="columns">
+			<div class="paywall-banner span3 cta cta-l1">
+				<div class="cta-intro">
+					<h5 class="cta-title alt-ff">One Free Selection Left </h5>
+					<p class="cta-text xsmall"><a class="link-alt" href="https://www.thesunmagazine.org/subscriber/login" data-label="Already a subscriber?">Already a subscriber? Sign in ▸</a><br><br>Read two free selections from <em>The Sun</em> each month.</p>
+				</div>
+			</div>
+			<div class="paywall-banner span9 note note-1 text-center">
+				<h4 class="cta-title alt-ff">Subscribe to <em>The Sun</em> and save 45%</h4>
+				<p class="cta-text xsmall">Subscribers get full access to the current issue and more than 40 years of archives.</p>
+				<a class="b b-1 xsmall cta-trigger"  href="/subscribe1" data-label="Subscribe" data-ctatitle="Subscribe">Subscribe</a>
+			</div>
+		</div>
+
+		<div class="columns">
+			<div class="span12 paywall-cta-bottom">
+				<p>
+					<span class="cta-title-issue">Buy the February 2005 issue for $5.95</span>
+					<span class="xsmall">Order now to get instant access to this issue, and we’ll also send you a print copy.</span>
+					<a class="b b-5 xsmall corona"  href="#" data-product-type="issues" data-id="350" data-label="Order Now ▸">Order Now ▸</a>
+				</p>
+			</div>
+		</div>
+
+		
+
+</div>
+	
+	
+	
+	<div class="spacer"></div>
+	
+
+
+
+			<div class="article-correspondence layout-item fill-pattern-light">
+		<div class="layout-item-intro">
+			<h2>Correspondence</h2>
+			<a class="xsmall link-alt" href="https://www.thesunmagazine.org/letter-to-the-editor">Write a Letter to the Editor&nbsp;&#9656;</a>
+		</div>
+
+		<div id="article-correspondences" class="correspondences correspondences-collapsed">
+								<div class="block-correspondence" id="1900">
+		<blockquote class="quote-2">
+			<p>Jamie Berger&rsquo;s &ldquo;<a href="/article/374">Peep Show</a>&rdquo; [February 2005] could have been written just for me. My curiosity about peep shows goes back many, many years, to an impotent boyfriend who admitted to being a peep-show addict. He didn&rsquo;t tell me what went on, though. I never dreamed that perhaps he got to touch the women and to ejaculate. I thought the men just looked!</p>
+
+<p>That boyfriend and I used to watch porno movies in my bedroom, but he still couldn&rsquo;t perform. I wish that I could have talked with him then about his addiction and asked if he was able to ejaculate at the peep show. When I see him now, the question is on my lips, but then I wonder what difference it would make: he&rsquo;s sixty-nine, and I&rsquo;m seventy.</p>
+							<p class="quote-2-author">Name Withheld<br></p>
+					</blockquote>
+	</div>
+
+								<div class="block-correspondence" id="1901">
+		<blockquote class="quote-2">
+			<p>In his emotionally honest and thoughtful essay &ldquo;Peep Show,&rdquo; Jamie Berger talks about wanting eye contact from strippers: in a sense, needing forgiveness and intimacy from them at the same time that he is engaging in this objectifying and shameful (to him) behavior. If I were a sex worker, I might think he&rsquo;s asking for a lot more than he&rsquo;s paying for. And is the forgiveness Berger seeks real if he&rsquo;s paying for it? I think he knows it isn&rsquo;t, which is why he needed to be under&shy;stood by the radical-dyke audience at his reading.</p>
+
+<p>I&rsquo;ve been a member of the sex-positive dyke community for more than a decade, and I love the liberation of it. The most important question for me is: What about all the women who, like Berger, were instilled by their parents with shame about their sexuality? He is one of a tiny number of men who&rsquo;ve been hurt by the feminist movement. Meanwhile, girls everywhere grow up repressed and vulnerable to sexual abuse. Where&rsquo;s their sex-positive haven? Where&rsquo;s the forgiving eye contact for them? Not in a peep show, that&rsquo;s for sure.</p>
+							<p class="quote-2-author">Suzy Subways<br>Philadelphia, Pennsylvania</p>
+					</blockquote>
+	</div>
+
+								<div class="block-correspondence" id="1902">
+		<blockquote class="quote-2">
+			<p>Although I appreciate the honesty with which Jamie Berger told his tale, I was offended by the implicit messages: that moms who teach their children feminist values run the risk of raising sex addicts; that abject objectification of women is <span class="smallcaps">OK</span>; and that you can avoid responsibility for your problems by blaming your parents. I hope someone will suggest a good twelve-step group for Berger, who is so obviously powerless over certain urges. And I hope <em>The Sun</em>&rsquo;s editors will reconsider the next time they are tempted to publish something this cheap and incendiary in hopes of boosting circulation.</p>
+							<p class="quote-2-author">Jennifer Miles<br>Longmont, Colorado</p>
+					</blockquote>
+	</div>
+
+								<div class="block-correspondence-respond fill-pattern-light" id="1903">
+								<p><a href="/contributors/jamie-berger"><strong>Jamie Berger</strong></a> responds:</p>
+							<p>Suzy Subways brings up a point that I wish I had addressed more fully in the essay: I was indeed looking for much more than I was paying for, and the dancers had no reason whatsoever to give it to me. I would like to add that, as much as I was &ldquo;hurt by the feminist movement,&rdquo; I was also helped and educated by it in innumerable ways.</p>
+
+<p>Regarding Miles&rsquo;s assertions: It seems that when a writer doesn&rsquo;t take sides on a polarized issue, readers will often insist on forcing the writer into one camp or the other. The assumption that I find &ldquo;the abject objectification of women&rdquo; <span class="smallcaps">OK</span> does not logically follow from what I wrote, even if one presumes to read between the lines. The messages that Miles felt were &ldquo;implicit&rdquo; &mdash; especially regarding feminist moms creating &ldquo;sex addicts&rdquo; &mdash; are contrary to the aim of &ldquo;Peep Show.&rdquo; I give my parents much more credit than blame for who I have become as an adult. I&rsquo;m disappointed if the piece read otherwise to Miles. Happily, my parents didn&rsquo;t read it that way.</p>
+	</div>
+
+
+					</div>
+
+				<div class="text-center">
+			<button class="b b-1 xsmall js-b-readmore-correspondence" data-collapsible="#article-correspondences" data-label="Read More Letters">Read More Letters</button>
+		</div>
+			</div>
+    
+		<div class="article-correspondence-cta">
+		<div class="cta cta-l1" data-url="https://www.thesunmagazine.org/letter-to-the-editor">
+			<div class="cta-intro">
+				<h5 class="cta-title alt-ff">Thinking about writing us a letter?</h5>
+				<p class="cta-text">Give in to the temptation. We love getting mail. <br><span class="xsmall">(Of course, we reserve the right to edit.)</span></p>
+			</div>
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" class="cta-button b b-4 b-padding-tight small" data-label="Write Us A Letter!">Write Us A Letter!</a>
+		</div>
+	</div>
+	
+
+			<div class="article-also layout-item-large full-bar fill-grey-mid-light">
+		<div class="layout-item-intro">
+			<h2>Also In This Issue</h2>
+			<a href="/issues/350" class="xsmall link-alt">February 2005&nbsp;&#9656;</a>
+		</div>
+		<div class="issue-articles-l1">
+			<div class="issue-articles-l1-content1">
+				
+<div class="cover cover-l1 block-product">
+	<div>
+							<a href="/issues/350" class="cover-thumb">
+				
+				<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 727'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/import/issue/350.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/561x728r/import/issue/350.jpg
+	 alt=""
+	 class="lazy">
+
+			</a>
+		
+
+													<!-- <a href="/issues/350" data-product-type="issues" data-id="350" data-role="order" class="js-buy-single corona cover-button b b-1 b-full xsmall" data-label="Buy This Issue &#9656;">
+								Buy This Issue&nbsp;&#9656;
+			</a> -->
+			<a href="/issues/350" data-product-type="issues" data-id="350" class="js-buy-single corona cover-button b b-1 b-full xsmall" data-label="Buy This Issue &#9656;">
+								Buy This Issue&nbsp;&#9656;
+			</a>
+					
+					</div>
+</div>
+			</div>
+			<div class="issue-articles-l1-content2">
+				<div class="articles-l3">
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/poetry">Poetry</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/350/morning-prayer-late-july">Morning Prayer, Late July</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/kimberley-pittman-schulz">Kimberley Pittman-Schulz</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/350/the-shed-skin">The Shed Skin</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/kim-j-young">Kim J. Young</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/readers-write">Readers Write</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/350/apologies">Apologies</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/our-readers">Our Readers</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/sy-safranskys-notebook">Sy Safransky&#039;s Notebook</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/350/sy-safranskys-notebook-350">February 2005</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/sy-safransky">Sy Safransky</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+									</div>
+			</div>
+		</div>
+	</div>
+	
+
+			<div class="article-related layout-item-large full-bar fill-pattern-light">
+		<div class="layout-item-intro">
+			<h2>Related Selections</h2>
+			<ul class="list-inline list-inline-tight"><li><a href="/topics/sexuality" class="xsmall link-alt link-text">Sexuality</a></li><li><a href="/topics/marriage" class="xsmall link-alt link-text">Marriage</a></li><li><a href="/topics/gender" class="xsmall link-alt link-text">Gender</a></li><li><a href="/topics/writing" class="xsmall link-alt link-text">Writing</a></li></ul>		</div>
+
+		<div class="articles-l2">
+							
+
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/397/i-am-not-a-sex-goddess">I Am Not A Sex Goddess</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/lois-judson">Lois Judson</a></li><li><a href="/issues/397">January 2009</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/397" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 727'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/140x182r/import/issue/397.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/import/issue/397.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/quotations">Quotations</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/327/sunbeams-327">Sunbeams</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li><a href="/issues/327">March 2003</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/327" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 725'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/141x182r/import/issue/327.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/281x364r/import/issue/327.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/quotations">Quotations</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/51/sunbeams-issue-51">Sunbeams</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li><a href="/issues/51">January 1980</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/51" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 728'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/140x182r/2016-10/051.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/2016-10/051.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/sun-interview">The Sun Interview</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/51/an-interview-with-jimmy-santiago-baca">An Interview With Jimmy Santiago Baca</a></h3>
+					<p class="block-content-subtitle subtitle">On Writing, Prison, and The Human Spirit</p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/sy-safransky">Sy Safransky</a></li><li><a href="/issues/51">January 1980</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/51" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 728'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/140x182r/2016-10/051.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/2016-10/051.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+					</div>
+	</div>
+	
+	
+					<form id="newsletterForm" method="post" action="https://www.thesunmagazine.org/newsletter" data-url-send="https://www.thesunmagazine.org/newsletter" class="form form-newsletter fill-grey" enctype="multipart/form-data" target="_blank">
+
+
+
+		<div class="form-newsletter-intro">
+			<h3 class="alt-ff large">Sign Up For Our Newsletter</h3>
+			<p>We’ll let you know about new website selections, upcoming events, special offers, and more.</p>
+		</div>
+
+		<ul class="form-newsletter-fields form-fields form-fields-inline">
+			<li>
+				<input name="name" type="text" maxlength="500" id="name" placeholder="Your Name">
+			</li>
+			<li>
+				<input name="email" type="text" maxlength="500" id="email" placeholder="Your E-mail">
+			</li>
+
+			<li class="form-fields-inline-button">
+				<button disabled="disabled" class="form-newsletter-send b b-4 b-padding-tight b-loading g-recaptcha" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs" data-callback="recaptcha_callback" name="SubmitButton" id="SubmitButton">
+					<svg><use xlink:href="#i-loading"></use></svg>
+					Sign&nbsp;Up
+				</button>
+			</li>
+		</ul>
+	</form>
+	<script id="hiddenlpsubmitdiv" style="display: none;"></script>
+
+
+
+<footer class="footer brand-grey-dark">
+			<div class="footer-first">
+		<h3 class="footer-tagline">Independent, Reader-Supported Publishing</h3>
+		<p class="footer-desc">In each issue of <em>The Sun</em> you’ll find some of the most radically intimate and socially conscious writing being published today. In an age of media conglomerates, we’re something of an oddity: an ad-free, independent, reader-supported magazine.</p>
+		<ul class="footer-nav list-inline-border xsmall">
+			
+		<li class=" first">
+			<a href="https://www.thesunmagazine.org/about" 	   class=''>
+	   About <em>the Sun</em>	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/staff" 	   class=''>
+	   Staff	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/find-the-sun" 	   class=''>
+	   Find <em>The Sun</em>&nbsp;&nbsp;in a Store Near You	</a>
+		
+	</li>
+
+
+		</ul>
+	</div>
+	
+		<div class="footer-second">
+		<ul class="footer-second-social list-inline">
+			<li><a href="https://www.facebook.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-facebook"></use></svg></span> Like Us</a></li>
+			<li><a href="https://twitter.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-twitter"></use></svg></span> Follow Us</a></li>
+			<li><a href="https://instagram.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-instagram"></use></svg></span> Take a Look</a></li>
+		</ul>
+
+		<div class="footer-second-content">
+			<ul class="footer-nav list-inline-border xsmall">
+				
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/" 	   class='current '>
+	   Home	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/privacy-policy" 	   class=''>
+	   Privacy Policy	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/terms-of-use" 	   class=''>
+	   Terms of Use	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/site-map" 	   class=''>
+	   Site Map	</a>
+		
+	</li>
+
+
+			</ul>
+			<p class="footer-copyright xxsmall">Copyright &copy; 1974–2020 <em>The Sun</em>. All rights reserved.</p>
+		</div>
+	</div>
+</footer>
+
+
+
+<div class="offset-nav">
+	<ul>
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/read" 	   class='current '>
+	   Read	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/issues/current" 	   class=''>
+	   Current Issue	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/archives" 	   class=''>
+	   Archives	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/featured" 	   class=''>
+	   Featured Selections	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/topics" 	   class=''>
+	   Browse Topics	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/sections" 	   class=''>
+	   Browse Sections	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/connect" 	   class=''>
+	   Connect	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/news" 	   class=''>
+	   News from <em>The Sun</em>	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" 	   class=''>
+	   Write a Letter to the Editor	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/discussion-groups" 	   class=''>
+	   Discussion & Writing Groups	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/make-a-suggestion" 	   class=''>
+	   Make a Suggestion	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/submit" 	   class=''>
+	   Submit	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/shop" 	   class=''>
+	   Shop	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/giftsub" 	   class=''>
+	   Gift Subscriptions	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/issues" 	   class=''>
+	   Issues	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+											
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/donatemenu" 	   class='highlight'>
+	   Donate	</a>
+		
+	</li>
+
+		<li class=" last">
+														<a href="/SubscribeNav1" 					   class=''>
+						Subscribe					</a>
+									
+	</li>
+
+
+					<li>
+				<a href="https://www.thesunmagazine.org/shop/cart">Cart ( <span class="cart-item-count">  0  </span>)</a>
+			</li>
+			<li><a href="https://www.thesunmagazine.org/subscriber/login" class="link-header-logout link-alt">Sign In</a></li>
+			</ul>
+	<ul>
+		<li class=" first">
+			<a href="https://www.thesunmagazine.org/about" 	   class=''>
+	   About <em>the Sun</em>	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/staff" 	   class=''>
+	   Staff	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/find-the-sun" 	   class=''>
+	   Find <em>The Sun</em>&nbsp;&nbsp;in a Store Near You	</a>
+		
+	</li>
+
+</ul>
+	<ul>
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/" 	   class='current '>
+	   Home	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/privacy-policy" 	   class=''>
+	   Privacy Policy	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/terms-of-use" 	   class=''>
+	   Terms of Use	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/site-map" 	   class=''>
+	   Site Map	</a>
+		
+	</li>
+
+</ul>
+</div>
+
+<div id="buy-popup-message" class="buy-popup mfp-hide white-popup white-popup-block">
+	<a class="popup-modal-dismiss" href="#"></a>
+	<h5>Due to fulfillment challenges related to the novel coronavirus, print copies are temporarily unavailable for individual sale. We are offering free PDFs until we are able to resume print sales.</h5>
+	<p>Enter your e-mail address below to download this issue.</p>
+	<form method="post" id="download-single" action="https://www.thesunmagazine.org/issue/pdfFree/531.pdf">
+		<label for="email"><span class="label-text">E-mail</span><span class="label-asterisk">*</span></label>
+		<input class="buy-single-email" id="email" type="email" name="email">
+		<button type="send" class="form-buy-issue-send b b-3 b-padding-tight b-loading">Send</button>
+		<button class="form-buy-issue-download b b-3 b-padding-tight b-loading">Download pdf</button>
+		<button type="send" class="popup-modal-dismiss b b-2 b-padding-tight b-loading">Close</button>
+		<div class="g-recaptcha" style="text-align: center" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs"></div>
+
+	</form>
+</div>
+
+			<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/plugins.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/site.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/newsletter.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/js/articles.js"></script>
+		</div>
+		</div>
+
+				<script>
+		(function (doc) {
+			var scripts = doc.getElementsByTagName('script');
+			var script = scripts[scripts.length - 1];
+			var xhr = new XMLHttpRequest();
+			xhr.onload = function () {
+				var div = doc.createElement('div');
+				div.innerHTML = this.responseText;
+				div.style.display = 'none';
+				script.parentNode.insertBefore(div, script);
+			}
+			xhr.open('get', '/theme/thesun//assets/build/img/sprite/sprite.svg', true);
+			xhr.send();
+		})(document);
+
+
+
+		</script>
+
+		<script>
+			// Submit function
+            function recaptcha_callback() {
+						var getUrl = $('.form-newsletter').data( "url-send" ),
+							getName = $('input#name').val(),
+							getEmail = $('input#email').val();
+						$.ajax({
+								type: "POST",
+								url: getUrl,
+								data: {
+									name: getName,
+									email: getEmail,
+									grecaptcharesponse: grecaptcha.getResponse()
+								}
+							}).done(function(response) {
+								console.log(response);
+									$('.form-fields').fadeOut(800, function () {
+										$('.form-fields').empty().append('<div class="newsletter-confirm-message">Thank you for signing up to receive news from <em>The Sun</em>. Your first newsletter will arrive soon.<div>').fadeIn(800);
+									});
+							});
+			}
+
+		</script>
+
+		<script>
+			function getUrlCode() {
+				var url_string = window.location.href;
+				var url = new URL(url_string);
+				var c = url.searchParams.get('promotion\_key');
+				if (typeof c !== 'undefined' && c !== null) {
+					setCookie("promotion_code",c);
+				}
+			}
+
+			function setCookie(cname, cvalue) {
+				document.cookie = cname + "=" + cvalue + ";" + "path=/";
+			}
+
+			function getCookie(cname) {
+				var name = cname + "=";
+				var decodedCookie = decodeURIComponent(document.cookie);
+				var ca = decodedCookie.split(';');
+				for(var i = 0; i <ca.length; i++) {
+					var c = ca[i];
+					while (c.charAt(0) == ' ') {
+						c = c.substring(1);
+					}
+					if (c.indexOf(name) == 0) {
+						return c.substring(name.length, c.length);
+					}
+				}
+				return "";
+			}
+			window.addEventListener( "load", getUrlCode );
+		</script>
+
+
+	</body>
+</html>

@@ -1,0 +1,1301 @@
+
+<!DOCTYPE html>
+<html class="no-js" lang="en-US">
+	<head>
+		<title>Control - The Sun Magazine</title>
+
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		
+		<meta name="viewport" content="width=device-width, minimum-scale=1.0">
+
+		<link rel="dns-prefetch" href="//ajax.googleapis.com">
+		<link rel="dns-prefetch" href="//use.typekit.net">
+		
+		<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/modernizr.js"></script>
+		<script src="https://www.google.com/recaptcha/api.js"
+				async defer>
+		</script>
+
+		<script>(function(d) { var config = { kitId: 'kzw7ebk', scriptTimeout: 3000, async: true }, h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s) })(document);</script>
+
+
+				
+		<link rel="apple-touch-icon" sizes="57x57" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-57x57.png?v=2016">
+		<link rel="apple-touch-icon" sizes="60x60" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-60x60.png?v=2016">
+		<link rel="apple-touch-icon" sizes="72x72" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-72x72.png?v=2016">
+		<link rel="apple-touch-icon" sizes="76x76" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-76x76.png?v=2016">
+		<link rel="apple-touch-icon" sizes="114x114" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-114x114.png?v=2016">
+		<link rel="apple-touch-icon" sizes="120x120" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-120x120.png?v=2016">
+		<link rel="apple-touch-icon" sizes="144x144" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-144x144.png?v=2016">
+		<link rel="apple-touch-icon" sizes="152x152" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-152x152.png?v=2016">
+		<link rel="apple-touch-icon" sizes="180x180" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-180x180.png?v=2016">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-32x32.png?v=2016" sizes="32x32">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/android-chrome-192x192.png?v=2016" sizes="192x192">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-96x96.png?v=2016" sizes="96x96">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-16x16.png?v=2016" sizes="16x16">
+		<link rel="mask-icon" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/safari-pinned-tab.svg?v=2016" color="#444444">
+		<link rel="shortcut icon" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon.ico?v=2016">
+		<meta name="apple-mobile-web-app-title" content="The Sun Magazine">
+		<meta name="application-name" content="The Sun Magazine">
+		<meta name="msapplication-TileColor" content="#fcc330">
+		<meta name="msapplication-TileImage" content="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/mstile-144x144.png?v=2016">
+		<meta name="theme-color" content="#ffffff">
+
+				<link rel="stylesheet" type="text/css" href="https://cloud.typography.com/6578674/659928/css/fonts.css" />
+		<link rel="stylesheet" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/css/style.css">
+
+																		<meta property="og:site_name" content="The Sun Magazine">
+		<meta property="og:type" content="article">
+		<meta property="og:url" content="https://www.thesunmagazine.org/issues/328/control">
+		<meta property="og:image" content="http://www.thesunmagazine.org/files/2017-01/328-26-hall-preview.jpg">
+		<meta property="og:title" content="Control - The Sun Magazine">
+		<meta property="og:description" content="In a procedure called a uterosigmoidostomy, surgeons connected my bladderless ureters to my colon. They couldn&amp;rsquo;t hook them directly to my urethra, because my penis would have become a spigot without a shut-off valve. Instead, urine and feces mixed in my colon, and I shit a muddy river. At three, I didn&amp;rsquo;t know there was anything wrong with this.">
+		<meta property="fb:app_id" content="158741778010551">
+
+						<link rel="image_src" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.comhttp://www.thesunmagazine.org/files/2017-01/328-26-hall-preview.jpg">
+
+												<meta name="twitter:card" content="summary">
+		<meta name="twitter:title" content="Control - The Sun Magazine">
+		<meta name="twitter:description" content="In a procedure called a uterosigmoidostomy, surgeons connected my bladderless ureters to my colon. They couldn&amp;rsquo;t hook them directly to my urethra, because my penis would have become a spigot without a shut-off valve. Instead, urine and feces mixed in my colon, and I shit a muddy river. At three, I didn&amp;rsquo;t know there was anything wrong with this.">
+		<meta name="twitter:image" content="http://www.thesunmagazine.org/files/2017-01/328-26-hall-preview.jpg">
+		<meta name="twitter:site" content="@thesunmagazine">
+
+				<link rel="publisher" href="https://plus.google.com/113792980827145858211">
+        
+		<meta name="Description" content="In a procedure called a uterosigmoidostomy, surgeons connected my bladderless ureters to my colon. They couldn&amp;rsquo;t hook them directly to my urethra, because my penis would have become a spigot without a shut-off valve. Instead, urine and feces mixed in my colon, and I shit a muddy river. At three, I didn&amp;rsquo;t know there was anything wrong with this.">
+
+		
+		<!-- Google Tag Manager -->
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-TKBHCCG');</script>
+		<!-- End Google Tag Manager -->
+
+		<!-- Google Analytics -->
+		<script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+            ga('create', 'UA-2351127-1', 'auto');  // Replace with your property ID.
+            ga('send', 'pageview');
+            ga('require', 'ecommerce');   // Load the ecommerce plug-in.
+		</script>
+		<!-- End Google Analytics -->
+	</head>
+	<body id="">
+
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TKBHCCG"
+		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+		<header class="header" data-offset-start="80">
+		<div class="header-utilities">
+				<ul class="header-utilities-user list-inline list-inline-tight xxsmall">
+							<li>
+					<span class="header-utilities-user-intro">Already A Subscriber?</span> &nbsp;
+					<a href="https://www.thesunmagazine.org/subscriber/login" class="link-text link-alt">Sign In</a>
+				</li>
+					</ul>
+		<a href="https://www.thesunmagazine.org/shop/cart" class="header-utilities-cart  link-alt link-icon tiny">
+			<span class="i"><svg><use xlink:href="#i-cart"></use></svg></span>
+			<span class="cart-item-count">
+									0 Items
+				
+			</span>
+		</a>
+			</div>
+
+		<div class="header-bar">
+		<h1 class="header-logo logo">
+			<a href="/">
+				<img src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/img/logo-thesun.svg" class="logo-thesun" alt="The Sun Magazine">
+				<img src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/img/logo-tagline.svg" class="logo-tagline" alt="">
+			</a>
+		</h1>
+
+		<ul class="header-nav">
+			
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/read" 	   class='current '>
+	   Read	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/issues/current" 	   class=''>
+	   Current Issue	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/archives" 	   class=''>
+	   Archives	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/featured" 	   class=''>
+	   Featured Selections	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/topics" 	   class=''>
+	   Browse Topics	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/sections" 	   class=''>
+	   Browse Sections	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/connect" 	   class=''>
+	   Connect	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/news" 	   class=''>
+	   News from <em>The Sun</em>	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" 	   class=''>
+	   Write a Letter to the Editor	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/discussion-groups" 	   class=''>
+	   Discussion & Writing Groups	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/make-a-suggestion" 	   class=''>
+	   Make a Suggestion	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/submit" 	   class=''>
+	   Submit	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/shop" 	   class=''>
+	   Shop	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/giftsub" 	   class=''>
+	   Gift Subscriptions	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/issues" 	   class=''>
+	   Issues	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+											
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/donatemenu" 	   class='highlight'>
+	   Donate	</a>
+		
+	</li>
+
+		<li class=" last">
+														<a href="/SubscribeNav1" 					   class=''>
+						Subscribe					</a>
+									
+	</li>
+
+
+		</ul>
+
+		<button class="header-nav-toggle"><svg><use xlink:href="#i-menu" class="i-menu"></use><use xlink:href="#i-close" class="i-close"></use></svg></button>
+		<button class="header-search-toggle" data-form-wrapper=".header-search"><svg><use xlink:href="#i-magnifier" class="i-magnifier"></use><use xlink:href="#i-close" class="i-close"></use></svg></button>
+	</div>
+
+		<div class="header-search">
+		<div class="header-search-content">
+			<form action="https://www.thesunmagazine.org/search" class="form form-search" method="get">
+				<h2 class="alt-ff brand-link">Search Our 40 Years of Archives</h2>
+				<ul class="form-search-fields form-fields form-fields-inline">
+					<li><input type="text" name="q" value=""></li>
+					<li class="form-fields-inline-button"><button class="b b-1 b-padding-tight b-loading"><svg><use xlink:href="#i-loading"></use></svg>Search</button></li>
+				</ul>
+
+				<div class="header-search-content-shortcuts">
+					<h6 class="search-advanced alt-ff"><a class="js-handle-advanced" href="https://www.thesunmagazine.org/search?advanced=1">Advanced Search</a></h6>
+					<br>
+					<h6 class="alt-ff">Popular Pages</h6>
+					<ul class="list-inline-border list-inline-tight xxsmall"><li class=" first"><a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a></li><li class=""><a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a></li><li class=""><a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a></li><li class=""><a href="https://www.thesunmagazine.org/sections/quotations" 	   class=''>
+	   Quotations	</a></li><li class=""><a href="https://www.thesunmagazine.org/sections/readers-write" 	   class=''>
+	   Readers Write	</a></li><li class=" last"><a href="https://www.thesunmagazine.org/sections/poetry" 	   class=''>
+	   Poetry	</a></li></ul>				</div>
+			</form>
+		</div>
+	</div>
+</header>
+
+	<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+	<script type="text/javascript">
+		$(document).ready(function() {
+			$('.js-handle-advanced').on('click', function (e) {
+				e.preventDefault();
+				var getSearchValue = $('.form-search-fields input').val();
+				var getURL = $(this).attr('href');
+				var newURL = getURL + '&q=' + getSearchValue;
+				window.location.href = newURL;
+			});
+		});
+	</script>
+
+		<div class="container-hidden">
+		<div class="container">
+
+				
+	
+	<article class="article ">
+		<header class="block-content block-content-l1 block-content-center">
+						<div class="block-content-header">
+				<h6 class="b-content-section heading-square"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+				<h1 class="block-content-title">Control</h1>
+
+				
+				<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/james-lainsbury">James Lainsbury</a></li><li><a href="/issues/328">April 2003</a></li></ul>
+
+			</div>
+
+																			
+
+				<figure class="block-content-photo block-content-photo-large photo photo-outset-center-large">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 1960 1551'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/1960x1551c/photos/328-26-hall.jpg
+	 alt="328 - Hall - Lainsbury"
+	 class="lazy">
+
+										<figcaption>
+
+						
+																				<div class="photo-credit">
+								&copy;&nbsp;<a href="/contributors/krissy-hall">Krissy Hall</a>
+							</div>
+																		</figcaption>
+									</figure>
+
+					</header>
+
+				<div class="article-body link-text-wrap">
+																		<p><strong><span class="smallcaps">The gray Boston light </span></strong>casts the silhouette of a windowpane on the johnny I wear. I hate hospital gowns. The flaps don&rsquo;t close properly and open to reveal my butt to the entire hospital. Sometimes I cry, and then the nurses don&rsquo;t make me wear one, but I am wearing one today. The gown bares my skin to the stainless-steel table beneath me. It&rsquo;s cold. The walls and ceiling are a drab white. I pretend I&rsquo;m inside an igloo.</p>
+
+<p>The door opens, and eight people wearing white jackets enter. They swarm around me and buzz with interest. Then the doctor in charge reaches out with a liver-spotted hand and pulls my gown up to my chin. I am exposed. He pokes at the scars on my abdomen and penis and talks to the residents. They nod their heads and ask questions and stare at my naked flesh. I know they are talking about me, but they use words I don&rsquo;t understand. The liver-spotted doctor steps back, and the others take turns poking and staring. They smile awkward smiles, and their hands shake like leaves in the wind.</p>
+
+<p>Children&rsquo;s Hospital is a teaching hospital, so there are always new faces &mdash; green residents with unsure hands &mdash; each time my parents and I visit. I trust Poor Puppy. That&rsquo;s what I&rsquo;ve named the pink stuffed dog my mother gave me. He is small, about the size of my father&rsquo;s hand, and his legs stretch out as if he is lying down. I pretend he&rsquo;s flying away, taking me with him. Poor Puppy calms me on the operating table. He softens the prick of the <span class="smallcaps">IV</span> needles and nests in my armpit when the doctors&rsquo; outlines blur and the blackness comes.</p>
+
+<p>&nbsp;</p>
+
+<p><strong><span class="smallcaps">In the womb,</span></strong> my bladder, following a course of its own design, popped out of my gut. The doctors sewed my abdomen back together but left the limp organ where it was. For three years my parents assiduously changed the Vaseline-coated bandage that prevented my bladder from drying out. Urine seeped out of the useless tissue like wine through cheesecloth.</p>
+
+<p>My parents were twenty-three when doctors presented them with two choices. In one procedure, surgeons could funnel my ureters into an ostomy bag that I would wear on my hip. The bag would collect urine, and I would empty it. But my parents didn&rsquo;t think I could possibly have a normal childhood with a warm water balloon strapped to my hip. They chose the second option. In a procedure called a uterosigmoidostomy, surgeons connected my bladderless ureters to my colon. They couldn&rsquo;t hook them directly to my urethra, because my penis would have become a spigot without a shut-off valve. Instead, urine and feces mixed in my colon, and I shit a muddy river. At three, I didn&rsquo;t know there was anything wrong with this.</p>
+
+<p>&nbsp;</p>
+
+<p><strong><span class="smallcaps">I enter the bathroom</span></strong> at school. Everything is white: White tile. White walls. White light cutting through airborne dust and illuminating the row of white toilets. It&rsquo;s not a clean white but a dingy off-white, like the lines on a road.</p>
+
+<p>My footfalls reverberate as I walk toward the row of eight toilets. They are designed for short legs and offer no privacy. It is a unisex bathroom &mdash; girls and boys together. I sit down and keep an eye on the door, an ear cocked, ready to spring up at the first hint of other kids. When I&rsquo;m sure no one is coming, I release my bowels. They rumble at first and then settle into a sound like a cow pissing on a flat rock. I am used to these sounds. They are not the toilet sounds other kids make. When I hear a throng of voices approaching, I jump up, wipe quickly, and walk to the door, splitting the tide of rambunctious five- and six-year-olds as they enter.</p>
+
+<p>Hilltop School is where the hippie types in Bangor, Maine, send their kindergartners and first-graders. There is a playground with rows of high swings, jungle gyms, and a rotting lobster boat for us to play on. The school compound looks down upon Kenduskeag Stream as it tumbles toward the Penobscot River. The Penobscot once floated massive log booms to sawmills in Old Town and Orono. It once had an Atlantic salmon run of fifty thousand fish fighting to breed. Today the Penobscot floats occasional white bags of trash. I am not allowed to swim in it. My teacher is a hippie. She has long brown hair and drives a red LeCar. One day she brings tofu sandwiches for my class of five. Everyone partakes except for me. I cry hysterically.</p>
+
+<p>At least this is how I remember it &mdash; playing in a boat and being terrified of the bathroom and tofu. Looking back on it now, I&rsquo;m sure the bathroom didn&rsquo;t really scare me, nor the tofu. I imagine it was change I found frightening. Routine got me through the day and gave me a sense of security. If I didn&rsquo;t follow my routine, I might end up with a mess in my pants.</p>
+
+<p>In second grade, I started attending public school. I woke up many mornings in a damp, shit-stained bed. It was nearly impossible to hold back the torrent that burbled in my gut at night. Kids snickered at the way I smelled and the way I walked, clenching my butt cheeks together as I hurried to the bathroom. At least the stalls in my new school had doors. I would sneak into one, slide the lock, and hope my friends were too busy to notice the sounds and smells I made there. Through the thin aluminum partition I learned that boys define themselves, in part, through their penises. They pissed on walls and each other in bids for power, and I could hear them discussing whose was bigger and where they had inserted them. Sitting there alone, I looked at mine and wondered why I couldn&rsquo;t pee out of it. I wondered what that meant.</p>
+
+<p>&nbsp;</p>
+
+<p><strong><span class="smallcaps">Maine has one</span></strong> of the longest logging histories in the country. The first sawmill in North America was erected in 1623 in York, on the Maine coast, where lumber could easily be loaded onto ships. When the timber barons ran out of trees within easy reach of the Atlantic, they moved north and west up the river drainages, toward New Brunswick and Quebec, and the logs flowed east in their wake, to Bangor, once the most productive lumber port in the world. In the nineteenth century, Bangor was a town of loggers and sailors blowing off steam with whores and booze. They brawled in the muddy streets while the river carried sawdust and other detritus out to sea.</p>
+
+<p>This history of brawling and resource extraction is as deep and as powerful as the Penobscot. It is in me and in almost every other Maine native. We display our heritage proudly with our pragmatic understanding of work, as if we came out of the womb wearing flannel shirts and wielding peaveys.</p>
+
+<p>Bangor&rsquo;s reign as a lumber capital ended when the big trees disappeared in the latter half of the nineteenth century. In northern Maine, however, the saws still buzz loudly. My family moved from Bangor to Presque Isle &mdash; 150 miles north &mdash; when I was thirteen. Rolling hills of glacial till replaced the flat, lower Penobscot drainage. Pine and maple gave way to spruce and fir.</p>
+
+<p>Northern Maine is an isolated place matted with young coniferous forests edged by potato fields. <i>Diversity</i> is a word used to describe potato species, not culture. Manhood is obvious and recognizable: truck tires, grease, labor. Men here don&rsquo;t talk about their feelings. They dust potato fields with fertilizer and pesticides, drink beer, and shoot things. I attended school with kids whose thinking was as clear-cut as the woods around us. I wanted to be like them, to be confident, sure of my place in the world. And in high school this was the image I tried to project. I kept my condition a secret from all but one person.</p>
+
+<p>&nbsp;</p>
+
+<p><strong><span class="smallcaps">Duncan Collier was</span></strong> my first friend in Presque Isle. We played basketball at his house &mdash; a large, slate blue two-story up the hill from mine &mdash; and smashed his remote-control monster truck and lounged on leather couches in his parents&rsquo; den. His dad practiced medicine, and his mom drank bourbon from highball glasses and always had a cigarette lit. The Colliers&rsquo; house reeked of stale cigarettes and poor health. They owned a Jeep, a hot tub, a lake house, and pounds of gold jewelry that suited the pallor of their skin. Mainers in general are very pale &mdash; a result of low elevations and high latitude &mdash; but northern Mainers are even whiter. An albino would have appeared tan in comparison to the Colliers.</p>
+
+<p>I was alone in a new place, a far different landscape from the one where I had spent my first thirteen years, and Duncan took me under his red-freckled wing.</p>
+
+<p>&ldquo;How big&rsquo;s your penis?&rdquo; he asked me as we walked in the front door of his house one day.</p>
+
+<p>I kicked off my dirty Nikes and grinned sheepishly. &ldquo;I don&rsquo;t know. I&rsquo;ve never measured it.&rdquo;</p>
+
+<p>&ldquo;Mine&rsquo;s seven and a quarter inches.&rdquo;</p>
+
+<p>He watched my face for an astonished reaction, so I gave him one; I didn&rsquo;t want to hurt his feelings. I imagined Duncan in his room late at night with a ruler in one hand and an erection in the other, and I wondered if I was weird because I had never thought to do such a thing. Were my scars weird? His penis was nearly all he talked about. In high school, I would recognize it as the rod with which he measured his self-worth. But standing by his door amidst a pile of shoes, I just hoped he wouldn&rsquo;t ask me to measure my penis in front of him. I liked him and didn&rsquo;t want him to think I was a dork for refusing such a request.</p>
+
+<p>Besides his penis, Duncan loved basketball. We bounced a ball around on the little concrete slab in front of his garage. During our typically rowdy adolescent games, I learned that he had a violent streak. When his face matched the color of his red hair, it was time to vacate the premises. One afternoon, my brother Jason blocked a shot and accidentally hooked his finger under Duncan&rsquo;s gold necklace, breaking it. Duncan pinned Jason to the concrete and punched him until tears ran down my brother&rsquo;s face. I didn&rsquo;t try to stop the rise and fall of Duncan&rsquo;s chubby fist. He was ruthless, but I needed a friend. I acted as if it had never happened.</p>
+
+<p>I made a mistake, though, in thinking that Duncan was my friend. One day I told him about my surgeries and my scars. His jaw set at a funny angle, and his blue eyes went hollow. He stopped calling me to come over; he stopped talking to me entirely. In Duncan&rsquo;s eyes, my masculinity was corrupt. I could not have impressed him even if my penis had measured twelve inches. I went back to playing video games and watching <span class="smallcaps">MTV</span> by myself.</p>
+
+<p>Several months after I told Duncan my secret, I passed him in freshman hall. Two new cronies flanked him on either side, and he walked with his chest thrust out, legs bowed as if he had just dismounted from a fifteen-day horse ride. His arms, curved like taught bows, swung back and forth to the counterweight of his balled fists.</p>
+
+<p>&ldquo;Hey,&rdquo; he said to me as he walked by, &ldquo;didja get those surgeries to fix all your stuff?&rdquo;</p>
+
+<p>&ldquo;Yeah, I did,&rdquo; I lied. I looked down at the speckled linoleum and wished I could slide under its glassy surface. He smirked and strutted off.</p>
+
+<p>I would not make the mistake of trusting anyone again. Secrecy meant control.</p>
+
+<p>&nbsp;</p>
+
+<p><strong><span class="smallcaps">The leather chair </span></strong>squeaks as I turn and look out the window at the bright Virginia sun. One of the urologists is talking to my mother and stepfather, who sit next to me. I&rsquo;m not really listening. Instead I look toward the river we walked past this morning on our way to the doctor&rsquo;s office. It doesn&rsquo;t look like the rivers back home. Concrete walls gird it and force it to flow in a straight line. Earlier, I watched a man dressed in ragged flannel &mdash; despite the hundred-degree temperature &mdash; catch crabs. He leaned into the concrete wall and pulled a net out of the water with a rope. Claws protruded from the mesh and scraped against the concrete, occasionally snapping at their nylon cage.</p>
+
+<p>I probably should listen to the doctor, since he is talking about me. But I am sixteen and convinced there is nothing new to hear. They will cut me open, fix a few things, and sew me up again.</p>
+
+<p>&ldquo;The drainage tube will remain in for a few months until the stoma heals,&rdquo; the doctor says. He looks at me, and I pretend that I&rsquo;ve been listening. I just want it to be over. I want this to be the last surgery. If I don&rsquo;t listen closely, then I won&rsquo;t hear the apprehension in his voice. I won&rsquo;t hear his disclaimers.</p>
+
+<p>The humidity wraps around me like a soggy blanket as we exit the air-conditioned office and walk to the car. At the Ronald McDonald House, I go to my family&rsquo;s room, lie on the bed, and flip through the latest <i>Rolling Stone</i>. The sheets feel cool against my skin. Later, on my way to the game room to play Ms. Pac Man, I pass a pair of somber-looking parents shuffling toward their room. Surgeons opened their daughter today. I&rsquo;m not sure why she needed surgery. I smile at them and wonder if that&rsquo;s how my parents look when I am out cold on the operating table.</p>
+
+<p>Two days later, I wake up with a pup tent over my lower half, as if Lilliputians have bivouacked along my abdomen and thighs. It holds the white bedsheet aloft to keep it from touching the fresh, seeping wounds. I feel as if I have skidded two hundred feet on broken glass. I lift the sheet and look. Thirty-three staples hold my abdomen together. The eight-by-six-inch bandage on my thigh, where surgeons filleted a piece of skin to graft somewhere else, looks like the pad that absorbs the blood beneath a packaged steak. As promised, the doctors have crafted me a bellybutton where before there was only scar tissue &mdash; a remnant of my first surgery. A yellow latex tube the diameter of my index finger runs out the right side of my abdomen and empties into a clear plastic urinal. The fluid in it looks like chicken broth before the fat has been skimmed. The tube will remain in until the stoma on my left side heals. My surgeons, superstars of the urology field, have crafted a pouch from a piece of my colon and tucked it into my abdomen. On my abdominal wall they&rsquo;ve built a pistachio-sized valve and connected it to the pouch with a tunnel of skin. In order to pee, I will insert a catheter into this valve, which resembles a winking eye. They call the valve a stoma, named after the respiratory openings on plant leaves.</p>
+
+<p>The tent embarrasses me, like a big road sign alerting all passersby that I had work done <i>down there</i>. At sixteen, I don&rsquo;t really want to draw attention to myself, let alone to my groin. I am ashamed when the nurse with the Southern accent and the long red fingernails lifts the sheet to attend to my bandages. I want to sleep with her, but I doubt she would find such a patchwork quilt of a man enticing. I&rsquo;m not even allowed to fantasize about women &mdash; doctor&rsquo;s orders &mdash; until the stitches and staples are removed. I keep ammonia capsules on my nightstand, and if an erection stirs beneath the tent, I must break one and inhale deeply.</p>
+
+<p>While I&rsquo;m healing, I think very little about the mechanics of the stoma. I forget that I don&rsquo;t really like my body and that I&rsquo;m different from the other boys at school. The hospital ward comforts me, because here I am not alone in being different. I can reach out and touch the hand of my bedridden neighbor if I forget.</p>
+
+<p>Time passes quickly. In a hospital you can&rsquo;t do anything but lie still and heal. The only other choice is to get worse. After two weeks nurses pull me to a standing position and help me walk with atrophied muscles. It feels like stepping on needles. After three weeks, my parents drive me back home to Presque Isle.</p>
+
+<p>&nbsp;</p>
+
+<p><strong><span class="smallcaps">A month later,</span></strong> I stood triumphantly in front of the toilet and pissed on the seat. For the first time in my life, I had control. I was continent. The doctors advised me to take things slowly, and my parents limited my outdoor activities to walking on the paved bike path that cut through our town. But still I felt that I could do things I&rsquo;d never done before.</p>
+
+<p>Later that summer, my friend George and I went walking and happened across another friend, Mark, who was racing his go-carts on the middle-school parking lot. He let George and me have a turn, and we drove those little cars full tilt, weaving around the two yellow school buses that were hibernating there in the off-season. I could feel the dull throb of my healing scars as I hit bumps in the pavement.</p>
+
+<p>Racing around the parking lot wasn&rsquo;t exciting enough, though, so we began throwing crab apples at each other. Our little game quickly evolved into an apple-throwing war. Like jousters, we drove our steel horses at each other and unloaded our harvested artillery. Apples bounced off foreheads and splatted under tires. The lot smelled like a cider press.</p>
+
+<p>At one point, having run out of ammunition, I spied a few apples on the ground and turned sharply to retrieve them. I looked up in time to see a wall of yellow approaching. I hit the brakes, but too late.</p>
+
+<p>The go-cart went under the bus, and I went with it. My head snapped back, and my neck and chin dragged across the bus&rsquo;s filthy bottom. I left long handprints where I pushed against the steel in horror, trying to stop myself. It was an eternity before I came out the other side.</p>
+
+<p>Once clear, I jumped off the cart, surprised to be alive, and started screaming. George and Mark came running over.</p>
+
+<p>&ldquo;Jesus!&rdquo; George said. &ldquo;I thought for sure you were gonna be decapitated.&rdquo;</p>
+
+<p>I palpated my abdomen frantically, worried I might have seriously injured it. The surgeons had warned me to take care of myself. If I didn&rsquo;t, they&rsquo;d said, they wouldn&rsquo;t feel obligated to repair me in the future. I could hear my mother&rsquo;s voice: <i>You&rsquo;re still not healed yet. Be careful.</i></p>
+
+<p>&ldquo;Mom&rsquo;s gonna kill me,&rdquo; I said.</p>
+
+<p>She didn&rsquo;t. I hadn&rsquo;t reinjured any of the still-fresh surgery scars, but I did have a cut nostril, a bruised chest, and a three-inch red skid mark on my neck that brought me notoriety when school started the following week. <i>This is cool</i>, I thought. I was doing things I wasn&rsquo;t supposed to, taking chances. The stoma freed me of many inhibitions I&rsquo;d had about physically challenging myself. Before the stoma, I hadn&rsquo;t been able to participate fully in sports: imagine trying to round third base while squeezing a nickel between your butt cheeks. Now, with the stoma, I took up mountain biking and ran cross-country and track that year. In the spring, like the other kids, I picked rocks to clear the potato fields for planting, and in the fall I harvested potatoes in icy rain. I drank Budweiser with my friends as we drove four-wheel-drive trucks through mud holes in the woods.</p>
+
+<p>But as much as I acted like one of the boys, I didn&rsquo;t feel like one. I still couldn&rsquo;t completely relate to their wanton carelessness, their sense of invincibility.</p>
+
+<p>The stoma brought me a more normal life, but it also brought home a reality that had been easier to deny when boyhood activities were out of the question: I realized just how different I was.</p>
+
+<p>&nbsp;</p>
+
+<p><strong><span class="smallcaps">The skidder tears</span></strong> through the edge of the woods and charges forward with five mud-coated white pines in tow. My uncle doesn&rsquo;t smile at me from the cab. His jaw is solid and serious. His eyes are hidden behind his sunglasses.</p>
+
+<p>My uncle has hired me for the summer. I am eighteen years old and two hundred miles from Presque Isle and the tyranny of my hometown. Like most of the misfits in high school, I left shortly after graduation.</p>
+
+<p>My uncle has positioned me in the yarding area, where I cut logs to be pulped at the mill. After I get one load cut, I have a few minutes to rest before he comes trundling out of the woods with another. The skidder is loud and dirty. Its orange steel hull is pocked with rust, and its sharp angles, hydraulic hoses, and oozing sludge make it look medieval. Tire chains rattle and tear soil and tree bark. Pines flip and turn like fish snagged on hooks.</p>
+
+<p>It is my first time running a chain saw. I like the feeling of power; the plume of blue exhaust that wraps around my torso; the wood chips that bounce off my shirt, stick to my forearms, and nest in my hair. But my uncle keeps my self-confidence in check. He doesn&rsquo;t give compliments; instead, he keeps me humble with reminders of my virgin-like qualities.</p>
+
+<p>I stand on a pile of logs with the saw hanging by my side. A breeze cools the sweat on my neck. The air tastes like pine, mud, diesel exhaust, and sweat. Blood from cuts and broken blisters mixes with the oily residue on my saw. Mud covers my boots, and sweet-smelling pine pitch hardens into black scabs on my face and arms. If not for my uncle, I could feel at home.</p>
+
+<p>I accepted my uncle&rsquo;s job offer because nobody&rsquo;s tougher than a logger. The saw responds to my commands and takes apart trees in a flurry of resin and wood chips. At the end of the day, I put off showering so that the scent of woods and work will linger. I like walking into a store dirty, shaking off wood chips like dandruff. I want others to see me this way. <em>Look at me. I am a man.</em></p>
+
+<p>&nbsp;</p>
+
+<p><strong><span class="smallcaps">&ldquo;What&rsquo;s wrong!&rdquo;</span></strong> Andrea clutches my arm. I am sitting up in bed. The darkness of the cabin lessens slightly as my eyes focus. The wood stove glows faintly in the corner. I close my mouth. My throat is sore.</p>
+
+<p>&ldquo;Why were you screaming?&rdquo; she asks.</p>
+
+<p>&ldquo;What?&rdquo;</p>
+
+<p>&ldquo;Why were you screaming?&rdquo;</p>
+
+<p>I think for a second. Another bad dream. Since the age of four I have had dreams that would make Stephen King sleep with the light on. &ldquo;I don&rsquo;t know.&rdquo;</p>
+
+<p>I start to orient myself. I can smell our dogs, wood ash, and our sex from an hour ago. I lie back against the down pillow and pull the comforter up to my chin. A November wind wails across the potato field and penetrates the cedar board-and-batten siding. As I settle into the pillow, Layla the cat conforms to my head again and begins purring. I am in a good place, I tell myself, and I try to slow my rapid heartbeat.</p>
+
+<p>&ldquo;What are you scared of? You know you can tell me.&rdquo; Andrea wiggles an arm underneath the comforter and lays it across my chest.</p>
+
+<p>&ldquo;I don&rsquo;t know.&rdquo; It is an honest answer. I can feel a film of hot tears forming, and I am glad that it is dark. I push the sadness back down. &ldquo;Boys aren&rsquo;t supposed to do this,&rdquo; I say.</p>
+
+<p>&ldquo;And why is that?&rdquo;</p>
+
+<p>I don&rsquo;t have an answer.</p>
+
+<p>Andrea was the first woman to try to convince me that I was attractive &mdash; and not because I wore chain-saw chaps, but for other reasons. I didn&rsquo;t believe her. How could I? That would have required a level of trust I could not commit to, a lapse into vulnerability. I didn&rsquo;t trust anyone, let alone a person who had seen me naked. I did what a man was supposed to do: I cut her firewood, managed the wood stove, and drove a big truck. She left with the January snow.</p>
+
+<p>&nbsp;</p>
+
+<p><span class="smallcaps"><strong>When I was twenty-one,</strong></span> with the help of a Belgian draft horse called Pride, I logged a piece of land not far from where my uncle tripped trees. A man named Hank owned the land, owned Pride, owned the cows in the pasture and the trees I sold for firewood. It was a different kind of logging. Bird song replaced diesel clatter. As I worked I could hear the horseflies divebombing my head and Hank&rsquo;s Scotch Highlands lowing in the pasture: background music for my dance with Pride. I led him with gentle commands &mdash; <i>gee; haw; easy, boy</i> &mdash; and he followed .&nbsp;.&nbsp;. most of the time. We snaked along the trail, our steps light, and I laid off the bit as long as he didn&rsquo;t try to run. Beech, ash, and birch logs accumulated in the pasture that I used as a yarding area. The taller the pile grew, the better I felt. I equated my self-worth with that pile of logs, and the pile of split firewood that grew next to it: solid testament to my manhood and existence.</p>
+
+<p>&ldquo;Are you sure you don&rsquo;t want me to leave those trees?&rdquo; I asked Hank several times. Massive beeches lined one hillside, their crowns thirty feet in diameter, and nothing grew under them. They were beautiful, and I wanted to be sure Hank understood that, once they were down, I couldn&rsquo;t put them back up. He wanted room for his sugar maples, though, and saw the beeches as impediments to his maple-syrup operation.</p>
+
+<p>Before I cut the trees, I paused and ran my hand along their smooth bark with its intermittent black scabs. I stood there in the silence for a moment with one hand resting against the trunk of my first victim. Then I yanked the starter cord. One by one, the trees tipped forward, as if on hinges, and lingered like sky divers at the open door of the plane, tasting the air for the first time, before dropping down the rocky slope. Branches the size of my waist splintered and burrowed four feet into the soil.</p>
+
+<p>When I pulled my saw out of one backcut, my right foot slipped on a loose rock, and I dropped to the ground with both hands firmly gripping the saw. As I struggled to regain my footing, the trunk creaked. I looked up and saw the tree starting its descent to the ground. I knew it would fall slowly at first, gathering momentum, before shaking the earth with its mass. I clawed at the soil, trying to right myself. My heart chopped at my sternum. <i>Get up!</i></p>
+
+<p>When the crown of the tree slammed the ground, its butt kicked six feet off the stump, like a kid launching off a seesaw. I was still on all fours. The trunk hovered over me, blotting out the sun. <i>I am going to die</i>, I thought. <i>This is it: killed by firewood.</i> I closed my eyes, turned my face to the ground, and waited for the bone-crunching finish.</p>
+
+<p><i>Whuuump!</i></p>
+
+<p>I opened my eyes. The tree quivered where it had landed, on the other side of the stump. It had sunk into the soil like a boot heel into spring mud. I stood up, and my legs buckled. Sitting back down, I brushed the duff from my arms, removed my helmet, and dropped my slick head into my hands. Rule number one: check your footing. Every logger knows that. I had gotten cocky and hadn&rsquo;t bothered to check before plunging my saw into the tree&rsquo;s heart. The sense of being in control breeds cockiness. Get cocky, and the next thing you know you&rsquo;re watching your life pulse out of your femoral artery in great red bursts.</p>
+
+<p>&nbsp;</p>
+
+<p><strong><span class="smallcaps">As a little </span></strong><strong><span class="smallcaps">boy</span></strong> I lay in numerous recovery rooms next to other sick boys and girls. We shared a bond. We understood something that none of us was old enough to voice: life is out of our control. We had been born with problems beyond human ability to fix, and the pulse of life-giving machines and the words of busy, white-coated surgeons could not convince us otherwise. They could pound out the dents and make us run, but they were unable to prepare us for the long drive ahead.</p>
+
+<p>Over time, though, I forgot that lesson. It became a secret even from me. And I let myself be lured into thinking that being a man meant being in control. My parents didn&rsquo;t raise me to believe this, but we are shaped by things other than family. I grew up watching men tame forests into straight-line plantations and force tired soil to grow potatoes; I saw doctors battle my organs&rsquo; inclinations under bright floodlights so I could have physical control over my body.</p>
+
+<p>I blindly followed a path cut by these other men, thinking it would help me come to grips with the lot that nature had granted me. It didn&rsquo;t. It is easier to cut down forests and cut open our bodies than to accept that, in the end, we are not in charge. That would be a step toward vulnerability, and most people are not ready to acknowledge that control is a momentary illusion.</p>
+
+<p>After that beech tree almost killed me, I walked downhill on its trunk and removed the remaining limbs in sweeping motions. Then I sat on the fresh stump and swatted at horseflies. It was a seat big enough for two. Downhill, limbs lay around the trunk like freshly sheared wool. The missing tree crown created a hole in the canopy through which the sun shone hot against my face; its rays glinted like gold dust off the bark of the yellow birch up the hill. I wished I were a painter. I thought others should see the bright yellow of wood chips against the rusty soil. In a few days, the yellow would fade as moisture evaporated. The chips, like all living things, would gray and melt into the earth. The limbs would decay more slowly, but eventually be swallowed as well.</p>
+
+<p>My body is like the landscape of Maine, steeped in beauty, shame, and secrecy &mdash; a story that continues to unfold. A girlfriend of mine used to trace my scars with her fingers and tell me how nice they felt. I didn&rsquo;t believe her then, but now, once in a while, I do.</p>
+														</div>
+
+
+				
+<div class="sharing-bar article-sharing">
+	<div class="sharing-bar-first">
+		<a href="javascript:window.print();" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-printer"></use></svg> <span>Print</span></a>
+	</div>
+
+	<div class="sharing-bar-second">
+		<span class="alt-ff xsmall">Share:</span>
+		<a href="https://www.facebook.com/sharer/sharer.php?u=https://www.thesunmagazine.org/issues/328/control" target="_blank" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-facebook"></use></svg> <span>Facebook</span></a>
+		<a href="https://twitter.com/share?url=https://www.thesunmagazine.org/issues/328/control&amp;via=thesunmagazine" target="_blank" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-twitter"></use></svg> <span>Twitter</span></a>
+		<a href="#" class="b b-1 b-padding-tight xsmall js-toggle-mail-form"><svg><use xlink:href="#i-email"></use></svg> <span>Email</span></a>
+	</div>
+</div>
+
+<div class="send-to-friend-message-container">
+	<div class="alert alert-success xsmall">Thank you for sharing <em>The Sun</em>.</div>
+</div>
+
+<form method="post" action="/ajax/articles/send-to-a-friend" class="form fill-grey send-to-friend-form">
+		<input type="hidden" id="form_url" name="form[url]" value="https://www.thesunmagazine.org/issues/328/control" />
+
+	<ul class="form-fields">
+		<li><label for="form_sender_name"><span class="label-text">Your Full Name</span><span class="label-asterisk">*</span></label><input type="text" id="form_sender_name" name="form[sender_name]" required="required" /></li>
+		<li><label for="form_sender_email"><span class="label-text">Your Email Address</span><span class="label-asterisk">*</span></label><input type="email" id="form_sender_email" name="form[sender_email]" required="required" /></li>
+		<li><label for="form_recipient_name"><span class="label-text">Friend’s Name</span><span class="label-asterisk">*</span></label><input type="text" id="form_recipient_name" name="form[recipient_name]" required="required" /></li>
+		<li><label for="form_recipient_email"><span class="label-text">Friend’s Email Address</span><span class="label-asterisk">*</span></label><input type="email" id="form_recipient_email" name="form[recipient_email]" required="required" /></li>
+		<li><label for="form_message"><span class="label-text">Personalized Message</span></label><textarea id="form_message" name="form[message]"></textarea></li>
+	</ul>
+<div class="send-to-friend-message-container">
+	<div class="alert alert-error xsmall">Something went wrong. Please try again.</div>
+</div>
+
+<div class="g-recaptcha" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs"></div>
+<div class="form-actions"><button type="submit" id="form_submit" name="form[submit]"	class="form-actions-b-primary b b-1 b-loading xsmall"><svg><use xlink:href="#i-loading"></use></svg>
+		Submit
+	</button></div>
+<input type="hidden" id="form__token" name="form[_token]" value="3fd0367ceedea3cd520f043dd89c1518a6333e86" /></form>
+
+<br>
+
+
+
+										<footer class="article-contributor contributors">
+									
+
+<div class="block-contributor">
+		
+
+		<div class="block-contributor-content">
+		<div class="block-contributor-bio small">
+			<p><span class="smallcaps"><strong>James Lainsbury</strong></span> has worked as a logger, editor, and many things in between. He is a Mainer by birth but is currently nestled between Interstate 90 and the rail yard in Missoula, Montana, with his girlfriend and a moody springer spaniel. His essay &ldquo;Control&rdquo; is part of a larger, unpublished work.</p><a href="/contributors/james-lainsbury" class="block-contributor-link link-alt small">More From This Contributor&nbsp;&#9656;</a>		</div>
+	</div>
+</div>
+
+							</footer>
+						</article>
+
+
+				    <div class="paywall-subscription block-product">
+			<div class="columns">
+			<div class="paywall-banner span3 cta cta-l1">
+				<div class="cta-intro">
+					<h5 class="cta-title alt-ff">One Free Selection Left </h5>
+					<p class="cta-text xsmall"><a class="link-alt" href="https://www.thesunmagazine.org/subscriber/login" data-label="Already a subscriber?">Already a subscriber? Sign in ▸</a><br><br>Read two free selections from <em>The Sun</em> each month.</p>
+				</div>
+			</div>
+			<div class="paywall-banner span9 note note-1 text-center">
+				<h4 class="cta-title alt-ff">Subscribe to <em>The Sun</em> and save 45%</h4>
+				<p class="cta-text xsmall">Subscribers get full access to the current issue and more than 40 years of archives.</p>
+				<a class="b b-1 xsmall cta-trigger"  href="/subscribe1" data-label="Subscribe" data-ctatitle="Subscribe">Subscribe</a>
+			</div>
+		</div>
+
+		<div class="columns">
+			<div class="span12 paywall-cta-bottom">
+				<p>
+					<span class="cta-title-issue">Buy the April 2003 issue for $5.95</span>
+					<span class="xsmall">Order now to get instant access to this issue, and we’ll also send you a print copy.</span>
+					<a class="b b-5 xsmall corona"  href="#" data-product-type="issues" data-id="328" data-label="Order Now ▸">Order Now ▸</a>
+				</p>
+			</div>
+		</div>
+
+		
+
+</div>
+	
+	
+	
+	<div class="spacer"></div>
+	
+
+
+
+		
+		<div class="article-correspondence-cta">
+		<div class="cta cta-l1" data-url="https://www.thesunmagazine.org/letter-to-the-editor">
+			<div class="cta-intro">
+				<h5 class="cta-title alt-ff">Thinking about writing us a letter?</h5>
+				<p class="cta-text">Give in to the temptation. We love getting mail. <br><span class="xsmall">(Of course, we reserve the right to edit.)</span></p>
+			</div>
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" class="cta-button b b-4 b-padding-tight small" data-label="Write Us A Letter!">Write Us A Letter!</a>
+		</div>
+	</div>
+	
+
+			<div class="article-also layout-item-large full-bar fill-grey-mid-light">
+		<div class="layout-item-intro">
+			<h2>Also In This Issue</h2>
+			<a href="/issues/328" class="xsmall link-alt">April 2003&nbsp;&#9656;</a>
+		</div>
+		<div class="issue-articles-l1">
+			<div class="issue-articles-l1-content1">
+				
+<div class="cover cover-l1 block-product">
+	<div>
+							<a href="/issues/328" class="cover-thumb">
+				
+				<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 725'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/281x364r/import/issue/328.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/562x728r/import/issue/328.jpg
+	 alt=""
+	 class="lazy">
+
+			</a>
+		
+
+													<!-- <a href="/issues/328" data-product-type="issues" data-id="328" data-role="order" class="js-buy-single corona cover-button b b-1 b-full xsmall" data-label="Buy This Issue &#9656;">
+								Buy This Issue&nbsp;&#9656;
+			</a> -->
+			<a href="/issues/328" data-product-type="issues" data-id="328" class="js-buy-single corona cover-button b b-1 b-full xsmall" data-label="Buy This Issue &#9656;">
+								Buy This Issue&nbsp;&#9656;
+			</a>
+					
+					</div>
+</div>
+			</div>
+			<div class="issue-articles-l1-content2">
+				<div class="articles-l3">
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/poetry">Poetry</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/328/akko">Akko</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/steve-almond">Steve Almond</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/poetry">Poetry</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/328/final-prayer">Final Prayer</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/vic-coccimiglio">Vic Coccimiglio</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/poetry">Poetry</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/328/deerfly">Deerfly</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/jeff-gundy">Jeff Gundy</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/sun-interview">The Sun Interview</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/328/coming-back-to-the-world">Coming Back To The World</a></h3>
+					<p class="block-content-subtitle subtitle">Timothy Conway On Engaged Spirituality</p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/arnie-cooper">Arnie Cooper</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+									</div>
+			</div>
+		</div>
+	</div>
+	
+
+			<div class="article-related layout-item-large full-bar fill-pattern-light">
+		<div class="layout-item-intro">
+			<h2>Related Selections</h2>
+			<ul class="list-inline list-inline-tight"><li><a href="/topics/gender" class="xsmall link-alt link-text">Gender</a></li><li><a href="/topics/fear" class="xsmall link-alt link-text">Fear</a></li><li><a href="/topics/identity" class="xsmall link-alt link-text">Identity</a></li></ul>		</div>
+
+		<div class="articles-l2">
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/sy-safranskys-notebook">Sy Safransky&#039;s Notebook</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/311/sy-safranskys-notebook-311">November 2001</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/sy-safransky">Sy Safransky</a></li><li><a href="/issues/311">November 2001</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/311" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 561 728'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/140x182r/2016-11/311.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/281x364r/2016-11/311.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/255/the-view-from-here">The View From Here</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/colleen-farrell">Colleen Farrell</a></li><li><a href="/issues/255">March 1997</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/255" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 728'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/140x182r/import/issue/255.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/import/issue/255.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/240/the-true-original-first-world">The True, Original First World</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/ralph-metzner">Ralph Metzner</a></li><li><a href="/issues/240">December 1995</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/240" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 725'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/141x182r/import/issue/240.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/281x364r/import/issue/240.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/fiction">Fiction</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/184/plum-island">Plum Island</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/michael-wade-simpson">Michael Wade Simpson</a></li><li><a href="/issues/184">March 1991</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/184" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 725'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/141x182r/import/issue/184.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/281x364r/import/issue/184.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+					</div>
+	</div>
+	
+	
+					<form id="newsletterForm" method="post" action="https://www.thesunmagazine.org/newsletter" data-url-send="https://www.thesunmagazine.org/newsletter" class="form form-newsletter fill-grey" enctype="multipart/form-data" target="_blank">
+
+
+
+		<div class="form-newsletter-intro">
+			<h3 class="alt-ff large">Sign Up For Our Newsletter</h3>
+			<p>We’ll let you know about new website selections, upcoming events, special offers, and more.</p>
+		</div>
+
+		<ul class="form-newsletter-fields form-fields form-fields-inline">
+			<li>
+				<input name="name" type="text" maxlength="500" id="name" placeholder="Your Name">
+			</li>
+			<li>
+				<input name="email" type="text" maxlength="500" id="email" placeholder="Your E-mail">
+			</li>
+
+			<li class="form-fields-inline-button">
+				<button disabled="disabled" class="form-newsletter-send b b-4 b-padding-tight b-loading g-recaptcha" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs" data-callback="recaptcha_callback" name="SubmitButton" id="SubmitButton">
+					<svg><use xlink:href="#i-loading"></use></svg>
+					Sign&nbsp;Up
+				</button>
+			</li>
+		</ul>
+	</form>
+	<script id="hiddenlpsubmitdiv" style="display: none;"></script>
+
+
+
+<footer class="footer brand-grey-dark">
+			<div class="footer-first">
+		<h3 class="footer-tagline">Independent, Reader-Supported Publishing</h3>
+		<p class="footer-desc">In each issue of <em>The Sun</em> you’ll find some of the most radically intimate and socially conscious writing being published today. In an age of media conglomerates, we’re something of an oddity: an ad-free, independent, reader-supported magazine.</p>
+		<ul class="footer-nav list-inline-border xsmall">
+			
+		<li class=" first">
+			<a href="https://www.thesunmagazine.org/about" 	   class=''>
+	   About <em>the Sun</em>	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/staff" 	   class=''>
+	   Staff	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/find-the-sun" 	   class=''>
+	   Find <em>The Sun</em>&nbsp;&nbsp;in a Store Near You	</a>
+		
+	</li>
+
+
+		</ul>
+	</div>
+	
+		<div class="footer-second">
+		<ul class="footer-second-social list-inline">
+			<li><a href="https://www.facebook.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-facebook"></use></svg></span> Like Us</a></li>
+			<li><a href="https://twitter.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-twitter"></use></svg></span> Follow Us</a></li>
+			<li><a href="https://instagram.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-instagram"></use></svg></span> Take a Look</a></li>
+		</ul>
+
+		<div class="footer-second-content">
+			<ul class="footer-nav list-inline-border xsmall">
+				
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/" 	   class='current '>
+	   Home	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/privacy-policy" 	   class=''>
+	   Privacy Policy	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/terms-of-use" 	   class=''>
+	   Terms of Use	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/site-map" 	   class=''>
+	   Site Map	</a>
+		
+	</li>
+
+
+			</ul>
+			<p class="footer-copyright xxsmall">Copyright &copy; 1974–2020 <em>The Sun</em>. All rights reserved.</p>
+		</div>
+	</div>
+</footer>
+
+
+
+<div class="offset-nav">
+	<ul>
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/read" 	   class='current '>
+	   Read	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/issues/current" 	   class=''>
+	   Current Issue	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/archives" 	   class=''>
+	   Archives	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/featured" 	   class=''>
+	   Featured Selections	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/topics" 	   class=''>
+	   Browse Topics	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/sections" 	   class=''>
+	   Browse Sections	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/connect" 	   class=''>
+	   Connect	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/news" 	   class=''>
+	   News from <em>The Sun</em>	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" 	   class=''>
+	   Write a Letter to the Editor	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/discussion-groups" 	   class=''>
+	   Discussion & Writing Groups	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/make-a-suggestion" 	   class=''>
+	   Make a Suggestion	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/submit" 	   class=''>
+	   Submit	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/shop" 	   class=''>
+	   Shop	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/giftsub" 	   class=''>
+	   Gift Subscriptions	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/issues" 	   class=''>
+	   Issues	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+											
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/donatemenu" 	   class='highlight'>
+	   Donate	</a>
+		
+	</li>
+
+		<li class=" last">
+														<a href="/SubscribeNav1" 					   class=''>
+						Subscribe					</a>
+									
+	</li>
+
+
+					<li>
+				<a href="https://www.thesunmagazine.org/shop/cart">Cart ( <span class="cart-item-count">  0  </span>)</a>
+			</li>
+			<li><a href="https://www.thesunmagazine.org/subscriber/login" class="link-header-logout link-alt">Sign In</a></li>
+			</ul>
+	<ul>
+		<li class=" first">
+			<a href="https://www.thesunmagazine.org/about" 	   class=''>
+	   About <em>the Sun</em>	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/staff" 	   class=''>
+	   Staff	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/find-the-sun" 	   class=''>
+	   Find <em>The Sun</em>&nbsp;&nbsp;in a Store Near You	</a>
+		
+	</li>
+
+</ul>
+	<ul>
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/" 	   class='current '>
+	   Home	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/privacy-policy" 	   class=''>
+	   Privacy Policy	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/terms-of-use" 	   class=''>
+	   Terms of Use	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/site-map" 	   class=''>
+	   Site Map	</a>
+		
+	</li>
+
+</ul>
+</div>
+
+<div id="buy-popup-message" class="buy-popup mfp-hide white-popup white-popup-block">
+	<a class="popup-modal-dismiss" href="#"></a>
+	<h5>Due to fulfillment challenges related to the novel coronavirus, print copies are temporarily unavailable for individual sale. We are offering free PDFs until we are able to resume print sales.</h5>
+	<p>Enter your e-mail address below to download this issue.</p>
+	<form method="post" id="download-single" action="https://www.thesunmagazine.org/issue/pdfFree/531.pdf">
+		<label for="email"><span class="label-text">E-mail</span><span class="label-asterisk">*</span></label>
+		<input class="buy-single-email" id="email" type="email" name="email">
+		<button type="send" class="form-buy-issue-send b b-3 b-padding-tight b-loading">Send</button>
+		<button class="form-buy-issue-download b b-3 b-padding-tight b-loading">Download pdf</button>
+		<button type="send" class="popup-modal-dismiss b b-2 b-padding-tight b-loading">Close</button>
+		<div class="g-recaptcha" style="text-align: center" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs"></div>
+
+	</form>
+</div>
+
+			<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/plugins.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/site.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/newsletter.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/js/articles.js"></script>
+		</div>
+		</div>
+
+				<script>
+		(function (doc) {
+			var scripts = doc.getElementsByTagName('script');
+			var script = scripts[scripts.length - 1];
+			var xhr = new XMLHttpRequest();
+			xhr.onload = function () {
+				var div = doc.createElement('div');
+				div.innerHTML = this.responseText;
+				div.style.display = 'none';
+				script.parentNode.insertBefore(div, script);
+			}
+			xhr.open('get', '/theme/thesun//assets/build/img/sprite/sprite.svg', true);
+			xhr.send();
+		})(document);
+
+
+
+		</script>
+
+		<script>
+			// Submit function
+            function recaptcha_callback() {
+						var getUrl = $('.form-newsletter').data( "url-send" ),
+							getName = $('input#name').val(),
+							getEmail = $('input#email').val();
+						$.ajax({
+								type: "POST",
+								url: getUrl,
+								data: {
+									name: getName,
+									email: getEmail,
+									grecaptcharesponse: grecaptcha.getResponse()
+								}
+							}).done(function(response) {
+								console.log(response);
+									$('.form-fields').fadeOut(800, function () {
+										$('.form-fields').empty().append('<div class="newsletter-confirm-message">Thank you for signing up to receive news from <em>The Sun</em>. Your first newsletter will arrive soon.<div>').fadeIn(800);
+									});
+							});
+			}
+
+		</script>
+
+		<script>
+			function getUrlCode() {
+				var url_string = window.location.href;
+				var url = new URL(url_string);
+				var c = url.searchParams.get('promotion\_key');
+				if (typeof c !== 'undefined' && c !== null) {
+					setCookie("promotion_code",c);
+				}
+			}
+
+			function setCookie(cname, cvalue) {
+				document.cookie = cname + "=" + cvalue + ";" + "path=/";
+			}
+
+			function getCookie(cname) {
+				var name = cname + "=";
+				var decodedCookie = decodeURIComponent(document.cookie);
+				var ca = decodedCookie.split(';');
+				for(var i = 0; i <ca.length; i++) {
+					var c = ca[i];
+					while (c.charAt(0) == ' ') {
+						c = c.substring(1);
+					}
+					if (c.indexOf(name) == 0) {
+						return c.substring(name.length, c.length);
+					}
+				}
+				return "";
+			}
+			window.addEventListener( "load", getUrlCode );
+		</script>
+
+
+	</body>
+</html>

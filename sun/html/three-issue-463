@@ -1,0 +1,1329 @@
+
+<!DOCTYPE html>
+<html class="no-js" lang="en-US">
+	<head>
+		<title>Three - The Sun Magazine</title>
+
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		
+		<meta name="viewport" content="width=device-width, minimum-scale=1.0">
+
+		<link rel="dns-prefetch" href="//ajax.googleapis.com">
+		<link rel="dns-prefetch" href="//use.typekit.net">
+		
+		<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/modernizr.js"></script>
+		<script src="https://www.google.com/recaptcha/api.js"
+				async defer>
+		</script>
+
+		<script>(function(d) { var config = { kitId: 'kzw7ebk', scriptTimeout: 3000, async: true }, h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s) })(document);</script>
+
+
+				
+		<link rel="apple-touch-icon" sizes="57x57" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-57x57.png?v=2016">
+		<link rel="apple-touch-icon" sizes="60x60" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-60x60.png?v=2016">
+		<link rel="apple-touch-icon" sizes="72x72" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-72x72.png?v=2016">
+		<link rel="apple-touch-icon" sizes="76x76" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-76x76.png?v=2016">
+		<link rel="apple-touch-icon" sizes="114x114" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-114x114.png?v=2016">
+		<link rel="apple-touch-icon" sizes="120x120" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-120x120.png?v=2016">
+		<link rel="apple-touch-icon" sizes="144x144" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-144x144.png?v=2016">
+		<link rel="apple-touch-icon" sizes="152x152" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-152x152.png?v=2016">
+		<link rel="apple-touch-icon" sizes="180x180" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-180x180.png?v=2016">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-32x32.png?v=2016" sizes="32x32">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/android-chrome-192x192.png?v=2016" sizes="192x192">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-96x96.png?v=2016" sizes="96x96">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-16x16.png?v=2016" sizes="16x16">
+		<link rel="mask-icon" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/safari-pinned-tab.svg?v=2016" color="#444444">
+		<link rel="shortcut icon" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon.ico?v=2016">
+		<meta name="apple-mobile-web-app-title" content="The Sun Magazine">
+		<meta name="application-name" content="The Sun Magazine">
+		<meta name="msapplication-TileColor" content="#fcc330">
+		<meta name="msapplication-TileImage" content="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/mstile-144x144.png?v=2016">
+		<meta name="theme-color" content="#ffffff">
+
+				<link rel="stylesheet" type="text/css" href="https://cloud.typography.com/6578674/659928/css/fonts.css" />
+		<link rel="stylesheet" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/css/style.css">
+
+																		<meta property="og:site_name" content="The Sun Magazine">
+		<meta property="og:type" content="article">
+		<meta property="og:url" content="https://www.thesunmagazine.org/issues/463/three-issue-463">
+		<meta property="og:image" content="http://www.thesunmagazine.org/files/2016-03/1458922821_463-20-seifert-preview.jpg">
+		<meta property="og:title" content="Three - The Sun Magazine">
+		<meta property="og:description" content="My friend says that a life properly lived is like a river. I take this to mean that headlong shots through roaring box canyons are inevitable, along with meandering, wandering main channels and high, roiling waters. There will be drought-drained shallows in which trout languish; winter, when the dark water is a spill of ink down the page of snow; and eddies, too, the hypnotic, elliptical movement of water running back on itself, around and around.">
+		<meta property="fb:app_id" content="158741778010551">
+
+						<link rel="image_src" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.comhttp://www.thesunmagazine.org/files/2016-03/1458922821_463-20-seifert-preview.jpg">
+
+												<meta name="twitter:card" content="summary">
+		<meta name="twitter:title" content="Three - The Sun Magazine">
+		<meta name="twitter:description" content="My friend says that a life properly lived is like a river. I take this to mean that headlong shots through roaring box canyons are inevitable, along with meandering, wandering main channels and high, roiling waters. There will be drought-drained shallows in which trout languish; winter, when the dark water is a spill of ink down the page of snow; and eddies, too, the hypnotic, elliptical movement of water running back on itself, around and around.">
+		<meta name="twitter:image" content="http://www.thesunmagazine.org/files/2016-03/1458922821_463-20-seifert-preview.jpg">
+		<meta name="twitter:site" content="@thesunmagazine">
+
+				<link rel="publisher" href="https://plus.google.com/113792980827145858211">
+        
+		<meta name="Description" content="My friend says that a life properly lived is like a river. I take this to mean that headlong shots through roaring box canyons are inevitable, along with meandering, wandering main channels and high, roiling waters. There will be drought-drained shallows in which trout languish; winter, when the dark water is a spill of ink down the page of snow; and eddies, too, the hypnotic, elliptical movement of water running back on itself, around and around.">
+
+		
+		<!-- Google Tag Manager -->
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-TKBHCCG');</script>
+		<!-- End Google Tag Manager -->
+
+		<!-- Google Analytics -->
+		<script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+            ga('create', 'UA-2351127-1', 'auto');  // Replace with your property ID.
+            ga('send', 'pageview');
+            ga('require', 'ecommerce');   // Load the ecommerce plug-in.
+		</script>
+		<!-- End Google Analytics -->
+	</head>
+	<body id="">
+
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TKBHCCG"
+		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+		<header class="header" data-offset-start="80">
+		<div class="header-utilities">
+				<ul class="header-utilities-user list-inline list-inline-tight xxsmall">
+							<li>
+					<span class="header-utilities-user-intro">Already A Subscriber?</span> &nbsp;
+					<a href="https://www.thesunmagazine.org/subscriber/login" class="link-text link-alt">Sign In</a>
+				</li>
+					</ul>
+		<a href="https://www.thesunmagazine.org/shop/cart" class="header-utilities-cart  link-alt link-icon tiny">
+			<span class="i"><svg><use xlink:href="#i-cart"></use></svg></span>
+			<span class="cart-item-count">
+									0 Items
+				
+			</span>
+		</a>
+			</div>
+
+		<div class="header-bar">
+		<h1 class="header-logo logo">
+			<a href="/">
+				<img src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/img/logo-thesun.svg" class="logo-thesun" alt="The Sun Magazine">
+				<img src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/img/logo-tagline.svg" class="logo-tagline" alt="">
+			</a>
+		</h1>
+
+		<ul class="header-nav">
+			
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/read" 	   class='current '>
+	   Read	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/issues/current" 	   class=''>
+	   Current Issue	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/archives" 	   class=''>
+	   Archives	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/featured" 	   class=''>
+	   Featured Selections	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/topics" 	   class=''>
+	   Browse Topics	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/sections" 	   class=''>
+	   Browse Sections	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/connect" 	   class=''>
+	   Connect	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/news" 	   class=''>
+	   News from <em>The Sun</em>	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" 	   class=''>
+	   Write a Letter to the Editor	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/discussion-groups" 	   class=''>
+	   Discussion & Writing Groups	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/make-a-suggestion" 	   class=''>
+	   Make a Suggestion	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/submit" 	   class=''>
+	   Submit	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/shop" 	   class=''>
+	   Shop	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/giftsub" 	   class=''>
+	   Gift Subscriptions	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/issues" 	   class=''>
+	   Issues	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+											
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/donatemenu" 	   class='highlight'>
+	   Donate	</a>
+		
+	</li>
+
+		<li class=" last">
+														<a href="/SubscribeNav1" 					   class=''>
+						Subscribe					</a>
+									
+	</li>
+
+
+		</ul>
+
+		<button class="header-nav-toggle"><svg><use xlink:href="#i-menu" class="i-menu"></use><use xlink:href="#i-close" class="i-close"></use></svg></button>
+		<button class="header-search-toggle" data-form-wrapper=".header-search"><svg><use xlink:href="#i-magnifier" class="i-magnifier"></use><use xlink:href="#i-close" class="i-close"></use></svg></button>
+	</div>
+
+		<div class="header-search">
+		<div class="header-search-content">
+			<form action="https://www.thesunmagazine.org/search" class="form form-search" method="get">
+				<h2 class="alt-ff brand-link">Search Our 40 Years of Archives</h2>
+				<ul class="form-search-fields form-fields form-fields-inline">
+					<li><input type="text" name="q" value=""></li>
+					<li class="form-fields-inline-button"><button class="b b-1 b-padding-tight b-loading"><svg><use xlink:href="#i-loading"></use></svg>Search</button></li>
+				</ul>
+
+				<div class="header-search-content-shortcuts">
+					<h6 class="search-advanced alt-ff"><a class="js-handle-advanced" href="https://www.thesunmagazine.org/search?advanced=1">Advanced Search</a></h6>
+					<br>
+					<h6 class="alt-ff">Popular Pages</h6>
+					<ul class="list-inline-border list-inline-tight xxsmall"><li class=" first"><a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a></li><li class=""><a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a></li><li class=""><a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a></li><li class=""><a href="https://www.thesunmagazine.org/sections/quotations" 	   class=''>
+	   Quotations	</a></li><li class=""><a href="https://www.thesunmagazine.org/sections/readers-write" 	   class=''>
+	   Readers Write	</a></li><li class=" last"><a href="https://www.thesunmagazine.org/sections/poetry" 	   class=''>
+	   Poetry	</a></li></ul>				</div>
+			</form>
+		</div>
+	</div>
+</header>
+
+	<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+	<script type="text/javascript">
+		$(document).ready(function() {
+			$('.js-handle-advanced').on('click', function (e) {
+				e.preventDefault();
+				var getSearchValue = $('.form-search-fields input').val();
+				var getURL = $(this).attr('href');
+				var newURL = getURL + '&q=' + getSearchValue;
+				window.location.href = newURL;
+			});
+		});
+	</script>
+
+		<div class="container-hidden">
+		<div class="container">
+
+				
+	
+	<article class="article ">
+		<header class="block-content block-content-l1 block-content-center">
+						<div class="block-content-header">
+				<h6 class="b-content-section heading-square"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+				<h1 class="block-content-title">Three</h1>
+
+				
+				<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/chris-dombrowski">Chris Dombrowski</a></li><li><a href="/issues/463">July 2014</a></li></ul>
+
+			</div>
+
+																			
+
+				<figure class="block-content-photo block-content-photo-large photo photo-outset-center-small">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 1908 1960'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/954x980r/photos/463-20-seifert.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/1908x1960r/photos/463-20-seifert.jpg
+	 alt="463 - Seifert - Dombrowski"
+	 class="lazy">
+
+										<figcaption>
+
+						
+																				<div class="photo-credit">
+								&copy;&nbsp;<a href="/contributors/gretchen-seifert">Gretchen Seifert</a>
+							</div>
+																		</figcaption>
+									</figure>
+
+					</header>
+
+				<div class="article-body link-text-wrap">
+																		<p class="dropcap">Cold, clear November night. Many stars, more than I&rsquo;ve ever seen in the sky above Missoula, Montana. Wearing winter coats, Mary and I walk north up our little street. She huddles around a steaming mug of tea, then stops and drinks deeply. From my vantage point she is standing precisely underneath the Big Dipper. &ldquo;It&rsquo;s like you&rsquo;re taking a sip of the sky,&rdquo; I say.</p>
+
+<p>&ldquo;Chris,&rdquo; she says. She rarely calls me Chris, preferring Christopher or Love or some other term of endearment. &ldquo;I have to tell you something.&rdquo;</p>
+
+<p>My mind leaps among possible causes for her seriousness, and I conclude that either her beloved father has passed away, or she is pregnant.</p>
+
+<p>&ldquo;I&mdash;&rdquo; She stops and begins to sob.</p>
+
+<p>Above, the stars seem to gather their light into themselves.</p>
+
+<p>&ldquo;You&rsquo;re pregnant?&rdquo;</p>
+
+<p>&ldquo;Yes.&rdquo;</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">&ldquo;Do you know what Luca asked me at dinner tonight?&rdquo; Mary asks.</p>
+
+<p>Luca is our four-year-old. We&rsquo;re back inside now, sitting on the old couch, alternately dumbfounded, silenced by fear, and offering each other deflated encouragements.</p>
+
+<p>&ldquo;No, what did he ask you?&rdquo;</p>
+
+<p>She puts her forefingers and thumbs together, squeezing them tight, leaving just a tiny diamond of light between them. &ldquo;He said, &lsquo;Was Molly ever this big?&rsquo;&nbsp;&rdquo; Molly is Luca&rsquo;s little sister. Mary&rsquo;s face twitches as she holds back more tears.</p>
+
+<p>&ldquo;What did you tell him?&rdquo; I ask.</p>
+
+<p>&ldquo;I said, &lsquo;Yes, she was, and so were you, and so were Mommy and Daddy.&rsquo;&nbsp;&rdquo;</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">It&rsquo;s not that I&rsquo;m morally opposed to raising a third child, I tell myself as I drive across town to teach after dropping Luca at his expensive-but-entirely-worth-it preschool and Molly at her pricey-but-utterly-necessary day care. Hell, if I had the money, I&rsquo;d raise a dozen, some of them adopted. I&rsquo;d buy a farm, live off the grid, have enough kids running around that I&rsquo;d forget their names. But I don&rsquo;t have the money.</p>
+
+<p>Since Mary&rsquo;s revelation I have said, &ldquo;Holy shit,&rdquo; so many times I&rsquo;ve begun to ponder what it means. Is it a saint&rsquo;s defecation, or a pile of crap sanctified by a holy person? Is it the chest tight with worry, or the 4 <span class="smallcaps">AM</span> desolation? The one-eyed glance at the flagging checking account, or the discovery of an old fragment by the poet Jean Valentine: &ldquo;Blessed are they who know that what they now have, they once longed for&rdquo;?</p>
+
+<p>Against my better judgment, I share the Valentine quote with Mary after we&rsquo;ve clanked the dinner dishes into the dishwasher, bathed Molly and Luca, sung the kids their lullabies, and are sweeping the floors.</p>
+
+<p>She leans against the broom, then turns to me with watery eyes. &ldquo;But I don&rsquo;t want this now,&rdquo; she says. &ldquo;I don&rsquo;t.&rdquo;</p>
+
+<p>This strong, vital woman began having contractions three months early during her last pregnancy and had to spend the rest of it on bed rest: measuring the contractions&rsquo; duration and intensity, reading Internet articles on preemie survival rates, calculating the severe pay cut she was taking by using her maternity leave before the birth. Doubtless these memories are fueling her trepidations about another pregnancy.</p>
+
+<p>If thoughts are tumbling through her head the way they are through mine &mdash; back and forth from the trivial (we don&rsquo;t have enough bedrooms) to the unforeseeable (will Molly feel neglected?) &mdash; she must be exhausted.</p>
+
+<p>I&rsquo;m quiet mostly because I&rsquo;m trying to figure out precisely when Mary could have conceived. Until a month ago she was using oral contraception. Then she stopped, planning to make the switch to a different method as soon as she began to menstruate. But somehow she ovulated and conceived before she even got her period &mdash; this despite the fact that it had taken us nearly two years to conceive Luca and another two for Molly.</p>
+
+<p>&ldquo;How is this even possible?&rdquo; I ask myself aloud, having stopped sweeping.</p>
+
+<p>&ldquo;How is what possible?&rdquo; Mary asks.</p>
+
+<p>&ldquo;Nothing,&rdquo; I say, and I offer her a tight-limbed hug.</p>
+
+<p>&ldquo;No, say it,&rdquo; she says, rejecting my embrace.</p>
+
+<p>I tell her I was just wondering if there&rsquo;s some book by a fertility expert, something in the baby-planning literature, that says whether someone can even get pregnant under these circumstances.</p>
+
+<p>Bless the heart of the expert standing right in front of me for not saying what a fool I am.</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">We dicker over Thanksgiving plans. Mary wants to have a few close friends over for dinner, and I want our traditional gathering of two dozen: mounds of fresh-cooked game and magnums of wine to wash it all down, the children tearing up and down the stairs and sneaking spoonfuls of whipped cream before the pies are served, the mass of dishes that some saintly guest volunteers to wash, the impromptu jam session around the fireplace to close out the night, one tireless picker playing &ldquo;Make Me a Pallet on Your Floor&rdquo; while the singers sink into the couch with sleeping children on their laps.</p>
+
+<p>Mary finally agrees that a big celebration might be a good distraction.</p>
+
+<p>On Thursday snow falls heavy and wet, but I can&rsquo;t shovel the walk because I&rsquo;m too busy smoking pheasant and duck breast, cooking three pots of green beans, and basting the turkey, so the guests track slush through the entryway and into the living room. One lugs a huge pot of elk shanks. Another cradles a wide iron saucepan that holds braised antelope shoulder simmered in juniper berries and carrots. Someone else has brought a toasted baguette onto which I slather a red-pepper-and-pine-nut pesto that will be topped with blade-thin slices of grilled venison tenderloin. Our selection of side dishes could fill a world-class deli display.</p>
+
+<p>Thank you, dear friends, for coming. Thank you, children, for dashing around and laughing and screaming and crying, for falling knees-first onto the hardwood floor, for breaking two plates. Thank you, Joellen, for opening your guitar case and playing that Gillian Welch song we all love to sing. Thank you, everyone, for amply and exuberantly distracting me from my worries.</p>
+
+<p>Thank you, dear Mary, sitting alone on the arm of the couch with a secret little one inside you, sipping your &ldquo;cocktail&rdquo; of cranberry juice and soda water. I hope you can muster a seed&rsquo;s worth of gratitude for all this noise.</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">Blissful shiver of memory: Mary leaning into the back seat of the car to tell Luca, then eighteen months old: &ldquo;You&rsquo;re going to see so many things in this world. You&rsquo;ve got a long journey ahead of you.&rdquo; For no reason that I could see. Just to tell him. Just to say it.</p>
+
+<p class="dropcap">&nbsp;</p>
+
+<p class="dropcap">Where did the days go? Same place as all the days, weeks, months, seasons.</p>
+
+<p>It&rsquo;s late April now, and Mary&rsquo;s showing.</p>
+
+<p>Everyone&rsquo;s surprised to see her bump. We&rsquo;re telling them that the pregnancy&rsquo;s gone by at warp speed because we spent the first six months in denial.</p>
+
+<p>My anxiety has come down from its mountain peak. Maybe the meadowlarks, back from wherever they&rsquo;ve been, have driven away my fears with their falling-from-on-high songs. Or maybe the credit should go to my daily return to the river, where I work as a guide, carried downstream despite the oars&rsquo; resistance. Or maybe it&rsquo;s simply the way Mary seems to bloom with the life within her.</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">Early July. It&rsquo;s ten whole days before the due date, so it&rsquo;s safe to have a few folks over for a bonfire, right? Some late-night poem reading and mandolin picking, a few sips of something stiff under the stars? Mary turns in early, but I stay up reading and singing. Then, after midnight and smelling of wood smoke, I hit the pillow and immediately fall asleep.</p>
+
+<p>&ldquo;Chris,&rdquo; Mary says.</p>
+
+<p>It&rsquo;s dawn. I know the tone she&rsquo;s using, but there&rsquo;s a dream to which I want to get back.</p>
+
+<p>&ldquo;Chris,&rdquo; she says again. &ldquo;I&rsquo;m going to have this baby today. This <em>morning</em>.&rdquo;</p>
+
+<p><em>Holy shit!</em></p>
+
+<p>Is she serious?</p>
+
+<p>Yes, she is.</p>
+
+<p>Am I a full-fledged jerk to move straight from the bed into the shower for a shave?</p>
+
+<p>Yes, I am.</p>
+
+<p>But at least I don&rsquo;t smell like bonfire and wine when, a few hours later &mdash; after a relatively placid labor during which we hold hands and become instant best friends with the attending nurse &mdash; our daughter Lily Mae joins us. Ten days early. On Mary&rsquo;s birthday. At the exact hour and minute of Mary&rsquo;s birth thirty-five years earlier.</p>
+
+<p>Am I serious?</p>
+
+<p>Yes, I am.</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">Quiet, sturdy, and perfect as a pea is our month-old Lily. Mary holds a sun umbrella above the fair-haired, fair-skinned babe as I steer the boat down the Clark Fork through the tail end of the Alberton Gorge: long, slow glide through a narrow, shady canyon; good swimming holes for Luca and Molly, who like to dangle their legs off the boat&rsquo;s gunwale, wearing their life jackets. I navigate around a two-story boulder atop which a hundred-year-old ponderosa log hangs, balanced in a crag. May&rsquo;s snowmelt put it there, when the river ran higher than our heads.</p>
+
+<p>&ldquo;Hard to imagine the water that high,&rdquo; Mary says.</p>
+
+<p>I anchor the boat at the mouth of Quartz Creek, whose deep-emerald flow tumbles over a shelf of cobblestones into the Clark Fork&rsquo;s lighter green, and I hop out with Luca and Molly. Along the shore we find three large piles of coyote scat filled with crayfish claws and then, farther upstream underneath the railroad trestle, a transient&rsquo;s encampment: fire ring, coffee can, the clean skeleton of a cutthroat trout. Quickened by the mystery of this place, we hopscotch our way over the boulders and back down to the boat, where Mary and Lily wait. We shove off again.</p>
+
+<p>This water we&rsquo;re floating on was once snow and rain up in the headwater peaks. And yet it&rsquo;s hard to imagine it anywhere other than here.</p>
+
+<p>The nursing baby, sleeping on her drowsy mother&rsquo;s breast, was once desire, coupling, zygote, hazy figure on the nurse&rsquo;s video screen.</p>
+
+<p>It&rsquo;s hard to imagine her anywhere other than here.</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">My friend says that a life properly lived is like a river. I take this to mean that headlong shots through roaring box canyons are inevitable, along with meandering, wandering main channels and high, roiling waters. There will be drought-drained shallows in which trout languish; winter, when the dark water is a spill of ink down the page of snow; and eddies, too, the hypnotic, elliptical movement of water running back on itself, around and around.</p>
+
+<p>Last fall, when Mary and I conceived Lily, we were eddying. In the glow of October the world seemed for the first time in a long while to have taken its foot off our necks. With Luca and Molly both finally sleeping through the night, Mary had gone back to teaching full time, bolstering our bank account, and, after guiding river trips all season, I had a couple of days a week to write and gather food to fill the freezer, to relish the outdoors before the cold drove us inside.</p>
+
+<p>Then, with the news of a third, we went cascading again down a steeply pitched ravine.</p>
+
+<p>A life properly lived.</p>
+
+<p>Strangely everything seems simpler &mdash; albeit not financially, logistically, or emotionally &mdash; the moment you resign yourself to parenthood&rsquo;s complications, the moment you are reduced to the duties of caring for this infant who has so suddenly been set in your hands. It&rsquo;s not that all our angst floated off downstream; it&rsquo;s just that we have less time to tend to it. Now and then I&rsquo;ll feel guilty about our family&rsquo;s increased carbon footprint and the gas our new, allegedly fuel-efficient minivan guzzles, but a conversation I had the other day with Molly led me to believe that we might be all right, come what may: We&rsquo;d been out picking morels and watercress for dinner when Molly suddenly asked why we&rsquo;d come outside to find food. I pondered this, then ventured, &ldquo;Because the earth is good to us. She provides for us.&rdquo;</p>
+
+<p>&ldquo;Yeah,&rdquo; Molly said, &ldquo;she&rsquo;s our god-mother.&rdquo;</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">One-year-old Lily and I are out in the snow dressing a snowman. Pine boughs for arms, acorns for eyes, orange sand bucket for a hat, carrot for .&nbsp;.&nbsp;.</p>
+
+<p>&ldquo;Hey, Lils, where&rsquo;s his nose?&rdquo;</p>
+
+<p>With red cheeks the bundled girl turns and grins coyly, crunching her tiny teeth into the carrot.</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">We&rsquo;re decorating the Christmas tree on a cold, dark early-December evening, the big kids and I downstairs hanging ornaments, Mary and Lily cooking soup upstairs in the kitchen, when I hear Lily coughing, followed by an abrupt silence: not an altogether unfamiliar sound for a parent to hear, but nonetheless alarming.</p>
+
+<p>&ldquo;Sweetie,&rdquo; I yell upstairs, &ldquo;you got that?&rdquo;</p>
+
+<p>&ldquo;I got it,&rdquo; Mary calls back.</p>
+
+<p>Then, a moment or two later: &ldquo;Babe? I need you.&rdquo;</p>
+
+<p>As I rush upstairs, I pass an apple on the floor with a bite taken out of it. Then I see that Mary has Lily on her stomach in the proper horizontal position for toddler food removal and is performing hand thrusts without results.</p>
+
+<p>Their eyes &mdash; Mary&rsquo;s and Lily&rsquo;s &mdash; glisten with fear.</p>
+
+<p>As sternly but tenderly as I can, I tell the big kids, who have huddled on the stairs to watch, to go back downstairs.</p>
+
+<p>&ldquo;I don&rsquo;t like this,&rdquo; Luca says, retreating.</p>
+
+<p>By the time I take Lily in my arms, she is stiff, trying but failing to gag, her body tense with shock. I attempt a couple of abdominal thrusts, but can&rsquo;t get the drum-tight muscles to give.</p>
+
+<p>How intrepidly the mind moves. I won&rsquo;t begin to tell you what I am thinking as I hold Lily, listening to Mary whisper, &ldquo;Please, God. Please, God,&rdquo; but I know this is serious &mdash; beyond serious.</p>
+
+<p>Finally I am able to get Lily&rsquo;s lips apart so I can sweep her mouth with a finger. Unable to get the piece of apple out, I somehow push it down into the esophagus, and Lily begins to cry: the most comforting of cries, like the one just after birth.</p>
+
+<p>Good. Cry. Keep crying. Let us know you&rsquo;re alive.</p>
+
+<p>Of course, once Lily has begun to sob, Mary does as well.</p>
+
+<p>Luca and Molly are upstairs quickly &mdash; perhaps they never went down &mdash; holding their parents and their sister. Mary and I try to dispel the trauma. <em>Everything&rsquo;s <span class="smallcaps">OK</span>.</em> <em>Who wants a cookie?</em> <em>Let&rsquo;s go put a few more ornaments on the tree.</em> But afterward Mary says she needs to go to our bedroom for a while.</p>
+
+<p>I spot the offending apple again on the floor. It was sitting in the center of the dining-room table, and Lily, a most mobile toddler, climbed up on a chair to reach it. I note the man-sized bite she took: a hunk as round as a silver dollar. I tuck the apple into the front pocket of my sweat shirt, not ready to throw it away.</p>
+
+<p>I finish cooking dinner with Lily in my arms and then call the kids and Mary to come eat, but Luca and Mary are missing. Maybe they&rsquo;ve taken a walk. I check outside, in the garage, in the basement. Finally I find them upstairs on the floor of her closet, Mary&rsquo;s eyes still wet with tears, our boy&rsquo;s arm around his mother.</p>
+
+<p>&ldquo;He&rsquo;s been sitting up here with me for twenty minutes,&rdquo; she says, &ldquo;not saying a thing. Just holding me.&rdquo;</p>
+
+<p>What a world. What a woman. What a boy, who, sooner than I can imagine, will be a man.</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">Some nights it takes forever to put the kids to bed. Molly wants a piece of bread with butter; Luca forgot to brush his teeth; everyone&rsquo;s thirsty. Tonight, once we have the kids down, Mary and I sit together on the couch, looking out at the lake. We both understand how scared we still are, how real Lily&rsquo;s stiffened body felt in our arms, how close we came to It. We aren&rsquo;t interested in blame &mdash; we each blame ourselves &mdash; but rather in recognizing how dire the situation was.</p>
+
+<p>On impulse I go outside to the backyard and eat the entire apple on which Lily choked. I eat the core, the seeds, the stem. Then I fall to my knees and utter a sound that&rsquo;s not a word in any language.</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">Inside, the house is quiet and dark save for the orange light of a candle on the kitchen table. Mary is missing.</p>
+
+<p>I know where she is: kneeling beside them, kissing their foreheads, holding their heads in her hands like warm bowls of broth, stepping back to watch the calm water of sleep keep them afloat. She&rsquo;s counting their breathing bodies.</p>
+
+<p>Three?</p>
+
+<p>Yes, three.</p>
+														</div>
+
+
+				
+<div class="sharing-bar article-sharing">
+	<div class="sharing-bar-first">
+		<a href="javascript:window.print();" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-printer"></use></svg> <span>Print</span></a>
+	</div>
+
+	<div class="sharing-bar-second">
+		<span class="alt-ff xsmall">Share:</span>
+		<a href="https://www.facebook.com/sharer/sharer.php?u=https://www.thesunmagazine.org/issues/463/three-issue-463" target="_blank" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-facebook"></use></svg> <span>Facebook</span></a>
+		<a href="https://twitter.com/share?url=https://www.thesunmagazine.org/issues/463/three-issue-463&amp;via=thesunmagazine" target="_blank" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-twitter"></use></svg> <span>Twitter</span></a>
+		<a href="#" class="b b-1 b-padding-tight xsmall js-toggle-mail-form"><svg><use xlink:href="#i-email"></use></svg> <span>Email</span></a>
+	</div>
+</div>
+
+<div class="send-to-friend-message-container">
+	<div class="alert alert-success xsmall">Thank you for sharing <em>The Sun</em>.</div>
+</div>
+
+<form method="post" action="/ajax/articles/send-to-a-friend" class="form fill-grey send-to-friend-form">
+		<input type="hidden" id="form_url" name="form[url]" value="https://www.thesunmagazine.org/issues/463/three-issue-463" />
+
+	<ul class="form-fields">
+		<li><label for="form_sender_name"><span class="label-text">Your Full Name</span><span class="label-asterisk">*</span></label><input type="text" id="form_sender_name" name="form[sender_name]" required="required" /></li>
+		<li><label for="form_sender_email"><span class="label-text">Your Email Address</span><span class="label-asterisk">*</span></label><input type="email" id="form_sender_email" name="form[sender_email]" required="required" /></li>
+		<li><label for="form_recipient_name"><span class="label-text">Friend’s Name</span><span class="label-asterisk">*</span></label><input type="text" id="form_recipient_name" name="form[recipient_name]" required="required" /></li>
+		<li><label for="form_recipient_email"><span class="label-text">Friend’s Email Address</span><span class="label-asterisk">*</span></label><input type="email" id="form_recipient_email" name="form[recipient_email]" required="required" /></li>
+		<li><label for="form_message"><span class="label-text">Personalized Message</span></label><textarea id="form_message" name="form[message]"></textarea></li>
+	</ul>
+<div class="send-to-friend-message-container">
+	<div class="alert alert-error xsmall">Something went wrong. Please try again.</div>
+</div>
+
+<div class="g-recaptcha" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs"></div>
+<div class="form-actions"><button type="submit" id="form_submit" name="form[submit]"	class="form-actions-b-primary b b-1 b-loading xsmall"><svg><use xlink:href="#i-loading"></use></svg>
+		Submit
+	</button></div>
+<input type="hidden" id="form__token" name="form[_token]" value="09ae4c59ad329cfe7a5960f8ee95b6582a33539a" /></form>
+
+<br>
+
+
+
+										<footer class="article-contributor contributors">
+									
+
+<div class="block-contributor">
+		
+
+		<div class="block-contributor-content">
+		<div class="block-contributor-bio small">
+			<p><strong><span class="smallcaps">Chris Dombrowski</span></strong> lives in Missoula, Montana, where he works as a river guide and teaches writing. His most recent book of poems is <em>Earth Again</em>.</p><a href="/contributors/chris-dombrowski" class="block-contributor-link link-alt small">More From This Contributor&nbsp;&#9656;</a>		</div>
+	</div>
+</div>
+
+							</footer>
+						</article>
+
+
+				    <div class="paywall-subscription block-product">
+			<div class="columns">
+			<div class="paywall-banner span3 cta cta-l1">
+				<div class="cta-intro">
+					<h5 class="cta-title alt-ff">One Free Selection Left </h5>
+					<p class="cta-text xsmall"><a class="link-alt" href="https://www.thesunmagazine.org/subscriber/login" data-label="Already a subscriber?">Already a subscriber? Sign in ▸</a><br><br>Read two free selections from <em>The Sun</em> each month.</p>
+				</div>
+			</div>
+			<div class="paywall-banner span9 note note-1 text-center">
+				<h4 class="cta-title alt-ff">Subscribe to <em>The Sun</em> and save 45%</h4>
+				<p class="cta-text xsmall">Subscribers get full access to the current issue and more than 40 years of archives.</p>
+				<a class="b b-1 xsmall cta-trigger"  href="/subscribe1" data-label="Subscribe" data-ctatitle="Subscribe">Subscribe</a>
+			</div>
+		</div>
+
+		<div class="columns">
+			<div class="span12 paywall-cta-bottom">
+				<p>
+					<span class="cta-title-issue">Buy the July 2014 issue for $5.95</span>
+					<span class="xsmall">Order now to get instant access to this issue, and we’ll also send you a print copy.</span>
+					<a class="b b-5 xsmall corona"  href="#" data-product-type="issues" data-id="463" data-label="Order Now ▸">Order Now ▸</a>
+				</p>
+			</div>
+		</div>
+
+		
+
+</div>
+	
+	
+	
+	<div class="spacer"></div>
+	
+
+
+
+		
+		<div class="article-correspondence-cta">
+		<div class="cta cta-l1" data-url="https://www.thesunmagazine.org/letter-to-the-editor">
+			<div class="cta-intro">
+				<h5 class="cta-title alt-ff">Thinking about writing us a letter?</h5>
+				<p class="cta-text">Give in to the temptation. We love getting mail. <br><span class="xsmall">(Of course, we reserve the right to edit.)</span></p>
+			</div>
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" class="cta-button b b-4 b-padding-tight small" data-label="Write Us A Letter!">Write Us A Letter!</a>
+		</div>
+	</div>
+	
+
+			<div class="article-also layout-item-large full-bar fill-grey-mid-light">
+		<div class="layout-item-intro">
+			<h2>Also In This Issue</h2>
+			<a href="/issues/463" class="xsmall link-alt">July 2014&nbsp;&#9656;</a>
+		</div>
+		<div class="issue-articles-l1">
+			<div class="issue-articles-l1-content1">
+				
+<div class="cover cover-l1 block-product">
+	<div>
+							<a href="/issues/463" class="cover-thumb">
+				
+				<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 727'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/import/issue/463.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/561x728r/import/issue/463.jpg
+	 alt=""
+	 class="lazy">
+
+			</a>
+		
+
+													<!-- <a href="/issues/463" data-product-type="issues" data-id="463" data-role="order" class="js-buy-single corona cover-button b b-1 b-full xsmall" data-label="Buy This Issue &#9656;">
+								Buy This Issue&nbsp;&#9656;
+			</a> -->
+			<a href="/issues/463" data-product-type="issues" data-id="463" class="js-buy-single corona cover-button b b-1 b-full xsmall" data-label="Buy This Issue &#9656;">
+								Buy This Issue&nbsp;&#9656;
+			</a>
+					
+					</div>
+</div>
+			</div>
+			<div class="issue-articles-l1-content2">
+				<div class="articles-l3">
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/poetry">Poetry</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/463/an-image-of-godliness">An Image Of Godliness</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/gerry-lafemina">Gerry LaFemina</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/poetry">Poetry</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/463/the-witnesses">The Witnesses</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/alison-luterman">Alison Luterman</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/sun-interview">The Sun Interview</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/463/the-one-youre-with">The One You’re With</a></h3>
+					<p class="block-content-subtitle subtitle">Barbara Fredrickson On Why We Should Rethink Love</p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/angela-winter">Angela Winter</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/poetry">Poetry</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/463/nobody-fails-at-meditation">Nobody Fails At Meditation</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/michael-bazzett">Michael Bazzett</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+									</div>
+			</div>
+		</div>
+	</div>
+	
+
+			<div class="article-related layout-item-large full-bar fill-pattern-light">
+		<div class="layout-item-intro">
+			<h2>Related Selections</h2>
+			<ul class="list-inline list-inline-tight"><li><a href="/topics/parenting" class="xsmall link-alt link-text">Parenting</a></li><li><a href="/topics/pregnancy-and-childbirth" class="xsmall link-alt link-text">Pregnancy and Childbirth</a></li></ul>		</div>
+
+		<div class="articles-l2">
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/sy-safranskys-notebook">Sy Safransky&#039;s Notebook</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/327/sy-safranskys-notebook-327">March 2003</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/sy-safransky">Sy Safransky</a></li><li><a href="/issues/327">March 2003</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/327" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 725'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/141x182r/import/issue/327.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/281x364r/import/issue/327.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/fiction">Fiction</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/200/kissing-in-the-movies">Kissing In The Movies</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/candace-perry">Candace Perry</a></li><li><a href="/issues/200">August 1992</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/200" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 725'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/141x182r/import/issue/200.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/281x364r/import/issue/200.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/readers-write">Readers Write</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/76/the-most-important-influence-on-my-life">The Most Important Influence On My Life</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/our-readers">Our Readers</a></li><li><a href="/issues/76">March 1982</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/76" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 725'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/141x182r/import/issue/076.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/281x364r/import/issue/076.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/photography">Photography</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/61/photographs-by-john-rosenthal">Photographs By John Rosenthal</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/john-rosenthal">John Rosenthal</a></li><li><a href="/issues/61">November 1980</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/61" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 725'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/141x182r/import/issue/061.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/281x364r/import/issue/061.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+					</div>
+	</div>
+	
+	
+					<form id="newsletterForm" method="post" action="https://www.thesunmagazine.org/newsletter" data-url-send="https://www.thesunmagazine.org/newsletter" class="form form-newsletter fill-grey" enctype="multipart/form-data" target="_blank">
+
+
+
+		<div class="form-newsletter-intro">
+			<h3 class="alt-ff large">Sign Up For Our Newsletter</h3>
+			<p>We’ll let you know about new website selections, upcoming events, special offers, and more.</p>
+		</div>
+
+		<ul class="form-newsletter-fields form-fields form-fields-inline">
+			<li>
+				<input name="name" type="text" maxlength="500" id="name" placeholder="Your Name">
+			</li>
+			<li>
+				<input name="email" type="text" maxlength="500" id="email" placeholder="Your E-mail">
+			</li>
+
+			<li class="form-fields-inline-button">
+				<button disabled="disabled" class="form-newsletter-send b b-4 b-padding-tight b-loading g-recaptcha" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs" data-callback="recaptcha_callback" name="SubmitButton" id="SubmitButton">
+					<svg><use xlink:href="#i-loading"></use></svg>
+					Sign&nbsp;Up
+				</button>
+			</li>
+		</ul>
+	</form>
+	<script id="hiddenlpsubmitdiv" style="display: none;"></script>
+
+
+
+<footer class="footer brand-grey-dark">
+			<div class="footer-first">
+		<h3 class="footer-tagline">Independent, Reader-Supported Publishing</h3>
+		<p class="footer-desc">In each issue of <em>The Sun</em> you’ll find some of the most radically intimate and socially conscious writing being published today. In an age of media conglomerates, we’re something of an oddity: an ad-free, independent, reader-supported magazine.</p>
+		<ul class="footer-nav list-inline-border xsmall">
+			
+		<li class=" first">
+			<a href="https://www.thesunmagazine.org/about" 	   class=''>
+	   About <em>the Sun</em>	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/staff" 	   class=''>
+	   Staff	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/find-the-sun" 	   class=''>
+	   Find <em>The Sun</em>&nbsp;&nbsp;in a Store Near You	</a>
+		
+	</li>
+
+
+		</ul>
+	</div>
+	
+		<div class="footer-second">
+		<ul class="footer-second-social list-inline">
+			<li><a href="https://www.facebook.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-facebook"></use></svg></span> Like Us</a></li>
+			<li><a href="https://twitter.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-twitter"></use></svg></span> Follow Us</a></li>
+			<li><a href="https://instagram.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-instagram"></use></svg></span> Take a Look</a></li>
+		</ul>
+
+		<div class="footer-second-content">
+			<ul class="footer-nav list-inline-border xsmall">
+				
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/" 	   class='current '>
+	   Home	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/privacy-policy" 	   class=''>
+	   Privacy Policy	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/terms-of-use" 	   class=''>
+	   Terms of Use	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/site-map" 	   class=''>
+	   Site Map	</a>
+		
+	</li>
+
+
+			</ul>
+			<p class="footer-copyright xxsmall">Copyright &copy; 1974–2020 <em>The Sun</em>. All rights reserved.</p>
+		</div>
+	</div>
+</footer>
+
+
+
+<div class="offset-nav">
+	<ul>
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/read" 	   class='current '>
+	   Read	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/issues/current" 	   class=''>
+	   Current Issue	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/archives" 	   class=''>
+	   Archives	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/featured" 	   class=''>
+	   Featured Selections	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/topics" 	   class=''>
+	   Browse Topics	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/sections" 	   class=''>
+	   Browse Sections	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/connect" 	   class=''>
+	   Connect	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/news" 	   class=''>
+	   News from <em>The Sun</em>	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" 	   class=''>
+	   Write a Letter to the Editor	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/discussion-groups" 	   class=''>
+	   Discussion & Writing Groups	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/make-a-suggestion" 	   class=''>
+	   Make a Suggestion	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/submit" 	   class=''>
+	   Submit	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/shop" 	   class=''>
+	   Shop	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/giftsub" 	   class=''>
+	   Gift Subscriptions	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/issues" 	   class=''>
+	   Issues	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+											
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/donatemenu" 	   class='highlight'>
+	   Donate	</a>
+		
+	</li>
+
+		<li class=" last">
+														<a href="/SubscribeNav1" 					   class=''>
+						Subscribe					</a>
+									
+	</li>
+
+
+					<li>
+				<a href="https://www.thesunmagazine.org/shop/cart">Cart ( <span class="cart-item-count">  0  </span>)</a>
+			</li>
+			<li><a href="https://www.thesunmagazine.org/subscriber/login" class="link-header-logout link-alt">Sign In</a></li>
+			</ul>
+	<ul>
+		<li class=" first">
+			<a href="https://www.thesunmagazine.org/about" 	   class=''>
+	   About <em>the Sun</em>	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/staff" 	   class=''>
+	   Staff	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/find-the-sun" 	   class=''>
+	   Find <em>The Sun</em>&nbsp;&nbsp;in a Store Near You	</a>
+		
+	</li>
+
+</ul>
+	<ul>
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/" 	   class='current '>
+	   Home	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/privacy-policy" 	   class=''>
+	   Privacy Policy	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/terms-of-use" 	   class=''>
+	   Terms of Use	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/site-map" 	   class=''>
+	   Site Map	</a>
+		
+	</li>
+
+</ul>
+</div>
+
+<div id="buy-popup-message" class="buy-popup mfp-hide white-popup white-popup-block">
+	<a class="popup-modal-dismiss" href="#"></a>
+	<h5>Due to fulfillment challenges related to the novel coronavirus, print copies are temporarily unavailable for individual sale. We are offering free PDFs until we are able to resume print sales.</h5>
+	<p>Enter your e-mail address below to download this issue.</p>
+	<form method="post" id="download-single" action="https://www.thesunmagazine.org/issue/pdfFree/531.pdf">
+		<label for="email"><span class="label-text">E-mail</span><span class="label-asterisk">*</span></label>
+		<input class="buy-single-email" id="email" type="email" name="email">
+		<button type="send" class="form-buy-issue-send b b-3 b-padding-tight b-loading">Send</button>
+		<button class="form-buy-issue-download b b-3 b-padding-tight b-loading">Download pdf</button>
+		<button type="send" class="popup-modal-dismiss b b-2 b-padding-tight b-loading">Close</button>
+		<div class="g-recaptcha" style="text-align: center" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs"></div>
+
+	</form>
+</div>
+
+			<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/plugins.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/site.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/newsletter.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/js/articles.js"></script>
+		</div>
+		</div>
+
+				<script>
+		(function (doc) {
+			var scripts = doc.getElementsByTagName('script');
+			var script = scripts[scripts.length - 1];
+			var xhr = new XMLHttpRequest();
+			xhr.onload = function () {
+				var div = doc.createElement('div');
+				div.innerHTML = this.responseText;
+				div.style.display = 'none';
+				script.parentNode.insertBefore(div, script);
+			}
+			xhr.open('get', '/theme/thesun//assets/build/img/sprite/sprite.svg', true);
+			xhr.send();
+		})(document);
+
+
+
+		</script>
+
+		<script>
+			// Submit function
+            function recaptcha_callback() {
+						var getUrl = $('.form-newsletter').data( "url-send" ),
+							getName = $('input#name').val(),
+							getEmail = $('input#email').val();
+						$.ajax({
+								type: "POST",
+								url: getUrl,
+								data: {
+									name: getName,
+									email: getEmail,
+									grecaptcharesponse: grecaptcha.getResponse()
+								}
+							}).done(function(response) {
+								console.log(response);
+									$('.form-fields').fadeOut(800, function () {
+										$('.form-fields').empty().append('<div class="newsletter-confirm-message">Thank you for signing up to receive news from <em>The Sun</em>. Your first newsletter will arrive soon.<div>').fadeIn(800);
+									});
+							});
+			}
+
+		</script>
+
+		<script>
+			function getUrlCode() {
+				var url_string = window.location.href;
+				var url = new URL(url_string);
+				var c = url.searchParams.get('promotion\_key');
+				if (typeof c !== 'undefined' && c !== null) {
+					setCookie("promotion_code",c);
+				}
+			}
+
+			function setCookie(cname, cvalue) {
+				document.cookie = cname + "=" + cvalue + ";" + "path=/";
+			}
+
+			function getCookie(cname) {
+				var name = cname + "=";
+				var decodedCookie = decodeURIComponent(document.cookie);
+				var ca = decodedCookie.split(';');
+				for(var i = 0; i <ca.length; i++) {
+					var c = ca[i];
+					while (c.charAt(0) == ' ') {
+						c = c.substring(1);
+					}
+					if (c.indexOf(name) == 0) {
+						return c.substring(name.length, c.length);
+					}
+				}
+				return "";
+			}
+			window.addEventListener( "load", getUrlCode );
+		</script>
+
+
+	</body>
+</html>

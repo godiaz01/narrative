@@ -1,0 +1,1222 @@
+
+<!DOCTYPE html>
+<html class="no-js" lang="en-US">
+	<head>
+		<title>Notes Toward A Psychology Of The Nuclear Age - The Sun Magazine</title>
+
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		
+		<meta name="viewport" content="width=device-width, minimum-scale=1.0">
+
+		<link rel="dns-prefetch" href="//ajax.googleapis.com">
+		<link rel="dns-prefetch" href="//use.typekit.net">
+		
+		<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/modernizr.js"></script>
+		<script src="https://www.google.com/recaptcha/api.js"
+				async defer>
+		</script>
+
+		<script>(function(d) { var config = { kitId: 'kzw7ebk', scriptTimeout: 3000, async: true }, h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s) })(document);</script>
+
+
+				
+		<link rel="apple-touch-icon" sizes="57x57" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-57x57.png?v=2016">
+		<link rel="apple-touch-icon" sizes="60x60" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-60x60.png?v=2016">
+		<link rel="apple-touch-icon" sizes="72x72" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-72x72.png?v=2016">
+		<link rel="apple-touch-icon" sizes="76x76" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-76x76.png?v=2016">
+		<link rel="apple-touch-icon" sizes="114x114" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-114x114.png?v=2016">
+		<link rel="apple-touch-icon" sizes="120x120" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-120x120.png?v=2016">
+		<link rel="apple-touch-icon" sizes="144x144" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-144x144.png?v=2016">
+		<link rel="apple-touch-icon" sizes="152x152" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-152x152.png?v=2016">
+		<link rel="apple-touch-icon" sizes="180x180" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-180x180.png?v=2016">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-32x32.png?v=2016" sizes="32x32">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/android-chrome-192x192.png?v=2016" sizes="192x192">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-96x96.png?v=2016" sizes="96x96">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-16x16.png?v=2016" sizes="16x16">
+		<link rel="mask-icon" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/safari-pinned-tab.svg?v=2016" color="#444444">
+		<link rel="shortcut icon" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon.ico?v=2016">
+		<meta name="apple-mobile-web-app-title" content="The Sun Magazine">
+		<meta name="application-name" content="The Sun Magazine">
+		<meta name="msapplication-TileColor" content="#fcc330">
+		<meta name="msapplication-TileImage" content="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/mstile-144x144.png?v=2016">
+		<meta name="theme-color" content="#ffffff">
+
+				<link rel="stylesheet" type="text/css" href="https://cloud.typography.com/6578674/659928/css/fonts.css" />
+		<link rel="stylesheet" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/css/style.css">
+
+																		<meta property="og:site_name" content="The Sun Magazine">
+		<meta property="og:type" content="article">
+		<meta property="og:url" content="https://www.thesunmagazine.org/issues/111/notes-toward-a-psychology-of-the-nuclear-age">
+		<meta property="og:image" content="http://www.thesunmagazine.org/files/import/issue/111.jpg">
+		<meta property="og:title" content="Notes Toward A Psychology Of The Nuclear Age - The Sun Magazine">
+		<meta property="og:description" content="I assume that at the site of a nuclear blast people would know literally nothing. One moment they would be living breathing human beings and the next moment they &amp;mdash; and the landscape they inhabited &amp;mdash; would not even be dust. Would there be any warning at all for such people? Does a missile even from far off make some sound that would warn them of their imminent death? (These are rhetorical questions. I really don&amp;rsquo;t care to know.) Of all the possibilities in a nuclear war, that has always seemed to me the most fortunate, to be at the site of the blast without warning and never know what hit you. Similarly, not to be at the exact site of the blast, but caught in the firestorm or the gale-like winds that surround it, might be a comparatively fortunate death in nuclear war.&amp;nbsp;">
+		<meta property="fb:app_id" content="158741778010551">
+
+						<link rel="image_src" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.comhttp://www.thesunmagazine.org/files/import/issue/111.jpg">
+
+												<meta name="twitter:card" content="summary">
+		<meta name="twitter:title" content="Notes Toward A Psychology Of The Nuclear Age - The Sun Magazine">
+		<meta name="twitter:description" content="I assume that at the site of a nuclear blast people would know literally nothing. One moment they would be living breathing human beings and the next moment they &amp;mdash; and the landscape they inhabited &amp;mdash; would not even be dust. Would there be any warning at all for such people? Does a missile even from far off make some sound that would warn them of their imminent death? (These are rhetorical questions. I really don&amp;rsquo;t care to know.) Of all the possibilities in a nuclear war, that has always seemed to me the most fortunate, to be at the site of the blast without warning and never know what hit you. Similarly, not to be at the exact site of the blast, but caught in the firestorm or the gale-like winds that surround it, might be a comparatively fortunate death in nuclear war.&amp;nbsp;">
+		<meta name="twitter:image" content="http://www.thesunmagazine.org/files/import/issue/111.jpg">
+		<meta name="twitter:site" content="@thesunmagazine">
+
+				<link rel="publisher" href="https://plus.google.com/113792980827145858211">
+        
+		<meta name="Description" content="I assume that at the site of a nuclear blast people would know literally nothing. One moment they would be living breathing human beings and the next moment they &amp;mdash; and the landscape they inhabited &amp;mdash; would not even be dust. Would there be any warning at all for such people? Does a missile even from far off make some sound that would warn them of their imminent death? (These are rhetorical questions. I really don&amp;rsquo;t care to know.) Of all the possibilities in a nuclear war, that has always seemed to me the most fortunate, to be at the site of the blast without warning and never know what hit you. Similarly, not to be at the exact site of the blast, but caught in the firestorm or the gale-like winds that surround it, might be a comparatively fortunate death in nuclear war.&amp;nbsp;">
+
+		
+		<!-- Google Tag Manager -->
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-TKBHCCG');</script>
+		<!-- End Google Tag Manager -->
+
+		<!-- Google Analytics -->
+		<script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+            ga('create', 'UA-2351127-1', 'auto');  // Replace with your property ID.
+            ga('send', 'pageview');
+            ga('require', 'ecommerce');   // Load the ecommerce plug-in.
+		</script>
+		<!-- End Google Analytics -->
+	</head>
+	<body id="">
+
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TKBHCCG"
+		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+		<header class="header" data-offset-start="80">
+		<div class="header-utilities">
+				<ul class="header-utilities-user list-inline list-inline-tight xxsmall">
+							<li>
+					<span class="header-utilities-user-intro">Already A Subscriber?</span> &nbsp;
+					<a href="https://www.thesunmagazine.org/subscriber/login" class="link-text link-alt">Sign In</a>
+				</li>
+					</ul>
+		<a href="https://www.thesunmagazine.org/shop/cart" class="header-utilities-cart  link-alt link-icon tiny">
+			<span class="i"><svg><use xlink:href="#i-cart"></use></svg></span>
+			<span class="cart-item-count">
+									0 Items
+				
+			</span>
+		</a>
+			</div>
+
+		<div class="header-bar">
+		<h1 class="header-logo logo">
+			<a href="/">
+				<img src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/img/logo-thesun.svg" class="logo-thesun" alt="The Sun Magazine">
+				<img src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/img/logo-tagline.svg" class="logo-tagline" alt="">
+			</a>
+		</h1>
+
+		<ul class="header-nav">
+			
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/read" 	   class='current '>
+	   Read	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/issues/current" 	   class=''>
+	   Current Issue	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/archives" 	   class=''>
+	   Archives	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/featured" 	   class=''>
+	   Featured Selections	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/topics" 	   class=''>
+	   Browse Topics	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/sections" 	   class=''>
+	   Browse Sections	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/connect" 	   class=''>
+	   Connect	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/news" 	   class=''>
+	   News from <em>The Sun</em>	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" 	   class=''>
+	   Write a Letter to the Editor	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/discussion-groups" 	   class=''>
+	   Discussion & Writing Groups	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/make-a-suggestion" 	   class=''>
+	   Make a Suggestion	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/submit" 	   class=''>
+	   Submit	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/shop" 	   class=''>
+	   Shop	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/giftsub" 	   class=''>
+	   Gift Subscriptions	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/issues" 	   class=''>
+	   Issues	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+											
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/donatemenu" 	   class='highlight'>
+	   Donate	</a>
+		
+	</li>
+
+		<li class=" last">
+														<a href="/SubscribeNav1" 					   class=''>
+						Subscribe					</a>
+									
+	</li>
+
+
+		</ul>
+
+		<button class="header-nav-toggle"><svg><use xlink:href="#i-menu" class="i-menu"></use><use xlink:href="#i-close" class="i-close"></use></svg></button>
+		<button class="header-search-toggle" data-form-wrapper=".header-search"><svg><use xlink:href="#i-magnifier" class="i-magnifier"></use><use xlink:href="#i-close" class="i-close"></use></svg></button>
+	</div>
+
+		<div class="header-search">
+		<div class="header-search-content">
+			<form action="https://www.thesunmagazine.org/search" class="form form-search" method="get">
+				<h2 class="alt-ff brand-link">Search Our 40 Years of Archives</h2>
+				<ul class="form-search-fields form-fields form-fields-inline">
+					<li><input type="text" name="q" value=""></li>
+					<li class="form-fields-inline-button"><button class="b b-1 b-padding-tight b-loading"><svg><use xlink:href="#i-loading"></use></svg>Search</button></li>
+				</ul>
+
+				<div class="header-search-content-shortcuts">
+					<h6 class="search-advanced alt-ff"><a class="js-handle-advanced" href="https://www.thesunmagazine.org/search?advanced=1">Advanced Search</a></h6>
+					<br>
+					<h6 class="alt-ff">Popular Pages</h6>
+					<ul class="list-inline-border list-inline-tight xxsmall"><li class=" first"><a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a></li><li class=""><a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a></li><li class=""><a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a></li><li class=""><a href="https://www.thesunmagazine.org/sections/quotations" 	   class=''>
+	   Quotations	</a></li><li class=""><a href="https://www.thesunmagazine.org/sections/readers-write" 	   class=''>
+	   Readers Write	</a></li><li class=" last"><a href="https://www.thesunmagazine.org/sections/poetry" 	   class=''>
+	   Poetry	</a></li></ul>				</div>
+			</form>
+		</div>
+	</div>
+</header>
+
+	<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+	<script type="text/javascript">
+		$(document).ready(function() {
+			$('.js-handle-advanced').on('click', function (e) {
+				e.preventDefault();
+				var getSearchValue = $('.form-search-fields input').val();
+				var getURL = $(this).attr('href');
+				var newURL = getURL + '&q=' + getSearchValue;
+				window.location.href = newURL;
+			});
+		});
+	</script>
+
+		<div class="container-hidden">
+		<div class="container">
+
+				
+	
+	<article class="article ">
+		<header class="block-content block-content-l1 block-content-center">
+						<div class="block-content-header">
+				<h6 class="b-content-section heading-square"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+				<h1 class="block-content-title">Notes Toward A Psychology Of The Nuclear Age</h1>
+
+				
+				<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/david-guy">David Guy</a></li><li><a href="/issues/111">February 1985</a></li></ul>
+
+			</div>
+
+								</header>
+
+				<div class="article-body link-text-wrap">
+																		<h5>I</h5>
+
+<p>I began to grow concerned about nuclear weapons in the Spring of 1980. Now that I look back on it, the two most crucial decisions of the current nuclear buildup &mdash; to deploy missiles in Western Europe and to produce and deploy the MX &mdash; had already been made at that point, but I had hardly noticed them. I had heard news reports, but hadn&rsquo;t paid much attention. I perceived President Carter as a decent and intelligent man, and trusted him to make the right decisions about nuclear weapons. I had a vague perception (as a matter of fact, he had said as much, in his inaugural address) that he wanted to rid the world of nuclear weapons altogether, and though I thought that an impossible hope, the kind of thing a politician says in a speech, I did think he was on the side of humanity and would seek a peaceful solution to problems. The Seventies were an empty-headed time anyway, after the fierce and hostile intellectualism of the Sixties. People were meditating, jogging, putting in some hours in the hot tub, getting off drugs. As modern history goes, it was a comparatively hopeful period.</p>
+
+<p>In the Spring of 1980 things suddenly seemed to change. The hostages had been taken in Iran, Russia had invaded Afghanistan, the economy was in a terrible slump, and an aging has-been named Ronald Reagan was starting to gain political momentum. Nobody, but nobody, understood what was going on, especially not in the Middle East. If we understood the original reason that the young rebels had taken the hostages in Iran &mdash; their anger over the fact that we had let the Shah into this country for medical treatment &mdash; we didn&rsquo;t understand their aims (if they had any) as time went on. We didn&rsquo;t know what their relationship was to the Ayatollah, or whether they would obey his commands; it was therefore hard to know whom to negotiate with, or whether negotiations were doing any good.</p>
+
+<p>Similarly, no one was sure why the Russians had invaded Afghanistan, or why they had chosen so precarious a moment to do so. There were those who said that Afghanistan had long been under Russia&rsquo;s wing, that the Soviets were only solidifying a position they had established long before (that doesn&rsquo;t mean what they were doing wasn&rsquo;t despicable), but others thought the invasion was a bold new move, and they might be preparing a larger incursion into the Persian Gulf region. Even apart from the volatile situation with the hostages, that would have been an unacceptable act, if only because the Russians could then have closed the straits of Hormuz in a time of crisis and starved the West of oil.</p>
+
+<p>Whether simply because of the dangers of the situation, or also because he faced a strong challenge from the right, Carter began to talk tough. He asked the Senate to postpone consideration of the Salt II treaty, thereby halting what seemed to have been steady progress in arms control. He proclaimed that the security of the Persian Gulf region was vital to the interests of the United States, that we would move to defend it in case of an invasion. He was putting the Persian Gulf on the same footing as Western Europe. It was widely understood &mdash; especially at that point &mdash; that our land and naval forces were too far from the region to protect it. There were those who said that the only way to protect the region in case of invasion would be to use tactical nuclear weapons.</p>
+
+<p>I am not especially interested in the facts of what was happening, or in the political realities. My concern is with the way I reacted. It may be that Carter was only stating formally what everyone knew to be true, that Afghanistan may have been in Russia&rsquo;s sphere of influence but Iran was in ours, and that line was not to be crossed. As we look back it does seem that the Russians were just trying to establish their position firmly in Afghanistan; they have since gotten so bogged down that it seems preposterous that they might have wanted to invade Iran as well. It is hard to remember that there was a great deal of uncertainty about Russia&rsquo;s intentions at the time. Carter&rsquo;s reaction to the invasion &mdash; especially in cancelling our participation in the Moscow Olympics &mdash; seemed a mixture of anger, helplessness, and stunned disbelief. There was no guarantee that the Russians wouldn&rsquo;t just waltz into Iran, and the President who a few years before had vowed to rid the world of nuclear weapons seemed to have indicated that in that case he would use them. Defense experts were interviewed, and spoke of a widespread general belief that any use of nuclear weapons would lead to an all-out holocaust. It is an oddity of the nuclear age that, when one discusses the circumstances that might lead to a holocaust, they always sound hypothetical or trivial, like the possibility that the Russians might someday be able to starve some of our allies of oil.</p>
+
+<p>Meanwhile, we still didn&rsquo;t know what the Russians intended. We listened to news reports, and waited.</p>
+
+<blockquote class="quote-1 large">
+<p>My greatest fear was not of dying in a nuclear war .&nbsp;.&nbsp;. not that people I loved would die.&nbsp;.&nbsp;.&nbsp;. My greatest fear was that something would happen so that I knew we were going to die, and my son would ask me about it, and I would have to answer.</p>
+</blockquote>
+
+<h5>II</h5>
+
+<p>I am willing to believe that I was at a particularly susceptible moment in my life. After more than ten years of serious writing, I had just signed a contract to rewrite a novel &mdash; it would be my first major publication &mdash; and there was a ridiculous and embarrassing part of me that wanted the world to survive at least long enough to see the appearance of my book. There is a part of any artist that wants to be distracted from his work, is glad to have an apocalyptic or paranoid fantasy so that he cannot work and not complete his work. There was a part in me &mdash; Otto Rank has written brilliantly of the guilt of creation &mdash; that felt guilty at my success, and would have thought it an appropriate punishment to die in a nuclear war. Anyone&rsquo;s fears are partly personal, and have personal idiosyncratic bases. Yet at Friends Meeting, which I attended at the time, and in the disarmament group which I eventually joined, a number of people spoke of the same fears I had experienced, in almost the same words. The Nuclear Freeze movement was soon to begin and disarmament groups were springing up all over the country. A cluster of factors came together early in 1980 that made any number of people have new fears of a nuclear war.</p>
+
+<p>I assume that at the site of a nuclear blast people would know literally nothing. One moment they would be living breathing human beings and the next moment they &mdash; and the landscape they inhabited &mdash; would not even be dust. Would there be any warning at all for such people? Does a missile even from far off make some sound that would warn them of their imminent death? (These are rhetorical questions. I really don&rsquo;t care to know.) Of all the possibilities in a nuclear war, that has always seemed to me the most fortunate, to be at the site of the blast without warning and never know what hit you. Similarly, not to be at the exact site of the blast, but caught in the firestorm or the gale-like winds that surround it, might be a comparatively fortunate death in nuclear war. People I know have spoken with some concern of the possibility that the area where we live in North Carolina &mdash; Raleigh-Durham-Chapel Hill &mdash; will be a target in case of nuclear war because of all the military research that goes on here. I hope it is a target. If there is an all-out nuclear war, I hope the city where I live is one of the first to go.</p>
+
+<p>Far worse, it seems to me, is the possibility that I will have some warning that a war is coming. What if an announcement were made that the Russians had launched their missiles and we all had thirty minutes before they hit? What if it were announced not that the missiles had been fired, but that a situation had arisen in which they might be, that the Russians, for instance, had invaded Iran? What if an alarm suddenly sounded, like the old air raid siren that used to be tested in the Pittsburgh of my youth every Monday morning? (I don&rsquo;t even know if Durham has such a siren.) What if Durham were not hit by a blast, but a nearby city was, I heard an incredible sound and walked out my door to see a mushroom cloud on the horizon?</p>
+
+<p>During the days and long nights when I had fears about nuclear war, my thoughts on the subject were obsessive. My mind wouldn&rsquo;t quit. I went over and over the ground, considering the alternatives.</p>
+
+<p>What if things went as well as could possibly be expected, there was a nuclear alert, and my family happened to be in the house together, and there was plenty of gas in the car, and there wasn&rsquo;t some kind of mad general panic, and there was a place to go, and people knew where the place was, and they drove there in an orderly fashion, and the facilities were ample &mdash; with food, water, bathrooms, places to sleep &mdash; and a nuclear war occurred but our shelter was untouched, and we were able to survive for an appropriate length of time and finally emerge. Then what? What kind of world would we step into? Would all the food and water have been contaminated by radioactivity? Would all forms of mass communication have broken down, so we would have no idea how things stood in the country or in the world? Would there be people roaming the countryside who were horribly injured or poisoned by radioactivity? Would mobs of desperate people be searching for food? (Would they long since have invaded the shelter?) Would nearby cities be charnel houses of rotten flesh, stacks of putrefying corpses waiting to be dealt with? Would there be anything worth calling life after a nuclear war?</p>
+
+<p>What if, on the other hand, the situation at the time of the alert weren&rsquo;t so ideal? What if people panicked madly, driving like maniacs, piled into service stations ready to kill for a few gallons of gas? What if people had no idea where to go, drove all over the place at random, or did have some idea but were present in such numbers that they clogged the roads with an unimaginable traffic jam? What if &mdash; on a more personal and trivial level, but a level at which I often thought &mdash; a nuclear alert came when my wife was at work and my son at school? Would I drive out to the school or assume they were sending a bus? Would I go out in search of my wife, who would be on her bicycle, or wait at home in case my son arrived? What if an alert came over the television when my wife was at work and I was on an errand, so my son was at home with no idea what to do? What if we were all together at the time of an alert and my son said to me, &ldquo;What&rsquo;s going to happen? I don&rsquo;t understand. What are we going to do? Are we going to die?&rdquo;</p>
+
+<p>I had a dream one night in which my son asked me that very thing.</p>
+
+<p>Would I tell him the truth? That I didn&rsquo;t really know what would happen, and there probably wasn&rsquo;t anything we could do, and yes, I did think we were going to die.</p>
+
+<p>My greatest fear was not of dying in a nuclear war. I know that I have to die someday, and that it could happen anytime. My greatest fear was not that people I loved would die. I know that they have to die someday; it is the hardest fact in the world for me to face. My greatest fear was that something would happen so that I knew we were going to die, and my son would ask me about it, and I would have to answer. My son, I sometimes think, stands in my mind for the child in me, and there are things I wish he didn&rsquo;t have to know.</p>
+
+<blockquote class="quote-1 large">
+<p>The life I was worried about was my own. I didn&rsquo;t want to die in a nuclear war, and I didn&rsquo;t want to die of a dreaded childhood illness, and I didn&rsquo;t want a burglar to come into the house and bash my brains in. The possibilities seemed roughly equivalent to me.</p>
+</blockquote>
+
+<h5>III</h5>
+
+<p>A major concern of the day is what to tell the children about nuclear war. At times it seems to take over from the question of what to do about the weapons themselves, as if they have become a fact of nature. (In a way I suppose they have. But this shift in attention also seems to be the avoidance of a primary anxiety by turning to a lesser one. We worry about our children so we won&rsquo;t have to face our own fear.) Around the showing of &ldquo;The Day After&rdquo; there were weeks of discussion about what age children should be allowed to watch the movie and what they should be told about it afterwards. The discussion of what to do about the weapons was confined to a thirty-minute segment after the movie, when most people were probably too shell-shocked to watch anyway. It was as if the movie were the real danger, not nuclear weapons. What seems somehow to have been forgotten in this discussion is the fact that many of us were once the very children we are worried about. I was born three years after the atomic bomb was dropped on Hiroshima. I am a child of the nuclear age.</p>
+
+<p>The question &mdash; since I&rsquo;ve made it to the age of thirty-five without becoming clinically depressed or going stark-raving mad &mdash; is: what was <em>I</em> told about nuclear war? The answer: I don&rsquo;t remember. From as far back as I can remember, I have known about the atomic bomb. Somewhere along in there it merged in my mind with the hydrogen bomb. My impression (rightly or wrongly; there is some question about how long we have had this capacity) was that any use of this weapon would destroy the earth. The movie corresponding to &ldquo;The Day After&rdquo; in my day was &ldquo;On the Beach,&rdquo; which didn&rsquo;t show footage of the bomb going off but portrayed something possibly more frightening, a group of Australians who were in no way involved with the nuclear war that had just taken place (as a matter of fact, few people who die in such a war will have any involvement in it) waiting to die of radiation poisoning. No one in those days suggested that a child shouldn&rsquo;t see such a movie, and I did see it. All my friends saw it too. Some of them had read the book.</p>
+
+<p>Whether or not the whole world would be destroyed in a nuclear war, I felt sure I would die in it. I lived in Pittsburgh, and everyone said that if a war started the first thing the Russians would do would be to destroy the steel mills. (That may no longer be necessary. The American economy has already accomplished this Soviet objective.) Like many who were children at that time, I remember the air raid drills we had in school. I especially remember some from fifth grade, when we would walk down one hallway in an orderly manner, sit in another that was for some reason considered safer, and put our heads between our legs (and kiss our asses good-bye, as the old joke went). I don&rsquo;t remember being especially frightened by air raid drills. They were a matter of course, like fire drills. I remember speaking after one such drill to the class intellectual, whose family famously belonged to the John Birch Society (I had no idea what that was). He looked at me with a pallid sickly expression &mdash; he always seemed to feel that life was just too much &mdash; and said, &ldquo;Presumably if they use missiles we won&rsquo;t stand a chance anyway.&rdquo; I didn&rsquo;t understand what he meant, but I agreed wholeheartedly. If the bombs started flying, I was going to die. There was no question in my mind.</p>
+
+<p>I don&rsquo;t remember worrying about it. I don&rsquo;t remember an acute fear of nuclear war itself. I was certainly afraid of dying &mdash; still am &mdash; but it seemed to me that there were many ways to die, one about as likely as another. I don&rsquo;t remember worrying about the possibility that all life on earth would become extinct. The life I was worried about was my own. I didn&rsquo;t want to die in a nuclear war, and I didn&rsquo;t want to die of a dreaded childhood illness, and I didn&rsquo;t want a burglar to come into the house and bash my brains in. The possibilities seemed roughly equivalent to me.</p>
+
+<p>I am not trying to make light of the subject. I have read what psychologists say children are supposed to feel about nuclear war. I am trying to remember what I did feel. It is possible that I have suppressed the true source of my anxieties; I know that the year when we had those fifth grade air raid drills was the same year when I experienced some particularly deep anxieties about death, long sleepless nights when I lay awake contemplating two concepts &mdash; infinity and eternity &mdash; that suddenly seemed to terrify me. But I don&rsquo;t think people have seriously enough considered the possibility &mdash; at least I don&rsquo;t see it mentioned &mdash; that the anxieties of children in past ages were at least as bad as those children face now, if not worse. The really terrifying aspect of nuclear war is almost metaphysical, that it will rob not only us of life but all the earth, and all future generations (no one has written more effectively about this fact than the often ponderous Jonathan Schell), but it seems to me that this particular terror requires a leap of the imagination that most children can&rsquo;t &mdash; or at least don&rsquo;t &mdash; make. They are afraid of dying, but not all that worried about the rest of the world going with them. They may even be at the solipsistic state of consciousness when they feel the rest of the world should go with them.</p>
+
+<p>If what our children are afraid of is dying themselves, why are they any more afraid than children who might have died of diphtheria, or smallpox, or the plague? Nuclear war is certainly a possibility, but anyone who has read a little history will be struck by how &mdash; even sixty years ago &mdash; many other means of death were a much greater possibility. A child in past ages would have seen that death was no respecter of ages. Old people died &mdash; if nothing had gotten you by the time you were old, something would then &mdash; but so did adults of all ages, and young people, and children, and infants. Poor children today are more likely to die than the affluent, and what about children who live in Afghanistan, or Beirut, or Northern Ireland? Can we honestly believe that the fears of our children over a strictly hypothetical war compare with those of children who see death all around them? Are we worried about those children, and do we do what we can to see that the source of their fear is removed?</p>
+
+<p>What may have changed (or well may not; perhaps I just think so because I am now a parent) is the anxiety parents feel over the safety of their children. In past ages parents knew there were any number of ailments that might have taken their children away &mdash; it was a fact of life they had to face &mdash; but we live in a society where it is blessedly rare, and increasingly unacceptable, for a child to die. We have gained a large measure of control over the outside world, and ironically, or perhaps inevitably, have also lost control of it in an especially terrifying way. Just when science has advanced enough that our fears for our children might diminish, we have a terrible new fear to put in their place.</p>
+
+<p>One feature of this fear is that we feel extraordinarily helpless in the face of it. People have always been helpless in the face of certain dangers &mdash; there wasn&rsquo;t much they could do about many terrible diseases in the past, for instance &mdash; but they usually had the impression they could try something, prayer if nothing else. We now seem utterly at the mercy of our world leaders, and of the technology we have created. Our helplessness in the face of defective microelectronic chips is an old science fiction nightmare come true &mdash;the intricate machine that destroys the world while its creators look on helplessly &mdash; but even more galling to me is our helplessness in the face of our world leaders. As I write this piece, the fate of the earth seems literally to rest in the hands of two men, aged seventy-two and seventy-three. From all we can tell by their public pronouncements, they both have views of the world that belong in the Stone Age, or in pre-adolescence. Both apparently believe that their opposite numbers represent all that is evil on the face of the earth. Both seem to think that the only way to safety is to amass as many different kinds of weapons as possible. Both provoke each other pettishly and unnecessarily. Neither wants to get together to talk the situation over; they both seem to think that such a conversation would be positively harmful, as if open communication were dangerous. In their heavily-fortified and sumptuous seats of government, they sit around plotting against each other, surrounded by others who share their views. I can accept that I am ultimately helpless to protect my child against the exigencies of human existence, but the idea that these two befuddled and ignorant old men might be responsible for his death infuriates me. I cannot accept it. I do not accept it. It is, however, a fact.</p>
+
+<h5>IV</h5>
+
+<p>Probably the period of greatest anxiety in my life was my last year in college, when the Vietnam War was in full swing. People look back on student protests from those days as wild and irrational, but it seems to me they only expressed openly and in broad daylight the terrible anxiety students were feeling all the time. I returned to my single dorm room every night with a gaping emptiness in my chest, staring into a blank future. I knew at that point that I would never fight in Vietnam (though I had a haunting fear that the government would find a way to force me to; they would round up all the hippies and fairies and draft dodgers and crazies and send them off in one big platoon), but I was afraid of going to jail. I figured I would go to Canada, but dreaded the prospect of exile from my native land. I wanted to be a novelist, and was afraid that if I cut myself off from my roots I wouldn&rsquo;t be able to write.</p>
+
+<p>At night, back in my room, I would light up a pipe or cigar and draw on it hard, as if to taste the harsh bitterness I felt in my heart. I put on a record, playing it softly (to this day certain Beethoven piano sonatas &mdash; with Arthur Rubenstein&rsquo;s incredibly precise touch &mdash; bring back those nights). I turned out the lights in my room and opened the curtain, stared out at the darkness. The coal of my pipe or cigar glowed as I drew on it, smoke drifted toward the ceiling; the music &mdash; that had survived other crises, other wars &mdash; softly played; the anxieties in my chest were like a poison in the blood. I felt them as a pain. The music had a terrible poignance, as if it were all the beauty in my life that I would briefly touch and then lose forever. Eventually I would stop smoking and turn off the music, lose myself in a restless sleep. I awoke every morning with a feeling of dread. Sometimes it was all I could do to get out of bed.</p>
+
+<p>I don&rsquo;t remember thinking about the bomb in those days. Our country was involved in the most significant military action of my lifetime, exactly the kind that was supposed to escalate into nuclear war, but I seldom thought about nuclear weapons, and I don&rsquo;t remember people talking about them much. The times themselves were so apocalyptic &mdash; with assassinations, burning, looting, street violence, massive demonstrations &mdash; that no one gave much thought to the ultimate weapon. We didn&rsquo;t need nuclear weapons to destroy ourselves. We were doing a perfectly good job without them.</p>
+
+<p>It is interesting that it was right about then &mdash; the first Earth Day was in 1970 &mdash; that people began to concern themselves with ecological disaster. It wasn&rsquo;t nuclear war that was going to get us; it was air pollution, water pollution, and &mdash; especially &mdash; overpopulation. Even so bland an organ of popular culture as <em>Life</em> magazine predicted that within thirty years this cluster of problems might well bring about the extinction of the human race. It wouldn&rsquo;t be long, people said, before the nightly news would routinely feature footage of people starving in India and Africa. Wars would be fought over dwindling resources. Even in the United States, the trend toward overpopulation was irreversible, and before long our resources would be insufficient to support us. (At least in my memory, it was in light of those fears that today&rsquo;s liberal abortion laws were passed. Only a minority spoke of abortion as legalized murder. Most people saw it as one of the potential saviors of mankind.)</p>
+
+<p>I do not mention these things to make light of our present predicament. The threat of nuclear war seems real to me, and no doubt the danger of ecological disaster is still with us. It is interesting, however, the way intensity of concern in these matters comes and goes, the way a problem that has been around for years can suddenly loom as apocalyptic. Perhaps it takes periodic uproars of this kind to alert people enough so that they avoid disaster. But the fact of the matter is that, almost halfway through the thirty years that we supposedly had left to live, we hardly ever hear of ecological apocalypse anymore. The trend toward a steadily increasing population in this country at least temporarily halted, something no one thought would happen. One looks back on the frantic concerns of 1970 as being faintly amusing, almost quaint. It doesn&rsquo;t seem surprising that we had such thoughts then. Everything was apocalyptic in those days.</p>
+
+<p>Perhaps every age needs its apocalyptic cause. At least one, if not several. We tend not to take seriously the apocalyptic visions of past ages (those in the Bible, for instance, seem little more than magnificent poetry, except for people &mdash; including, unfortunately, the incumbent President &mdash; who for some reason think that they foretell the twentieth century), but to take very seriously those of our own age, even though they can seem quaint ten years later. Human beings seem to have some morbid need to picture the end, not just of their own lives, but of the human race and the world we live in. Some picture it with excitement, some with horror, some with an odd kind of satisfaction (if I have to go the whole world&rsquo;s going with me). I can&rsquo;t help thinking that a large part of the interest in a movie like &ldquo;The Day After&rdquo; involves not a true concern with the issue, but this fascination with the end of things, the way people read a certain kind of science fiction or horror story. They get off on the thought of the end of the world. [Paul Goodman, in an essay entitled &ldquo;A Public Dream of a Universal Disaster,&rdquo; suggested we dwell on such things because our lives lack basic satisfactions. We find no real excitement in our love or work, we stifle our deepest feelings to adapt to society; therefore we dream of an unspeakable disaster that will bring us some real excitement. I find this essay ingenious, but wonder about past ages. Were people even in Biblical times lacking in life&rsquo;s basic satisfactions? The dream of a universal disaster seems present throughout human history, as if it involves something basic in human nature.]</p>
+
+<p>I well remember a program I attended on the first Earth Day. The subject was overpopulation, and the panel included a variety of speakers. As was common in any kind of social protest in those days, one of the speakers was a minister. He was a man of medium build, with a huge curly beard, fiery eyes. No doubt he considered himself a latter-day Rasputin. Ministers were not the bland kindly men in those days that they have been at other times, and he had brought along a more frightening set of statistics than anyone else. Even if every woman in the world who did not want children went on the pill, he said, even if they all used a method of birth control that was ninety-nine percent effective, that one percent of failures, combined with the people who wanted to have children, would be enough to populate the world into extinction. He had the statistics to prove it. While the audience took in his chilling news, no one else on the panel &mdash; though it included a population expert and several biologists &mdash; rose to challenge this assertion. No one denounced the man as a preposterous charlatan. Everyone just sat there looking glum. The worse the news sounded, in those days, the truer it seemed. What I have always remembered, though, is that while the minister stood up behind that podium, while he spoke those words that were like nails driven into all our coffins, his mouth &mdash; beneath those fiery eyes, and within that curly halo of beard &mdash; wore a small satisfied smile.</p>
+
+<blockquote class="quote-1 large">
+<p>I can accept that I am ultimately helpless to protect my child against the exigencies of human existence, but the idea that these two befuddled and ignorant old men might be responsible for his death infuriates me. I cannot accept it. I do not accept it. It is, however, a fact.</p>
+</blockquote>
+
+<h5>V</h5>
+
+<p>All this is not to say that people&rsquo;s concerns aren&rsquo;t valid. A variety of factors may go into producing a person&rsquo;s fears, but that doesn&rsquo;t mean there is no substance to them. When William James studied the <em>Varieties of Religious Experience</em>, he concluded that certain kinds of people were more available for belief than others, that different personalities feel and express faith in different ways. He did not therefore conclude that there was no God.</p>
+
+<p>The fact of the matter is that everyone perceives a danger. The Reagan administration, when they came into office, perceived the danger as being that we did not have enough nuclear weapons, did not have the right kinds of nuclear weapons, that the Russians could launch a nuclear war against us and effectively win it. As far as I can tell, this belief was utterly preposterous. Their solution seems to have been to build every weapon they could think of, regardless of its cost or effectiveness, to pile up an arsenal that exceeds that of the Soviets. The only safety, they believe, lies in such a path.</p>
+
+<p>This is no place to discuss specific arms policies. Such a discussion would blow my piece all out of proportion, and is really not a part of my topic anyway. It seems to me that in approaching specific weapons strategies we are touching on a more basic psychological question, one not specific to the nuclear age at all. In times of stress and conflict &mdash; chronic conditions in the twentieth century &mdash; there have always been those who think that the first step is to arm yourself to the teeth, to pile up enough weapons so that the enemy can hardly see you. It might not be too dangerous to speak to the enemy, but only if you are holding a bludgeon over his head, one noticeably bigger than the bludgeon he is holding over yours. Such people claim that they wish they didn&rsquo;t have to have a bludgeon, but that one must be realistic; the enemy is simply the kind of person you can&rsquo;t talk to without it. There has also always been another group of people who believe in times of stress and conflict that the first thing to do is to lay down your arms, to clear away the weapons so that human beings can see each other; the thing to talk about is not war, but ways to peace, areas of common concern. This second group believes that the enemy, as a group of human beings, is no better or worse than anyone else, that it is the conflict itself, the threat of war and the presence of weapons, that makes him seem dangerous. [A certain kind of cold warrior &mdash; if he had bothered to read this at all &mdash; would jump in at this point and brand me as naive, saying that it doesn&rsquo;t matter what kind of people the Russians are, the aim of the Soviets is world domination and anyone who doesn&rsquo;t understand that is a fool. Even I get tired of my pacifist friends who endlessly repeat that the Russians are a peace-loving people and who never address the threat of the Soviet regime. I agree that the Russians pose a threat, and I won&rsquo;t pretend I know exactly what to do about it. I don&rsquo;t think it has been conclusively established &mdash; as Casper Weinberger states with such assurance &mdash; that the aim of the Soviets is world domination, and even if that is their ultimate aim in some theoretical sense it hardly seems likely that they are on the verge of conquering the world at the moment. They are having enough trouble just holding on to Afghanistan. I do not agree with the Reagan administration&rsquo;s insistence on branding the Soviets as evil atheistic villains who are out to kill us or corrupt us. It is an insult to the intelligence of the American people to state the case in those terms. And I do not believe that the answer to the Soviet threat is to build more nuclear weapons. I don&rsquo;t have to know the right answer to recognize a wrong one when I see it.]</p>
+
+<p>I belong to the second group. It is really just a matter of personality. I am a congenital pacifist. I am not always a peaceful man, and I am certainly not at peace with myself, but I have always believed that in circumstances of mass conflict the proper course lies in negotiation, not warfare. I simply don&rsquo;t believe that war accomplishes anything, at least not anything worth the terrible destruction it brings about. I don&rsquo;t believe that people should set about killing each other. It is no way for human beings to behave. I have always believed in bringing enemies together, where they can see each other&rsquo;s faces. It seems obvious, anyway, that the two sides I have mentioned represent not two solutions to a problem, but two different personalities, two views not just of the enemy but also of the self. [Freeman Dyson, in his recent <em>Weapons and Hope</em>, calls these two groups warriors and victims. One unfortunate fact is that it is the warriors who inevitably come to positions of power in government; the victims are probably discouraged by the irrationality and banality of what they have to do to get power. Thus we have the bizarre situation we are facing nowadays, in which the leaders of the Western powers all want more arms, while the people they govern are screaming for disarmament.]</p>
+
+<p>What I believe is that nuclear weapons do not fit into this age-old disagreement. It is what Einstein meant when he said we had to find a new way of thinking. With conventional weapons you can conceivably argue that you can never have enough, but with nuclear weapons things are different; once you have the capacity to destroy the earth there is no need for any more. Furthermore, since the whole point in building nuclear weapons is to see that they are not used, any weapons system that makes their use more likely is a positive evil, and to be avoided. In the case, for instance, of the recent deployment of missiles in Western Europe, if it really is the case that because of these missiles the Russians have staged more missiles in Eastern Europe, and staged them closer to the West; if it is true that the Russians have deployed more weapons in submarines off our coast; if the proximity of missiles in Western Europe makes the Russians jumpier than before and more likely to fire their missiles in a crisis; if &mdash; perhaps most significantly &mdash; it is the deployment of missiles, in Western Europe that made the Russians leave the arms talks, can anyone seriously argue that the deployment of these missiles has made us safer? If it is true that any use of nuclear weapons will inevitably lead to the final conflagration, then any weapons system that further imperils the enemy further imperils everyone. What the present administration has not even begun to understand is that nuclear armament is an entirely different proposition from conventional armament, not a simple matching of bomb for bomb, or the development of a new weapons system because you can develop it. The whole question of armament in the nuclear age requires something that has always been in short supply in the government, or in the military. A little imagination.</p>
+
+<p>In the past you could always argue that the enemy was on the other side, and that the weapons you were piling up were to protect you from him. In the second half of the twentieth century, however, we have begun to stare at these weapons with curiosity, with wonder, with some alarm. They have taken on an existence of their own, apart from anything we might have used them for. It is beginning to seem that the weapons themselves are the worst enemy we have.</p>
+
+<blockquote class="quote-1 large">
+<p>No amount of meditation, getting in touch with my feelings, searching for inner peace, has ever done half the good of one morning of handing out leaflets.</p>
+</blockquote>
+
+<h5>VI</h5>
+
+<p>The only way I have ever found to relieve my anxieties about nuclear war is to take action. Attending meetings, carrying around petitions, making phone calls, sitting at peace booths, writing letters to the newspaper, lobbying legislators. No amount of meditation, getting in touch with my feelings, searching for inner peace, has ever done half the good of one morning of handing out leaflets. The real problem in this anxious situation, as in all anxious situations, is a feeling of helplessness. The feeling of helplessness itself produces anxiety and depression; it doesn&rsquo;t matter what brings it about. A boss who is all powerful and behaves irrationally. A house full of work that will never get done. A night at the airport when the planes aren&rsquo;t going out. The threat of nuclear war.</p>
+
+<p>On the surface, the situation is astounding. Poll after poll reveals that many Americans believe they and their children will die in a nuclear war, yet only a miniscule number (though impressive for a grassroots movement) try to do anything about it. If one considers it for a moment, however, the situation is not even surprising. If all those people were working to diminish the threat of nuclear war, they probably wouldn&rsquo;t feel the way they do. They wouldn&rsquo;t believe they were going to die. They would believe their actions would save them. It is because they are doing nothing that they feel as anxious as they do.</p>
+
+<p>If all those people were working to diminish the nuclear threat, they probably would diminish it.</p>
+
+<p>In the case of most causes, concerned people use scare tactics. They paint as bleak a picture as possible, perhaps even exaggerating the situation, in the hope of frightening people into doing something. In the case of nuclear weapons, however, such a tactic is a mistake. People are already so scared about nuclear war &mdash; its image is burned into their subconscious like a primal fear &mdash; that bringing up their fear only drives them away. Far too much has been said about the danger we&rsquo;re in. It&rsquo;s time to begin talking about what we can do about it. When approaching people about nuclear war, the thing to say is not, &ldquo;Do you have any idea of the danger we&rsquo;re in?&rdquo; but &ldquo;I think there&rsquo;s something we can do about nuclear weapons.&rdquo;</p>
+
+<p>The question is, of course, whether or not there really is anything we can do. Action relieves anxiety. From a personal standpoint, it is a wise tactic. But one wonders, in the stultifying moments of carrying around tables, soliciting signatures, calmly explaining your position once again to a hostile listener, if the whole thing is doing any good. The forces around the world that are promoting nuclear armament are strong, and have enormous momentum. They have the energy given to any political movement by fear, greed, paranoia, shallow patriotism. They recently rolled over hundreds of thousands of protestors in Western Europe as if they weren&rsquo;t even there, and I am not quite crazy enough to think, when I am sitting at a peace table outside a grocery store, that they are taking much notice of me. But results in politics &mdash; especially in alternative politics &mdash; often require enormous amounts of time. Lightning flashes, and it seems many seconds before the thunder rumbles. That was certainly the case with protest against the war in Vietnam, and it may be the case again. I would not encourage people to join the peace movement because I am sure we can stop the arms race. I would encourage them to do so because it will diminish their anxieties, help integrate them as people; it will fit their thoughts to deeds and help soothe their fears. If enough people take these steps to help themselves, it may be that we will turn around the arms race as well.</p>
+														</div>
+
+
+				
+<div class="sharing-bar article-sharing">
+	<div class="sharing-bar-first">
+		<a href="javascript:window.print();" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-printer"></use></svg> <span>Print</span></a>
+	</div>
+
+	<div class="sharing-bar-second">
+		<span class="alt-ff xsmall">Share:</span>
+		<a href="https://www.facebook.com/sharer/sharer.php?u=https://www.thesunmagazine.org/issues/111/notes-toward-a-psychology-of-the-nuclear-age" target="_blank" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-facebook"></use></svg> <span>Facebook</span></a>
+		<a href="https://twitter.com/share?url=https://www.thesunmagazine.org/issues/111/notes-toward-a-psychology-of-the-nuclear-age&amp;via=thesunmagazine" target="_blank" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-twitter"></use></svg> <span>Twitter</span></a>
+		<a href="#" class="b b-1 b-padding-tight xsmall js-toggle-mail-form"><svg><use xlink:href="#i-email"></use></svg> <span>Email</span></a>
+	</div>
+</div>
+
+<div class="send-to-friend-message-container">
+	<div class="alert alert-success xsmall">Thank you for sharing <em>The Sun</em>.</div>
+</div>
+
+<form method="post" action="/ajax/articles/send-to-a-friend" class="form fill-grey send-to-friend-form">
+		<input type="hidden" id="form_url" name="form[url]" value="https://www.thesunmagazine.org/issues/111/notes-toward-a-psychology-of-the-nuclear-age" />
+
+	<ul class="form-fields">
+		<li><label for="form_sender_name"><span class="label-text">Your Full Name</span><span class="label-asterisk">*</span></label><input type="text" id="form_sender_name" name="form[sender_name]" required="required" /></li>
+		<li><label for="form_sender_email"><span class="label-text">Your Email Address</span><span class="label-asterisk">*</span></label><input type="email" id="form_sender_email" name="form[sender_email]" required="required" /></li>
+		<li><label for="form_recipient_name"><span class="label-text">Friend’s Name</span><span class="label-asterisk">*</span></label><input type="text" id="form_recipient_name" name="form[recipient_name]" required="required" /></li>
+		<li><label for="form_recipient_email"><span class="label-text">Friend’s Email Address</span><span class="label-asterisk">*</span></label><input type="email" id="form_recipient_email" name="form[recipient_email]" required="required" /></li>
+		<li><label for="form_message"><span class="label-text">Personalized Message</span></label><textarea id="form_message" name="form[message]"></textarea></li>
+	</ul>
+<div class="send-to-friend-message-container">
+	<div class="alert alert-error xsmall">Something went wrong. Please try again.</div>
+</div>
+
+<div class="g-recaptcha" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs"></div>
+<div class="form-actions"><button type="submit" id="form_submit" name="form[submit]"	class="form-actions-b-primary b b-1 b-loading xsmall"><svg><use xlink:href="#i-loading"></use></svg>
+		Submit
+	</button></div>
+<input type="hidden" id="form__token" name="form[_token]" value="aa6d7f160ce001a734db9b84803296ba3e664d31" /></form>
+
+<br>
+
+
+
+										<footer class="article-contributor contributors">
+									
+
+<div class="block-contributor">
+		
+
+		<div class="block-contributor-content">
+		<div class="block-contributor-bio small">
+			<p><span class="smallcaps"><strong>David Guy</strong></span> lives in Durham, North Carolina and is the author of two novels, <em>Football Dreams</em> and <em>The Man Who Loved Dirty Books</em>.</p><a href="/contributors/david-guy" class="block-contributor-link link-alt small">More From This Contributor&nbsp;&#9656;</a>		</div>
+	</div>
+</div>
+
+							</footer>
+						</article>
+
+
+				    <div class="paywall-subscription block-product">
+			<div class="columns">
+			<div class="paywall-banner span3 cta cta-l1">
+				<div class="cta-intro">
+					<h5 class="cta-title alt-ff">One Free Selection Left </h5>
+					<p class="cta-text xsmall"><a class="link-alt" href="https://www.thesunmagazine.org/subscriber/login" data-label="Already a subscriber?">Already a subscriber? Sign in ▸</a><br><br>Read two free selections from <em>The Sun</em> each month.</p>
+				</div>
+			</div>
+			<div class="paywall-banner span9 note note-1 text-center">
+				<h4 class="cta-title alt-ff">Subscribe to <em>The Sun</em> and save 45%</h4>
+				<p class="cta-text xsmall">Subscribers get full access to the current issue and more than 40 years of archives.</p>
+				<a class="b b-1 xsmall cta-trigger"  href="/subscribe1" data-label="Subscribe" data-ctatitle="Subscribe">Subscribe</a>
+			</div>
+		</div>
+
+		<div class="columns">
+			<div class="span12 paywall-cta-bottom">
+				<p>
+					<span class="cta-title-issue">Buy the February 1985 issue for $5.95</span>
+					<span class="xsmall">Order now to get instant access to this issue, and we’ll also send you a print copy.</span>
+					<a class="b b-5 xsmall corona"  href="#" data-product-type="issues" data-id="111" data-label="Order Now ▸">Order Now ▸</a>
+				</p>
+			</div>
+		</div>
+
+		
+
+</div>
+	
+	
+	
+	<div class="spacer"></div>
+	
+
+
+
+		
+		<div class="article-correspondence-cta">
+		<div class="cta cta-l1" data-url="https://www.thesunmagazine.org/letter-to-the-editor">
+			<div class="cta-intro">
+				<h5 class="cta-title alt-ff">Thinking about writing us a letter?</h5>
+				<p class="cta-text">Give in to the temptation. We love getting mail. <br><span class="xsmall">(Of course, we reserve the right to edit.)</span></p>
+			</div>
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" class="cta-button b b-4 b-padding-tight small" data-label="Write Us A Letter!">Write Us A Letter!</a>
+		</div>
+	</div>
+	
+
+			<div class="article-also layout-item-large full-bar fill-grey-mid-light">
+		<div class="layout-item-intro">
+			<h2>Also In This Issue</h2>
+			<a href="/issues/111" class="xsmall link-alt">February 1985&nbsp;&#9656;</a>
+		</div>
+		<div class="issue-articles-l1">
+			<div class="issue-articles-l1-content1">
+				
+<div class="cover cover-l1 block-product">
+	<div>
+							<a href="/issues/111" class="cover-thumb">
+				
+				<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 725'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/281x364r/import/issue/111.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/562x728r/import/issue/111.jpg
+	 alt=""
+	 class="lazy">
+
+			</a>
+		
+
+													<!-- <a href="/issues/111" data-product-type="issues" data-id="111" data-role="order" class="js-buy-single corona cover-button b b-1 b-full xsmall" data-label="Buy This Issue &#9656;">
+								Buy This Issue&nbsp;&#9656;
+			</a> -->
+			<a href="/issues/111" data-product-type="issues" data-id="111" class="js-buy-single corona cover-button b b-1 b-full xsmall" data-label="Buy This Issue &#9656;">
+								Buy This Issue&nbsp;&#9656;
+			</a>
+					
+					</div>
+</div>
+			</div>
+			<div class="issue-articles-l1-content2">
+				<div class="articles-l3">
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/quotations">Quotations</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/111/sunbeams-issue-111">Sunbeams</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/111/parting-the-veil">Parting The Veil</a></h3>
+					<p class="block-content-subtitle subtitle">A New Approach To Biology</p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/rupert-sheldrake">Rupert Sheldrake</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/poetry">Poetry</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/111/pieta">Pieta</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/constance-studer">Constance Studer</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/fiction">Fiction</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/111/buffalo-thunder">Buffalo Thunder</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/jon-remmerde">Jon Remmerde</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+									</div>
+			</div>
+		</div>
+	</div>
+	
+
+			<div class="article-related layout-item-large full-bar fill-pattern-light">
+		<div class="layout-item-intro">
+			<h2>Related Selections</h2>
+			<ul class="list-inline list-inline-tight"><li><a href="/topics/war" class="xsmall link-alt link-text">War</a></li><li><a href="/topics/science-and-technology" class="xsmall link-alt link-text">Science and Technology</a></li><li><a href="/topics/fear" class="xsmall link-alt link-text">Fear</a></li></ul>		</div>
+
+		<div class="articles-l2">
+							
+
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/sun-interview">The Sun Interview</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/344/will-work-for-food">Will Work For Food</a></h3>
+					<p class="block-content-subtitle subtitle">Sharon Hays On The Real Cost Of Welfare Reform</p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/pat-macenulty">Pat MacEnulty</a></li><li><a href="/issues/344">August 2004</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/344" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 727'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/140x182r/import/issue/344.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/import/issue/344.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/151/refrain">Refrain</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/sy-safransky">Sy Safransky</a></li><li><a href="/issues/151">June 1988</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/151" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 725'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/141x182r/import/issue/151.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/281x364r/import/issue/151.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/poetry">Poetry</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/131/i-want-to-be-a-machine">I Want To Be A Machine</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/carl-mitcham">Carl Mitcham</a></li><li><a href="/issues/131">October 1986</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/131" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 725'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/141x182r/import/issue/131.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/281x364r/import/issue/131.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/poetry">Poetry</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/35/selected-poems-diane-kistner-issue-35">Selected Poems</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/diane-kistner">Diane Kistner</a></li><li><a href="/issues/35">February 1978</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/35" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 725'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/141x182r/import/issue/035.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/281x364r/import/issue/035.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+					</div>
+	</div>
+	
+	
+					<form id="newsletterForm" method="post" action="https://www.thesunmagazine.org/newsletter" data-url-send="https://www.thesunmagazine.org/newsletter" class="form form-newsletter fill-grey" enctype="multipart/form-data" target="_blank">
+
+
+
+		<div class="form-newsletter-intro">
+			<h3 class="alt-ff large">Sign Up For Our Newsletter</h3>
+			<p>We’ll let you know about new website selections, upcoming events, special offers, and more.</p>
+		</div>
+
+		<ul class="form-newsletter-fields form-fields form-fields-inline">
+			<li>
+				<input name="name" type="text" maxlength="500" id="name" placeholder="Your Name">
+			</li>
+			<li>
+				<input name="email" type="text" maxlength="500" id="email" placeholder="Your E-mail">
+			</li>
+
+			<li class="form-fields-inline-button">
+				<button disabled="disabled" class="form-newsletter-send b b-4 b-padding-tight b-loading g-recaptcha" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs" data-callback="recaptcha_callback" name="SubmitButton" id="SubmitButton">
+					<svg><use xlink:href="#i-loading"></use></svg>
+					Sign&nbsp;Up
+				</button>
+			</li>
+		</ul>
+	</form>
+	<script id="hiddenlpsubmitdiv" style="display: none;"></script>
+
+
+
+<footer class="footer brand-grey-dark">
+			<div class="footer-first">
+		<h3 class="footer-tagline">Independent, Reader-Supported Publishing</h3>
+		<p class="footer-desc">In each issue of <em>The Sun</em> you’ll find some of the most radically intimate and socially conscious writing being published today. In an age of media conglomerates, we’re something of an oddity: an ad-free, independent, reader-supported magazine.</p>
+		<ul class="footer-nav list-inline-border xsmall">
+			
+		<li class=" first">
+			<a href="https://www.thesunmagazine.org/about" 	   class=''>
+	   About <em>the Sun</em>	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/staff" 	   class=''>
+	   Staff	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/find-the-sun" 	   class=''>
+	   Find <em>The Sun</em>&nbsp;&nbsp;in a Store Near You	</a>
+		
+	</li>
+
+
+		</ul>
+	</div>
+	
+		<div class="footer-second">
+		<ul class="footer-second-social list-inline">
+			<li><a href="https://www.facebook.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-facebook"></use></svg></span> Like Us</a></li>
+			<li><a href="https://twitter.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-twitter"></use></svg></span> Follow Us</a></li>
+			<li><a href="https://instagram.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-instagram"></use></svg></span> Take a Look</a></li>
+		</ul>
+
+		<div class="footer-second-content">
+			<ul class="footer-nav list-inline-border xsmall">
+				
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/" 	   class='current '>
+	   Home	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/privacy-policy" 	   class=''>
+	   Privacy Policy	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/terms-of-use" 	   class=''>
+	   Terms of Use	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/site-map" 	   class=''>
+	   Site Map	</a>
+		
+	</li>
+
+
+			</ul>
+			<p class="footer-copyright xxsmall">Copyright &copy; 1974–2020 <em>The Sun</em>. All rights reserved.</p>
+		</div>
+	</div>
+</footer>
+
+
+
+<div class="offset-nav">
+	<ul>
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/read" 	   class='current '>
+	   Read	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/issues/current" 	   class=''>
+	   Current Issue	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/archives" 	   class=''>
+	   Archives	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/featured" 	   class=''>
+	   Featured Selections	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/topics" 	   class=''>
+	   Browse Topics	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/sections" 	   class=''>
+	   Browse Sections	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/connect" 	   class=''>
+	   Connect	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/news" 	   class=''>
+	   News from <em>The Sun</em>	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" 	   class=''>
+	   Write a Letter to the Editor	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/discussion-groups" 	   class=''>
+	   Discussion & Writing Groups	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/make-a-suggestion" 	   class=''>
+	   Make a Suggestion	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/submit" 	   class=''>
+	   Submit	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/shop" 	   class=''>
+	   Shop	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/giftsub" 	   class=''>
+	   Gift Subscriptions	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/issues" 	   class=''>
+	   Issues	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+											
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/donatemenu" 	   class='highlight'>
+	   Donate	</a>
+		
+	</li>
+
+		<li class=" last">
+														<a href="/SubscribeNav1" 					   class=''>
+						Subscribe					</a>
+									
+	</li>
+
+
+					<li>
+				<a href="https://www.thesunmagazine.org/shop/cart">Cart ( <span class="cart-item-count">  0  </span>)</a>
+			</li>
+			<li><a href="https://www.thesunmagazine.org/subscriber/login" class="link-header-logout link-alt">Sign In</a></li>
+			</ul>
+	<ul>
+		<li class=" first">
+			<a href="https://www.thesunmagazine.org/about" 	   class=''>
+	   About <em>the Sun</em>	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/staff" 	   class=''>
+	   Staff	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/find-the-sun" 	   class=''>
+	   Find <em>The Sun</em>&nbsp;&nbsp;in a Store Near You	</a>
+		
+	</li>
+
+</ul>
+	<ul>
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/" 	   class='current '>
+	   Home	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/privacy-policy" 	   class=''>
+	   Privacy Policy	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/terms-of-use" 	   class=''>
+	   Terms of Use	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/site-map" 	   class=''>
+	   Site Map	</a>
+		
+	</li>
+
+</ul>
+</div>
+
+<div id="buy-popup-message" class="buy-popup mfp-hide white-popup white-popup-block">
+	<a class="popup-modal-dismiss" href="#"></a>
+	<h5>Due to fulfillment challenges related to the novel coronavirus, print copies are temporarily unavailable for individual sale. We are offering free PDFs until we are able to resume print sales.</h5>
+	<p>Enter your e-mail address below to download this issue.</p>
+	<form method="post" id="download-single" action="https://www.thesunmagazine.org/issue/pdfFree/531.pdf">
+		<label for="email"><span class="label-text">E-mail</span><span class="label-asterisk">*</span></label>
+		<input class="buy-single-email" id="email" type="email" name="email">
+		<button type="send" class="form-buy-issue-send b b-3 b-padding-tight b-loading">Send</button>
+		<button class="form-buy-issue-download b b-3 b-padding-tight b-loading">Download pdf</button>
+		<button type="send" class="popup-modal-dismiss b b-2 b-padding-tight b-loading">Close</button>
+		<div class="g-recaptcha" style="text-align: center" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs"></div>
+
+	</form>
+</div>
+
+			<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/plugins.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/site.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/newsletter.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/js/articles.js"></script>
+		</div>
+		</div>
+
+				<script>
+		(function (doc) {
+			var scripts = doc.getElementsByTagName('script');
+			var script = scripts[scripts.length - 1];
+			var xhr = new XMLHttpRequest();
+			xhr.onload = function () {
+				var div = doc.createElement('div');
+				div.innerHTML = this.responseText;
+				div.style.display = 'none';
+				script.parentNode.insertBefore(div, script);
+			}
+			xhr.open('get', '/theme/thesun//assets/build/img/sprite/sprite.svg', true);
+			xhr.send();
+		})(document);
+
+
+
+		</script>
+
+		<script>
+			// Submit function
+            function recaptcha_callback() {
+						var getUrl = $('.form-newsletter').data( "url-send" ),
+							getName = $('input#name').val(),
+							getEmail = $('input#email').val();
+						$.ajax({
+								type: "POST",
+								url: getUrl,
+								data: {
+									name: getName,
+									email: getEmail,
+									grecaptcharesponse: grecaptcha.getResponse()
+								}
+							}).done(function(response) {
+								console.log(response);
+									$('.form-fields').fadeOut(800, function () {
+										$('.form-fields').empty().append('<div class="newsletter-confirm-message">Thank you for signing up to receive news from <em>The Sun</em>. Your first newsletter will arrive soon.<div>').fadeIn(800);
+									});
+							});
+			}
+
+		</script>
+
+		<script>
+			function getUrlCode() {
+				var url_string = window.location.href;
+				var url = new URL(url_string);
+				var c = url.searchParams.get('promotion\_key');
+				if (typeof c !== 'undefined' && c !== null) {
+					setCookie("promotion_code",c);
+				}
+			}
+
+			function setCookie(cname, cvalue) {
+				document.cookie = cname + "=" + cvalue + ";" + "path=/";
+			}
+
+			function getCookie(cname) {
+				var name = cname + "=";
+				var decodedCookie = decodeURIComponent(document.cookie);
+				var ca = decodedCookie.split(';');
+				for(var i = 0; i <ca.length; i++) {
+					var c = ca[i];
+					while (c.charAt(0) == ' ') {
+						c = c.substring(1);
+					}
+					if (c.indexOf(name) == 0) {
+						return c.substring(name.length, c.length);
+					}
+				}
+				return "";
+			}
+			window.addEventListener( "load", getUrlCode );
+		</script>
+
+
+	</body>
+</html>

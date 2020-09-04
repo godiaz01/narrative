@@ -1,0 +1,1215 @@
+
+<!DOCTYPE html>
+<html class="no-js" lang="en-US">
+	<head>
+		<title>Fog - The Sun Magazine</title>
+
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		
+		<meta name="viewport" content="width=device-width, minimum-scale=1.0">
+
+		<link rel="dns-prefetch" href="//ajax.googleapis.com">
+		<link rel="dns-prefetch" href="//use.typekit.net">
+		
+		<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/modernizr.js"></script>
+		<script src="https://www.google.com/recaptcha/api.js"
+				async defer>
+		</script>
+
+		<script>(function(d) { var config = { kitId: 'kzw7ebk', scriptTimeout: 3000, async: true }, h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s) })(document);</script>
+
+
+				
+		<link rel="apple-touch-icon" sizes="57x57" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-57x57.png?v=2016">
+		<link rel="apple-touch-icon" sizes="60x60" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-60x60.png?v=2016">
+		<link rel="apple-touch-icon" sizes="72x72" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-72x72.png?v=2016">
+		<link rel="apple-touch-icon" sizes="76x76" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-76x76.png?v=2016">
+		<link rel="apple-touch-icon" sizes="114x114" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-114x114.png?v=2016">
+		<link rel="apple-touch-icon" sizes="120x120" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-120x120.png?v=2016">
+		<link rel="apple-touch-icon" sizes="144x144" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-144x144.png?v=2016">
+		<link rel="apple-touch-icon" sizes="152x152" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-152x152.png?v=2016">
+		<link rel="apple-touch-icon" sizes="180x180" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-180x180.png?v=2016">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-32x32.png?v=2016" sizes="32x32">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/android-chrome-192x192.png?v=2016" sizes="192x192">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-96x96.png?v=2016" sizes="96x96">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-16x16.png?v=2016" sizes="16x16">
+		<link rel="mask-icon" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/safari-pinned-tab.svg?v=2016" color="#444444">
+		<link rel="shortcut icon" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon.ico?v=2016">
+		<meta name="apple-mobile-web-app-title" content="The Sun Magazine">
+		<meta name="application-name" content="The Sun Magazine">
+		<meta name="msapplication-TileColor" content="#fcc330">
+		<meta name="msapplication-TileImage" content="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/mstile-144x144.png?v=2016">
+		<meta name="theme-color" content="#ffffff">
+
+				<link rel="stylesheet" type="text/css" href="https://cloud.typography.com/6578674/659928/css/fonts.css" />
+		<link rel="stylesheet" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/css/style.css">
+
+																		<meta property="og:site_name" content="The Sun Magazine">
+		<meta property="og:type" content="article">
+		<meta property="og:url" content="https://www.thesunmagazine.org/issues/456/fog">
+		<meta property="og:image" content="http://www.thesunmagazine.org/files/2016-03/456-24-atherton-review.jpg">
+		<meta property="og:title" content="Fog - The Sun Magazine">
+		<meta property="og:description" content="Outside my bedroom window the trees are wrapped in fog. Silvery threads of rain coat the glass. It&amp;rsquo;s not yet dawn, and I don&amp;rsquo;t know why I&amp;rsquo;m awake. I rub my eyes, pulling the sheet closer around my shoulders as I sink back into bed. And then I remember: the 5 AM check. I push aside the covers, grab my glasses, and glance at the clock: 4:55. I&amp;rsquo;ve awakened before the alarm. Trained.">
+		<meta property="fb:app_id" content="158741778010551">
+
+						<link rel="image_src" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.comhttp://www.thesunmagazine.org/files/2016-03/456-24-atherton-review.jpg">
+
+												<meta name="twitter:card" content="summary">
+		<meta name="twitter:title" content="Fog - The Sun Magazine">
+		<meta name="twitter:description" content="Outside my bedroom window the trees are wrapped in fog. Silvery threads of rain coat the glass. It&amp;rsquo;s not yet dawn, and I don&amp;rsquo;t know why I&amp;rsquo;m awake. I rub my eyes, pulling the sheet closer around my shoulders as I sink back into bed. And then I remember: the 5 AM check. I push aside the covers, grab my glasses, and glance at the clock: 4:55. I&amp;rsquo;ve awakened before the alarm. Trained.">
+		<meta name="twitter:image" content="http://www.thesunmagazine.org/files/2016-03/456-24-atherton-review.jpg">
+		<meta name="twitter:site" content="@thesunmagazine">
+
+				<link rel="publisher" href="https://plus.google.com/113792980827145858211">
+        
+		<meta name="Description" content="Outside my bedroom window the trees are wrapped in fog. Silvery threads of rain coat the glass. It&amp;rsquo;s not yet dawn, and I don&amp;rsquo;t know why I&amp;rsquo;m awake. I rub my eyes, pulling the sheet closer around my shoulders as I sink back into bed. And then I remember: the 5 AM check. I push aside the covers, grab my glasses, and glance at the clock: 4:55. I&amp;rsquo;ve awakened before the alarm. Trained.">
+
+		
+		<!-- Google Tag Manager -->
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-TKBHCCG');</script>
+		<!-- End Google Tag Manager -->
+
+		<!-- Google Analytics -->
+		<script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+            ga('create', 'UA-2351127-1', 'auto');  // Replace with your property ID.
+            ga('send', 'pageview');
+            ga('require', 'ecommerce');   // Load the ecommerce plug-in.
+		</script>
+		<!-- End Google Analytics -->
+	</head>
+	<body id="">
+
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TKBHCCG"
+		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+		<header class="header" data-offset-start="80">
+		<div class="header-utilities">
+				<ul class="header-utilities-user list-inline list-inline-tight xxsmall">
+							<li>
+					<span class="header-utilities-user-intro">Already A Subscriber?</span> &nbsp;
+					<a href="https://www.thesunmagazine.org/subscriber/login" class="link-text link-alt">Sign In</a>
+				</li>
+					</ul>
+		<a href="https://www.thesunmagazine.org/shop/cart" class="header-utilities-cart  link-alt link-icon tiny">
+			<span class="i"><svg><use xlink:href="#i-cart"></use></svg></span>
+			<span class="cart-item-count">
+									0 Items
+				
+			</span>
+		</a>
+			</div>
+
+		<div class="header-bar">
+		<h1 class="header-logo logo">
+			<a href="/">
+				<img src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/img/logo-thesun.svg" class="logo-thesun" alt="The Sun Magazine">
+				<img src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/img/logo-tagline.svg" class="logo-tagline" alt="">
+			</a>
+		</h1>
+
+		<ul class="header-nav">
+			
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/read" 	   class='current '>
+	   Read	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/issues/current" 	   class=''>
+	   Current Issue	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/archives" 	   class=''>
+	   Archives	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/featured" 	   class=''>
+	   Featured Selections	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/topics" 	   class=''>
+	   Browse Topics	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/sections" 	   class=''>
+	   Browse Sections	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/connect" 	   class=''>
+	   Connect	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/news" 	   class=''>
+	   News from <em>The Sun</em>	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" 	   class=''>
+	   Write a Letter to the Editor	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/discussion-groups" 	   class=''>
+	   Discussion & Writing Groups	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/make-a-suggestion" 	   class=''>
+	   Make a Suggestion	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/submit" 	   class=''>
+	   Submit	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/shop" 	   class=''>
+	   Shop	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/giftsub" 	   class=''>
+	   Gift Subscriptions	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/issues" 	   class=''>
+	   Issues	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+											
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/donatemenu" 	   class='highlight'>
+	   Donate	</a>
+		
+	</li>
+
+		<li class=" last">
+														<a href="/SubscribeNav1" 					   class=''>
+						Subscribe					</a>
+									
+	</li>
+
+
+		</ul>
+
+		<button class="header-nav-toggle"><svg><use xlink:href="#i-menu" class="i-menu"></use><use xlink:href="#i-close" class="i-close"></use></svg></button>
+		<button class="header-search-toggle" data-form-wrapper=".header-search"><svg><use xlink:href="#i-magnifier" class="i-magnifier"></use><use xlink:href="#i-close" class="i-close"></use></svg></button>
+	</div>
+
+		<div class="header-search">
+		<div class="header-search-content">
+			<form action="https://www.thesunmagazine.org/search" class="form form-search" method="get">
+				<h2 class="alt-ff brand-link">Search Our 40 Years of Archives</h2>
+				<ul class="form-search-fields form-fields form-fields-inline">
+					<li><input type="text" name="q" value=""></li>
+					<li class="form-fields-inline-button"><button class="b b-1 b-padding-tight b-loading"><svg><use xlink:href="#i-loading"></use></svg>Search</button></li>
+				</ul>
+
+				<div class="header-search-content-shortcuts">
+					<h6 class="search-advanced alt-ff"><a class="js-handle-advanced" href="https://www.thesunmagazine.org/search?advanced=1">Advanced Search</a></h6>
+					<br>
+					<h6 class="alt-ff">Popular Pages</h6>
+					<ul class="list-inline-border list-inline-tight xxsmall"><li class=" first"><a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a></li><li class=""><a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a></li><li class=""><a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a></li><li class=""><a href="https://www.thesunmagazine.org/sections/quotations" 	   class=''>
+	   Quotations	</a></li><li class=""><a href="https://www.thesunmagazine.org/sections/readers-write" 	   class=''>
+	   Readers Write	</a></li><li class=" last"><a href="https://www.thesunmagazine.org/sections/poetry" 	   class=''>
+	   Poetry	</a></li></ul>				</div>
+			</form>
+		</div>
+	</div>
+</header>
+
+	<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+	<script type="text/javascript">
+		$(document).ready(function() {
+			$('.js-handle-advanced').on('click', function (e) {
+				e.preventDefault();
+				var getSearchValue = $('.form-search-fields input').val();
+				var getURL = $(this).attr('href');
+				var newURL = getURL + '&q=' + getSearchValue;
+				window.location.href = newURL;
+			});
+		});
+	</script>
+
+		<div class="container-hidden">
+		<div class="container">
+
+				
+	
+	<article class="article ">
+		<header class="block-content block-content-l1 block-content-center">
+						<div class="block-content-header">
+				<h6 class="b-content-section heading-square"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+				<h1 class="block-content-title">Fog</h1>
+
+				
+				<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/patricia-foster">Patricia Foster</a></li><li><a href="/issues/456">December 2013</a></li></ul>
+
+			</div>
+
+																			
+
+				<figure class="block-content-photo block-content-photo-large photo photo-outset-center-large">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 2360 1854'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/1180x1502r/photos/456-24-atherton.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/2360x3004r/photos/456-24-atherton.jpg
+	 alt="456 - Atherton - Foster"
+	 class="lazy">
+
+										<figcaption>
+
+						
+																				<div class="photo-credit">
+								&copy;&nbsp;<a href="/contributors/james-atherton">James Atherton</a>
+							</div>
+																		</figcaption>
+									</figure>
+
+					</header>
+
+				<div class="article-body link-text-wrap">
+																		<p class="dropcap">Outside my bedroom window the trees are wrapped in fog. Silvery threads of rain coat the glass. It&rsquo;s not yet dawn, and I don&rsquo;t know why I&rsquo;m awake. I rub my eyes, pulling the sheet closer around my shoulders as I sink back into bed. And then I remember: the 5 <span class="smallcaps">AM</span> check. I push aside the covers, grab my glasses, and glance at the clock: 4:55. I&rsquo;ve awakened before the alarm. <em>Trained.</em></p>
+
+<p>In less than two weeks my brain has learned to anticipate the 3 <span class="smallcaps">AM</span> and 5 <span class="smallcaps">AM</span> treks down the stairs to make sure that you, who are allowed to sleep only on your right side in the hospital bed in the living room, are <span class="smallcaps">OK</span>. At 3 <span class="smallcaps">AM</span> I wake you for your medications, staying by your side until you drift back to sleep; if you get up to pee, I&rsquo;ll curl up in a chair for thirty minutes and wait for you to settle back down; then I&rsquo;ll get only an hour and a half in bed before the next check. The 5 <span class="smallcaps">AM</span> check is the quickie, just to make sure you haven&rsquo;t pushed aside the foam barrier that keeps you from turning over and compromising your surgical wound.</p>
+
+<p>I yawn, pausing at the top of the stairs, and gaze out the window into a pale grayness. It&rsquo;s Sunday morning. For the past two weeks I&rsquo;ve been stressed and distracted, worried that you have lymphedema &mdash; your swollen legs and penis, your hard, distended belly &mdash; but equally anxious that I won&rsquo;t be able to finish reading for my job at the university or lean into a day of writing. As I watch the fog drift, the lilac bushes becoming visible and then veiled, I tell myself that today you won&rsquo;t be cranky from lack of sleep; you won&rsquo;t have leg aches that require me to wrap hot towels around your calves while you stand naked in the shower. I won&rsquo;t do any laundry or dishes. Who cares if the plates pile up in the sink? Maybe we&rsquo;ll watch the <span class="smallcaps">BBC</span>: I in the leather recliner, and you, who cannot sit because of the still-healing incision in your buttock, standing with one hand on the back of a chair for balance.</p>
+
+<p>Though the living room is dim &mdash; shades and curtains drawn, lights off &mdash; I can tell right away that your bed is empty. You&rsquo;re probably in the kitchen or the bathroom or maybe your study, checking e-mail at your stand-up desk. You sometimes get restless during the night, or your legs begin to cramp, and you&rsquo;ll pace for a while to relax the muscles, roaming the house like a nocturnal tour guide: here&rsquo;s where we&rsquo;ve made a thousand cups of espresso; here&rsquo;s where we caught that sneaky mouse; here&rsquo;s the pile of mail we shift from the table to the counter and back to the table. This morning I prowl the house, calling your name. You&rsquo;re not in the kitchen, not in the bathroom. I climb the stairs and open the door to your study, expecting to see you at the computer, hospital gown hanging below your down vest. But the room is empty.</p>
+
+<p>There&rsquo;s one more place you could be: in the basement, putting clothes in the washing machine. But when I open the basement door, there&rsquo;s only darkness. I flick on the lights and call your name as I descend the steps. Nothing. Back upstairs I&rsquo;m surprised to find the front door unlocked. For years we never locked it, thinking the habit fussy and prim, but now there&rsquo;s a halfway house across the street with a group of thick-bellied men sitting on the porch at all hours. Several times this winter a police car and an ambulance have arrived at that address, sirens blaring. We began locking the door.</p>
+
+<p>When I step outside, the trees glisten with rain, and the wind blows their limbs against the roof. The light is soft and ghostly, and a spooky fog rises from the earth, erasing boundaries. Still in my pajamas, I walk toward the street. The hostas are poking their noses through the dirt along our front walk. I don&rsquo;t see anyone, but then even the outline of a car parked ten feet away is hazy because of the drifting fog. Softly I call your name, feeling like the heroine in a thriller when something awful is about to happen. As if I&rsquo;ve conjured the possibility, I imagine you wandering aimlessly in the fog in your hospital gown and slippers, happy to be lost, free of confinement. You like to rove, to ignore all directions, to throw away the map when we&rsquo;re driving cross-country, to miss turns and signs because you&rsquo;re distracted by the tug of a thought, the lyrics of a song. You&rsquo;re ruled by impulse and intuition; when your brain says, <em>Go</em>, all the neurons wave happy green flags.</p>
+
+<p>But that&rsquo;s silly. Just yesterday in the bathroom your face grew clouded with fear, and you insisted I get inside the shower with you to dry you off. &ldquo;Go slow,&rdquo; you whispered, as if the nap of the towel might hurt your skin &mdash; and then, more emphatically, &ldquo;Slow!&rdquo;</p>
+
+<p>I watch the mist rise from the ground, shrouding the street, a pale yellow light skimming the tops of the trees. That light .&nbsp;.&nbsp;. I race back inside and upstairs to your study. Your camera, which usually sits at the far end of your desk, is gone. Anxiety floods my veins, followed by anger: you&rsquo;ve gone on a 5 <span class="smallcaps">AM</span> photo shoot not quite two weeks after surgery for a malignant tumor on your butt, and less than eight hours after you scolded me for not being careful enough with your incision. I glance out your study window and imagine I see you on College Street, leaning forward, your eye to the camera as you frame a shot. You inch closer, closer, but the concrete is wet and slick, and before you can help it &mdash;</p>
+
+<p>I jerk away from the window, but I can&rsquo;t stop picturing the dire possibilities: You stumbling over an uneven sidewalk. You missing the step down from the curb because you&rsquo;ve been distracted by the red tulip at the edge of a neighbor&rsquo;s yard. You moving in to get a photo of an oak tree and then backing up too quickly on the damp grass. When you fit the camera to your eye, you become oblivious to everything outside the scope of the lens. Lost in time. Green flags fluttering.</p>
+
+<p>Back downstairs I turn on the porch light and step outside. I call your name a little louder and with insistence. My jaw is clenched. I try to relax it. Why would you do this to me? I imagine you standing just inside a neighbor&rsquo;s yard, staring at vines tangled through fence posts, when a police car stops nearby. You don&rsquo;t see the two officers eyeing you in your hospital gown as you trespass on the lawn of a private residence at 5 <span class="smallcaps">AM</span> on a Sunday. The policemen approach, asking you to step toward them, to put down your camera, to provide identification. You try to explain that you&rsquo;re just taking photos, unaware of how ridiculous you appear, unaware that in the past month two men have gone <span class="smallcaps">AWOL</span> from the psych ward at the university hospital, unaware even that you&rsquo;re trespassing. Again they ask for identification, and you give them your address. They stare at your gown and say, <em>We&rsquo;ll drive you there</em>. Your face tightens. Sometimes you still call the police &ldquo;pigs,&rdquo; as we did in the sixties, your distrust of authority firmly grounded in the experience of being detained in 1966 for having hair down to your collar. Now you try to tell the police that you&rsquo;ve had an operation and can&rsquo;t sit down for six weeks.</p>
+
+<p>Will you hike up your gown and show them the big smiley-face incision on your butt cheek with its two teardrop-shaped drains? Will you say ironically, <em>You know, I just might have an expiration date, so I&rsquo;d better get this photo</em> &mdash; a joke that will evoke no smiles? What <em>can</em> you say except that you&rsquo;re an artist, and this is what artists do: tramp out into the unknown when the light seems right and the spirit is willing.</p>
+
+<p>Shit. I sit down on the front steps. I&rsquo;m making myself crazy. I should go looking for you, to protect you, but behind my worry and fear lies a silent fury. For the past two weeks we&rsquo;ve kidded that your condition is improving while mine is declining. As your caretaker I&rsquo;ve subordinated my own life &mdash; writing time, sleep, teaching prep &mdash; in order to make sure you&rsquo;re as safe and comfortable as possible: nighttime checks, medicine schedules, showers, clean gowns and drains and dressings. Now I cradle my head against my knees as the dark mess of my resentment tumbles out: I don&rsquo;t want you to do what I can&rsquo;t. It&rsquo;s such a creepy thought that I know it&rsquo;s true. The idea of you being pulled by inspiration while I sit here, anxious and empty, makes me angry. It&rsquo;s the old story: How dare you venture out into the world and get happily lost while I wait and worry? How dare you indulge your creative life while mine is buried in errands and laundry, appointments and bills?</p>
+
+<p>As raindrops fall from the overhanging branches, splashing my ankle, I&rsquo;m no longer worried about your safety. I&rsquo;m worried about myself, a woman feeling envious of her sick husband.</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">More than thirty years ago, after I finished an <span class="smallcaps">MFA</span> in art, you and I put all our art supplies and furniture in storage, sold your car, packed up my Honda, and fled the chaotic bustle of Los Angeles. For three weeks we camped on California&rsquo;s beaches and in Washington&rsquo;s rain forests. Then we boarded the Black Ball Ferry from Port Angeles to Vancouver Island while sheets of rain slapped against our ponchos and flooded our shoes. Only our books and snacks &mdash; held beneath our ponchos &mdash; remained dry. Once we&rsquo;d settled in our seats, I took out Gore Vidal&rsquo;s novel <em>Burr</em>, which I was two-thirds of the way through, and Jean-Paul Sartre&rsquo;s <em>Being and Nothingness</em>, a book on existentialism that I thought I should read if I wanted to call myself educated.</p>
+
+<p>&ldquo;Can I see your Sartre book?&rdquo; you asked.</p>
+
+<p>&ldquo;Sure.&rdquo; I watched as you opened the first page and began to read. I expected you&rsquo;d soon get bored and put it down, since you had your own stack of paperbacks. So I continued reading <em>Burr</em>. But when I glanced over a few minutes later, you seemed absorbed.</p>
+
+<p>&ldquo;What are you doing?&rdquo; I asked. &ldquo;That&rsquo;s <em>my</em> book.&rdquo;</p>
+
+<p>&ldquo;Oh, are you reading it?&rdquo;</p>
+
+<p>I said no, but I was going to read it next.</p>
+
+<p>You looked at <em>Burr</em> and saw that I still had a sizable chunk left to go. You said you would read the Sartre while I finished the novel.</p>
+
+<p>&ldquo;You can&rsquo;t,&rdquo; I said, surprising us both. &ldquo;<em>I</em> have to read it first.&rdquo; I put my hand over the book.</p>
+
+<p>&ldquo;Why?&rdquo;</p>
+
+<p>I stared into the distance, where rain blurred the horizon. &ldquo;Because it&rsquo;s mine,&rdquo; I whispered.</p>
+
+<p>&ldquo;That&rsquo;s ridiculous!&rdquo; You stood up abruptly, tossing the book into my lap, and walked away. But then, just as suddenly, you came back and stepped close to me. In a low voice only I could hear, you said I was just too competitive to share. I didn&rsquo;t want to learn things; I wanted to <em>possess</em> them. I was afraid that if you read the Sartre first, you might know more than I did, and I couldn&rsquo;t stand that.</p>
+
+<p>I stared, stunned by how astutely you&rsquo;d analyzed me. Humiliated by such transparency, I began to cry. I couldn&rsquo;t believe I was so warped and vain that I didn&rsquo;t want you to know something I didn&rsquo;t. As you walked away into the interior of the ferry, I worried you&rsquo;d leave me.</p>
+
+<p>Miserable, I ate my beef jerky.</p>
+
+<p>Twenty minutes later you returned carrying two cups of coffee. You gave one to me as if nothing had happened, your hand briefly touching mine. I stared at your thumb on the paper cup, remembering how, weeks earlier, you&rsquo;d pushed aside a clump of hard dirt with that thumb as we&rsquo;d lain laughing and kissing in an alfalfa field. &ldquo;You don&rsquo;t need to be competitive with me,&rdquo; you said now, leaning close. &ldquo;I want you to learn as much as you can. As much as you want.&rdquo;</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">I&nbsp;&rsquo;m making tea when I hear the front door open, and my entire body tenses. You appear in the kitchen, looking self-absorbed and happy, oblivious to any complications caused by your early-morning jaunt.</p>
+
+<p>Rather than feel relieved that you&rsquo;re back, I&rsquo;m angry. &ldquo;Where have you <em>been</em>?&rdquo;</p>
+
+<p>&ldquo;Taking pictures,&rdquo; you say, surprised at my tone of voice. &ldquo;It was the light. I had to capture the light. I had to&mdash;&rdquo; And then you see my face. Your body softens as you come closer and try to hug me. At first I resist, my arms stiff by my side, but then I let you draw me in, my nose to the hollow of your neck, and I remember how last year, your body still whole, you walked out onto our porch in a blue shirt &mdash; <em>only</em> a blue shirt &mdash; and I laughed from the porch swing.</p>
+
+<p>I smell the rain on you, a musty dampness in your hair, your robe. It&rsquo;s oddly pleasing. When I pull back to gaze at you, you look like a man who could survive anything. I feel torn between pushing you away and saying, <em>Let&rsquo;s have breakfast</em>.</p>
+
+<p>&ldquo;I can probably sleep now,&rdquo; you say.</p>
+
+<p>&ldquo;Don&rsquo;t ever do that to me again.&rdquo;</p>
+
+<p>You nod, yawning, then pick up your camera and climb the stairs.</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">The popular notion of marriage is that it&rsquo;s a partnership, a spiritual and sexual joining of two selves. I don&rsquo;t doubt this is true for many, but for me that definition seems too benign, too constrained for all the feelings that fuel our union, all the mixed emotions and raucous decisions that define the way you and I have lived. We constantly connect and disconnect, fall in and out of each other&rsquo;s favor, alternately crave the other&rsquo;s attention and long to be alone. It&rsquo;s true that we like the same jokes and make fun of the same people (whose traits often remind us of the worst parts of ourselves). We both require solitude and silliness, have fetishes about food &mdash; though never the same kinds &mdash; and prefer a double bed to a queen or a king, our bodies overlapping, entangled, thrown together. You once told me that I needed to protect you from myself. I once insisted you were a self-righteous egotist and gave you a priest&rsquo;s collar and a mirror to seal the deal. &ldquo;You don&rsquo;t <em>listen</em>!&rdquo; I yell when I&rsquo;m upset, and then you do listen &mdash; intensely, even your breathing attuned to mine. And yet beneath all our habits and quirks and vanities, I secretly believe that what pulls us together is recognition: we understand each other&rsquo;s need to burrow deep into ourselves and become more.</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">While you are upstairs, I wander into my study and peruse the bookshelves. There it is: <em>Being and Nothingness</em>, pushed between two paperbacks. I never read it. And yet I&rsquo;ve packed and unpacked it with every move: from Los Angeles to Seattle to Iowa City to Tallahassee and back to Iowa City. I pull it out. The cover is worn, wrinkled, and water stained. Staring at it, I realize I&rsquo;ve misperceived my own story: I always told myself that the girl on the ferry would, in time, with the man&rsquo;s help, overcome her sense of intellectual inferiority, her need to know more, more, more.</p>
+
+<p>Now I see that, instead of fading away, that feeling of insecurity is my live-in companion. I gain release only when I&rsquo;m immersed in creative work, hunkered down, my daily life fading as the words ignite. Through the years, I&rsquo;ve come to know that you&rsquo;re the same, released from your own captivity only when you see the light loosen the mystery of two blue garden chairs in the high weeds or the angle of a crooked, rusting fence. Your morning trek was your way of defying cancer&rsquo;s demands, dismissing despair. For two hours you weren&rsquo;t a man recovering from a rare malignancy, restricted and cautious and scarred, but an artist getting lost.</p>
+
+<p>And, of course, that was the problem. I wanted to get lost, too.</p>
+														</div>
+
+
+				
+<div class="sharing-bar article-sharing">
+	<div class="sharing-bar-first">
+		<a href="javascript:window.print();" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-printer"></use></svg> <span>Print</span></a>
+	</div>
+
+	<div class="sharing-bar-second">
+		<span class="alt-ff xsmall">Share:</span>
+		<a href="https://www.facebook.com/sharer/sharer.php?u=https://www.thesunmagazine.org/issues/456/fog" target="_blank" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-facebook"></use></svg> <span>Facebook</span></a>
+		<a href="https://twitter.com/share?url=https://www.thesunmagazine.org/issues/456/fog&amp;via=thesunmagazine" target="_blank" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-twitter"></use></svg> <span>Twitter</span></a>
+		<a href="#" class="b b-1 b-padding-tight xsmall js-toggle-mail-form"><svg><use xlink:href="#i-email"></use></svg> <span>Email</span></a>
+	</div>
+</div>
+
+<div class="send-to-friend-message-container">
+	<div class="alert alert-success xsmall">Thank you for sharing <em>The Sun</em>.</div>
+</div>
+
+<form method="post" action="/ajax/articles/send-to-a-friend" class="form fill-grey send-to-friend-form">
+		<input type="hidden" id="form_url" name="form[url]" value="https://www.thesunmagazine.org/issues/456/fog" />
+
+	<ul class="form-fields">
+		<li><label for="form_sender_name"><span class="label-text">Your Full Name</span><span class="label-asterisk">*</span></label><input type="text" id="form_sender_name" name="form[sender_name]" required="required" /></li>
+		<li><label for="form_sender_email"><span class="label-text">Your Email Address</span><span class="label-asterisk">*</span></label><input type="email" id="form_sender_email" name="form[sender_email]" required="required" /></li>
+		<li><label for="form_recipient_name"><span class="label-text">Friend’s Name</span><span class="label-asterisk">*</span></label><input type="text" id="form_recipient_name" name="form[recipient_name]" required="required" /></li>
+		<li><label for="form_recipient_email"><span class="label-text">Friend’s Email Address</span><span class="label-asterisk">*</span></label><input type="email" id="form_recipient_email" name="form[recipient_email]" required="required" /></li>
+		<li><label for="form_message"><span class="label-text">Personalized Message</span></label><textarea id="form_message" name="form[message]"></textarea></li>
+	</ul>
+<div class="send-to-friend-message-container">
+	<div class="alert alert-error xsmall">Something went wrong. Please try again.</div>
+</div>
+
+<div class="g-recaptcha" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs"></div>
+<div class="form-actions"><button type="submit" id="form_submit" name="form[submit]"	class="form-actions-b-primary b b-1 b-loading xsmall"><svg><use xlink:href="#i-loading"></use></svg>
+		Submit
+	</button></div>
+<input type="hidden" id="form__token" name="form[_token]" value="541cc9f81ab2f474959ea133284911160a94eec7" /></form>
+
+<br>
+
+
+
+										<footer class="article-contributor contributors">
+									
+
+<div class="block-contributor">
+		
+
+		<div class="block-contributor-content">
+		<div class="block-contributor-bio small">
+			<p><strong><span class="smallcaps">Patricia Foster</span></strong>, a professor in the <span class="smallcaps">MFA</span> program at the University of Iowa, is the editor of four essay collections and the author of the nonfiction books <em>All the Lost Girls</em> and <em>Just beneath My Skin</em>. She recently drove a thousand miles with her husband to the ocean in order to write about life in Iowa. She is working on a book about illness and marriage.</p><a href="/contributors/patricia-foster" class="block-contributor-link link-alt small">More From This Contributor&nbsp;&#9656;</a>		</div>
+	</div>
+</div>
+
+							</footer>
+						</article>
+
+
+				    <div class="paywall-subscription block-product">
+			<div class="columns">
+			<div class="paywall-banner span3 cta cta-l1">
+				<div class="cta-intro">
+					<h5 class="cta-title alt-ff">One Free Selection Left </h5>
+					<p class="cta-text xsmall"><a class="link-alt" href="https://www.thesunmagazine.org/subscriber/login" data-label="Already a subscriber?">Already a subscriber? Sign in ▸</a><br><br>Read two free selections from <em>The Sun</em> each month.</p>
+				</div>
+			</div>
+			<div class="paywall-banner span9 note note-1 text-center">
+				<h4 class="cta-title alt-ff">Subscribe to <em>The Sun</em> and save 45%</h4>
+				<p class="cta-text xsmall">Subscribers get full access to the current issue and more than 40 years of archives.</p>
+				<a class="b b-1 xsmall cta-trigger"  href="/subscribe1" data-label="Subscribe" data-ctatitle="Subscribe">Subscribe</a>
+			</div>
+		</div>
+
+		<div class="columns">
+			<div class="span12 paywall-cta-bottom">
+				<p>
+					<span class="cta-title-issue">Buy the December 2013 issue for $5.95</span>
+					<span class="xsmall">Order now to get instant access to this issue, and we’ll also send you a print copy.</span>
+					<a class="b b-5 xsmall corona"  href="#" data-product-type="issues" data-id="456" data-label="Order Now ▸">Order Now ▸</a>
+				</p>
+			</div>
+		</div>
+
+		
+
+</div>
+	
+	
+	
+	<div class="spacer"></div>
+	
+
+
+
+		
+		<div class="article-correspondence-cta">
+		<div class="cta cta-l1" data-url="https://www.thesunmagazine.org/letter-to-the-editor">
+			<div class="cta-intro">
+				<h5 class="cta-title alt-ff">Thinking about writing us a letter?</h5>
+				<p class="cta-text">Give in to the temptation. We love getting mail. <br><span class="xsmall">(Of course, we reserve the right to edit.)</span></p>
+			</div>
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" class="cta-button b b-4 b-padding-tight small" data-label="Write Us A Letter!">Write Us A Letter!</a>
+		</div>
+	</div>
+	
+
+			<div class="article-also layout-item-large full-bar fill-grey-mid-light">
+		<div class="layout-item-intro">
+			<h2>Also In This Issue</h2>
+			<a href="/issues/456" class="xsmall link-alt">December 2013&nbsp;&#9656;</a>
+		</div>
+		<div class="issue-articles-l1">
+			<div class="issue-articles-l1-content1">
+				
+<div class="cover cover-l1 block-product">
+	<div>
+							<a href="/issues/456" class="cover-thumb">
+				
+				<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 727'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/import/issue/456.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/561x728r/import/issue/456.jpg
+	 alt=""
+	 class="lazy">
+
+			</a>
+		
+
+													<!-- <a href="/issues/456" data-product-type="issues" data-id="456" data-role="order" class="js-buy-single corona cover-button b b-1 b-full xsmall" data-label="Buy This Issue &#9656;">
+								Buy This Issue&nbsp;&#9656;
+			</a> -->
+			<a href="/issues/456" data-product-type="issues" data-id="456" class="js-buy-single corona cover-button b b-1 b-full xsmall" data-label="Buy This Issue &#9656;">
+								Buy This Issue&nbsp;&#9656;
+			</a>
+					
+					</div>
+</div>
+			</div>
+			<div class="issue-articles-l1-content2">
+				<div class="articles-l3">
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/poetry">Poetry</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/456/between-lifetimes">Between Lifetimes</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/yehoshua-november">Yehoshua November</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/sun-interview">The Sun Interview</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/456/a-more-perfect-union-issue-456">A More Perfect Union</a></h3>
+					<p class="block-content-subtitle subtitle">Esther Perel on Intimacy, Infidelity, and Desire in Long Term Relationships</p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/mark-leviton">Mark Leviton</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/dog-eared-page">The Dog-Eared Page</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/456/excerpted-from-the-dead"><em>excerpted from</em><br />The Dead</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/james-joyce">James Joyce</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/fundraising-appeal">Fundraising Appeal</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/456/become-a-friend-of-the-sun-issue-456">Become A Friend Of <em>The Sun</em></a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/krista-bremer">Krista Bremer</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+									</div>
+			</div>
+		</div>
+	</div>
+	
+
+			<div class="article-related layout-item-large full-bar fill-pattern-light">
+		<div class="layout-item-intro">
+			<h2>Related Selections</h2>
+			<ul class="list-inline list-inline-tight"><li><a href="/topics/marriage" class="xsmall link-alt link-text">Marriage</a></li><li><a href="/topics/romantic-love" class="xsmall link-alt link-text">Romantic Love</a></li><li><a href="/topics/cancer" class="xsmall link-alt link-text">Cancer</a></li><li><a href="/topics/identity" class="xsmall link-alt link-text">Identity</a></li></ul>		</div>
+
+		<div class="articles-l2">
+							
+
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/453/the-whole-house">The Whole House</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/belle-boggs">Belle Boggs</a></li><li><a href="/issues/453">September 2013</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/453" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 727'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/140x182r/import/issue/453.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/import/issue/453.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/366/where-the-water-is">Where The Water Is</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/jan-shoemaker">Jan Shoemaker</a></li><li><a href="/issues/366">June 2006</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/366" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 727'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/140x182r/import/issue/366.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/import/issue/366.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/readers-write">Readers Write</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/275/last-chance">Last Chance</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/our-readers">Our Readers</a></li><li><a href="/issues/275">November 1998</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/275" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 725'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/141x182r/import/issue/275.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/281x364r/import/issue/275.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/readers-write">Readers Write</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/242/the-impossible">The Impossible</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/our-readers">Our Readers</a></li><li><a href="/issues/242">February 1996</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/242" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 563 728'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/141x182r/2016-11/242.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/282x364r/2016-11/242.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+					</div>
+	</div>
+	
+	
+					<form id="newsletterForm" method="post" action="https://www.thesunmagazine.org/newsletter" data-url-send="https://www.thesunmagazine.org/newsletter" class="form form-newsletter fill-grey" enctype="multipart/form-data" target="_blank">
+
+
+
+		<div class="form-newsletter-intro">
+			<h3 class="alt-ff large">Sign Up For Our Newsletter</h3>
+			<p>We’ll let you know about new website selections, upcoming events, special offers, and more.</p>
+		</div>
+
+		<ul class="form-newsletter-fields form-fields form-fields-inline">
+			<li>
+				<input name="name" type="text" maxlength="500" id="name" placeholder="Your Name">
+			</li>
+			<li>
+				<input name="email" type="text" maxlength="500" id="email" placeholder="Your E-mail">
+			</li>
+
+			<li class="form-fields-inline-button">
+				<button disabled="disabled" class="form-newsletter-send b b-4 b-padding-tight b-loading g-recaptcha" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs" data-callback="recaptcha_callback" name="SubmitButton" id="SubmitButton">
+					<svg><use xlink:href="#i-loading"></use></svg>
+					Sign&nbsp;Up
+				</button>
+			</li>
+		</ul>
+	</form>
+	<script id="hiddenlpsubmitdiv" style="display: none;"></script>
+
+
+
+<footer class="footer brand-grey-dark">
+			<div class="footer-first">
+		<h3 class="footer-tagline">Independent, Reader-Supported Publishing</h3>
+		<p class="footer-desc">In each issue of <em>The Sun</em> you’ll find some of the most radically intimate and socially conscious writing being published today. In an age of media conglomerates, we’re something of an oddity: an ad-free, independent, reader-supported magazine.</p>
+		<ul class="footer-nav list-inline-border xsmall">
+			
+		<li class=" first">
+			<a href="https://www.thesunmagazine.org/about" 	   class=''>
+	   About <em>the Sun</em>	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/staff" 	   class=''>
+	   Staff	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/find-the-sun" 	   class=''>
+	   Find <em>The Sun</em>&nbsp;&nbsp;in a Store Near You	</a>
+		
+	</li>
+
+
+		</ul>
+	</div>
+	
+		<div class="footer-second">
+		<ul class="footer-second-social list-inline">
+			<li><a href="https://www.facebook.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-facebook"></use></svg></span> Like Us</a></li>
+			<li><a href="https://twitter.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-twitter"></use></svg></span> Follow Us</a></li>
+			<li><a href="https://instagram.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-instagram"></use></svg></span> Take a Look</a></li>
+		</ul>
+
+		<div class="footer-second-content">
+			<ul class="footer-nav list-inline-border xsmall">
+				
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/" 	   class='current '>
+	   Home	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/privacy-policy" 	   class=''>
+	   Privacy Policy	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/terms-of-use" 	   class=''>
+	   Terms of Use	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/site-map" 	   class=''>
+	   Site Map	</a>
+		
+	</li>
+
+
+			</ul>
+			<p class="footer-copyright xxsmall">Copyright &copy; 1974–2020 <em>The Sun</em>. All rights reserved.</p>
+		</div>
+	</div>
+</footer>
+
+
+
+<div class="offset-nav">
+	<ul>
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/read" 	   class='current '>
+	   Read	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/issues/current" 	   class=''>
+	   Current Issue	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/archives" 	   class=''>
+	   Archives	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/featured" 	   class=''>
+	   Featured Selections	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/topics" 	   class=''>
+	   Browse Topics	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/sections" 	   class=''>
+	   Browse Sections	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/connect" 	   class=''>
+	   Connect	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/news" 	   class=''>
+	   News from <em>The Sun</em>	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" 	   class=''>
+	   Write a Letter to the Editor	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/discussion-groups" 	   class=''>
+	   Discussion & Writing Groups	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/make-a-suggestion" 	   class=''>
+	   Make a Suggestion	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/submit" 	   class=''>
+	   Submit	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/shop" 	   class=''>
+	   Shop	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/giftsub" 	   class=''>
+	   Gift Subscriptions	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/issues" 	   class=''>
+	   Issues	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+											
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/donatemenu" 	   class='highlight'>
+	   Donate	</a>
+		
+	</li>
+
+		<li class=" last">
+														<a href="/SubscribeNav1" 					   class=''>
+						Subscribe					</a>
+									
+	</li>
+
+
+					<li>
+				<a href="https://www.thesunmagazine.org/shop/cart">Cart ( <span class="cart-item-count">  0  </span>)</a>
+			</li>
+			<li><a href="https://www.thesunmagazine.org/subscriber/login" class="link-header-logout link-alt">Sign In</a></li>
+			</ul>
+	<ul>
+		<li class=" first">
+			<a href="https://www.thesunmagazine.org/about" 	   class=''>
+	   About <em>the Sun</em>	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/staff" 	   class=''>
+	   Staff	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/find-the-sun" 	   class=''>
+	   Find <em>The Sun</em>&nbsp;&nbsp;in a Store Near You	</a>
+		
+	</li>
+
+</ul>
+	<ul>
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/" 	   class='current '>
+	   Home	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/privacy-policy" 	   class=''>
+	   Privacy Policy	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/terms-of-use" 	   class=''>
+	   Terms of Use	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/site-map" 	   class=''>
+	   Site Map	</a>
+		
+	</li>
+
+</ul>
+</div>
+
+<div id="buy-popup-message" class="buy-popup mfp-hide white-popup white-popup-block">
+	<a class="popup-modal-dismiss" href="#"></a>
+	<h5>Due to fulfillment challenges related to the novel coronavirus, print copies are temporarily unavailable for individual sale. We are offering free PDFs until we are able to resume print sales.</h5>
+	<p>Enter your e-mail address below to download this issue.</p>
+	<form method="post" id="download-single" action="https://www.thesunmagazine.org/issue/pdfFree/531.pdf">
+		<label for="email"><span class="label-text">E-mail</span><span class="label-asterisk">*</span></label>
+		<input class="buy-single-email" id="email" type="email" name="email">
+		<button type="send" class="form-buy-issue-send b b-3 b-padding-tight b-loading">Send</button>
+		<button class="form-buy-issue-download b b-3 b-padding-tight b-loading">Download pdf</button>
+		<button type="send" class="popup-modal-dismiss b b-2 b-padding-tight b-loading">Close</button>
+		<div class="g-recaptcha" style="text-align: center" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs"></div>
+
+	</form>
+</div>
+
+			<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/plugins.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/site.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/newsletter.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/js/articles.js"></script>
+		</div>
+		</div>
+
+				<script>
+		(function (doc) {
+			var scripts = doc.getElementsByTagName('script');
+			var script = scripts[scripts.length - 1];
+			var xhr = new XMLHttpRequest();
+			xhr.onload = function () {
+				var div = doc.createElement('div');
+				div.innerHTML = this.responseText;
+				div.style.display = 'none';
+				script.parentNode.insertBefore(div, script);
+			}
+			xhr.open('get', '/theme/thesun//assets/build/img/sprite/sprite.svg', true);
+			xhr.send();
+		})(document);
+
+
+
+		</script>
+
+		<script>
+			// Submit function
+            function recaptcha_callback() {
+						var getUrl = $('.form-newsletter').data( "url-send" ),
+							getName = $('input#name').val(),
+							getEmail = $('input#email').val();
+						$.ajax({
+								type: "POST",
+								url: getUrl,
+								data: {
+									name: getName,
+									email: getEmail,
+									grecaptcharesponse: grecaptcha.getResponse()
+								}
+							}).done(function(response) {
+								console.log(response);
+									$('.form-fields').fadeOut(800, function () {
+										$('.form-fields').empty().append('<div class="newsletter-confirm-message">Thank you for signing up to receive news from <em>The Sun</em>. Your first newsletter will arrive soon.<div>').fadeIn(800);
+									});
+							});
+			}
+
+		</script>
+
+		<script>
+			function getUrlCode() {
+				var url_string = window.location.href;
+				var url = new URL(url_string);
+				var c = url.searchParams.get('promotion\_key');
+				if (typeof c !== 'undefined' && c !== null) {
+					setCookie("promotion_code",c);
+				}
+			}
+
+			function setCookie(cname, cvalue) {
+				document.cookie = cname + "=" + cvalue + ";" + "path=/";
+			}
+
+			function getCookie(cname) {
+				var name = cname + "=";
+				var decodedCookie = decodeURIComponent(document.cookie);
+				var ca = decodedCookie.split(';');
+				for(var i = 0; i <ca.length; i++) {
+					var c = ca[i];
+					while (c.charAt(0) == ' ') {
+						c = c.substring(1);
+					}
+					if (c.indexOf(name) == 0) {
+						return c.substring(name.length, c.length);
+					}
+				}
+				return "";
+			}
+			window.addEventListener( "load", getUrlCode );
+		</script>
+
+
+	</body>
+</html>

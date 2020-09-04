@@ -1,0 +1,1174 @@
+
+<!DOCTYPE html>
+<html class="no-js" lang="en-US">
+	<head>
+		<title>The Dig - The Sun Magazine</title>
+
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		
+		<meta name="viewport" content="width=device-width, minimum-scale=1.0">
+
+		<link rel="dns-prefetch" href="//ajax.googleapis.com">
+		<link rel="dns-prefetch" href="//use.typekit.net">
+		
+		<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/modernizr.js"></script>
+		<script src="https://www.google.com/recaptcha/api.js"
+				async defer>
+		</script>
+
+		<script>(function(d) { var config = { kitId: 'kzw7ebk', scriptTimeout: 3000, async: true }, h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s) })(document);</script>
+
+
+				
+		<link rel="apple-touch-icon" sizes="57x57" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-57x57.png?v=2016">
+		<link rel="apple-touch-icon" sizes="60x60" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-60x60.png?v=2016">
+		<link rel="apple-touch-icon" sizes="72x72" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-72x72.png?v=2016">
+		<link rel="apple-touch-icon" sizes="76x76" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-76x76.png?v=2016">
+		<link rel="apple-touch-icon" sizes="114x114" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-114x114.png?v=2016">
+		<link rel="apple-touch-icon" sizes="120x120" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-120x120.png?v=2016">
+		<link rel="apple-touch-icon" sizes="144x144" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-144x144.png?v=2016">
+		<link rel="apple-touch-icon" sizes="152x152" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-152x152.png?v=2016">
+		<link rel="apple-touch-icon" sizes="180x180" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-180x180.png?v=2016">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-32x32.png?v=2016" sizes="32x32">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/android-chrome-192x192.png?v=2016" sizes="192x192">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-96x96.png?v=2016" sizes="96x96">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-16x16.png?v=2016" sizes="16x16">
+		<link rel="mask-icon" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/safari-pinned-tab.svg?v=2016" color="#444444">
+		<link rel="shortcut icon" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon.ico?v=2016">
+		<meta name="apple-mobile-web-app-title" content="The Sun Magazine">
+		<meta name="application-name" content="The Sun Magazine">
+		<meta name="msapplication-TileColor" content="#fcc330">
+		<meta name="msapplication-TileImage" content="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/mstile-144x144.png?v=2016">
+		<meta name="theme-color" content="#ffffff">
+
+				<link rel="stylesheet" type="text/css" href="https://cloud.typography.com/6578674/659928/css/fonts.css" />
+		<link rel="stylesheet" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/css/style.css">
+
+																		<meta property="og:site_name" content="The Sun Magazine">
+		<meta property="og:type" content="article">
+		<meta property="og:url" content="https://www.thesunmagazine.org/issues/196/the-dig">
+		<meta property="og:image" content="http://www.thesunmagazine.org/files/import/issue/196.jpg">
+		<meta property="og:title" content="The Dig - The Sun Magazine">
+		<meta property="og:description" content="After a day in an archaeological excavation unit, surrounded by a stratigraphic picture two meters deep, you realize the present era, like the prehistoric community you&amp;rsquo;ve become a part of, will soon be just another layer chronicled in soil.">
+		<meta property="fb:app_id" content="158741778010551">
+
+						<link rel="image_src" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.comhttp://www.thesunmagazine.org/files/import/issue/196.jpg">
+
+												<meta name="twitter:card" content="summary">
+		<meta name="twitter:title" content="The Dig - The Sun Magazine">
+		<meta name="twitter:description" content="After a day in an archaeological excavation unit, surrounded by a stratigraphic picture two meters deep, you realize the present era, like the prehistoric community you&amp;rsquo;ve become a part of, will soon be just another layer chronicled in soil.">
+		<meta name="twitter:image" content="http://www.thesunmagazine.org/files/import/issue/196.jpg">
+		<meta name="twitter:site" content="@thesunmagazine">
+
+				<link rel="publisher" href="https://plus.google.com/113792980827145858211">
+        
+		<meta name="Description" content="After a day in an archaeological excavation unit, surrounded by a stratigraphic picture two meters deep, you realize the present era, like the prehistoric community you&amp;rsquo;ve become a part of, will soon be just another layer chronicled in soil.">
+
+		
+		<!-- Google Tag Manager -->
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-TKBHCCG');</script>
+		<!-- End Google Tag Manager -->
+
+		<!-- Google Analytics -->
+		<script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+            ga('create', 'UA-2351127-1', 'auto');  // Replace with your property ID.
+            ga('send', 'pageview');
+            ga('require', 'ecommerce');   // Load the ecommerce plug-in.
+		</script>
+		<!-- End Google Analytics -->
+	</head>
+	<body id="">
+
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TKBHCCG"
+		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+		<header class="header" data-offset-start="80">
+		<div class="header-utilities">
+				<ul class="header-utilities-user list-inline list-inline-tight xxsmall">
+							<li>
+					<span class="header-utilities-user-intro">Already A Subscriber?</span> &nbsp;
+					<a href="https://www.thesunmagazine.org/subscriber/login" class="link-text link-alt">Sign In</a>
+				</li>
+					</ul>
+		<a href="https://www.thesunmagazine.org/shop/cart" class="header-utilities-cart  link-alt link-icon tiny">
+			<span class="i"><svg><use xlink:href="#i-cart"></use></svg></span>
+			<span class="cart-item-count">
+									0 Items
+				
+			</span>
+		</a>
+			</div>
+
+		<div class="header-bar">
+		<h1 class="header-logo logo">
+			<a href="/">
+				<img src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/img/logo-thesun.svg" class="logo-thesun" alt="The Sun Magazine">
+				<img src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/img/logo-tagline.svg" class="logo-tagline" alt="">
+			</a>
+		</h1>
+
+		<ul class="header-nav">
+			
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/read" 	   class='current '>
+	   Read	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/issues/current" 	   class=''>
+	   Current Issue	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/archives" 	   class=''>
+	   Archives	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/featured" 	   class=''>
+	   Featured Selections	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/topics" 	   class=''>
+	   Browse Topics	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/sections" 	   class=''>
+	   Browse Sections	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/connect" 	   class=''>
+	   Connect	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/news" 	   class=''>
+	   News from <em>The Sun</em>	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" 	   class=''>
+	   Write a Letter to the Editor	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/discussion-groups" 	   class=''>
+	   Discussion & Writing Groups	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/make-a-suggestion" 	   class=''>
+	   Make a Suggestion	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/submit" 	   class=''>
+	   Submit	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/shop" 	   class=''>
+	   Shop	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/giftsub" 	   class=''>
+	   Gift Subscriptions	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/issues" 	   class=''>
+	   Issues	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+											
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/donatemenu" 	   class='highlight'>
+	   Donate	</a>
+		
+	</li>
+
+		<li class=" last">
+														<a href="/SubscribeNav1" 					   class=''>
+						Subscribe					</a>
+									
+	</li>
+
+
+		</ul>
+
+		<button class="header-nav-toggle"><svg><use xlink:href="#i-menu" class="i-menu"></use><use xlink:href="#i-close" class="i-close"></use></svg></button>
+		<button class="header-search-toggle" data-form-wrapper=".header-search"><svg><use xlink:href="#i-magnifier" class="i-magnifier"></use><use xlink:href="#i-close" class="i-close"></use></svg></button>
+	</div>
+
+		<div class="header-search">
+		<div class="header-search-content">
+			<form action="https://www.thesunmagazine.org/search" class="form form-search" method="get">
+				<h2 class="alt-ff brand-link">Search Our 40 Years of Archives</h2>
+				<ul class="form-search-fields form-fields form-fields-inline">
+					<li><input type="text" name="q" value=""></li>
+					<li class="form-fields-inline-button"><button class="b b-1 b-padding-tight b-loading"><svg><use xlink:href="#i-loading"></use></svg>Search</button></li>
+				</ul>
+
+				<div class="header-search-content-shortcuts">
+					<h6 class="search-advanced alt-ff"><a class="js-handle-advanced" href="https://www.thesunmagazine.org/search?advanced=1">Advanced Search</a></h6>
+					<br>
+					<h6 class="alt-ff">Popular Pages</h6>
+					<ul class="list-inline-border list-inline-tight xxsmall"><li class=" first"><a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a></li><li class=""><a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a></li><li class=""><a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a></li><li class=""><a href="https://www.thesunmagazine.org/sections/quotations" 	   class=''>
+	   Quotations	</a></li><li class=""><a href="https://www.thesunmagazine.org/sections/readers-write" 	   class=''>
+	   Readers Write	</a></li><li class=" last"><a href="https://www.thesunmagazine.org/sections/poetry" 	   class=''>
+	   Poetry	</a></li></ul>				</div>
+			</form>
+		</div>
+	</div>
+</header>
+
+	<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+	<script type="text/javascript">
+		$(document).ready(function() {
+			$('.js-handle-advanced').on('click', function (e) {
+				e.preventDefault();
+				var getSearchValue = $('.form-search-fields input').val();
+				var getURL = $(this).attr('href');
+				var newURL = getURL + '&q=' + getSearchValue;
+				window.location.href = newURL;
+			});
+		});
+	</script>
+
+		<div class="container-hidden">
+		<div class="container">
+
+				
+	
+	<article class="article ">
+		<header class="block-content block-content-l1 block-content-center">
+						<div class="block-content-header">
+				<h6 class="b-content-section heading-square"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+				<h1 class="block-content-title">The Dig</h1>
+
+				
+				<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/james-b-angell">James B. Angell</a></li><li><a href="/issues/196">March 1992</a></li></ul>
+
+			</div>
+
+								</header>
+
+				<div class="article-body link-text-wrap">
+																		<p><span class="dropcap">T</span>he fog in the streets that morning was of the low, wet variety that gently hugs the California coast on those days when the sun is going to roast the beaches, making the inland valleys unbearable. It would be a hot one in the field. Sure enough, just after Sandra picked me up in her battered old Audi and proceeded through Golden Gate Park to pick up Roberto, the fog began to lift.</p>
+
+<p>We were headed that morning to San Jose, some fifty miles to the south, to delve into the prehistoric past. Our daily route down the peninsula to the excavation site was always inspiring. We preferred Highway 280 for the beauty of the terrain and the lack of traffic. When driving south, the passerby sees in a single glance the immensity of tectonic forces at work in this beautiful meeting of the North American and Pacific plates. Coastal mountains covered in redwood, oak, and madrone rise to the west. Intermittent views of the bay and its huge population lie to the east, almost one thousand feet below the ridge along which the highway stretches. There is little evidence of humanity, except for the cars on the road and the occasional multimillion-dollar home nestled in the trees.</p>
+
+<p>I had wanted work that combined mental stimulation with decent pay. This excavation had both, thanks to the deep pockets of the California Transportation Department (Caltrans). I had decided against a career in academic fundamentalism when I discovered that universities had become public corporations no more interested than the Fortune 500 in intellectual matters. Sandra had graduated from Berkeley and planned to pursue her archaeological interests in the master&rsquo;s program at Cambridge; she had spent the previous summer excavating caves in France. Roberto was still working on his B.A. in anthropology at San Francisco State after starting college late in life.</p>
+
+<p>Californians define themselves by what they drive. Most believe that Highway 280 represents the good life, and it does for those who drive their exotic automobiles to work in the Silicon Valley. Lowly, working-class Highway 101 lies some 500 to 1,000 feet below this beautiful stretch of road. It parallels 280, but at bay level, along a congested route lined with businesses and billboards. As we cruised through rolling hills overlooking the southern end of Crystal Springs, Roberto said, &ldquo;The poor have to take 101 because they need to pull off the road quickly in their unreliable used cars. Breaking down on 280 is a nightmare because it&rsquo;s such a long way to anywhere, with only beautiful scenery to look at. If there&rsquo;s a Mexican on the side of 280 with a collapsed jalopy, no one&rsquo;ll help him or give him a ride. If anything, the cops will pick him up and have his vehicle towed, just to maintain the bucolic illusion.&rdquo;</p>
+
+<p>The smog of San Jose appeared in the distance. The traffic worsened with the approach of Silicon Valley congestion. Some mornings we could look east across the wide swath of the Santa Clara Valley to the beautiful mountains crowned by Mount Hamilton&rsquo;s Lick Observatory, but not that morning. The smog, even at a quarter to eight, was thick, the sun already helping the exhaust to bloom into a putrid haze that hid everything of worth and highlighted all that was ugly.</p>
+
+<p>Sandra slammed on the brakes and came to a screeching halt &mdash; narrowly missing the car in front of us. In the next moment, she looked in the rearview mirror and screamed, &ldquo;Oh no, oh no!&rdquo; A split second later a car slammed into our rear, pushing the Audi into the back of the car we had initially missed. Another crash propelled us forward as a second car slammed into the one that had hit us. Luckily for us, the Audi was operable once we tied the tailpipe back on, and we limped off to work.</p>
+
+<p>&ldquo;The shaman&rsquo;s struck again,&rdquo; Sandra said nervously.</p>
+
+<p>We were heading to a foul spot in the middle of the Santa Clara Valley to excavate the burial grounds of an ancient people who, one thousand years ago, had given birth, eaten well, lived fully, and died in what must have been a veritable Garden of Eden along the banks of the Guadelupe River. A millennium ago, flocks of ducks, geese, and sea birds covered the bay, while herds of antelope, deer, and elk dotted the hillsides. Creeks and rivers were filled with salmon during their annual runs, while tidal flats were covered with mussels, oysters, and clams. The existence of coyotes, wolves, grizzly bears, and mountain lions preying on this abundance certainly made life more precarious for these ancient people, but added to the richness of that now-extinct ecosystem. Having talked with one of the Ohlone Indian monitors that state law requires to be on the site of an excavation, I knew that twenty-five years ago the Santa Clara Valley had still been gorgeous. &ldquo;This was orchard country,&rdquo; she said. &ldquo;Spring blossoms as far as you could see. Imagine what it must&rsquo;ve been like before that,&rdquo; she said, shaking her head sadly.</p>
+
+<p>We turned off I-280 in San Jose as a commercial jet roared over on its approach to the airport north of town. After a few twists and turns through some pretty neighborhoods, palm trees swaying next to older houses of character, we arrived at our muddy destination. Sealed by a high barbed-wire fence, the site was in a field of dirt as flat as the parking lot it was destined to become. Two football fields square, the parking lot was to service the new light-rail system San Jose had recently constructed. It was a fitting metaphor for our age: the removal of sacred Indian burial grounds for parking.</p>
+
+<p>Our fellow &ldquo;dig bums&rdquo; made the work more tolerable. Archaeology attracts eccentric characters. One of the more interesting was Wild Man Stan, a forty-year-old hippie still working on his B.A. in anthropology. He would greet us each morning in up-tempo fashion with a phrase like &ldquo;Go with it,&rdquo; or &ldquo;Groove with it,&rdquo; shouted from an excavation unit where he would already be at work. His gonzo work ethic &mdash; fueled by a combination of cigarettes and Nicorets &mdash; persisted the entire day, much to the unease of the site supervisors familiar with his blasting techniques. &ldquo;A double pleasure&rsquo;s waitin&rsquo; for you,&rdquo; he&rsquo;d sing as the nicotine high kicked in. Wild Man was relentless when excavating, though I remember him puncturing only one cranium. He was a good archaeologist. It was his appearance that was deceiving. He wore an old Weblow cap too small for his head of scraggly blond hair. At day&rsquo;s end, his face and hands would be black. &ldquo;Groovin,&rdquo; he&rsquo;d reply when you told him of his scruffy state. &ldquo;It feels <em>good</em>, I like to play in the dirt.&rdquo;</p>
+
+<p>Greg was a seventy-five-year-old former mining engineer who had lived and worked all over the world. He knew the Leakeys personally. He worked harder than anyone else on the site, though most were less than half his age. He was also battling cancer; it was archaeology as therapy, hooking into the eternal through the past. Greg and Wild Man were quite a team when it came to moving earth to get the &ldquo;good stuff,&rdquo; as they described it. No one else could dig a burial more efficiently than Greg. Some would spend days on a burial; Greg would have it out in a day, and excavated in a most professional manner.</p>
+
+<p>Neil was a former truck driver who had made the move to archaeology some years earlier. He and Stan shared a hotel room together. After work they would sit around and watch porn on one of the cable channels. Neil chain-smoked cigarettes and looked as if he had been through the wars with booze. I figured it was drink, because he never touched the stuff. Like the other two, he was also a good archaeologist &mdash; a real stickler for the science of it &mdash; and tended to keep the others on their toes when the methodology started to slip.</p>
+
+<p>The ringleader of the endeavor was the ill-fated Nick. Crew chief extraordinaire, he was forever getting slapped down by fate. If it wasn&rsquo;t his car breaking down &mdash; again &mdash; it was having his camera, leather jacket, and other valuables stolen from the job site. Unlucky in love after a failed first marriage, he was continually chasing women, with mixed results. Because of his misfortunes, he lacked the self-confidence necessary to command complete respect. Some members of the crew listened to his directions with contempt, then connived to sabotage his methodology. Science, like all religions, has its share of back stabbing.</p>
+
+<p>Belinda had spent the previous year in Hawaii excavating prehistoric burials on the site of a future resort. She knew her osteology better than anyone &mdash; Berkeley had done that much for her &mdash; but otherwise she was unbearable. She had absolutely no sensitivity for the work we were doing, and no respect for the ancient ones. And she had the hots for Nick. She tried to lure him to her place for a barbecue by suggesting they &ldquo;incinerate some flesh together,&rdquo; but Nick managed to avoid her.</p>
+
+<p>Having known Nick for twelve years, I was not surprised by his terrible luck. We had met while doing historic archaeology in upstate New York. This was the first time we had worked together since, so we caught up on what had gone on in our lives during the blur of the eighties. His luck hadn&rsquo;t changed; there were deaths and divorces and misunderstandings enough for a lifetime. It was phenomenal that a person could endure so much and still find the will to go on. But Nick seemed detached from the immediacy of the world. Delving into the ancient past can enable one to see beyond the transient character of all things, and Nick found comfort in that.</p>
+
+<p>In the numerous excavation units, there were typically twelve to fifteen archaeologists and &mdash; by law an Ohlone Indian observer. The law is written in such a way that whoever can trace their lineage back the farthest in the historic record &mdash; in this case, the old mission records &mdash; becomes the designated observer for the area, even though they might not have any connection whatsoever with the people being excavated. Lineage is a tricky business, especially when there is money to be made. The Indians in this area of California call themselves Ohlone, even though the name is a general one ascribed to some forty distinct tribes &mdash; many with their own dialects and customs &mdash; that lived from Point Sur to the San Francisco Bay at the time of Spanish contact.</p>
+
+<p>The Indian observers of different regions have their favorite archaeologists, and other archaeologists for whom, because of their unprofessional techniques, they refuse to work. Some of the contract archaeologists, even though they hold doctorates from the best universities, are so ruthless in their quest for profit that they rip through burials in order to maintain budget on a bid. One such fellow, who earned the moniker &ldquo;backhoe,&rdquo; had the Indian monitor on our site threatening to shut down work, simply because he showed up one day.</p>
+
+<p>Archaeologists get around the animosity of monitors by hiring registered observers of the same tribe from nearby areas. This, of course, is frowned upon by the local monitors because of the loss of revenue. To counter this, local monitors typically attempt to portray rival parties as hired guns who will say yes to anything the archaeologist wants. A good, steady income is rare for most Indians, and since decent money is at stake, there is great competition for contracts. Ironically, this competition often encourages the desecration of prehistoric sites by the Indians themselves.</p>
+
+<p>The site we labored on was to become a parking lot. If the local Indian observer had been truly interested in mitigating the impact on the site, why have it excavated at all? To leave the site and its ancient human remains completely undisturbed, all Caltrans had to do was put a little fill on the surface and lay the lot atop that. Parking lots do not need intrusive foundations. If one was needed, tests could easily have been done to define the site&rsquo;s boundaries, or a different design might have been adopted. Why disturb something that doesn&rsquo;t have to be disturbed? But there is big money to be made. I believe the Indian observer in San Jose sold the remains of her &ldquo;people&rdquo; for personal gain. The local college that contracted with Caltrans to do the actual excavation needed income for an underfunded anthropology department, and the educational experience for its students. These were the reasons for the mass exhumation.</p>
+
+<p>Actually getting to the burials was another matter, as a meter of soil loaded with toxins lay atop them. For some seventy years there had been an industrial park here, with leaking fuel tanks and assorted chemicals buried around the site. The soil not only smelled of these substances, but was filled with brick, concrete, and a weird, woven material we jokingly referred to as asbestos. Although there was never any official word on the harmfulness of the soil, I&rsquo;m convinced the joke was on us. Every few days, a team dressed in moon suits came to the site to drain the toxic waste that filled some of the deep tanks and wells. Occasionally a mysterious cloud would rise from their operations and make its way toward us. Some would run toward clearer air, while others would lazily stay put. They argued that the toxics team would let us know if the cloud was harmful. My faith didn&rsquo;t extend that far.</p>
+
+<p>After digging through the top meter, usually in a stifling heat with dust blowing throughout the site, we inevitably hit a sandy loam, yellowish in color, that signaled the beginning of the burial layer. As the first meter was already disturbed, we used heavy picks and shovels to blast through it; once we hit the sandy layer, out would come trowels and delicate probing instruments. We hoped to discover human bone. Quite often the burials would be crunched or scattered, or even destroyed by chemicals leaching from the surface. Once human remains were discovered, we would proceed with brushes and wooden instruments typically used by sculptors. Wood did not scar the bone.</p>
+
+<p>After uncovering a burial, we drew it and its associated artifacts to scale and positioned them on a grid. Only then would the remains be removed to the college lab for closer study, followed by eventual reburial. On average, it took two days to uncover a complete burial, and another day to finish the exhumation.</p>
+
+<p>The adult Ohlone was always buried with a great number of beads, usually in the chest cavity and around the neck. Some adults had abalone pendants around their necks. Others had several pendants and ornaments in the chest cavity, possibly signifying someone of importance. The children, from newborns and toddlers up to adolescents, were often buried with beads numbering in the thousands. A few burials had newborns lying with their mothers &mdash; both likely having died in childbirth or soon after.</p>
+
+<p>In a few female burials, the fingers of the women were still wrapped around pestles, with mortars for grinding acorns nearby. The discovery brought the ancient community to life in a profound way. But the most spectacular find was a soapstone pipe &mdash; a foot and a half in length &mdash; in the hand of a male, his fingers still gripping its bottom end. It was a fine piece of dark green serpentine, tapered at the smoking end with a delicately carved ridge that gave it a phallic appearance. The stone was so hard that when the larger end &mdash; where tobacco was likely stuffed &mdash; was first revealed, we thought it was an intrusive steel pipe. After completely uncovering the burial, we discovered that much of the upper body and skull had been disturbed by surface construction. But the fingers grasping the base of this beautiful ceremonial piece created great intrigue. Was it a shaman? We were skeptical at first, but in retrospect it seems likely.</p>
+
+<p>Evidence of prehistoric habitation atop the burials lay at the western edge of the site, just above the &ldquo;shaman&rdquo; burial. A layer of fire-cracked rock above most of the burials revealed beautiful awls fashioned from deer bone, as well as burned bone from various sources. We found several deer scapulae that had been serrated along an edge for use as saws, along with teardrop-shaped charm stones and slender, perforated bird bones used as whistles. A beautiful hearth was also uncovered, with the bowl of blackened rock for cooking still intact. Near the hearth we discovered the remains of a dog.</p>
+
+<p>Our sense of wonder at these discoveries turned to wariness as unfortunate events &mdash; such as our accident that morning &mdash; began to occur. Before, during, and after unearthing this &ldquo;shaman,&rdquo; the excavation team experienced a cluster of misadventures, both on and off the site. Nick was, of course, the most heavily hit.</p>
+
+<p>It had started the weekend after we began the preliminary excavation of the pipe-burial unit. Nick had driven all the way to L.A. to purchase an old Toyota Land Cruiser. He had first called the seller, an associate of his, and said he would be down to buy it in a few days. When he arrived after a day of driving to pick it up, he was shocked to find the vehicle had been sold. Then, after driving through the night to make it to work Monday morning, Nick, along with the Caltrans archaeologist, had many of their personal belongings stolen from the trailer on site &mdash; just as our excavation revealed the tip of the Shaman&rsquo;s pipe. Someone had walked into the trailer when we were in the field one hundred yards away and stolen expensive cameras, film of previous burials, Nick&rsquo;s new leather jacket, and a lot of other gear. The head archaeologist lost all his field notes and reference materials. The next day Nick&rsquo;s car broke down. He never drove it again because of the money it would cost to fix it. Then he lost his wallet. I told him the bear shaman with the sandstone pipe was stalking him. &ldquo;Maybe we haven&rsquo;t shown enough respect,&rdquo; I suggested, before recounting the comments about sexual staying power Belinda had made as the phallic-shaped pipe was unearthed. He was disgusted by Belinda&rsquo;s irreverence, but was more interested in my comments about the bear shaman. The grizzly bear once flourished in central California, and a shaman is said to have attained immortality by transforming himself into one. Now Nick was having nightmares about bears, grizzlies in particular, who were always pursuing him. You see, Nick slept in the lab every night surrounded by the remains of the ancient ones we were excavating. He had to do this because of child-support payments.</p>
+
+<p>Jake, another character who had experience digging Roman ruins in England, also had car problems. His beautiful Karman Ghia collapsed as he was coming off the highway toward the site, right as the &ldquo;bear shaman&rdquo; was being unearthed. But this wasn&rsquo;t all. The morning the Ghia broke down was his first day back after a week-long trip to the Yucat&aacute;n with a woman he had known for some sixteen years. He had been hitting on her seriously for a year without any luck. But then, bingo, they were off to Mexico the very week work was started on the sandstone-pipe unit. Their trip went well for the first four days. But on the next day they argued, and she didn&rsquo;t utter another word to him for the rest of the trip, including the flight back to California; she even refused to sit next to him on the plane. All this took place as we excavated the earth atop the shaman burial and subsequently discovered the pipe.</p>
+
+<p>Sandra, Roberto, and I weren&rsquo;t immune, either, as the accident that morning reminded us. We figured that the shaman didn&rsquo;t want us at the site anymore. This deduction proved prophetic. On the drive down the following morning, the Audi broke down along one of those bucolic stretches of Highway 280, miles from nowhere. We hitched back to the city and called it quits. The bear shaman had won.</p>
+
+<p>The ancient ones still speak to us even though they have been buried for more than a thousand years. Like earthquakes, they speak of the transience of things. The frenetic pace of modern civilization reinforces the ephemeral nature of the present. After a day in an archaeological excavation unit, surrounded by a stratigraphic picture two meters deep, you realize the present era, like the prehistoric community you&rsquo;ve become a part of, will soon be just another layer chronicled in soil.</p>
+
+<p>After scientific analyses, the ancient ones now have a new resting place. The parking lot is finished, another piece of the sacred paved in the name of progress. Despite its unwarranted desecration, this burial and habitation site in San Jose should be a reminder that we are the latest, but no less transient, occupants of a continent the indigenous people called Turtle Island. May the grizzlies return to our dreams and our hills.</p>
+														</div>
+
+
+				
+<div class="sharing-bar article-sharing">
+	<div class="sharing-bar-first">
+		<a href="javascript:window.print();" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-printer"></use></svg> <span>Print</span></a>
+	</div>
+
+	<div class="sharing-bar-second">
+		<span class="alt-ff xsmall">Share:</span>
+		<a href="https://www.facebook.com/sharer/sharer.php?u=https://www.thesunmagazine.org/issues/196/the-dig" target="_blank" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-facebook"></use></svg> <span>Facebook</span></a>
+		<a href="https://twitter.com/share?url=https://www.thesunmagazine.org/issues/196/the-dig&amp;via=thesunmagazine" target="_blank" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-twitter"></use></svg> <span>Twitter</span></a>
+		<a href="#" class="b b-1 b-padding-tight xsmall js-toggle-mail-form"><svg><use xlink:href="#i-email"></use></svg> <span>Email</span></a>
+	</div>
+</div>
+
+<div class="send-to-friend-message-container">
+	<div class="alert alert-success xsmall">Thank you for sharing <em>The Sun</em>.</div>
+</div>
+
+<form method="post" action="/ajax/articles/send-to-a-friend" class="form fill-grey send-to-friend-form">
+		<input type="hidden" id="form_url" name="form[url]" value="https://www.thesunmagazine.org/issues/196/the-dig" />
+
+	<ul class="form-fields">
+		<li><label for="form_sender_name"><span class="label-text">Your Full Name</span><span class="label-asterisk">*</span></label><input type="text" id="form_sender_name" name="form[sender_name]" required="required" /></li>
+		<li><label for="form_sender_email"><span class="label-text">Your Email Address</span><span class="label-asterisk">*</span></label><input type="email" id="form_sender_email" name="form[sender_email]" required="required" /></li>
+		<li><label for="form_recipient_name"><span class="label-text">Friend’s Name</span><span class="label-asterisk">*</span></label><input type="text" id="form_recipient_name" name="form[recipient_name]" required="required" /></li>
+		<li><label for="form_recipient_email"><span class="label-text">Friend’s Email Address</span><span class="label-asterisk">*</span></label><input type="email" id="form_recipient_email" name="form[recipient_email]" required="required" /></li>
+		<li><label for="form_message"><span class="label-text">Personalized Message</span></label><textarea id="form_message" name="form[message]"></textarea></li>
+	</ul>
+<div class="send-to-friend-message-container">
+	<div class="alert alert-error xsmall">Something went wrong. Please try again.</div>
+</div>
+
+<div class="g-recaptcha" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs"></div>
+<div class="form-actions"><button type="submit" id="form_submit" name="form[submit]"	class="form-actions-b-primary b b-1 b-loading xsmall"><svg><use xlink:href="#i-loading"></use></svg>
+		Submit
+	</button></div>
+<input type="hidden" id="form__token" name="form[_token]" value="dd29fc62ecba94b28030da89610ba45e1318fca2" /></form>
+
+<br>
+
+
+
+										<footer class="article-contributor contributors">
+									
+
+<div class="block-contributor">
+		
+
+		<div class="block-contributor-content">
+		<div class="block-contributor-bio small">
+			<p><strong><span class="smallcaps">James B. Angell</span></strong> lives in San Francisco with his wife and two daughters and works as an archaeologist in the Bay Area.</p><a href="/contributors/james-b-angell" class="block-contributor-link link-alt small">More From This Contributor&nbsp;&#9656;</a>		</div>
+	</div>
+</div>
+
+							</footer>
+						</article>
+
+
+				    <div class="paywall-subscription block-product">
+			<div class="columns">
+			<div class="paywall-banner span3 cta cta-l1">
+				<div class="cta-intro">
+					<h5 class="cta-title alt-ff">One Free Selection Left </h5>
+					<p class="cta-text xsmall"><a class="link-alt" href="https://www.thesunmagazine.org/subscriber/login" data-label="Already a subscriber?">Already a subscriber? Sign in ▸</a><br><br>Read two free selections from <em>The Sun</em> each month.</p>
+				</div>
+			</div>
+			<div class="paywall-banner span9 note note-1 text-center">
+				<h4 class="cta-title alt-ff">Subscribe to <em>The Sun</em> and save 45%</h4>
+				<p class="cta-text xsmall">Subscribers get full access to the current issue and more than 40 years of archives.</p>
+				<a class="b b-1 xsmall cta-trigger"  href="/subscribe1" data-label="Subscribe" data-ctatitle="Subscribe">Subscribe</a>
+			</div>
+		</div>
+
+		<div class="columns">
+			<div class="span12 paywall-cta-bottom">
+				<p>
+					<span class="cta-title-issue">Buy the March 1992 issue for $5.95</span>
+					<span class="xsmall">Order now to get instant access to this issue, and we’ll also send you a print copy.</span>
+					<a class="b b-5 xsmall corona"  href="#" data-product-type="issues" data-id="196" data-label="Order Now ▸">Order Now ▸</a>
+				</p>
+			</div>
+		</div>
+
+		
+
+</div>
+	
+	
+	
+	<div class="spacer"></div>
+	
+
+
+
+		
+		<div class="article-correspondence-cta">
+		<div class="cta cta-l1" data-url="https://www.thesunmagazine.org/letter-to-the-editor">
+			<div class="cta-intro">
+				<h5 class="cta-title alt-ff">Thinking about writing us a letter?</h5>
+				<p class="cta-text">Give in to the temptation. We love getting mail. <br><span class="xsmall">(Of course, we reserve the right to edit.)</span></p>
+			</div>
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" class="cta-button b b-4 b-padding-tight small" data-label="Write Us A Letter!">Write Us A Letter!</a>
+		</div>
+	</div>
+	
+
+			<div class="article-also layout-item-large full-bar fill-grey-mid-light">
+		<div class="layout-item-intro">
+			<h2>Also In This Issue</h2>
+			<a href="/issues/196" class="xsmall link-alt">March 1992&nbsp;&#9656;</a>
+		</div>
+		<div class="issue-articles-l1">
+			<div class="issue-articles-l1-content1">
+				
+<div class="cover cover-l1 block-product">
+	<div>
+							<a href="/issues/196" class="cover-thumb">
+				
+				<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 725'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/281x364r/import/issue/196.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/562x728r/import/issue/196.jpg
+	 alt=""
+	 class="lazy">
+
+			</a>
+		
+
+													<!-- <a href="/issues/196" data-product-type="issues" data-id="196" data-role="order" class="js-buy-single corona cover-button b b-1 b-full xsmall" data-label="Buy This Issue &#9656;">
+								Buy This Issue&nbsp;&#9656;
+			</a> -->
+			<a href="/issues/196" data-product-type="issues" data-id="196" class="js-buy-single corona cover-button b b-1 b-full xsmall" data-label="Buy This Issue &#9656;">
+								Buy This Issue&nbsp;&#9656;
+			</a>
+					
+					</div>
+</div>
+			</div>
+			<div class="issue-articles-l1-content2">
+				<div class="articles-l3">
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/quotations">Quotations</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/196/sunbeams-issue-196">Sunbeams</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/196/the-ward">The Ward</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/bruce-mitchell">Bruce Mitchell</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/readers-write">Readers Write</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/196/aging">Aging</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/our-readers">Our Readers</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/poetry">Poetry</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/196/raymond-and-ann">Raymond And Ann</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/david-budbill">David Budbill</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+									</div>
+			</div>
+		</div>
+	</div>
+	
+
+			<div class="article-related layout-item-large full-bar fill-pattern-light">
+		<div class="layout-item-intro">
+			<h2>Related Selections</h2>
+			<ul class="list-inline list-inline-tight"><li><a href="/topics/indigenous-culture" class="xsmall link-alt link-text">Indigenous Culture</a></li><li><a href="/topics/vocation" class="xsmall link-alt link-text">Vocation</a></li></ul>		</div>
+
+		<div class="articles-l2">
+							
+
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/fiction">Fiction</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/483/the-portal">The Portal</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/debbie-urbanski">Debbie Urbanski</a></li><li><a href="/issues/483">March 2016</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/483" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 561 728'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/140x182r/import/issue/483.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/281x364r/import/issue/483.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/fiction">Fiction</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/400/this-late-hour">This Late Hour</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/dawn-paul">Dawn Paul</a></li><li><a href="/issues/400">April 2009</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/400" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 727'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/140x182r/import/issue/400.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/import/issue/400.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/46/nucler-energy-im-against-the-stuff">Nucler Energy: I’m Against The Stuff</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/jimmy-santiago-baca">Jimmy Santiago Baca</a></li><li><a href="/issues/46">August 1979</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/46" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 527 728'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/132x182r/import/issue/046.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/264x364r/import/issue/046.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/42/short-fat-and-dumb-with-numbers">Short, Fat, And Dumb With Numbers</a></h3>
+					<p class="block-content-subtitle subtitle">Book Review</p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a href="/contributors/david-guy">David M. Guy</a></li><li><a href="/issues/42">February 1979</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/42" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 528 728'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/132x182r/import/issue/042.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/264x364r/import/issue/042.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+					</div>
+	</div>
+	
+	
+					<form id="newsletterForm" method="post" action="https://www.thesunmagazine.org/newsletter" data-url-send="https://www.thesunmagazine.org/newsletter" class="form form-newsletter fill-grey" enctype="multipart/form-data" target="_blank">
+
+
+
+		<div class="form-newsletter-intro">
+			<h3 class="alt-ff large">Sign Up For Our Newsletter</h3>
+			<p>We’ll let you know about new website selections, upcoming events, special offers, and more.</p>
+		</div>
+
+		<ul class="form-newsletter-fields form-fields form-fields-inline">
+			<li>
+				<input name="name" type="text" maxlength="500" id="name" placeholder="Your Name">
+			</li>
+			<li>
+				<input name="email" type="text" maxlength="500" id="email" placeholder="Your E-mail">
+			</li>
+
+			<li class="form-fields-inline-button">
+				<button disabled="disabled" class="form-newsletter-send b b-4 b-padding-tight b-loading g-recaptcha" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs" data-callback="recaptcha_callback" name="SubmitButton" id="SubmitButton">
+					<svg><use xlink:href="#i-loading"></use></svg>
+					Sign&nbsp;Up
+				</button>
+			</li>
+		</ul>
+	</form>
+	<script id="hiddenlpsubmitdiv" style="display: none;"></script>
+
+
+
+<footer class="footer brand-grey-dark">
+			<div class="footer-first">
+		<h3 class="footer-tagline">Independent, Reader-Supported Publishing</h3>
+		<p class="footer-desc">In each issue of <em>The Sun</em> you’ll find some of the most radically intimate and socially conscious writing being published today. In an age of media conglomerates, we’re something of an oddity: an ad-free, independent, reader-supported magazine.</p>
+		<ul class="footer-nav list-inline-border xsmall">
+			
+		<li class=" first">
+			<a href="https://www.thesunmagazine.org/about" 	   class=''>
+	   About <em>the Sun</em>	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/staff" 	   class=''>
+	   Staff	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/find-the-sun" 	   class=''>
+	   Find <em>The Sun</em>&nbsp;&nbsp;in a Store Near You	</a>
+		
+	</li>
+
+
+		</ul>
+	</div>
+	
+		<div class="footer-second">
+		<ul class="footer-second-social list-inline">
+			<li><a href="https://www.facebook.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-facebook"></use></svg></span> Like Us</a></li>
+			<li><a href="https://twitter.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-twitter"></use></svg></span> Follow Us</a></li>
+			<li><a href="https://instagram.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-instagram"></use></svg></span> Take a Look</a></li>
+		</ul>
+
+		<div class="footer-second-content">
+			<ul class="footer-nav list-inline-border xsmall">
+				
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/" 	   class='current '>
+	   Home	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/privacy-policy" 	   class=''>
+	   Privacy Policy	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/terms-of-use" 	   class=''>
+	   Terms of Use	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/site-map" 	   class=''>
+	   Site Map	</a>
+		
+	</li>
+
+
+			</ul>
+			<p class="footer-copyright xxsmall">Copyright &copy; 1974–2020 <em>The Sun</em>. All rights reserved.</p>
+		</div>
+	</div>
+</footer>
+
+
+
+<div class="offset-nav">
+	<ul>
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/read" 	   class='current '>
+	   Read	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/issues/current" 	   class=''>
+	   Current Issue	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/archives" 	   class=''>
+	   Archives	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/featured" 	   class=''>
+	   Featured Selections	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/topics" 	   class=''>
+	   Browse Topics	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/sections" 	   class=''>
+	   Browse Sections	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/connect" 	   class=''>
+	   Connect	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/news" 	   class=''>
+	   News from <em>The Sun</em>	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" 	   class=''>
+	   Write a Letter to the Editor	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/discussion-groups" 	   class=''>
+	   Discussion & Writing Groups	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/make-a-suggestion" 	   class=''>
+	   Make a Suggestion	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/submit" 	   class=''>
+	   Submit	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/shop" 	   class=''>
+	   Shop	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/giftsub" 	   class=''>
+	   Gift Subscriptions	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/issues" 	   class=''>
+	   Issues	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+											
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/donatemenu" 	   class='highlight'>
+	   Donate	</a>
+		
+	</li>
+
+		<li class=" last">
+														<a href="/SubscribeNav1" 					   class=''>
+						Subscribe					</a>
+									
+	</li>
+
+
+					<li>
+				<a href="https://www.thesunmagazine.org/shop/cart">Cart ( <span class="cart-item-count">  0  </span>)</a>
+			</li>
+			<li><a href="https://www.thesunmagazine.org/subscriber/login" class="link-header-logout link-alt">Sign In</a></li>
+			</ul>
+	<ul>
+		<li class=" first">
+			<a href="https://www.thesunmagazine.org/about" 	   class=''>
+	   About <em>the Sun</em>	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/staff" 	   class=''>
+	   Staff	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/find-the-sun" 	   class=''>
+	   Find <em>The Sun</em>&nbsp;&nbsp;in a Store Near You	</a>
+		
+	</li>
+
+</ul>
+	<ul>
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/" 	   class='current '>
+	   Home	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/privacy-policy" 	   class=''>
+	   Privacy Policy	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/terms-of-use" 	   class=''>
+	   Terms of Use	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/site-map" 	   class=''>
+	   Site Map	</a>
+		
+	</li>
+
+</ul>
+</div>
+
+<div id="buy-popup-message" class="buy-popup mfp-hide white-popup white-popup-block">
+	<a class="popup-modal-dismiss" href="#"></a>
+	<h5>Due to fulfillment challenges related to the novel coronavirus, print copies are temporarily unavailable for individual sale. We are offering free PDFs until we are able to resume print sales.</h5>
+	<p>Enter your e-mail address below to download this issue.</p>
+	<form method="post" id="download-single" action="https://www.thesunmagazine.org/issue/pdfFree/531.pdf">
+		<label for="email"><span class="label-text">E-mail</span><span class="label-asterisk">*</span></label>
+		<input class="buy-single-email" id="email" type="email" name="email">
+		<button type="send" class="form-buy-issue-send b b-3 b-padding-tight b-loading">Send</button>
+		<button class="form-buy-issue-download b b-3 b-padding-tight b-loading">Download pdf</button>
+		<button type="send" class="popup-modal-dismiss b b-2 b-padding-tight b-loading">Close</button>
+		<div class="g-recaptcha" style="text-align: center" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs"></div>
+
+	</form>
+</div>
+
+			<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/plugins.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/site.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/newsletter.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/js/articles.js"></script>
+		</div>
+		</div>
+
+				<script>
+		(function (doc) {
+			var scripts = doc.getElementsByTagName('script');
+			var script = scripts[scripts.length - 1];
+			var xhr = new XMLHttpRequest();
+			xhr.onload = function () {
+				var div = doc.createElement('div');
+				div.innerHTML = this.responseText;
+				div.style.display = 'none';
+				script.parentNode.insertBefore(div, script);
+			}
+			xhr.open('get', '/theme/thesun//assets/build/img/sprite/sprite.svg', true);
+			xhr.send();
+		})(document);
+
+
+
+		</script>
+
+		<script>
+			// Submit function
+            function recaptcha_callback() {
+						var getUrl = $('.form-newsletter').data( "url-send" ),
+							getName = $('input#name').val(),
+							getEmail = $('input#email').val();
+						$.ajax({
+								type: "POST",
+								url: getUrl,
+								data: {
+									name: getName,
+									email: getEmail,
+									grecaptcharesponse: grecaptcha.getResponse()
+								}
+							}).done(function(response) {
+								console.log(response);
+									$('.form-fields').fadeOut(800, function () {
+										$('.form-fields').empty().append('<div class="newsletter-confirm-message">Thank you for signing up to receive news from <em>The Sun</em>. Your first newsletter will arrive soon.<div>').fadeIn(800);
+									});
+							});
+			}
+
+		</script>
+
+		<script>
+			function getUrlCode() {
+				var url_string = window.location.href;
+				var url = new URL(url_string);
+				var c = url.searchParams.get('promotion\_key');
+				if (typeof c !== 'undefined' && c !== null) {
+					setCookie("promotion_code",c);
+				}
+			}
+
+			function setCookie(cname, cvalue) {
+				document.cookie = cname + "=" + cvalue + ";" + "path=/";
+			}
+
+			function getCookie(cname) {
+				var name = cname + "=";
+				var decodedCookie = decodeURIComponent(document.cookie);
+				var ca = decodedCookie.split(';');
+				for(var i = 0; i <ca.length; i++) {
+					var c = ca[i];
+					while (c.charAt(0) == ' ') {
+						c = c.substring(1);
+					}
+					if (c.indexOf(name) == 0) {
+						return c.substring(name.length, c.length);
+					}
+				}
+				return "";
+			}
+			window.addEventListener( "load", getUrlCode );
+		</script>
+
+
+	</body>
+</html>

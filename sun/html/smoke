@@ -1,0 +1,1424 @@
+
+<!DOCTYPE html>
+<html class="no-js" lang="en-US">
+	<head>
+		<title>Smoke - The Sun Magazine</title>
+
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		
+		<meta name="viewport" content="width=device-width, minimum-scale=1.0">
+
+		<link rel="dns-prefetch" href="//ajax.googleapis.com">
+		<link rel="dns-prefetch" href="//use.typekit.net">
+		
+		<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/modernizr.js"></script>
+		<script src="https://www.google.com/recaptcha/api.js"
+				async defer>
+		</script>
+
+		<script>(function(d) { var config = { kitId: 'kzw7ebk', scriptTimeout: 3000, async: true }, h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s) })(document);</script>
+
+
+				
+		<link rel="apple-touch-icon" sizes="57x57" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-57x57.png?v=2016">
+		<link rel="apple-touch-icon" sizes="60x60" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-60x60.png?v=2016">
+		<link rel="apple-touch-icon" sizes="72x72" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-72x72.png?v=2016">
+		<link rel="apple-touch-icon" sizes="76x76" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-76x76.png?v=2016">
+		<link rel="apple-touch-icon" sizes="114x114" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-114x114.png?v=2016">
+		<link rel="apple-touch-icon" sizes="120x120" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-120x120.png?v=2016">
+		<link rel="apple-touch-icon" sizes="144x144" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-144x144.png?v=2016">
+		<link rel="apple-touch-icon" sizes="152x152" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-152x152.png?v=2016">
+		<link rel="apple-touch-icon" sizes="180x180" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-180x180.png?v=2016">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-32x32.png?v=2016" sizes="32x32">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/android-chrome-192x192.png?v=2016" sizes="192x192">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-96x96.png?v=2016" sizes="96x96">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-16x16.png?v=2016" sizes="16x16">
+		<link rel="mask-icon" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/safari-pinned-tab.svg?v=2016" color="#444444">
+		<link rel="shortcut icon" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon.ico?v=2016">
+		<meta name="apple-mobile-web-app-title" content="The Sun Magazine">
+		<meta name="application-name" content="The Sun Magazine">
+		<meta name="msapplication-TileColor" content="#fcc330">
+		<meta name="msapplication-TileImage" content="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/mstile-144x144.png?v=2016">
+		<meta name="theme-color" content="#ffffff">
+
+				<link rel="stylesheet" type="text/css" href="https://cloud.typography.com/6578674/659928/css/fonts.css" />
+		<link rel="stylesheet" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/css/style.css">
+
+																		<meta property="og:site_name" content="The Sun Magazine">
+		<meta property="og:type" content="article">
+		<meta property="og:url" content="https://www.thesunmagazine.org/issues/374/smoke">
+		<meta property="og:image" content="http://www.thesunmagazine.org/files/2016-11/374-43-daniels-preview.jpg">
+		<meta property="og:title" content="Smoke - The Sun Magazine">
+		<meta property="og:description" content="For years now my brother has gone by the name Captain Smoke, or Smoke for short. I&amp;rsquo;ve always figured it&amp;rsquo;s a reference to his chain-smoking cheap cigarettes, but it could be about marijuana. I&amp;rsquo;ve never asked. I do know that living with our father off and on for more than three decades, as Smoke did, would drive anyone crazy enough to come up with an alter ego.">
+		<meta property="fb:app_id" content="158741778010551">
+
+						<link rel="image_src" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.comhttp://www.thesunmagazine.org/files/2016-11/374-43-daniels-preview.jpg">
+
+												<meta name="twitter:card" content="summary">
+		<meta name="twitter:title" content="Smoke - The Sun Magazine">
+		<meta name="twitter:description" content="For years now my brother has gone by the name Captain Smoke, or Smoke for short. I&amp;rsquo;ve always figured it&amp;rsquo;s a reference to his chain-smoking cheap cigarettes, but it could be about marijuana. I&amp;rsquo;ve never asked. I do know that living with our father off and on for more than three decades, as Smoke did, would drive anyone crazy enough to come up with an alter ego.">
+		<meta name="twitter:image" content="http://www.thesunmagazine.org/files/2016-11/374-43-daniels-preview.jpg">
+		<meta name="twitter:site" content="@thesunmagazine">
+
+				<link rel="publisher" href="https://plus.google.com/113792980827145858211">
+        
+		<meta name="Description" content="For years now my brother has gone by the name Captain Smoke, or Smoke for short. I&amp;rsquo;ve always figured it&amp;rsquo;s a reference to his chain-smoking cheap cigarettes, but it could be about marijuana. I&amp;rsquo;ve never asked. I do know that living with our father off and on for more than three decades, as Smoke did, would drive anyone crazy enough to come up with an alter ego.">
+
+		
+		<!-- Google Tag Manager -->
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-TKBHCCG');</script>
+		<!-- End Google Tag Manager -->
+
+		<!-- Google Analytics -->
+		<script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+            ga('create', 'UA-2351127-1', 'auto');  // Replace with your property ID.
+            ga('send', 'pageview');
+            ga('require', 'ecommerce');   // Load the ecommerce plug-in.
+		</script>
+		<!-- End Google Analytics -->
+	</head>
+	<body id="">
+
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TKBHCCG"
+		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+		<header class="header" data-offset-start="80">
+		<div class="header-utilities">
+				<ul class="header-utilities-user list-inline list-inline-tight xxsmall">
+							<li>
+					<span class="header-utilities-user-intro">Already A Subscriber?</span> &nbsp;
+					<a href="https://www.thesunmagazine.org/subscriber/login" class="link-text link-alt">Sign In</a>
+				</li>
+					</ul>
+		<a href="https://www.thesunmagazine.org/shop/cart" class="header-utilities-cart  link-alt link-icon tiny">
+			<span class="i"><svg><use xlink:href="#i-cart"></use></svg></span>
+			<span class="cart-item-count">
+									0 Items
+				
+			</span>
+		</a>
+			</div>
+
+		<div class="header-bar">
+		<h1 class="header-logo logo">
+			<a href="/">
+				<img src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/img/logo-thesun.svg" class="logo-thesun" alt="The Sun Magazine">
+				<img src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/img/logo-tagline.svg" class="logo-tagline" alt="">
+			</a>
+		</h1>
+
+		<ul class="header-nav">
+			
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/read" 	   class='current '>
+	   Read	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/issues/current" 	   class=''>
+	   Current Issue	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/archives" 	   class=''>
+	   Archives	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/featured" 	   class=''>
+	   Featured Selections	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/topics" 	   class=''>
+	   Browse Topics	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/sections" 	   class=''>
+	   Browse Sections	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/connect" 	   class=''>
+	   Connect	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/news" 	   class=''>
+	   News from <em>The Sun</em>	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" 	   class=''>
+	   Write a Letter to the Editor	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/discussion-groups" 	   class=''>
+	   Discussion & Writing Groups	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/make-a-suggestion" 	   class=''>
+	   Make a Suggestion	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/submit" 	   class=''>
+	   Submit	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/shop" 	   class=''>
+	   Shop	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/giftsub" 	   class=''>
+	   Gift Subscriptions	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/issues" 	   class=''>
+	   Issues	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+											
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/donatemenu" 	   class='highlight'>
+	   Donate	</a>
+		
+	</li>
+
+		<li class=" last">
+														<a href="/SubscribeNav1" 					   class=''>
+						Subscribe					</a>
+									
+	</li>
+
+
+		</ul>
+
+		<button class="header-nav-toggle"><svg><use xlink:href="#i-menu" class="i-menu"></use><use xlink:href="#i-close" class="i-close"></use></svg></button>
+		<button class="header-search-toggle" data-form-wrapper=".header-search"><svg><use xlink:href="#i-magnifier" class="i-magnifier"></use><use xlink:href="#i-close" class="i-close"></use></svg></button>
+	</div>
+
+		<div class="header-search">
+		<div class="header-search-content">
+			<form action="https://www.thesunmagazine.org/search" class="form form-search" method="get">
+				<h2 class="alt-ff brand-link">Search Our 40 Years of Archives</h2>
+				<ul class="form-search-fields form-fields form-fields-inline">
+					<li><input type="text" name="q" value=""></li>
+					<li class="form-fields-inline-button"><button class="b b-1 b-padding-tight b-loading"><svg><use xlink:href="#i-loading"></use></svg>Search</button></li>
+				</ul>
+
+				<div class="header-search-content-shortcuts">
+					<h6 class="search-advanced alt-ff"><a class="js-handle-advanced" href="https://www.thesunmagazine.org/search?advanced=1">Advanced Search</a></h6>
+					<br>
+					<h6 class="alt-ff">Popular Pages</h6>
+					<ul class="list-inline-border list-inline-tight xxsmall"><li class=" first"><a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a></li><li class=""><a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a></li><li class=""><a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a></li><li class=""><a href="https://www.thesunmagazine.org/sections/quotations" 	   class=''>
+	   Quotations	</a></li><li class=""><a href="https://www.thesunmagazine.org/sections/readers-write" 	   class=''>
+	   Readers Write	</a></li><li class=" last"><a href="https://www.thesunmagazine.org/sections/poetry" 	   class=''>
+	   Poetry	</a></li></ul>				</div>
+			</form>
+		</div>
+	</div>
+</header>
+
+	<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+	<script type="text/javascript">
+		$(document).ready(function() {
+			$('.js-handle-advanced').on('click', function (e) {
+				e.preventDefault();
+				var getSearchValue = $('.form-search-fields input').val();
+				var getURL = $(this).attr('href');
+				var newURL = getURL + '&q=' + getSearchValue;
+				window.location.href = newURL;
+			});
+		});
+	</script>
+
+		<div class="container-hidden">
+		<div class="container">
+
+				
+	
+	<article class="article ">
+		<header class="block-content block-content-l1 block-content-center">
+						<div class="block-content-header">
+				<h6 class="b-content-section heading-square"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+				<h1 class="block-content-title">Smoke</h1>
+
+				
+				<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/corvin-thomas">Corvin Thomas</a></li><li><a href="/issues/374">February 2007</a></li></ul>
+
+			</div>
+
+																			
+
+				<figure class="block-content-photo block-content-photo-large photo photo-outset-center-large">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 2360 1634'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/1180x1704r/photos/374-43-daniels.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/2360x3409r/photos/374-43-daniels.jpg
+	 alt="374 - Daniels - Thomas"
+	 class="lazy">
+
+										<figcaption>
+
+						
+																				<div class="photo-credit">
+								&copy;&nbsp;<a href="/contributors/meg-q-daniels">Megan Daniels</a>
+							</div>
+																		</figcaption>
+									</figure>
+
+					</header>
+
+				<div class="article-body link-text-wrap">
+																		<p><strong><span class="large">As boys,</span></strong> my younger brother and I regularly watched the <span class="smallcaps">TV</span> show <em>Dragnet</em>, about hard-boiled police sergeant Joe Friday. We especially liked the episodes where Friday nabbed the freaked-out hippies on drugs &mdash; only my brother, at age seven, sided with the hippies. He hated Joe Friday.</p>
+
+<p>The other day I was reading a book on parenting, looking for ways to instill self-confidence and trust in my kids. During the parts about pimple-faced adolescents who grow up despising authority figures, my brother kept popping into my mind. A child has needs, the book said, and when the parent responds with anger and frustration, the child develops self-loathing, hopelessness, and a mistrust of all higher-ups. Our father, a divorced Baptist minister, raised two boys by himself in the California of the sixties. Poor and overwhelmed, he screamed a lot and relied on the belt to discipline us &mdash; and perhaps to vent his frustration. Hence my brother&rsquo;s anti-authority complex.</p>
+
+<p>For years now my brother has gone by the name Captain Smoke, or Smoke for short. I&rsquo;ve always figured it&rsquo;s a reference to his chain-smoking cheap cigarettes, but it could be about marijuana. I&rsquo;ve never asked. I do know that living with our father off and on for more than three decades, as Smoke did, would drive anyone crazy enough to come up with an alter ego.</p>
+
+<p>At thirty-five Smoke escaped our father&rsquo;s house by enrolling in a Southern university. After graduation he stayed in the South, living rent-free in a relative&rsquo;s trailer park and driving a long-haul truck to pay off his school loans. He was surrounded by meth-heads and migrants where he was, but happy finally to be living by himself.</p>
+
+<p>&ldquo;Anything to get away from Dad,&rdquo; he said.</p>
+
+<p>Of course, the rent-free condition was a plus. (My brother saw it as &ldquo;payback for all the shit I had to put up with.&rdquo;) He did chores around the park, cleared brush in the family cemetery, built decks for his trailer and our aunt&rsquo;s. He policed the place, too, tossing trash back into his neighbors&rsquo; yards, advising parents to keep their kids off his lot, and in general being an asshole.</p>
+
+<p>&ldquo;I don&rsquo;t give a shit what my neighbors think.&rdquo;</p>
+
+<p>After he&rsquo;d saved enough money to quit the trucking gig, Smoke pursued a career in the field he&rsquo;d gone to school for: wildlife studies. A small zoo hired him. Then his supervisor caught him spraying a gazelle with a hose.</p>
+
+<p>&ldquo;His horns were stuck in a fence. It was just a little squirt.&rdquo;</p>
+
+<p>His supervisor called it &ldquo;abuse&rdquo; and told him to turn in his <span class="smallcaps">T</span>-shirt.</p>
+
+<p>&ldquo;He didn&rsquo;t like me because I knew more than he did.&rdquo;</p>
+
+<p>Back at the trailer park, our cousin&rsquo;s new girlfriend convinced him that Smoke should pay rent.</p>
+
+<p>&ldquo;She corrupted his mind.&rdquo;</p>
+
+<p>There was a confrontation, and the girlfriend hit Smoke with an empty Coke can. Smoke&rsquo;s threat to press charges did not change the cousin&rsquo;s mind. My brother would have to start coughing up some cash.</p>
+
+<p>&ldquo;After all the work I&rsquo;ve done!&rdquo;</p>
+
+<p>Smoke went back to trucking to make some money, but hit a fire hydrant in New Jersey, demolishing his running boards.</p>
+
+<p>&ldquo;I just hope my company doesn&rsquo;t give me shit about it.&rdquo;</p>
+
+<p>He went home to await a new truck and was cooking a couple of chili dogs when he heard a knock at the door.</p>
+
+<p>There are a lot of evictions at the trailer park, a lot of warrants served, a lot of child-welfare check-ins. So it wasn&rsquo;t that unusual when my brother opened his door to a plainclothes detective and two deputies. Smoke simply invited them in.</p>
+
+<p>&nbsp;</p>
+
+<p><strong><span class="large">Whenever I ask</span></strong> my brother about his childhood, he says he&rsquo;s blocked all memory of it. Then he e-mails me multiple pages about the times he was beaten for something he didn&rsquo;t do: hitting a boy in the head with a hammer, knocking over a kid&rsquo;s bike, whipping the next-door neighbor&rsquo;s giant poodle with a water hose.</p>
+
+<p>&ldquo;I remember massaging the belt welts on my legs,&rdquo; he writes, &ldquo;and looking out the window at my friends skating by. Dad always took their word over mine.&rdquo;</p>
+
+<p>And our father always took my word over Smoke&rsquo;s, even the time I almost broke my brother&rsquo;s jaw with a baseball bat.</p>
+
+<p>&ldquo;That&rsquo;s the kind of thing Child Protective Services gets called in on today,&rdquo; he writes. &ldquo;I hated you and all the tormenting games of blackmail you played on me: &lsquo;Be my slave, or I&rsquo;ll tell Dad what you did.&rsquo; Shit like that.&rdquo;</p>
+
+<p>Honestly, I don&rsquo;t remember it the way Smoke does. But I was older, shifty, and quick to pick up on my favorite-son status. I received beatings, too, but I learned how to play the game in a way my brother never could. I rarely got caught, I made good grades in school, and I left home as soon as possible.</p>
+
+<p>Smoke, on the other hand, got the shit end of the stick. &ldquo;If Dad didn&rsquo;t have a reason to beat me, then he would dig deep and create a bogus excuse for one, like me wearing a hole in my new tennis shoes, or whatever.&rdquo;</p>
+
+<p>Smoke remembered one beating vividly. &ldquo;Dad kept telling me, &lsquo;If you tell me the truth, I won&rsquo;t whip you.&rsquo; I tried that. I hit a car with a rock and told Dad, thinking I wouldn&rsquo;t get beat. WRONG! Whatever trust I had in Dad up to that time was lost.&rdquo;</p>
+
+<p>I used to think these stories were just romantic fantasies my brother concocted to legitimize his failures. Now middle-aged, I look back, and the tales I always laughed at aren&rsquo;t so funny anymore. My brother still remembers. He still hurts. And he still tries to hide from the injustices that seem to follow him wherever he goes.</p>
+
+<p>&nbsp;</p>
+
+<p><strong><span class="large">&ldquo;You know why</span></strong> we&rsquo;re here, don&rsquo;t you?&rdquo; the plainclothes detective asked Smoke.</p>
+
+<p>&ldquo;Nope,&rdquo; Smoke said, biting into a chili dog.</p>
+
+<p>&ldquo;You know,&rdquo; the detective said. He was a young man, short but thick. (&ldquo;Like that Napoleon dude on the History Channel,&rdquo; Smoke told me.)</p>
+
+<p>The deputies, gray haired and big bellied, were blocking the door.</p>
+
+<p>Suddenly Smoke knew he was about to be blamed for something he had not done.</p>
+
+<p>&ldquo;Why don&rsquo;t you come with us,&rdquo; Napoleon said, &ldquo;and we&rsquo;ll show you.&rdquo;</p>
+
+<p>The four of them walked into the woods behind Smoke&rsquo;s trailer: Napoleon up front, the deputies in back, Smoke in the middle. A small opening in the trees led to an overgrown field that wasn&rsquo;t part of our cousin&rsquo;s land. Smoke followed the detective into the waist-high weeds and brush. A hundred paces in, they stopped. That&rsquo;s when Smoke saw the marijuana plants reaching for the sky.</p>
+
+<p>&ldquo;You&rsquo;re saying you don&rsquo;t know anything about this?&rdquo; Napoleon asked Smoke.</p>
+
+<p>&ldquo;No, sir,&rdquo; Smoke said. He knew he had nothing to hide, except his dislike of cops in general.</p>
+
+<p>&ldquo;How many plants are there?&rdquo; Napoleon asked one deputy.</p>
+
+<p>&ldquo;We counted 164,&rdquo; the deputy said.</p>
+
+<p>&ldquo;And how tall are they?&rdquo; Napoleon asked the other deputy.</p>
+
+<p>&ldquo;At least twelve feet,&rdquo; the other deputy said.</p>
+
+<p>&ldquo;And you don&rsquo;t know anything about this?&rdquo; Napoleon asked Smoke sarcastically.</p>
+
+<p>Smoke shrugged. &ldquo;This isn&rsquo;t my property,&rdquo; he said. &ldquo;Anyone could come back here.&rdquo;</p>
+
+<p>&ldquo;Bullshit,&rdquo; Napoleon said, bending over. &ldquo;And are you telling me this ain&rsquo;t yours either?&rdquo;</p>
+
+<p>He held up a yellow sprinkler still connected to a hose. Smoke said the sprinkler was his, but he hadn&rsquo;t seen it in a while. He thought his cousin had borrowed it. The hose he didn&rsquo;t recognize. His was old. This one was new.</p>
+
+<p>&ldquo;Well, follow me, then,&rdquo; Napoleon said, and they followed the hose back to the trees. It connected to an old hose &mdash; Smoke&rsquo;s hose &mdash; shy of the property line. Smoke&rsquo;s hose was connected to a spigot in his backyard. Smoke said he&rsquo;d never noticed the hose trailing into the woods because he rarely went back there; he was always on the road.</p>
+
+<p>Napoleon wasn&rsquo;t buying it. &ldquo;You&rsquo;re lying!&rdquo; he screamed.</p>
+
+<p>&ldquo;I don&rsquo;t appreciate the way you&rsquo;re talking to me,&rdquo; Smoke said, sitting on the steps of his back deck.</p>
+
+<p>&ldquo;I don&rsquo;t give a fuck what you don&rsquo;t appreciate!&rdquo; Napoleon yelled. &ldquo;I ought to arrest you right now!&rdquo; Napoleon went on cursing and pacing and mumbling until finally he told Smoke, &ldquo;Just go back inside before I lock you up.&rdquo;</p>
+
+<p>Smoke stood and climbed the three steps to his back door, then turned. The detective and the deputies were walking away. And that&rsquo;s when the outraged kid in my brother came out.</p>
+
+<p>&ldquo;Now get off my property!&rdquo; he hollered at their backs.</p>
+
+<p>Before Smoke could close the door, Napoleon had dashed up the steps and slammed him against the aluminum siding, jamming his toe. They fell into the trailer and landed hard against the washing machine. Smoke&rsquo;s arms were yanked back, and he felt the metal cuffs, heard the <em>click</em>. The deputies dragged him around to the front yard and sat him down in the gravel. A dirty little kid next door pointed and laughed. The pinched faces of the boy&rsquo;s parents smiled behind torn screens. None of our relatives came to Smoke&rsquo;s rescue.</p>
+
+<p>&ldquo;We&rsquo;ll get off your property,&rdquo; Napoleon said, still huffing. &ldquo;And we&rsquo;re taking you with us!&rdquo;</p>
+
+<p>&nbsp;</p>
+
+<p><strong><span class="large">It was</span></strong> the front-page story in the local newspaper the next day. The reporter named my brother and praised the county sheriff&rsquo;s department for cracking down on marijuana growers. In the photo that ran with the story, the little detective stands proudly with one of the plants, grinning.</p>
+
+<p>Smoke sent me the clipping after I wired the money to bail him out. The charges were manufacturing, intent to distribute, and resisting arrest.</p>
+
+<p>&ldquo;I&rsquo;m going to sue the sheriff&rsquo;s department for wrongful arrest,&rdquo; Smoke said on the phone. &ldquo;I&rsquo;m going to sue the newspaper for libel. And I&rsquo;m going to sue that bastard detective for beating the shit out of me and denting my washing machine.&rdquo; I could hear him smoking. &ldquo;My toe still hurts.&rdquo;</p>
+
+<p>&ldquo;I just want to ask one thing,&rdquo; I said.</p>
+
+<p>&ldquo;What&rsquo;s that?&rdquo; he asked, inhaling.</p>
+
+<p>&ldquo;Were those your plants?&rdquo;</p>
+
+<p>&ldquo;No.&rdquo;</p>
+
+<p>I was silent. My brother has smoked dope for most of his life. I know, because I got him started. But growing his own weed was too much work for him. Besides, I didn&rsquo;t think he&rsquo;d know how to do it, let alone have the time to tend his illicit garden.</p>
+
+<p>&ldquo;I believe you,&rdquo; I said.</p>
+
+<p>&ldquo;I&rsquo;ll go to the Supreme Court, if that&rsquo;s what it takes.&rdquo;</p>
+
+<p>I pictured my brother on the witness stand, a forty-four-year-old with long hair, a Fu Manchu mustache, and blue-tinted shades, his 260-pound girth stuffed into a tie-dyed <span class="smallcaps">T</span>-shirt two sizes too small: central casting for the guilty weed grower.</p>
+
+<p>&ldquo;What are we going to do?&rdquo; I asked.</p>
+
+<p>&ldquo;Just don&rsquo;t tell Dad.&rdquo;</p>
+
+<p>&nbsp;</p>
+
+<p><strong><span class="large">Smoke had been</span></strong> arrested once before, when he was twelve: We lived in a low-rent apartment complex, and some older kids told him to stand on a corner and watch for cops. Meanwhile they broke into a car. When the kids got busted, they ratted Smoke out. He said he hadn&rsquo;t known what they were doing. My father didn&rsquo;t believe him, and he drove Smoke to the police station and turned him in. Abandoned by the only person who could protect him, Smoke was badgered by a cop to the point of piss and tears.</p>
+
+<p>Decades later, Smoke tracked down his old interrogator on the Internet. The cop had retired and moved to Florida. &ldquo;Remember me?&rdquo; Smoke began his e-mail. &ldquo;I was just a little kid, and you treated me like a grown criminal.&rdquo;</p>
+
+<p>The retired cop wrote back and implied Smoke had psychological problems if he was still harboring hard feelings about something that had happened so long ago. &ldquo;Let it go,&rdquo; he said.</p>
+
+<p>But Smoke was undaunted. &ldquo;How many other kids were you mean to?&rdquo; he wrote. &ldquo;How many other innocent kids confessed to something they didn&rsquo;t do?&rdquo;</p>
+
+<p>&ldquo;I have nothing to be ashamed of,&rdquo; the man replied. &ldquo;Sounds like you still do. Get help.&rdquo;</p>
+
+<p>My brother&rsquo;s final e-mail turned a little sinister. &ldquo;Sleep tight tonight,&rdquo; it ended, &ldquo;if you can.&rdquo;</p>
+
+<p>He wanted the satisfaction of scaring an old man the way he&rsquo;d been scared, of righting a thirty-year-old wrong, imagined or not.</p>
+
+<p>&nbsp;</p>
+
+<p><strong><span class="large">After the</span></strong> pot-growing arrest, every time my father called and asked about Smoke &mdash; if I&rsquo;d talked to him lately, how he was doing &mdash; I&rsquo;d lie and say, &ldquo;He&rsquo;s fine.&rdquo; I knew if my brother did go down, my father would always blame me for not telling him about it, for not giving him an opportunity to help. But my brother wanted it this way. Out of either embarrassment or pride, he insisted on keeping our father out of it.</p>
+
+<p>Smoke hired a five-thousand-dollar-a-case attorney and rounded up all of his receipts from weigh stations and truck stops to prove he&rsquo;d never been home long enough to properly water the plants. For punctuation, he included the results of four workplace drug tests he&rsquo;d passed in the previous twelve months.</p>
+
+<p>&ldquo;I&rsquo;m confident the case will be dropped,&rdquo; Smoke wrote me in an e-mail. The evidence was circumstantial: The missing sprinkler. (&ldquo;I thought Zed had it.&rdquo;) The old hose. (&ldquo;The end of it was on my lot, but I couldn&rsquo;t see it.&rdquo;) The free-standing spigot. (&ldquo;Which the newspaper falsely reported as being connected to my home.&rdquo;)</p>
+
+<p>Whose plants were they, then?</p>
+
+<p>&ldquo;There&rsquo;s a pathway leading from the main road onto my lot,&rdquo; Smoke wrote. &ldquo;I think the culprit was coming in from there.&rdquo;</p>
+
+<p>I suspected one of his neighbors, or perhaps an ex-neighbor who blamed Smoke for his eviction. Not that a jury would believe it.</p>
+
+<p>&ldquo;Isn&rsquo;t there some kind of plea bargain you can make,&rdquo; I asked, &ldquo;to avoid a trial?&rdquo;</p>
+
+<p>&ldquo;No way, man,&rdquo; Smoke said, &ldquo;not after I was assaulted and unlawfully arrested.&rdquo;</p>
+
+<p>I told my brother they were separate issues. So did his attorney. But Smoke was determined.</p>
+
+<p>&ldquo;I did some research last night. Check this out.&rdquo;</p>
+
+<p>Attached to his e-mail were a couple of articles from the local newspaper&rsquo;s website, about the little detective and the broken bones of his suspects. One &ldquo;uncooperative&rdquo; drug suspect woke up in jail with a broken jaw. The other story involved a foot chase, a tackle, and a fractured wrist.</p>
+
+<p>&ldquo;Sound familiar?&rdquo; my brother wrote.</p>
+
+<p>&ldquo;Yeah,&rdquo; I wrote back, &ldquo;but it&rsquo;s three cops&rsquo; word against yours. Who do you think a jury&rsquo;s going to believe?&rdquo;</p>
+
+<p>He didn&rsquo;t answer. Weeks passed. When the county prosecutor decided he had enough evidence for a trial, Smoke called me. &ldquo;I&rsquo;m going to the <span class="smallcaps">FBI</span>. I&rsquo;m going to call <em>60 Minutes</em> or one of those other news shows where the big-time reporters come to the little town and embarrass everyone into dropping the charges.&rdquo;</p>
+
+<p>I was blunt: &ldquo;I doubt anyone&rsquo;s going to give a shit about an accused pot grower with a fucked-up toe.&rdquo;</p>
+
+<p>&ldquo;Yeah, but an <span class="smallcaps">FBI</span> investigation could prove he beats people up and he&rsquo;s a liar.&rdquo;</p>
+
+<p>&ldquo;Smoke, you need to deal with those marijuana charges first.&rdquo;</p>
+
+<p>Desperate, Smoke bought two tape recorders: one for his house and one for his car, in case he was pulled over. He practiced hitting the <span class="smallcaps">record</span> button and tested the volume.</p>
+
+<p>&ldquo;Whatever you do,&rdquo; I warned him, &ldquo;do not try to contact the guy who arrested you.&rdquo;</p>
+
+<p>&ldquo;I already did &mdash; almost,&rdquo; he said with a chuckle.</p>
+
+<p>Smoke had been in line to buy cigarettes at the local convenience store when he&rsquo;d seen the little detective up front.</p>
+
+<p>&ldquo;Catch any bad guys today?&rdquo; the clerk asked the detective, and they both laughed.</p>
+
+<p>Smoke&rsquo;s eyes bore into the back of the little man&rsquo;s skull. <em>Look at me!</em> he willed.</p>
+
+<p>The detective paid for his Skoal and Dr. Pepper and walked out. (&ldquo;I was <em>that</em> close to going after him,&rdquo; Smoke told me.)</p>
+
+<p>&ldquo;That cop puts innocent people in jail,&rdquo; Smoke said to the clerk, loud enough for everyone to hear.</p>
+
+<p>The clerk didn&rsquo;t reply, but gave him his change and slammed the register shut.</p>
+
+<p>&nbsp;</p>
+
+<p><strong><span class="large">With his head</span></strong> full of conspiracies, Smoke took refuge in his work. Then he hit a hairpin turn at the bottom of a hill and flipped his rig. He kicked his way out through the windshield, unscathed but scared.</p>
+
+<p>&ldquo;My company is good to me,&rdquo; he wrote. &ldquo;I&rsquo;m supposed to check back on Monday about getting another truck.&rdquo;</p>
+
+<p>But there wasn&rsquo;t another truck, and the company let him go. So Smoke did what any other jobless person would do while awaiting a drug trial.</p>
+
+<p>&ldquo;I&rsquo;m writing my autobiography,&rdquo; he announced.</p>
+
+<p>&ldquo;Research&rdquo; for the book led him to a box of letters he&rsquo;d written to our mother as a teen. She&rsquo;d returned them before she died. Most were from the period when I was away at grad school, and Smoke was living with Dad and flunking out of his first year in community college.</p>
+
+<p>&ldquo;I hate living with Dad,&rdquo; the eighteen-year-old Smoke wrote. &ldquo;He&rsquo;s always calling out for me, and when I run in, he says things like &lsquo;Turn the <span class="smallcaps">TV</span> on for me,&rsquo; &lsquo;Bring me a glass of milk,&rsquo; &lsquo;Cut the hair out of my ears.&rsquo; I even hear him calling for me in my sleep.&rdquo;</p>
+
+<p>Our father had limited funds and was putting his money on me, the firstborn son. He fixed my car, bought me new tires, got me a summer job. Smoke got squat. I remember thinking I deserved the lion&rsquo;s share because I was the smart one.</p>
+
+<p>&ldquo;I asked Dad why he spent money on my brother&rsquo;s car and why he gives my brother money,&rdquo; Smoke wrote to our mom, &ldquo;and Dad said, &lsquo;Because he doesn&rsquo;t treat me the way you do!&rsquo; And that&rsquo;s true. He treats Dad <em>worse</em> than I do. He tells Dad to &lsquo;Shut your mouth!&rsquo; and things I wouldn&rsquo;t dare say.&rdquo;</p>
+
+<p>Smoke started saving to get a place of his own, but our father &ldquo;tricked&rdquo; him into putting his earnings into the family checking account.</p>
+
+<p>&ldquo;Dad said the money isn&rsquo;t mine because I&rsquo;m living under his roof,&rdquo; Smoke wrote to our mom. &ldquo;What a swindler!&rdquo;</p>
+
+<p>I smiled at the letters. Time allows us to laugh at the ridiculousness of our past: a father so afraid to be alone he enslaves his younger son; an older brother who not only didn&rsquo;t share, but barely acknowledged his younger sibling&rsquo;s existence. But I had trouble convincing Smoke the past was so funny.</p>
+
+<p>&ldquo;Dad was really trying to break my spirit,&rdquo; Smoke wrote me. &ldquo;If I hadn&rsquo;t moved away, if I&rsquo;d submitted to him and been the kind of son he wanted me to be, HIS IDIOT TOY, where would I be now?&rdquo; (I didn&rsquo;t remind him that where he was now was jobless and facing prison.)</p>
+
+<p>My father and I eventually reconciled with my brother after we were all adults, but not until Smoke was finally independent enough and far enough away to let us know how ashamed we should be. Dad and I were like drunks waking up in a gutter of guilt.</p>
+
+<p>&ldquo;I do want you to know that I&rsquo;m aware you and Dad have made attempts to make amends over the years,&rdquo; Smoke wrote, &ldquo;and I acknowledge that. So I&rsquo;ll put the lid back on the past and focus on the now. And in the now, I know that I love you both and wouldn&rsquo;t have any other brother or dad.&rdquo;</p>
+
+<p>I can only hope I fare so well in his autobiography, in between the broken jaw and the day I finally said I was sorry for all that I had and hadn&rsquo;t done.</p>
+
+<p class="ckeditor-shortcode"><figure class="photo photo-outset-center-medium">
+	<div>
+					<div>
+				<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 1960 1618'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/980x809r/photos/374-46-tweedy-holmes.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/1960x1618r/photos/374-46-tweedy-holmes.jpg
+	 alt="374 - Tweedy-Holmes - Thomas"
+	 class="lazy">
+
+									<figcaption>
+																											<div class="photo-credit">
+																			© <a href="https://www.thesunmagazine.org/contributors/karen-tweedy-holmes">
+											Karen
+																						Tweedy-Holmes
+										</a>
+																	</div>
+																								</figcaption>
+							</div>
+			</div>
+</figure>
+</p>
+
+<p><strong><span class="large">I scheduled</span></strong> time off from work to attend my brother&rsquo;s trial. Someone had to be there to make sure he didn&rsquo;t deliver a stupefying speech or go berserk when they sent him to jail.</p>
+
+<p>But the <span class="smallcaps">DA</span> and Smoke&rsquo;s attorney met at the eleventh hour to discuss one last plea-bargain possibility.</p>
+
+<p>&ldquo;My attorney says it&rsquo;s called &lsquo;diversion,&rsquo;&nbsp;&rdquo; Smoke told me on the phone. &ldquo;I agree to a fine and some community service, and the charge is knocked down to a misdemeanor.&rdquo;</p>
+
+<p>&ldquo;No trial?&rdquo; I asked.</p>
+
+<p>&ldquo;No,&rdquo; Smoke answered, &ldquo;but it&rsquo;s still bullshit, because I didn&rsquo;t do anything wrong!&rdquo;</p>
+
+<p>&ldquo;Take the deal!&rdquo; I screamed at my brother.</p>
+
+<p>Reluctantly he did, and afterward he finally told our father about the arrest.</p>
+
+<p>&ldquo;What did Dad say?&rdquo; I asked.</p>
+
+<p>&ldquo;Well,&rdquo; Smoke inhaled on a cigarette, &ldquo;he was pissed, of course, because he said he could&rsquo;ve helped. Something about knowing the sheriff.&rdquo;</p>
+
+<p>The fifteen-hundred-dollar fine hurt Smoke more than the five hundred hours of community service. But a preacher cousin of ours gave him a job painting the old family church, and somehow that led to Smoke&rsquo;s becoming choir director and &ldquo;performing&rdquo; at the summer&rsquo;s last revival meeting.</p>
+
+<p>The tiny rural congregation sat silent (and perhaps stunned) as Smoke opened with an old Bob Dylan song titled &ldquo;When the Ship Comes In.&rdquo; Ostensibly it&rsquo;s about the Second Coming, but it&rsquo;s packed with the kind of payback my brother dreams of:</p>
+
+<p>&ldquo;Oh the foes will rise / With the sleep still in their eyes / And they&rsquo;ll jerk from their beds and think they&rsquo;re / dreamin&rsquo;. / But they&rsquo;ll pinch themselves and squeal / And know that it&rsquo;s for real, / The hour when the ship comes in.&rdquo;</p>
+
+<p>Harmonica solo.</p>
+
+<p>While waiting on that ship, Smoke filed a multi-million-dollar lawsuit against the little detective.</p>
+
+<p>&ldquo;Someone&rsquo;s gotta stand up to that bastard,&rdquo; he told me on the phone.</p>
+
+<p>He&rsquo;d also enrolled in community college, he said. He had his sights set on a job teaching high-school biology and coaching baseball. I could hear the television on in the background.</p>
+
+<p>&ldquo;What are you watching?&rdquo; I asked.</p>
+
+<p>&ldquo;<em>Dragnet.</em>&rdquo; Smoke exhaled. &ldquo;Joe Friday&rsquo;s still an asshole.&rdquo;</p>
+														</div>
+
+
+				
+<div class="sharing-bar article-sharing">
+	<div class="sharing-bar-first">
+		<a href="javascript:window.print();" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-printer"></use></svg> <span>Print</span></a>
+	</div>
+
+	<div class="sharing-bar-second">
+		<span class="alt-ff xsmall">Share:</span>
+		<a href="https://www.facebook.com/sharer/sharer.php?u=https://www.thesunmagazine.org/issues/374/smoke" target="_blank" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-facebook"></use></svg> <span>Facebook</span></a>
+		<a href="https://twitter.com/share?url=https://www.thesunmagazine.org/issues/374/smoke&amp;via=thesunmagazine" target="_blank" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-twitter"></use></svg> <span>Twitter</span></a>
+		<a href="#" class="b b-1 b-padding-tight xsmall js-toggle-mail-form"><svg><use xlink:href="#i-email"></use></svg> <span>Email</span></a>
+	</div>
+</div>
+
+<div class="send-to-friend-message-container">
+	<div class="alert alert-success xsmall">Thank you for sharing <em>The Sun</em>.</div>
+</div>
+
+<form method="post" action="/ajax/articles/send-to-a-friend" class="form fill-grey send-to-friend-form">
+		<input type="hidden" id="form_url" name="form[url]" value="https://www.thesunmagazine.org/issues/374/smoke" />
+
+	<ul class="form-fields">
+		<li><label for="form_sender_name"><span class="label-text">Your Full Name</span><span class="label-asterisk">*</span></label><input type="text" id="form_sender_name" name="form[sender_name]" required="required" /></li>
+		<li><label for="form_sender_email"><span class="label-text">Your Email Address</span><span class="label-asterisk">*</span></label><input type="email" id="form_sender_email" name="form[sender_email]" required="required" /></li>
+		<li><label for="form_recipient_name"><span class="label-text">Friend’s Name</span><span class="label-asterisk">*</span></label><input type="text" id="form_recipient_name" name="form[recipient_name]" required="required" /></li>
+		<li><label for="form_recipient_email"><span class="label-text">Friend’s Email Address</span><span class="label-asterisk">*</span></label><input type="email" id="form_recipient_email" name="form[recipient_email]" required="required" /></li>
+		<li><label for="form_message"><span class="label-text">Personalized Message</span></label><textarea id="form_message" name="form[message]"></textarea></li>
+	</ul>
+<div class="send-to-friend-message-container">
+	<div class="alert alert-error xsmall">Something went wrong. Please try again.</div>
+</div>
+
+<div class="g-recaptcha" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs"></div>
+<div class="form-actions"><button type="submit" id="form_submit" name="form[submit]"	class="form-actions-b-primary b b-1 b-loading xsmall"><svg><use xlink:href="#i-loading"></use></svg>
+		Submit
+	</button></div>
+<input type="hidden" id="form__token" name="form[_token]" value="5806cbda4fbae284abd885745574eee236873eb9" /></form>
+
+<br>
+
+
+
+										<footer class="article-contributor contributors">
+									
+
+<div class="block-contributor">
+		
+
+		<div class="block-contributor-content">
+		<div class="block-contributor-bio small">
+			<p><strong><span class="smallcaps">Corvin Thomas</span></strong> lives in San Francisco. As a writer, he takes inspiration from the language of his two children: &ldquo;I got stung by a pimple,&rdquo; his two-year-old daughter says; &ldquo;I smell bacon on the baby wind,&rdquo; says his four-year-old son.</p><a href="/contributors/corvin-thomas" class="block-contributor-link link-alt small">More From This Contributor&nbsp;&#9656;</a>		</div>
+	</div>
+</div>
+
+							</footer>
+						</article>
+
+
+				    <div class="paywall-subscription block-product">
+			<div class="columns">
+			<div class="paywall-banner span3 cta cta-l1">
+				<div class="cta-intro">
+					<h5 class="cta-title alt-ff">One Free Selection Left </h5>
+					<p class="cta-text xsmall"><a class="link-alt" href="https://www.thesunmagazine.org/subscriber/login" data-label="Already a subscriber?">Already a subscriber? Sign in ▸</a><br><br>Read two free selections from <em>The Sun</em> each month.</p>
+				</div>
+			</div>
+			<div class="paywall-banner span9 note note-1 text-center">
+				<h4 class="cta-title alt-ff">Subscribe to <em>The Sun</em> and save 45%</h4>
+				<p class="cta-text xsmall">Subscribers get full access to the current issue and more than 40 years of archives.</p>
+				<a class="b b-1 xsmall cta-trigger"  href="/subscribe1" data-label="Subscribe" data-ctatitle="Subscribe">Subscribe</a>
+			</div>
+		</div>
+
+		<div class="columns">
+			<div class="span12 paywall-cta-bottom">
+				<p>
+					<span class="cta-title-issue">Buy the February 2007 issue for $5.95</span>
+					<span class="xsmall">Order now to get instant access to this issue, and we’ll also send you a print copy.</span>
+					<a class="b b-5 xsmall corona"  href="#" data-product-type="issues" data-id="374" data-label="Order Now ▸">Order Now ▸</a>
+				</p>
+			</div>
+		</div>
+
+		
+
+</div>
+	
+	
+	
+	<div class="spacer"></div>
+	
+
+
+
+		
+		<div class="article-correspondence-cta">
+		<div class="cta cta-l1" data-url="https://www.thesunmagazine.org/letter-to-the-editor">
+			<div class="cta-intro">
+				<h5 class="cta-title alt-ff">Thinking about writing us a letter?</h5>
+				<p class="cta-text">Give in to the temptation. We love getting mail. <br><span class="xsmall">(Of course, we reserve the right to edit.)</span></p>
+			</div>
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" class="cta-button b b-4 b-padding-tight small" data-label="Write Us A Letter!">Write Us A Letter!</a>
+		</div>
+	</div>
+	
+
+			<div class="article-also layout-item-large full-bar fill-grey-mid-light">
+		<div class="layout-item-intro">
+			<h2>Also In This Issue</h2>
+			<a href="/issues/374" class="xsmall link-alt">February 2007&nbsp;&#9656;</a>
+		</div>
+		<div class="issue-articles-l1">
+			<div class="issue-articles-l1-content1">
+				
+<div class="cover cover-l1 block-product">
+	<div>
+							<a href="/issues/374" class="cover-thumb">
+				
+				<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 727'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/import/issue/374.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/561x728r/import/issue/374.jpg
+	 alt=""
+	 class="lazy">
+
+			</a>
+		
+
+													<!-- <a href="/issues/374" data-product-type="issues" data-id="374" data-role="order" class="js-buy-single corona cover-button b b-1 b-full xsmall" data-label="Buy This Issue &#9656;">
+								Buy This Issue&nbsp;&#9656;
+			</a> -->
+			<a href="/issues/374" data-product-type="issues" data-id="374" class="js-buy-single corona cover-button b b-1 b-full xsmall" data-label="Buy This Issue &#9656;">
+								Buy This Issue&nbsp;&#9656;
+			</a>
+					
+					</div>
+</div>
+			</div>
+			<div class="issue-articles-l1-content2">
+				<div class="articles-l3">
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/374/i-star-in-my-own-made-for-tv-movie">I Star In My Own Made-For-TV Movie</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li><a href="/contributors/kelly-regan-barnhill">Kelly Barnhill</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/374/thick">Thick</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/akhim-yuseff-cabey">Akhim Yuseff Cabey</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/readers-write">Readers Write</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/374/help">Help</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/our-readers">Our Readers</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/quotations">Quotations</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/374/sunbeams-374">Sunbeams</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+									</div>
+			</div>
+		</div>
+	</div>
+	
+
+			<div class="article-related layout-item-large full-bar fill-pattern-light">
+		<div class="layout-item-intro">
+			<h2>Related Selections</h2>
+			<ul class="list-inline list-inline-tight"><li><a href="/topics/siblings" class="xsmall link-alt link-text">Siblings</a></li><li><a href="/topics/crime" class="xsmall link-alt link-text">Crime</a></li><li><a href="/topics/oppression" class="xsmall link-alt link-text">Oppression</a></li></ul>		</div>
+
+		<div class="articles-l2">
+							
+
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/443/easily-led">Easily Led</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/gillian-kendall">Gillian Kendall</a></li><li><a href="/issues/443">November 2012</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/443" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 727'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/140x182r/import/issue/443.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/import/issue/443.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/fiction">Fiction</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/250/what-we-came-for">What We Came For</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/alison-luterman">Alison Luterman</a></li><li><a href="/issues/250">October 1996</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/250" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 725'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/141x182r/import/issue/250.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/281x364r/import/issue/250.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/fiction">Fiction</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/115/organic-gardening">Organic Gardening</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/ira-wood">Ira Wood</a></li><li><a href="/issues/115">June 1985</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/115" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 725'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/141x182r/import/issue/115.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/281x364r/import/issue/115.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/96/summer">Summer</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/sy-safransky">Sy Safransky</a></li><li><a href="/issues/96">November 1983</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/96" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 522 728'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/131x182r/import/issue/096.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/261x364r/import/issue/096.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+					</div>
+	</div>
+	
+	
+					<form id="newsletterForm" method="post" action="https://www.thesunmagazine.org/newsletter" data-url-send="https://www.thesunmagazine.org/newsletter" class="form form-newsletter fill-grey" enctype="multipart/form-data" target="_blank">
+
+
+
+		<div class="form-newsletter-intro">
+			<h3 class="alt-ff large">Sign Up For Our Newsletter</h3>
+			<p>We’ll let you know about new website selections, upcoming events, special offers, and more.</p>
+		</div>
+
+		<ul class="form-newsletter-fields form-fields form-fields-inline">
+			<li>
+				<input name="name" type="text" maxlength="500" id="name" placeholder="Your Name">
+			</li>
+			<li>
+				<input name="email" type="text" maxlength="500" id="email" placeholder="Your E-mail">
+			</li>
+
+			<li class="form-fields-inline-button">
+				<button disabled="disabled" class="form-newsletter-send b b-4 b-padding-tight b-loading g-recaptcha" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs" data-callback="recaptcha_callback" name="SubmitButton" id="SubmitButton">
+					<svg><use xlink:href="#i-loading"></use></svg>
+					Sign&nbsp;Up
+				</button>
+			</li>
+		</ul>
+	</form>
+	<script id="hiddenlpsubmitdiv" style="display: none;"></script>
+
+
+
+<footer class="footer brand-grey-dark">
+			<div class="footer-first">
+		<h3 class="footer-tagline">Independent, Reader-Supported Publishing</h3>
+		<p class="footer-desc">In each issue of <em>The Sun</em> you’ll find some of the most radically intimate and socially conscious writing being published today. In an age of media conglomerates, we’re something of an oddity: an ad-free, independent, reader-supported magazine.</p>
+		<ul class="footer-nav list-inline-border xsmall">
+			
+		<li class=" first">
+			<a href="https://www.thesunmagazine.org/about" 	   class=''>
+	   About <em>the Sun</em>	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/staff" 	   class=''>
+	   Staff	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/find-the-sun" 	   class=''>
+	   Find <em>The Sun</em>&nbsp;&nbsp;in a Store Near You	</a>
+		
+	</li>
+
+
+		</ul>
+	</div>
+	
+		<div class="footer-second">
+		<ul class="footer-second-social list-inline">
+			<li><a href="https://www.facebook.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-facebook"></use></svg></span> Like Us</a></li>
+			<li><a href="https://twitter.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-twitter"></use></svg></span> Follow Us</a></li>
+			<li><a href="https://instagram.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-instagram"></use></svg></span> Take a Look</a></li>
+		</ul>
+
+		<div class="footer-second-content">
+			<ul class="footer-nav list-inline-border xsmall">
+				
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/" 	   class='current '>
+	   Home	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/privacy-policy" 	   class=''>
+	   Privacy Policy	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/terms-of-use" 	   class=''>
+	   Terms of Use	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/site-map" 	   class=''>
+	   Site Map	</a>
+		
+	</li>
+
+
+			</ul>
+			<p class="footer-copyright xxsmall">Copyright &copy; 1974–2020 <em>The Sun</em>. All rights reserved.</p>
+		</div>
+	</div>
+</footer>
+
+
+
+<div class="offset-nav">
+	<ul>
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/read" 	   class='current '>
+	   Read	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/issues/current" 	   class=''>
+	   Current Issue	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/archives" 	   class=''>
+	   Archives	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/featured" 	   class=''>
+	   Featured Selections	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/topics" 	   class=''>
+	   Browse Topics	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/sections" 	   class=''>
+	   Browse Sections	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/connect" 	   class=''>
+	   Connect	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/news" 	   class=''>
+	   News from <em>The Sun</em>	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" 	   class=''>
+	   Write a Letter to the Editor	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/discussion-groups" 	   class=''>
+	   Discussion & Writing Groups	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/make-a-suggestion" 	   class=''>
+	   Make a Suggestion	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/submit" 	   class=''>
+	   Submit	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/shop" 	   class=''>
+	   Shop	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/giftsub" 	   class=''>
+	   Gift Subscriptions	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/issues" 	   class=''>
+	   Issues	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+											
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/donatemenu" 	   class='highlight'>
+	   Donate	</a>
+		
+	</li>
+
+		<li class=" last">
+														<a href="/SubscribeNav1" 					   class=''>
+						Subscribe					</a>
+									
+	</li>
+
+
+					<li>
+				<a href="https://www.thesunmagazine.org/shop/cart">Cart ( <span class="cart-item-count">  0  </span>)</a>
+			</li>
+			<li><a href="https://www.thesunmagazine.org/subscriber/login" class="link-header-logout link-alt">Sign In</a></li>
+			</ul>
+	<ul>
+		<li class=" first">
+			<a href="https://www.thesunmagazine.org/about" 	   class=''>
+	   About <em>the Sun</em>	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/staff" 	   class=''>
+	   Staff	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/find-the-sun" 	   class=''>
+	   Find <em>The Sun</em>&nbsp;&nbsp;in a Store Near You	</a>
+		
+	</li>
+
+</ul>
+	<ul>
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/" 	   class='current '>
+	   Home	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/privacy-policy" 	   class=''>
+	   Privacy Policy	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/terms-of-use" 	   class=''>
+	   Terms of Use	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/site-map" 	   class=''>
+	   Site Map	</a>
+		
+	</li>
+
+</ul>
+</div>
+
+<div id="buy-popup-message" class="buy-popup mfp-hide white-popup white-popup-block">
+	<a class="popup-modal-dismiss" href="#"></a>
+	<h5>Due to fulfillment challenges related to the novel coronavirus, print copies are temporarily unavailable for individual sale. We are offering free PDFs until we are able to resume print sales.</h5>
+	<p>Enter your e-mail address below to download this issue.</p>
+	<form method="post" id="download-single" action="https://www.thesunmagazine.org/issue/pdfFree/531.pdf">
+		<label for="email"><span class="label-text">E-mail</span><span class="label-asterisk">*</span></label>
+		<input class="buy-single-email" id="email" type="email" name="email">
+		<button type="send" class="form-buy-issue-send b b-3 b-padding-tight b-loading">Send</button>
+		<button class="form-buy-issue-download b b-3 b-padding-tight b-loading">Download pdf</button>
+		<button type="send" class="popup-modal-dismiss b b-2 b-padding-tight b-loading">Close</button>
+		<div class="g-recaptcha" style="text-align: center" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs"></div>
+
+	</form>
+</div>
+
+			<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/plugins.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/site.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/newsletter.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/js/articles.js"></script>
+		</div>
+		</div>
+
+				<script>
+		(function (doc) {
+			var scripts = doc.getElementsByTagName('script');
+			var script = scripts[scripts.length - 1];
+			var xhr = new XMLHttpRequest();
+			xhr.onload = function () {
+				var div = doc.createElement('div');
+				div.innerHTML = this.responseText;
+				div.style.display = 'none';
+				script.parentNode.insertBefore(div, script);
+			}
+			xhr.open('get', '/theme/thesun//assets/build/img/sprite/sprite.svg', true);
+			xhr.send();
+		})(document);
+
+
+
+		</script>
+
+		<script>
+			// Submit function
+            function recaptcha_callback() {
+						var getUrl = $('.form-newsletter').data( "url-send" ),
+							getName = $('input#name').val(),
+							getEmail = $('input#email').val();
+						$.ajax({
+								type: "POST",
+								url: getUrl,
+								data: {
+									name: getName,
+									email: getEmail,
+									grecaptcharesponse: grecaptcha.getResponse()
+								}
+							}).done(function(response) {
+								console.log(response);
+									$('.form-fields').fadeOut(800, function () {
+										$('.form-fields').empty().append('<div class="newsletter-confirm-message">Thank you for signing up to receive news from <em>The Sun</em>. Your first newsletter will arrive soon.<div>').fadeIn(800);
+									});
+							});
+			}
+
+		</script>
+
+		<script>
+			function getUrlCode() {
+				var url_string = window.location.href;
+				var url = new URL(url_string);
+				var c = url.searchParams.get('promotion\_key');
+				if (typeof c !== 'undefined' && c !== null) {
+					setCookie("promotion_code",c);
+				}
+			}
+
+			function setCookie(cname, cvalue) {
+				document.cookie = cname + "=" + cvalue + ";" + "path=/";
+			}
+
+			function getCookie(cname) {
+				var name = cname + "=";
+				var decodedCookie = decodeURIComponent(document.cookie);
+				var ca = decodedCookie.split(';');
+				for(var i = 0; i <ca.length; i++) {
+					var c = ca[i];
+					while (c.charAt(0) == ' ') {
+						c = c.substring(1);
+					}
+					if (c.indexOf(name) == 0) {
+						return c.substring(name.length, c.length);
+					}
+				}
+				return "";
+			}
+			window.addEventListener( "load", getUrlCode );
+		</script>
+
+
+	</body>
+</html>

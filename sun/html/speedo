@@ -1,0 +1,1298 @@
+
+<!DOCTYPE html>
+<html class="no-js" lang="en-US">
+	<head>
+		<title>Speedo - The Sun Magazine</title>
+
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		
+		<meta name="viewport" content="width=device-width, minimum-scale=1.0">
+
+		<link rel="dns-prefetch" href="//ajax.googleapis.com">
+		<link rel="dns-prefetch" href="//use.typekit.net">
+		
+		<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/modernizr.js"></script>
+		<script src="https://www.google.com/recaptcha/api.js"
+				async defer>
+		</script>
+
+		<script>(function(d) { var config = { kitId: 'kzw7ebk', scriptTimeout: 3000, async: true }, h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s) })(document);</script>
+
+
+				
+		<link rel="apple-touch-icon" sizes="57x57" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-57x57.png?v=2016">
+		<link rel="apple-touch-icon" sizes="60x60" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-60x60.png?v=2016">
+		<link rel="apple-touch-icon" sizes="72x72" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-72x72.png?v=2016">
+		<link rel="apple-touch-icon" sizes="76x76" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-76x76.png?v=2016">
+		<link rel="apple-touch-icon" sizes="114x114" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-114x114.png?v=2016">
+		<link rel="apple-touch-icon" sizes="120x120" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-120x120.png?v=2016">
+		<link rel="apple-touch-icon" sizes="144x144" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-144x144.png?v=2016">
+		<link rel="apple-touch-icon" sizes="152x152" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-152x152.png?v=2016">
+		<link rel="apple-touch-icon" sizes="180x180" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-180x180.png?v=2016">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-32x32.png?v=2016" sizes="32x32">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/android-chrome-192x192.png?v=2016" sizes="192x192">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-96x96.png?v=2016" sizes="96x96">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-16x16.png?v=2016" sizes="16x16">
+		<link rel="mask-icon" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/safari-pinned-tab.svg?v=2016" color="#444444">
+		<link rel="shortcut icon" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon.ico?v=2016">
+		<meta name="apple-mobile-web-app-title" content="The Sun Magazine">
+		<meta name="application-name" content="The Sun Magazine">
+		<meta name="msapplication-TileColor" content="#fcc330">
+		<meta name="msapplication-TileImage" content="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/mstile-144x144.png?v=2016">
+		<meta name="theme-color" content="#ffffff">
+
+				<link rel="stylesheet" type="text/css" href="https://cloud.typography.com/6578674/659928/css/fonts.css" />
+		<link rel="stylesheet" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/css/style.css">
+
+																		<meta property="og:site_name" content="The Sun Magazine">
+		<meta property="og:type" content="article">
+		<meta property="og:url" content="https://www.thesunmagazine.org/issues/430/speedo">
+		<meta property="og:image" content="http://www.thesunmagazine.org/files/2016-05/430-24-morris-preview.jpg">
+		<meta property="og:title" content="Speedo - The Sun Magazine">
+		<meta property="og:description" content="When the dogwoods bloom overnight and the oaks wake one morning with a full complement of leaves, spring has come to the Tidewater section of Virginia. Shad roe, orange and milky, appears on ice in the fish markets, and there are rumors of bluefish running out by the third island of the Chesapeake Bay.">
+		<meta property="fb:app_id" content="158741778010551">
+
+						<link rel="image_src" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.comhttp://www.thesunmagazine.org/files/2016-05/430-24-morris-preview.jpg">
+
+												<meta name="twitter:card" content="summary">
+		<meta name="twitter:title" content="Speedo - The Sun Magazine">
+		<meta name="twitter:description" content="When the dogwoods bloom overnight and the oaks wake one morning with a full complement of leaves, spring has come to the Tidewater section of Virginia. Shad roe, orange and milky, appears on ice in the fish markets, and there are rumors of bluefish running out by the third island of the Chesapeake Bay.">
+		<meta name="twitter:image" content="http://www.thesunmagazine.org/files/2016-05/430-24-morris-preview.jpg">
+		<meta name="twitter:site" content="@thesunmagazine">
+
+				<link rel="publisher" href="https://plus.google.com/113792980827145858211">
+        
+		<meta name="Description" content="When the dogwoods bloom overnight and the oaks wake one morning with a full complement of leaves, spring has come to the Tidewater section of Virginia. Shad roe, orange and milky, appears on ice in the fish markets, and there are rumors of bluefish running out by the third island of the Chesapeake Bay.">
+
+		
+		<!-- Google Tag Manager -->
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-TKBHCCG');</script>
+		<!-- End Google Tag Manager -->
+
+		<!-- Google Analytics -->
+		<script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+            ga('create', 'UA-2351127-1', 'auto');  // Replace with your property ID.
+            ga('send', 'pageview');
+            ga('require', 'ecommerce');   // Load the ecommerce plug-in.
+		</script>
+		<!-- End Google Analytics -->
+	</head>
+	<body id="">
+
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TKBHCCG"
+		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+		<header class="header" data-offset-start="80">
+		<div class="header-utilities">
+				<ul class="header-utilities-user list-inline list-inline-tight xxsmall">
+							<li>
+					<span class="header-utilities-user-intro">Already A Subscriber?</span> &nbsp;
+					<a href="https://www.thesunmagazine.org/subscriber/login" class="link-text link-alt">Sign In</a>
+				</li>
+					</ul>
+		<a href="https://www.thesunmagazine.org/shop/cart" class="header-utilities-cart  link-alt link-icon tiny">
+			<span class="i"><svg><use xlink:href="#i-cart"></use></svg></span>
+			<span class="cart-item-count">
+									0 Items
+				
+			</span>
+		</a>
+			</div>
+
+		<div class="header-bar">
+		<h1 class="header-logo logo">
+			<a href="/">
+				<img src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/img/logo-thesun.svg" class="logo-thesun" alt="The Sun Magazine">
+				<img src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/img/logo-tagline.svg" class="logo-tagline" alt="">
+			</a>
+		</h1>
+
+		<ul class="header-nav">
+			
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/read" 	   class='current '>
+	   Read	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/issues/current" 	   class=''>
+	   Current Issue	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/archives" 	   class=''>
+	   Archives	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/featured" 	   class=''>
+	   Featured Selections	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/topics" 	   class=''>
+	   Browse Topics	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/sections" 	   class=''>
+	   Browse Sections	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/connect" 	   class=''>
+	   Connect	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/news" 	   class=''>
+	   News from <em>The Sun</em>	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" 	   class=''>
+	   Write a Letter to the Editor	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/discussion-groups" 	   class=''>
+	   Discussion & Writing Groups	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/make-a-suggestion" 	   class=''>
+	   Make a Suggestion	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/submit" 	   class=''>
+	   Submit	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/shop" 	   class=''>
+	   Shop	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/giftsub" 	   class=''>
+	   Gift Subscriptions	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/issues" 	   class=''>
+	   Issues	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+											
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/donatemenu" 	   class='highlight'>
+	   Donate	</a>
+		
+	</li>
+
+		<li class=" last">
+														<a href="/SubscribeNav1" 					   class=''>
+						Subscribe					</a>
+									
+	</li>
+
+
+		</ul>
+
+		<button class="header-nav-toggle"><svg><use xlink:href="#i-menu" class="i-menu"></use><use xlink:href="#i-close" class="i-close"></use></svg></button>
+		<button class="header-search-toggle" data-form-wrapper=".header-search"><svg><use xlink:href="#i-magnifier" class="i-magnifier"></use><use xlink:href="#i-close" class="i-close"></use></svg></button>
+	</div>
+
+		<div class="header-search">
+		<div class="header-search-content">
+			<form action="https://www.thesunmagazine.org/search" class="form form-search" method="get">
+				<h2 class="alt-ff brand-link">Search Our 40 Years of Archives</h2>
+				<ul class="form-search-fields form-fields form-fields-inline">
+					<li><input type="text" name="q" value=""></li>
+					<li class="form-fields-inline-button"><button class="b b-1 b-padding-tight b-loading"><svg><use xlink:href="#i-loading"></use></svg>Search</button></li>
+				</ul>
+
+				<div class="header-search-content-shortcuts">
+					<h6 class="search-advanced alt-ff"><a class="js-handle-advanced" href="https://www.thesunmagazine.org/search?advanced=1">Advanced Search</a></h6>
+					<br>
+					<h6 class="alt-ff">Popular Pages</h6>
+					<ul class="list-inline-border list-inline-tight xxsmall"><li class=" first"><a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a></li><li class=""><a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a></li><li class=""><a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a></li><li class=""><a href="https://www.thesunmagazine.org/sections/quotations" 	   class=''>
+	   Quotations	</a></li><li class=""><a href="https://www.thesunmagazine.org/sections/readers-write" 	   class=''>
+	   Readers Write	</a></li><li class=" last"><a href="https://www.thesunmagazine.org/sections/poetry" 	   class=''>
+	   Poetry	</a></li></ul>				</div>
+			</form>
+		</div>
+	</div>
+</header>
+
+	<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+	<script type="text/javascript">
+		$(document).ready(function() {
+			$('.js-handle-advanced').on('click', function (e) {
+				e.preventDefault();
+				var getSearchValue = $('.form-search-fields input').val();
+				var getURL = $(this).attr('href');
+				var newURL = getURL + '&q=' + getSearchValue;
+				window.location.href = newURL;
+			});
+		});
+	</script>
+
+		<div class="container-hidden">
+		<div class="container">
+
+				
+	
+	<article class="article ">
+		<header class="block-content block-content-l1 block-content-center">
+						<div class="block-content-header">
+				<h6 class="b-content-section heading-square"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+				<h1 class="block-content-title">Speedo</h1>
+
+				
+				<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/david-zoby">David Zoby</a></li><li><a href="/issues/430">October 2011</a></li></ul>
+
+			</div>
+
+																			
+
+				<figure class="block-content-photo block-content-photo-large photo photo-outset-center-large">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 2360 1856'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/1180x1500r/photos/430-24-morris.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/2360x3001r/photos/430-24-morris.jpg
+	 alt="430 - Morris - Zoby"
+	 class="lazy">
+
+										<figcaption>
+
+						
+																				<div class="photo-credit">
+								&copy;&nbsp;<a href="/contributors/barbara-morris">Barbara Morris</a>
+							</div>
+																		</figcaption>
+									</figure>
+
+					</header>
+
+				<div class="article-body link-text-wrap">
+																		<p><span class="large">When the dogwoods bloom</span> overnight and the oaks wake one morning with a full complement of leaves, spring has come to the Tidewater section of Virginia. Shad roe, orange and milky, appears on ice in the fish markets, and there are rumors of bluefish running out by the third island of the Chesapeake Bay. Men pull their boats from storage and run their outboard motors in barrels of fresh water. The engines sputter the true hymn of spring, sending clouds of smoke wafting over the neighborhoods, where the children are beginning to emerge from a winter of ice storms.</p>
+
+<p>For me, a fourteen-year-old in the spring of 1981, there was another, ominous cloud hanging over Tidewater. Spring also meant that swim season was upon us, and any day now I would be forced into a blue Speedo and directed to swim laps for the Glendale team.</p>
+
+<p>My parents believed that any unoccupied time was time ill spent. What better way for a boy to pass the warm afternoons than churning down the lanes in an overchlorinated pool? But I wished to do nothing more than wander Glendale Creek, catching crayfish and skipping stones. There were a few rough boys in the neighborhood who drank sugary drinks and built ramps for their bikes and caught strings of catfish. Each summer it seemed one of them broke his arm and wore the cast like a badge of honor. These boys played peewee baseball but were frequent no-shows. During games they would disappear into the woods, and the coach would find himself with no infield. I wanted to disappear with them, but it wasn&rsquo;t to be.</p>
+
+<p>My brother and sisters swam year-round, getting up in the early-morning dark all winter long to head to the indoor pool. Their hair was damaged and green from chemicals, my sisters&rsquo; shoulders so rounded they&rsquo;d begun to look mannish. I escaped winter swimming by dabbling in football and church-league basketball, but in the spring and summer I was forced to hit the lanes with the others. When I bitched about it, my mother would say that at the very least I should know how to swim in case I ever fell off a boat. But the only boat in the family belonged to Uncle Gerard, my father&rsquo;s lawyer brother, who spent the whole year fishing and running the <em>Miss Justice </em>upon the occasional shoal, and I rarely got to ride in it.</p>
+
+<p>I loathed swimming. I disliked the androgynous coaches, all named Carol or Kim or Steve. I hated the lane markers and the huge clock set up to measure your times. I hated the different strokes &mdash; freestyle (which isn&rsquo;t free), backstroke, butterfly, breast stroke &mdash; and the rules that came with each. Most of the other children on the team swam all year long, like my siblings, so when I joined them in late April, I floundered and failed to keep up. After the first practice I would be ill with fatigue. The coaches marched the decks and shouted and were angry all the time, even when we won. I begged to be sent away to summer camp, art camp, Jesus camp, anywhere, but I was told that camps cost too much and offered activities that were suspect, such as hiking, archery, and canoeing.</p>
+
+<p>Because I was of no use to the team, I was referred to as a &ldquo;scrub&rdquo; and placed in the scrub lane, against the pool wall. I felt as if I were a kidnapping victim held against his will in a vat of chlorine. After a few months of practice there would be the loud summer meets, the starter&rsquo;s pistol, the cheers, the exhausting interteam dramas that now seem so ridiculous and narcissistic. But what I hated most of all was going to King&rsquo;s Department Store each spring to buy a blue Speedo bathing suit.</p>
+
+<p>The blue Speedo was the regulation uniform for the Glendale Gators. Girls wore the tight-fitting, full-body version; boys wore the tiny, show-all suit that amounted to the bottom half of a woman&rsquo;s bikini. The garment left little to the imagination and even less dignity to the wearer. In theory the smaller suit reduces drag and allows you to swim faster, but its elastic leg openings pinched my thighs, and the drawstring closure became unreliable under the pressure of competition. In 1979 Paul Block had lost his suit while anchoring the Glendale Gators in the freestyle relay. People said he&rsquo;d removed the drawstrings to increase his speed, but I was there that day and saw the perfectly intact blue Speedo floating in the shallow end of the pool while Paul Block cried and covered himself.</p>
+
+<p>If you had to use the bathroom, as I always did before an event, you could not escape the humiliating jewel of moisture that spread to gigantic proportions in the Speedo fabric. You would be forced to stand on the block in front of the whole world with a pee stain the size and shape of Maine on your crotch. And the suits were cheap, the pool chemicals gnawing the fabric to threads by August. By the age of fourteen I had a drawer full of old suits all lying in disuse, fraught with weak spots.</p>
+
+<p>Going to King&rsquo;s to buy a new one was painful, and I wanted to get it over with as quickly as possible. Each year I&rsquo;d try one on and say, &ldquo;OK, this is fine,&rdquo; all the while thinking, <em>God damn you, Mom. I hate everything about swimming and would rather drown fishing with Uncle Gerard than endure another fucking swim season.</em> My mother, who did not know that I had learned to cuss in public school, acted as if she were doing me a great favor as she dug out her checkbook.</p>
+
+<p>To make matters worse, my father was the regional swim official in the greater Tidewater region. He spent his weekends striding up and down the edges of regulation-sized swimming pools, disqualifying &mdash; or &ldquo;<span class="smallcaps">DQ</span>-ing&rdquo; &mdash; competitors for letting their heads go underwater during the breast stroke or flutter kicking during the butterfly. For these and other infractions, my father would <span class="smallcaps">DQ</span> you with a slight raise of his left arm. He&rsquo;d work one swim meet in Hampton, then climb in his blue Ford Pinto and depart for a meet in Glouster, where he might <span class="smallcaps">DQ</span> the county commissioner&rsquo;s daughter for failing to touch the wall with both hands. He would, I&rsquo;d learned, even<span class="smallcaps"> DQ</span> his own son.</p>
+
+<p>&nbsp;</p>
+
+<p><span class="large">On the way to buy</span> the Speedo at King&rsquo;s that spring, my mother gave my sister Jennifer and me the typical lecture about how fortunate we were and how hard our father worked to provide us with braces, new shoes, and Speedos.</p>
+
+<p>&ldquo;I could save him the trouble,&rdquo; I said.</p>
+
+<p>My sister giggled nervously.</p>
+
+<p>&ldquo;What do you mean?&rdquo; asked my mother.</p>
+
+<p>&ldquo;I hate swimming. I&rsquo;ve hated it for years. If I ever get the chance, I am going to drown on purpose.&rdquo;</p>
+
+<p>Jennifer was shocked that I had dared say such a thing. The idea of hating swim practice was new to her. In fact, we were not even allowed to consider it.</p>
+
+<p>My mother gripped the steering wheel of our station wagon as if she were killing a snake. &ldquo;Well,&rdquo; she said, &ldquo;we will not have you running free all summer.&rdquo;</p>
+
+<p>And there was the crux of the matter: freedom. I wondered why I wasn&rsquo;t free to make a choice for myself now and again.</p>
+
+<p>When we got home, I headed upstairs with my Speedo. My method for breaking in a new suit was to wear it under my jeans in place of underwear for a week. The leg holes on this one were extremely tight. Perhaps I should have spent more time selecting it. I stood in front of my brother&rsquo;s mirror and gazed at my reflection, a miserable sight: My legs and torso were as white as fish flesh. My bird-chest rippled with each breath. And I had the beginnings of a tiny mustache. How the fuck was I supposed to wear this goddamn thing?</p>
+
+<p>&nbsp;</p>
+
+<p><span class="large">My eighth-grade English </span>teacher, Mrs. Young, required us to write a research paper for the final exam that year. You could choose any subject as long as you used the proper research form, complete with quotations and a works-cited page. (Mrs. Young was really into format. If you could master format, she said, the rest of your life would be a &ldquo;cakewalk.&rdquo;) I turned in a one-paragraph, handwritten proposal for a short history of the bluefish runs in the Chesapeake Bay. Mrs. Young gave it back with a note: &ldquo;Sorry, David, but I think you can do better with your topic. See me.&rdquo;</p>
+
+<p>When I approached her after class, Mrs. Young seemed distracted. She had a Graceland snow globe on her desk, and she shook it and watched the fake flakes fall upon a gilded guitar. &ldquo;Bluefish has been overdone,&rdquo; she said. We discussed a few possible topics on which I could write my essay. She had recently been on a Tidewater road trip and thought I should embrace local history. We settled on a piece about the Wythe House in Colonial Williamsburg. &ldquo;I think you can do wonderful things with this topic,&rdquo; she said.</p>
+
+<p>I know now that Mrs. Young was wrong, criminally wrong, but my parents had instilled in me an often misguided trust in teachers.</p>
+
+<p>I had been to Colonial Williamsburg a few times on field trips and passed through it on the way to swim meets against our sworn enemies, the Tarpons of Bruton Neighborhood Recreation Center. A collection of historic houses, cobblestone streets, and English gardens, Williamsburg tries to re-create the feel of colonial life &mdash; without the dysentery, slavery, and public hangings. People in period costumes make candles, weave shawls on looms, and fire replica muskets into the swamps. They all speak an odd dialect, half Elizabethan and half Tidewaterian: &ldquo;Hear thee, hear thee, might I get a spot of grog?&rdquo;</p>
+
+<p>The Wythe House was one of the gems of Colonial Williamsburg, for its original owner, George Wythe, was the first Virginian to sign the Declaration of Independence. Was I supposed to write about Wythe the forgotten patriot and his passion for Greek literature and fondness for deer hunting in the Virginia woodlands? Or was I to write about the house itself: the huge windows, the painstaking restoration, the thousands of red bricks? Mrs. Young coyly said that it was up to me, but obviously it wasn&rsquo;t. If it had been up to me, I&rsquo;d have written about bluefish, perhaps conducting a field study with my uncle Gerard out by the third island. Frankly, at fourteen, I didn&rsquo;t care if the Wythe House suddenly burst into flames.</p>
+
+<p>I sat in history class that afternoon, my Speedo pinching my thighs, next to Greg Glover, a fellow scrub. He&rsquo;d been a reliable third-place finisher his whole life, but this winter he had put in three hard weeks at the Coast Guard pool. His back looked wide, and he reeked of chlorine. Perhaps this summer he would move out of the scrub lane to pursue greatness with the others.</p>
+
+<p>When I told him my Speedo was killing me, he nodded knowingly. I asked if he knew anything about George Wythe, the unsung colonial hero of Tidewater.</p>
+
+<p>&ldquo;I don&rsquo;t know shit about that motherfucker,&rdquo; said Glover.</p>
+
+<p>I&rsquo;d never learn to curse with such casual ease. That&rsquo;s the kind of confidence winter swimming could give you.</p>
+
+<p>&nbsp;</p>
+
+<p><span class="large">I arrived at our first </span>swim practice, after school on April 21, wearing my long swim trunks over my Speedo, and I stood on the lip of the pool in the bright, inescapable light of spring and dipped in my toe. The water was so cold I immediately recoiled. Coach Carol was seething because some of the lane markers were kinked, and the interval clock was busted. She paraded along the deck, hollering at shivering six-year-olds to get their asses in gear. I pulled off my long trunks and felt the cruel Tidewater air snap at my thighs. Then I took a deep breath and jumped in. The pool was frigid, and I came up gasping, too cold even to catch my breath. I stood on the bottom for a moment, my arms hugging my torso. A blue kickboard whizzed by my face. Coach Carol threw kickboards at us as if dealing cards.</p>
+
+<p>&ldquo;Zoby, get going!&rdquo; she cried.</p>
+
+<p>Anger propelled me forward, but after just two laps of freestyle I was tired and shocked at how much strength I&rsquo;d lost over the winter. You&rsquo;d think playing chess and wandering the railroad tracks would keep a guy in shape, but swimming has a way of revealing one&rsquo;s weaknesses. Glover swam by fluidly. I had to stop and hang on to the rim of the pool, aware that at any second Coach Carol could catch me and stand on my fingers &mdash; a practice for which she was widely known.</p>
+
+<p>&ldquo;Zoby,&rdquo; I heard her say, &ldquo;I&rsquo;ll be watching you this summer.&rdquo;</p>
+
+<p>This was just the beginning of a long season. I felt trapped. The essay on the Wythe House was due in three weeks. I did not control anything about my life. I began to cry as I swam, but my tears dissolved into the brew of pool chemicals, so no one saw. As I did laps under Coach Carol&rsquo;s sharklike gaze, I remembered that my father&rsquo;s secretary worked part time at Colonial Williamsburg. Maybe I could enlist my dad&rsquo;s aid with the essay.</p>
+
+<p>He was enthusiastic about the idea, though he looked a little suspicious, as if I were trying to trick him into writing the paper for me. For ten years he had been the editor for the national journal of rocket propulsion and aerospace engineering. I would see him with yellow legal pads spread before him on Saturdays, scribbling wildly, sighing, and tearing out pages. He earned no money as editor, because his job at <span class="smallcaps">NASA </span>forbade him to moonlight. Phone calls would come in from across the country &mdash; an engineer-author, perhaps, trying to work out his prose with my father. The conversations sounded like another language to me, but the journal came out each year, my father listed as editor. He agreed to help me write the essay and would get some materials from his secretary.</p>
+
+<p>Two days later Mrs. Young announced that she would be moving to Oregon after the end of the school year to be closer to her family. She fingered the snow globe as she delivered the news. Maybe she would leave sooner, I thought, and I wouldn&rsquo;t have to write the essay at all.</p>
+
+<p>That evening my father came home with a brown grocery bag full of documents and brochures about Colonial Williamsburg. &ldquo;There&rsquo;s more in the car,&rdquo; he grumbled. &ldquo;Go out and get it.&rdquo;</p>
+
+<p>Horrified, I stooped to look into the Pinto and saw a ream of yellow legal pads, boxes of government-issue ballpoint pens, and more literature about Colonial Williamsburg than I&rsquo;d thought existed. I was also startled to find Mr. Barker, another aerospace engineer who carpooled with my father, stuffed in the back seat, pamphlets and magazines piled in his lap.</p>
+
+<p>&ldquo;Tell your dad to hurry up,&rdquo; he said as he handed me a stack of legal pads. &ldquo;I need to get home to cut the grass.&rdquo;</p>
+
+<p>Back in the house, my father arranged the material on the dining-room table according to relevance. Then he went to take Mr. Barker home, and I found myself alone with thousands of pages on Williamsburg, Jamestown, and various colonial topics. Most of the publications were tourism brochures, but a few were parts of salvaged dissertations written by faculty at William &amp; Mary College, complete with footnotes. I thought to myself that I was probably the only fourteen-year-old boy in America standing before a table of colonial literature and wearing a Speedo under his jeans. Then I sat down and began to read.</p>
+
+<p>My father had outdone himself. There was material about colonial foods and architecture, Indian wars, early American government, the founding of William &amp; Mary, colonial churches, Yorktown, George Washington&rsquo;s war in Virginia, John Smith, the authors of the Declaration of Independence &mdash; even affordable timeshares in Williamsburg. <em>I am totally fucked,</em> I thought as the Pinto came gliding back into our driveway.</p>
+
+<p>&ldquo;More materials are on the way,&rdquo; said my father. He was in gathering mode.</p>
+
+<p>&ldquo;But, Dad, it&rsquo;s too much.&rdquo;</p>
+
+<p>&ldquo;That&rsquo;s not true. You can never have too much information. First read these. Get to know the subject. There&rsquo;s some good stuff in there. It should last you until Donna gets me the books.&rdquo;</p>
+
+<p><em>Books?</em></p>
+
+<p>That night I began my journey into the colonial history of America. I looked at the pen-and-ink drawing of the first Virginians planting tobacco with the Indians. The colonists dug small holes and put fish in them to serve as fertilizer while the Indians looked on, seemingly jazzed about the whole operation. Next I read about the organization of the first Virginia governments and the selection of governors. Williamsburg was originally called &ldquo;Middle Plantation&rdquo; and played a secondary role to the capital, Jamestown. And I found a sketch of George Wythe, who bore an uncanny likeness to my father&rsquo;s co-worker Mr. Barker. Wythe was a small guy, with narrow shoulders, early baldness, and a large cranium. He was a preeminent scholar of the classics and the first law professor in our young country. He was also a wealthy plantation owner and a slave owner. And he had a remarkably close relationship with Thomas Jefferson. They were often seen together, hashing out philosophy, blathering on and on about the Greeks, and speaking a bizarre blend of Latin and frontier English. They wrote each other a series of letters that reveal shockingly bold ideas about liberty. In just a few hours I found myself an armchair expert on George Wythe.</p>
+
+<p>The next day at the pool, pulling off my long trunks and exposing my Speedo to the world, I remarked to no one in particular that George Wythe would have thought holding swim practice with obvious thunderstorms in the region was a violation of human dignity.</p>
+
+<p>Coach Carol chided me for looking so pale.</p>
+
+<p>&ldquo;Is being pale a crime?&rdquo; I asked.</p>
+
+<p>This stunned her. No one had ever used the Socratic method on Coach Carol. I was sentenced to thirty-two laps. I could hardly swim ten without a break, but Glover did the laps with me, and I found they went by easily. I was thinking of the Wythe House, with a fireplace in every room and great windows that looked out upon the idyllic lawns of Palace Green.</p>
+
+<p>&nbsp;</p>
+
+<p><span class="large">After a week of reading,</span> I sat down with a yellow legal pad and wrote an introduction for my essay on George Wythe. I gave the dates of his life. I told my reader that Wythe&rsquo;s only daughter had died in infancy, and that he&rsquo;d never had any more children. His first wife had died as well. (The guy couldn&rsquo;t win.) I said something about Wythe being an unappreciated Founding Father. I quoted one of the scholarly articles. It was a one-page intro, and I was happy with it. My father said it was <span class="smallcaps">OK</span> but wondered why I had the personal information in there, such as the death of his young daughter.</p>
+
+<p>&ldquo;Is this important? Unless it comes up again in the essay, I don&rsquo;t see why you&rsquo;d put this in the introduction,&rdquo; he said. &ldquo;And there are an awful lot of misspellings.&rdquo;</p>
+
+<p>Several drafts later I had a flawless introduction. The visage of George Wythe was beginning to form on the paper. I had decided to break the essay into sections, as I&rsquo;d seen done in some of the research material, and to reveal Wythe&rsquo;s humanity in a section called &ldquo;The Good Virginian.&rdquo; My father approved my work, and the next day I brought my introduction to class to give Mrs. Young a preview.</p>
+
+<p>Her face contorted as she read. Glover yawned at his desk, and another student raised his hand and asked if he could use the bathroom.</p>
+
+<p>&ldquo;Of course you can go to the restroom,&rdquo; I said. &ldquo;We live in a free country.&rdquo;</p>
+
+<p>Mrs. Young sighed heavily, set my essay aside, and patted it with her hand. &ldquo;David, I thought we agreed that you would write about the Wythe House, not Wythe himself.&rdquo;</p>
+
+<p>I was puzzled. Why would I write about a house when I had such a charismatic personage before me? <em>It&rsquo;s George fucking Wythe,</em> I thought, a slave owner who freed his slaves, a man with a brain the size of a melon who was poisoned by a member of his own family, perhaps due to his strong opposition to slavery.</p>
+
+<p>Mrs. Young suggested I start over.</p>
+
+<p>&ldquo;But I find him interesting,&rdquo; I whispered.</p>
+
+<p>&ldquo;Who?&rdquo; she asked.</p>
+
+<p>&ldquo;Wythe.&rdquo;</p>
+
+<p>I heard the petty laughter of my fellow students.</p>
+
+<p>&ldquo;You can still find him interesting, but this essay needs to be about the Wythe House.&rdquo;</p>
+
+<p>Outside it was overcast, the sky a dull solder gray. I had offered the world the humanities, and in return it had asked me for square footage. I sulked on the bus as it creaked and trundled through suburban neighborhoods. The previous night&rsquo;s windstorm had knocked branches down, and I saw homeowners dragging oak limbs to the curb. At swim practice Coach Carol paced behind the battery of swim blocks with her arms behind her back, looking like a general lost in morbid thought. She lacked only a pipe and a saber lashed to her belt.</p>
+
+<p>At home my father did not commiserate with me for long as I complained about Mrs. Young and the Virginia public schools. He simply sat there and flipped through his utility bills. I told him that when George Wythe strolled the cobble-stone streets of Williamsburg, all work ceased, and people came to him with questions: When should we plant tobacco? Is the pass to Charlottesville open? Is the spring upon us?</p>
+
+<p>&ldquo;You&rsquo;ll just have to start over,&rdquo; he said.</p>
+
+<p>&ldquo;But Wythe was a man ahead of his time, a true revolutionary.&rdquo; I couldn&rsquo;t believe my father was siding with Mrs. Young. How could he turn against the humanities, the foundation of all knowledge?</p>
+
+<p>&ldquo;Relax,&rdquo; he said. &ldquo;You do what your teacher wants, you turn it in, and then it&rsquo;s over. Simple.&rdquo;</p>
+
+<p>&ldquo;Even if it&rsquo;s not what <em>I </em>want?&rdquo;</p>
+
+<p>&ldquo;Even so,&rdquo; he said. Something in his tone suggested that he had been down this road before.</p>
+
+<p>I went back into the dining room and began to write about the Wythe House: the timber and bricks, the dimensions. George Wythe merely haunted the report like an apparition, a fleeting image glancing off one of the many windows, a cool chill in the root cellar. I wrote as if pounding out laps, and in a few hours I had three pages of text and a works-cited page. I left the essay on my father&rsquo;s desk.</p>
+
+<p>I swam recklessly the next day. I would sprint past the better swimmers for ten yards, exhausting myself with brief bursts of speed. But, like oxen, they plodded along in their lanes, never touching the bottom or clinging to the lip. They could go forever, it seemed. And Glover was in there with them, silently stroking his way from one end of the pool to the next. Coach Carol sat in a canvas director&rsquo;s chair that said <span class="smallcaps">Carol </span>on the back, a gift from the previous year&rsquo;s championship team, and ate a bagel while the sunshine soaked into her face.</p>
+
+<p>Of course my new essay on the Wythe House was a complete failure, full of sentence fragments and errors of all types. My father could not understand how I had lost my ability to write with a simple shift in subject.</p>
+
+<p>&ldquo;You are making mistakes that are unthinkable,&rdquo; he said. &ldquo;And you are going to stay home this weekend until you get it right. I don&rsquo;t care how long it takes.&rdquo;</p>
+
+<p>That night, when the house was quiet, I crept downstairs and sat at the table before a blank yellow notepad. Nothing came to me. Nothing. I shut my eyes and tried to imagine Middle Plantation, the slaves working in the fields, the beasts bellowing from the livery. I heard wind outside, a front coming ashore from the James River. I was wearing only my Speedo. It was broken in now, as comfortable as it would ever be, but I still wore it in place of underwear. Why not?</p>
+
+<p>I kept thinking about George Wythe, his lifelong conflict between being a slave owner and an advocate of freedom, this bitter contrast accompanying him as he read alone in his great room or went to the tavern. It must have stung Wythe to know the truth about himself; it must have caused him fits of anguish. And I thought about his scoundrel great-nephew George Wythe Sweeney, who eventually poisoned Wythe and sold the old scholar&rsquo;s ancient books for pennies. But Wythe&rsquo;s death was his final victory. In his will he left Sweeney nothing and gave his land and capital to two of his former slaves. Victory: I wanted to know what it was like.</p>
+
+<p>With my eyes tightly closed, I felt as if I were floating in the swimming pool. I plugged my ears with my fingers and concentrated on oblivion. I sat like this for a long time. Then I felt someone else&rsquo;s presence in the room. I opened my eyes and was startled to see my father looking at me. He had gotten up to let the dog out.</p>
+
+<p>&ldquo;Go to bed,&rdquo; he said.</p>
+
+<p>After dozens of attempts I eventually produced a remarkably uninteresting essay on the Wythe House. My father suffered through the entire process with me, agonizing over my works-cited page and rubbing his eyes for weariness. I dreamed of certain passages, I&rsquo;d revised them so many times. My father taught me what it was to be a writer, and on weekends, as he <span class="smallcaps">DQ</span>&rsquo;d me at the neighborhood pools, I taught him what it was to be a scrub.</p>
+
+<p>Mrs. Young, it turned out, never collected the essays, and at the end of the year she made good on her promise and shipped off to Oregon. I swam on the team through the summer, and by August I was tan and wiry. For the last swim meet of the year I was positioned in the slowest lane. My event, the fifty-meter breast stroke, was coming up. I had peed in the restroom, and I went around behind the starting blocks with the telltale urine stain on my Speedo. The other swimmers swung their arms around to loosen up. I didn&rsquo;t bother. I looked to my side and saw the same boys who had been beating me my whole life.</p>
+
+<p>I stood on the blocks before the entire community. I heard my brother call my name. I saw Mr. Barker, a dead ringer for Wythe, in the audience. His daughter was a scrub like me. He called out encouragement, but he knew what was about to happen. My father, the meet official, knew it as he marched along the side of the pool. We all knew. The starter&rsquo;s pistol popped, and I swam for all I was worth. I swam for Glendale, for Coach Carol, for my brief affair with the humanities. And I smoked all my opponents &mdash; for the first twenty meters at least.</p>
+														</div>
+
+
+				
+<div class="sharing-bar article-sharing">
+	<div class="sharing-bar-first">
+		<a href="javascript:window.print();" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-printer"></use></svg> <span>Print</span></a>
+	</div>
+
+	<div class="sharing-bar-second">
+		<span class="alt-ff xsmall">Share:</span>
+		<a href="https://www.facebook.com/sharer/sharer.php?u=https://www.thesunmagazine.org/issues/430/speedo" target="_blank" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-facebook"></use></svg> <span>Facebook</span></a>
+		<a href="https://twitter.com/share?url=https://www.thesunmagazine.org/issues/430/speedo&amp;via=thesunmagazine" target="_blank" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-twitter"></use></svg> <span>Twitter</span></a>
+		<a href="#" class="b b-1 b-padding-tight xsmall js-toggle-mail-form"><svg><use xlink:href="#i-email"></use></svg> <span>Email</span></a>
+	</div>
+</div>
+
+<div class="send-to-friend-message-container">
+	<div class="alert alert-success xsmall">Thank you for sharing <em>The Sun</em>.</div>
+</div>
+
+<form method="post" action="/ajax/articles/send-to-a-friend" class="form fill-grey send-to-friend-form">
+		<input type="hidden" id="form_url" name="form[url]" value="https://www.thesunmagazine.org/issues/430/speedo" />
+
+	<ul class="form-fields">
+		<li><label for="form_sender_name"><span class="label-text">Your Full Name</span><span class="label-asterisk">*</span></label><input type="text" id="form_sender_name" name="form[sender_name]" required="required" /></li>
+		<li><label for="form_sender_email"><span class="label-text">Your Email Address</span><span class="label-asterisk">*</span></label><input type="email" id="form_sender_email" name="form[sender_email]" required="required" /></li>
+		<li><label for="form_recipient_name"><span class="label-text">Friend’s Name</span><span class="label-asterisk">*</span></label><input type="text" id="form_recipient_name" name="form[recipient_name]" required="required" /></li>
+		<li><label for="form_recipient_email"><span class="label-text">Friend’s Email Address</span><span class="label-asterisk">*</span></label><input type="email" id="form_recipient_email" name="form[recipient_email]" required="required" /></li>
+		<li><label for="form_message"><span class="label-text">Personalized Message</span></label><textarea id="form_message" name="form[message]"></textarea></li>
+	</ul>
+<div class="send-to-friend-message-container">
+	<div class="alert alert-error xsmall">Something went wrong. Please try again.</div>
+</div>
+
+<div class="g-recaptcha" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs"></div>
+<div class="form-actions"><button type="submit" id="form_submit" name="form[submit]"	class="form-actions-b-primary b b-1 b-loading xsmall"><svg><use xlink:href="#i-loading"></use></svg>
+		Submit
+	</button></div>
+<input type="hidden" id="form__token" name="form[_token]" value="f1c3c928936f8f0152ad8d3ea3e1f9fc95a6fbed" /></form>
+
+<br>
+
+
+
+										<footer class="article-contributor contributors">
+									
+
+<div class="block-contributor">
+		
+
+		<div class="block-contributor-content">
+		<div class="block-contributor-bio small">
+			<p><span class="smallcaps"><strong>David Zoby</strong></span> lives in Casper, Wyoming, where he is the director of the honors program at Casper College. His nonfiction has appeared in <em>Ninth Letter</em> and <em>The Missouri Review</em>, and he is coauthor of <em>Fire on the Beach: Recovering the Lost Story of Richard Etheridge and the Pea Island Lifesavers</em>.</p><a href="/contributors/david-zoby" class="block-contributor-link link-alt small">More From This Contributor&nbsp;&#9656;</a>		</div>
+	</div>
+</div>
+
+							</footer>
+						</article>
+
+
+				    <div class="paywall-subscription block-product">
+			<div class="columns">
+			<div class="paywall-banner span3 cta cta-l1">
+				<div class="cta-intro">
+					<h5 class="cta-title alt-ff">One Free Selection Left </h5>
+					<p class="cta-text xsmall"><a class="link-alt" href="https://www.thesunmagazine.org/subscriber/login" data-label="Already a subscriber?">Already a subscriber? Sign in ▸</a><br><br>Read two free selections from <em>The Sun</em> each month.</p>
+				</div>
+			</div>
+			<div class="paywall-banner span9 note note-1 text-center">
+				<h4 class="cta-title alt-ff">Subscribe to <em>The Sun</em> and save 45%</h4>
+				<p class="cta-text xsmall">Subscribers get full access to the current issue and more than 40 years of archives.</p>
+				<a class="b b-1 xsmall cta-trigger"  href="/subscribe1" data-label="Subscribe" data-ctatitle="Subscribe">Subscribe</a>
+			</div>
+		</div>
+
+		<div class="columns">
+			<div class="span12 paywall-cta-bottom">
+				<p>
+					<span class="cta-title-issue">Buy the October 2011 issue for $5.95</span>
+					<span class="xsmall">Order now to get instant access to this issue, and we’ll also send you a print copy.</span>
+					<a class="b b-5 xsmall corona"  href="#" data-product-type="issues" data-id="430" data-label="Order Now ▸">Order Now ▸</a>
+				</p>
+			</div>
+		</div>
+
+		
+
+</div>
+	
+	
+	
+	<div class="spacer"></div>
+	
+
+
+
+		
+		<div class="article-correspondence-cta">
+		<div class="cta cta-l1" data-url="https://www.thesunmagazine.org/letter-to-the-editor">
+			<div class="cta-intro">
+				<h5 class="cta-title alt-ff">Thinking about writing us a letter?</h5>
+				<p class="cta-text">Give in to the temptation. We love getting mail. <br><span class="xsmall">(Of course, we reserve the right to edit.)</span></p>
+			</div>
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" class="cta-button b b-4 b-padding-tight small" data-label="Write Us A Letter!">Write Us A Letter!</a>
+		</div>
+	</div>
+	
+
+			<div class="article-also layout-item-large full-bar fill-grey-mid-light">
+		<div class="layout-item-intro">
+			<h2>Also In This Issue</h2>
+			<a href="/issues/430" class="xsmall link-alt">October 2011&nbsp;&#9656;</a>
+		</div>
+		<div class="issue-articles-l1">
+			<div class="issue-articles-l1-content1">
+				
+<div class="cover cover-l1 block-product">
+	<div>
+							<a href="/issues/430" class="cover-thumb">
+				
+				<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 727'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/import/issue/430.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/561x728r/import/issue/430.jpg
+	 alt=""
+	 class="lazy">
+
+			</a>
+		
+
+													<!-- <a href="/issues/430" data-product-type="issues" data-id="430" data-role="order" class="js-buy-single corona cover-button b b-1 b-full xsmall" data-label="Buy This Issue &#9656;">
+								Buy This Issue&nbsp;&#9656;
+			</a> -->
+			<a href="/issues/430" data-product-type="issues" data-id="430" class="js-buy-single corona cover-button b b-1 b-full xsmall" data-label="Buy This Issue &#9656;">
+								Buy This Issue&nbsp;&#9656;
+			</a>
+					
+					</div>
+</div>
+			</div>
+			<div class="issue-articles-l1-content2">
+				<div class="articles-l3">
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/sun-interview">The Sun Interview</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/430/pirate-with-a-cause">Pirate With A Cause</a></h3>
+					<p class="block-content-subtitle subtitle">Paul Watson’s Crusade To Protect Marine Wildlife</p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/gillian-kendall">Gillian Kendall</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/430/agonizing-grace">Agonizing Grace</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/alan-craig">Alan Craig</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/poetry">Poetry</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/430/as-a-boy">As A Boy</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/eric-anderson">Eric Anderson</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/poetry">Poetry</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/430/the-baby-is-clapping">The Baby Is Clapping</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/lisa-bellamy">Lisa Bellamy</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+									</div>
+			</div>
+		</div>
+	</div>
+	
+
+			<div class="article-related layout-item-large full-bar fill-pattern-light">
+		<div class="layout-item-intro">
+			<h2>Related Selections</h2>
+			<ul class="list-inline list-inline-tight"><li><a href="/topics/adolescence" class="xsmall link-alt link-text">Adolescence</a></li><li><a href="/topics/education" class="xsmall link-alt link-text">Education</a></li></ul>		</div>
+
+		<div class="articles-l2">
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/one-nation-indivisible">One Nation, Indivisible</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/513/september-2018">September 2018</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li><a href="/issues/513">September 2018</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/513" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 727'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/140x182r/2018-08/513.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/2018-08/513.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/poetry">Poetry</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/494/getting-into-bed-on-a-december-night">Getting Into Bed On A December Night</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/ellen-bass">Ellen Bass</a></li><li><a href="/issues/494">February 2017</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/494" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 727'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/140x182r/2017-01/494.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/2017-01/494.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/readers-write">Readers Write</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/363/the-middle-of-the-night">The Middle Of The Night</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/our-readers">Our Readers</a></li><li><a href="/issues/363">March 2006</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/363" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 727'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/140x182r/import/issue/363.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/import/issue/363.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/poetry">Poetry</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/300/selected-poems-robert-p-cooke-issue-300">Selected Poems</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/robert-p-cooke">Robert P. Cooke</a></li><li><a href="/issues/300">December 2000</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/300" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 725'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/141x182r/import/issue/300.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/281x364r/import/issue/300.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+					</div>
+	</div>
+	
+	
+					<form id="newsletterForm" method="post" action="https://www.thesunmagazine.org/newsletter" data-url-send="https://www.thesunmagazine.org/newsletter" class="form form-newsletter fill-grey" enctype="multipart/form-data" target="_blank">
+
+
+
+		<div class="form-newsletter-intro">
+			<h3 class="alt-ff large">Sign Up For Our Newsletter</h3>
+			<p>We’ll let you know about new website selections, upcoming events, special offers, and more.</p>
+		</div>
+
+		<ul class="form-newsletter-fields form-fields form-fields-inline">
+			<li>
+				<input name="name" type="text" maxlength="500" id="name" placeholder="Your Name">
+			</li>
+			<li>
+				<input name="email" type="text" maxlength="500" id="email" placeholder="Your E-mail">
+			</li>
+
+			<li class="form-fields-inline-button">
+				<button disabled="disabled" class="form-newsletter-send b b-4 b-padding-tight b-loading g-recaptcha" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs" data-callback="recaptcha_callback" name="SubmitButton" id="SubmitButton">
+					<svg><use xlink:href="#i-loading"></use></svg>
+					Sign&nbsp;Up
+				</button>
+			</li>
+		</ul>
+	</form>
+	<script id="hiddenlpsubmitdiv" style="display: none;"></script>
+
+
+
+<footer class="footer brand-grey-dark">
+			<div class="footer-first">
+		<h3 class="footer-tagline">Independent, Reader-Supported Publishing</h3>
+		<p class="footer-desc">In each issue of <em>The Sun</em> you’ll find some of the most radically intimate and socially conscious writing being published today. In an age of media conglomerates, we’re something of an oddity: an ad-free, independent, reader-supported magazine.</p>
+		<ul class="footer-nav list-inline-border xsmall">
+			
+		<li class=" first">
+			<a href="https://www.thesunmagazine.org/about" 	   class=''>
+	   About <em>the Sun</em>	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/staff" 	   class=''>
+	   Staff	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/find-the-sun" 	   class=''>
+	   Find <em>The Sun</em>&nbsp;&nbsp;in a Store Near You	</a>
+		
+	</li>
+
+
+		</ul>
+	</div>
+	
+		<div class="footer-second">
+		<ul class="footer-second-social list-inline">
+			<li><a href="https://www.facebook.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-facebook"></use></svg></span> Like Us</a></li>
+			<li><a href="https://twitter.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-twitter"></use></svg></span> Follow Us</a></li>
+			<li><a href="https://instagram.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-instagram"></use></svg></span> Take a Look</a></li>
+		</ul>
+
+		<div class="footer-second-content">
+			<ul class="footer-nav list-inline-border xsmall">
+				
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/" 	   class='current '>
+	   Home	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/privacy-policy" 	   class=''>
+	   Privacy Policy	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/terms-of-use" 	   class=''>
+	   Terms of Use	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/site-map" 	   class=''>
+	   Site Map	</a>
+		
+	</li>
+
+
+			</ul>
+			<p class="footer-copyright xxsmall">Copyright &copy; 1974–2020 <em>The Sun</em>. All rights reserved.</p>
+		</div>
+	</div>
+</footer>
+
+
+
+<div class="offset-nav">
+	<ul>
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/read" 	   class='current '>
+	   Read	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/issues/current" 	   class=''>
+	   Current Issue	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/archives" 	   class=''>
+	   Archives	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/featured" 	   class=''>
+	   Featured Selections	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/topics" 	   class=''>
+	   Browse Topics	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/sections" 	   class=''>
+	   Browse Sections	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/connect" 	   class=''>
+	   Connect	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/news" 	   class=''>
+	   News from <em>The Sun</em>	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" 	   class=''>
+	   Write a Letter to the Editor	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/discussion-groups" 	   class=''>
+	   Discussion & Writing Groups	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/make-a-suggestion" 	   class=''>
+	   Make a Suggestion	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/submit" 	   class=''>
+	   Submit	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/shop" 	   class=''>
+	   Shop	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/giftsub" 	   class=''>
+	   Gift Subscriptions	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/issues" 	   class=''>
+	   Issues	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+											
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/donatemenu" 	   class='highlight'>
+	   Donate	</a>
+		
+	</li>
+
+		<li class=" last">
+														<a href="/SubscribeNav1" 					   class=''>
+						Subscribe					</a>
+									
+	</li>
+
+
+					<li>
+				<a href="https://www.thesunmagazine.org/shop/cart">Cart ( <span class="cart-item-count">  0  </span>)</a>
+			</li>
+			<li><a href="https://www.thesunmagazine.org/subscriber/login" class="link-header-logout link-alt">Sign In</a></li>
+			</ul>
+	<ul>
+		<li class=" first">
+			<a href="https://www.thesunmagazine.org/about" 	   class=''>
+	   About <em>the Sun</em>	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/staff" 	   class=''>
+	   Staff	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/find-the-sun" 	   class=''>
+	   Find <em>The Sun</em>&nbsp;&nbsp;in a Store Near You	</a>
+		
+	</li>
+
+</ul>
+	<ul>
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/" 	   class='current '>
+	   Home	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/privacy-policy" 	   class=''>
+	   Privacy Policy	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/terms-of-use" 	   class=''>
+	   Terms of Use	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/site-map" 	   class=''>
+	   Site Map	</a>
+		
+	</li>
+
+</ul>
+</div>
+
+<div id="buy-popup-message" class="buy-popup mfp-hide white-popup white-popup-block">
+	<a class="popup-modal-dismiss" href="#"></a>
+	<h5>Due to fulfillment challenges related to the novel coronavirus, print copies are temporarily unavailable for individual sale. We are offering free PDFs until we are able to resume print sales.</h5>
+	<p>Enter your e-mail address below to download this issue.</p>
+	<form method="post" id="download-single" action="https://www.thesunmagazine.org/issue/pdfFree/531.pdf">
+		<label for="email"><span class="label-text">E-mail</span><span class="label-asterisk">*</span></label>
+		<input class="buy-single-email" id="email" type="email" name="email">
+		<button type="send" class="form-buy-issue-send b b-3 b-padding-tight b-loading">Send</button>
+		<button class="form-buy-issue-download b b-3 b-padding-tight b-loading">Download pdf</button>
+		<button type="send" class="popup-modal-dismiss b b-2 b-padding-tight b-loading">Close</button>
+		<div class="g-recaptcha" style="text-align: center" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs"></div>
+
+	</form>
+</div>
+
+			<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/plugins.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/site.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/newsletter.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/js/articles.js"></script>
+		</div>
+		</div>
+
+				<script>
+		(function (doc) {
+			var scripts = doc.getElementsByTagName('script');
+			var script = scripts[scripts.length - 1];
+			var xhr = new XMLHttpRequest();
+			xhr.onload = function () {
+				var div = doc.createElement('div');
+				div.innerHTML = this.responseText;
+				div.style.display = 'none';
+				script.parentNode.insertBefore(div, script);
+			}
+			xhr.open('get', '/theme/thesun//assets/build/img/sprite/sprite.svg', true);
+			xhr.send();
+		})(document);
+
+
+
+		</script>
+
+		<script>
+			// Submit function
+            function recaptcha_callback() {
+						var getUrl = $('.form-newsletter').data( "url-send" ),
+							getName = $('input#name').val(),
+							getEmail = $('input#email').val();
+						$.ajax({
+								type: "POST",
+								url: getUrl,
+								data: {
+									name: getName,
+									email: getEmail,
+									grecaptcharesponse: grecaptcha.getResponse()
+								}
+							}).done(function(response) {
+								console.log(response);
+									$('.form-fields').fadeOut(800, function () {
+										$('.form-fields').empty().append('<div class="newsletter-confirm-message">Thank you for signing up to receive news from <em>The Sun</em>. Your first newsletter will arrive soon.<div>').fadeIn(800);
+									});
+							});
+			}
+
+		</script>
+
+		<script>
+			function getUrlCode() {
+				var url_string = window.location.href;
+				var url = new URL(url_string);
+				var c = url.searchParams.get('promotion\_key');
+				if (typeof c !== 'undefined' && c !== null) {
+					setCookie("promotion_code",c);
+				}
+			}
+
+			function setCookie(cname, cvalue) {
+				document.cookie = cname + "=" + cvalue + ";" + "path=/";
+			}
+
+			function getCookie(cname) {
+				var name = cname + "=";
+				var decodedCookie = decodeURIComponent(document.cookie);
+				var ca = decodedCookie.split(';');
+				for(var i = 0; i <ca.length; i++) {
+					var c = ca[i];
+					while (c.charAt(0) == ' ') {
+						c = c.substring(1);
+					}
+					if (c.indexOf(name) == 0) {
+						return c.substring(name.length, c.length);
+					}
+				}
+				return "";
+			}
+			window.addEventListener( "load", getUrlCode );
+		</script>
+
+
+	</body>
+</html>

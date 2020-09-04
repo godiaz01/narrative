@@ -1,0 +1,1212 @@
+
+<!DOCTYPE html>
+<html class="no-js" lang="en-US">
+	<head>
+		<title>Dissonance - The Sun Magazine</title>
+
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		
+		<meta name="viewport" content="width=device-width, minimum-scale=1.0">
+
+		<link rel="dns-prefetch" href="//ajax.googleapis.com">
+		<link rel="dns-prefetch" href="//use.typekit.net">
+		
+		<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/modernizr.js"></script>
+		<script src="https://www.google.com/recaptcha/api.js"
+				async defer>
+		</script>
+
+		<script>(function(d) { var config = { kitId: 'kzw7ebk', scriptTimeout: 3000, async: true }, h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s) })(document);</script>
+
+
+				
+		<link rel="apple-touch-icon" sizes="57x57" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-57x57.png?v=2016">
+		<link rel="apple-touch-icon" sizes="60x60" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-60x60.png?v=2016">
+		<link rel="apple-touch-icon" sizes="72x72" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-72x72.png?v=2016">
+		<link rel="apple-touch-icon" sizes="76x76" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-76x76.png?v=2016">
+		<link rel="apple-touch-icon" sizes="114x114" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-114x114.png?v=2016">
+		<link rel="apple-touch-icon" sizes="120x120" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-120x120.png?v=2016">
+		<link rel="apple-touch-icon" sizes="144x144" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-144x144.png?v=2016">
+		<link rel="apple-touch-icon" sizes="152x152" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-152x152.png?v=2016">
+		<link rel="apple-touch-icon" sizes="180x180" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-180x180.png?v=2016">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-32x32.png?v=2016" sizes="32x32">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/android-chrome-192x192.png?v=2016" sizes="192x192">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-96x96.png?v=2016" sizes="96x96">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-16x16.png?v=2016" sizes="16x16">
+		<link rel="mask-icon" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/safari-pinned-tab.svg?v=2016" color="#444444">
+		<link rel="shortcut icon" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon.ico?v=2016">
+		<meta name="apple-mobile-web-app-title" content="The Sun Magazine">
+		<meta name="application-name" content="The Sun Magazine">
+		<meta name="msapplication-TileColor" content="#fcc330">
+		<meta name="msapplication-TileImage" content="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/mstile-144x144.png?v=2016">
+		<meta name="theme-color" content="#ffffff">
+
+				<link rel="stylesheet" type="text/css" href="https://cloud.typography.com/6578674/659928/css/fonts.css" />
+		<link rel="stylesheet" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/css/style.css">
+
+																		<meta property="og:site_name" content="The Sun Magazine">
+		<meta property="og:type" content="article">
+		<meta property="og:url" content="https://www.thesunmagazine.org/issues/425/dissonance">
+		<meta property="og:image" content="http://www.thesunmagazine.org/files/2016-06/425-20-brigando-preview.jpg">
+		<meta property="og:title" content="Dissonance - The Sun Magazine">
+		<meta property="og:description" content="A few propositions: Dissonance inspires patience; discord, correction. Discord is neither arranged nor disarranged; it&amp;rsquo;s haphazard, without any sense of audience or any context larger than itself &amp;mdash; an earmuffed dolphin in a closet with a drumstick attached to its flipper. Dissonance, however, is a seal wobbled by currents on its way to a fish-rich cove. It has a direction in mind. Dissonance expects to be heard. It&amp;rsquo;s composed.">
+		<meta property="fb:app_id" content="158741778010551">
+
+						<link rel="image_src" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.comhttp://www.thesunmagazine.org/files/2016-06/425-20-brigando-preview.jpg">
+
+												<meta name="twitter:card" content="summary">
+		<meta name="twitter:title" content="Dissonance - The Sun Magazine">
+		<meta name="twitter:description" content="A few propositions: Dissonance inspires patience; discord, correction. Discord is neither arranged nor disarranged; it&amp;rsquo;s haphazard, without any sense of audience or any context larger than itself &amp;mdash; an earmuffed dolphin in a closet with a drumstick attached to its flipper. Dissonance, however, is a seal wobbled by currents on its way to a fish-rich cove. It has a direction in mind. Dissonance expects to be heard. It&amp;rsquo;s composed.">
+		<meta name="twitter:image" content="http://www.thesunmagazine.org/files/2016-06/425-20-brigando-preview.jpg">
+		<meta name="twitter:site" content="@thesunmagazine">
+
+				<link rel="publisher" href="https://plus.google.com/113792980827145858211">
+        
+		<meta name="Description" content="A few propositions: Dissonance inspires patience; discord, correction. Discord is neither arranged nor disarranged; it&amp;rsquo;s haphazard, without any sense of audience or any context larger than itself &amp;mdash; an earmuffed dolphin in a closet with a drumstick attached to its flipper. Dissonance, however, is a seal wobbled by currents on its way to a fish-rich cove. It has a direction in mind. Dissonance expects to be heard. It&amp;rsquo;s composed.">
+
+		
+		<!-- Google Tag Manager -->
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-TKBHCCG');</script>
+		<!-- End Google Tag Manager -->
+
+		<!-- Google Analytics -->
+		<script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+            ga('create', 'UA-2351127-1', 'auto');  // Replace with your property ID.
+            ga('send', 'pageview');
+            ga('require', 'ecommerce');   // Load the ecommerce plug-in.
+		</script>
+		<!-- End Google Analytics -->
+	</head>
+	<body id="">
+
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TKBHCCG"
+		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+		<header class="header" data-offset-start="80">
+		<div class="header-utilities">
+				<ul class="header-utilities-user list-inline list-inline-tight xxsmall">
+							<li>
+					<span class="header-utilities-user-intro">Already A Subscriber?</span> &nbsp;
+					<a href="https://www.thesunmagazine.org/subscriber/login" class="link-text link-alt">Sign In</a>
+				</li>
+					</ul>
+		<a href="https://www.thesunmagazine.org/shop/cart" class="header-utilities-cart  link-alt link-icon tiny">
+			<span class="i"><svg><use xlink:href="#i-cart"></use></svg></span>
+			<span class="cart-item-count">
+									0 Items
+				
+			</span>
+		</a>
+			</div>
+
+		<div class="header-bar">
+		<h1 class="header-logo logo">
+			<a href="/">
+				<img src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/img/logo-thesun.svg" class="logo-thesun" alt="The Sun Magazine">
+				<img src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/img/logo-tagline.svg" class="logo-tagline" alt="">
+			</a>
+		</h1>
+
+		<ul class="header-nav">
+			
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/read" 	   class='current '>
+	   Read	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/issues/current" 	   class=''>
+	   Current Issue	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/archives" 	   class=''>
+	   Archives	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/featured" 	   class=''>
+	   Featured Selections	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/topics" 	   class=''>
+	   Browse Topics	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/sections" 	   class=''>
+	   Browse Sections	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/connect" 	   class=''>
+	   Connect	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/news" 	   class=''>
+	   News from <em>The Sun</em>	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" 	   class=''>
+	   Write a Letter to the Editor	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/discussion-groups" 	   class=''>
+	   Discussion & Writing Groups	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/make-a-suggestion" 	   class=''>
+	   Make a Suggestion	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/submit" 	   class=''>
+	   Submit	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/shop" 	   class=''>
+	   Shop	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/giftsub" 	   class=''>
+	   Gift Subscriptions	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/issues" 	   class=''>
+	   Issues	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+											
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/donatemenu" 	   class='highlight'>
+	   Donate	</a>
+		
+	</li>
+
+		<li class=" last">
+														<a href="/SubscribeNav1" 					   class=''>
+						Subscribe					</a>
+									
+	</li>
+
+
+		</ul>
+
+		<button class="header-nav-toggle"><svg><use xlink:href="#i-menu" class="i-menu"></use><use xlink:href="#i-close" class="i-close"></use></svg></button>
+		<button class="header-search-toggle" data-form-wrapper=".header-search"><svg><use xlink:href="#i-magnifier" class="i-magnifier"></use><use xlink:href="#i-close" class="i-close"></use></svg></button>
+	</div>
+
+		<div class="header-search">
+		<div class="header-search-content">
+			<form action="https://www.thesunmagazine.org/search" class="form form-search" method="get">
+				<h2 class="alt-ff brand-link">Search Our 40 Years of Archives</h2>
+				<ul class="form-search-fields form-fields form-fields-inline">
+					<li><input type="text" name="q" value=""></li>
+					<li class="form-fields-inline-button"><button class="b b-1 b-padding-tight b-loading"><svg><use xlink:href="#i-loading"></use></svg>Search</button></li>
+				</ul>
+
+				<div class="header-search-content-shortcuts">
+					<h6 class="search-advanced alt-ff"><a class="js-handle-advanced" href="https://www.thesunmagazine.org/search?advanced=1">Advanced Search</a></h6>
+					<br>
+					<h6 class="alt-ff">Popular Pages</h6>
+					<ul class="list-inline-border list-inline-tight xxsmall"><li class=" first"><a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a></li><li class=""><a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a></li><li class=""><a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a></li><li class=""><a href="https://www.thesunmagazine.org/sections/quotations" 	   class=''>
+	   Quotations	</a></li><li class=""><a href="https://www.thesunmagazine.org/sections/readers-write" 	   class=''>
+	   Readers Write	</a></li><li class=" last"><a href="https://www.thesunmagazine.org/sections/poetry" 	   class=''>
+	   Poetry	</a></li></ul>				</div>
+			</form>
+		</div>
+	</div>
+</header>
+
+	<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+	<script type="text/javascript">
+		$(document).ready(function() {
+			$('.js-handle-advanced').on('click', function (e) {
+				e.preventDefault();
+				var getSearchValue = $('.form-search-fields input').val();
+				var getURL = $(this).attr('href');
+				var newURL = getURL + '&q=' + getSearchValue;
+				window.location.href = newURL;
+			});
+		});
+	</script>
+
+		<div class="container-hidden">
+		<div class="container">
+
+				
+	
+	<article class="article ">
+		<header class="block-content block-content-l1 block-content-center">
+						<div class="block-content-header">
+				<h6 class="b-content-section heading-square"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+				<h1 class="block-content-title">Dissonance</h1>
+
+				
+				<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/barbara-hurd">Barbara Hurd</a></li><li><a href="/issues/425">May 2011</a></li></ul>
+
+			</div>
+
+																			
+
+				<figure class="block-content-photo block-content-photo-large photo photo-outset-center-small">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 1586 1960'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/793x980r/photos/1479061349_425-20-brigando.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/1586x1960r/photos/1479061349_425-20-brigando.jpg
+	 alt="425 - Brigando - Hurd"
+	 class="lazy">
+
+										<figcaption>
+
+						
+																				<div class="photo-credit">
+								&copy;&nbsp;<a href="/contributors/terra-brigando">Terra Brigando</a>
+							</div>
+																		</figcaption>
+									</figure>
+
+					</header>
+
+				<div class="article-body link-text-wrap">
+																		<p><em>Do you not know that our soul is composed of harmony?</em></p>
+
+<p class="text-right"><em>&mdash; Leonardo da Vinci</em></p>
+
+<p>&nbsp;</p>
+
+<p><strong><span class="large">Da Vinci&rsquo;s notion</span></strong> is such a nice one that it&rsquo;s most likely wrong. Nice ideas, after all, are often inaccurate, too tidy or sweet to get at the harder truths about how we really live our lives. Surely the soul, if there even is such a thing, is not composed just of harmonies but of discord and dissonance too. Nudged into consciousness by friction with the world, the soul likely plays more than a single melodic line. It shifts between major and minor keys, alters the phrasing, moves from soft to loud and back again, all over the course of a single lifetime, or day by day, or maybe even minute by minute. Perhaps it feels simultaneously young and old, independent and needy, sanguine and depressed &mdash; a whole range of competing and contradictory emotions that, if we acknowledge them all, can leave us paralyzed, or on our way to becoming more fully human.</p>
+
+<p>But I could be wrong. After all, it wasn&rsquo;t until I started piano lessons that I learned how much of my thinking about harmony and dissonance had been woefully undeveloped.</p>
+
+<p>I used to think of dissonance as the clang of garbage-can lids on a windy street, the small squirrel in the barred owl&rsquo;s beak, terms of endearment delivered with disdain. In a more conventional way, I thought I heard it just a few weeks ago when I sat on the piano bench next to my teacher, my left hand playing A, D, C, D, the right on D, C, B, C. What I was hearing sounded wrong, a grotesque chimera of sound. I looked at my teacher with a question in my eyes, wondering whether this was Mozart&rsquo;s mistake or mine.</p>
+
+<p>We were, as usual, in her home, seated at her Steinway. It had been eight months since I&rsquo;d first entered her house, for my first lesson in more than fifty years. I have the long, thin fingers of a pianist, a desire to play well, and no talent whatsoever. She&rsquo;s a six-foot-tall, Juilliard-trained musician, legendary among her pupils for her insistence that music must be felt and drills must be practiced, and for her relentless command &ldquo;Thumb under. Thumb <em>under</em>.&rdquo; Why she took me on as her student, I have no idea. I&rsquo;ve fiddled on pianos for many years, but my brother has always been the musical star in the family. Hearing him play Chopin when he was only twelve made me abandon lessons and the secret fantasy of being a prodigy. But the week I made the decision to retire from full-time teaching, I looked up this instructor in the phone book and called. Would she? She would. And now it&rsquo;s months later, and I&rsquo;m still trying to train that lumpish left thumb and thinking about all that I don&rsquo;t know.</p>
+
+<p>&nbsp;</p>
+
+<p><strong><span class="large">A few weeks ago</span></strong> my daughter Tara and I stood barefoot on a lakeshore not far from my home, watching a small flock of geese out on the water. We&rsquo;d come to the early-autumn valley after breakfast on a Sunday with her two young children and no binoculars. The plan was to let Caitlin and Samantha skip stones across the water before the three of them started their drive back downstate. Squinting at the far-off flock, I wondered aloud whether the geese were merely passing through or wintering over. Caitlin plopped another rock into the water, and Samantha &mdash; a flaming-copper-headed two-year-old &mdash; was picking at the dirt between her toes when a sudden sound alerted us, pulsing from somewhere so close I expected my hair to flutter the way my heart did.</p>
+
+<p>Tara stepped toward her younger daughter, and Caitlin moved toward me, and I was suddenly back on a beach in Virginia forty years earlier, when a solar eclipse had sent wave after wave of shadow across the sand, and all of us who&rsquo;d come to see it had felt like primitives, ready to appease the gods.</p>
+
+<p>There it was again: that out-of-nowhere intrusion of discord so precipitously close I wanted to fling invisible things off my skin, until Caitlin tilted her head back, and then we all did &mdash; and instinctively ducked as dozens of geese pumped the air just twenty feet over our heads, swooping across the lake until they braked with their wings and splash-glided feet first into the water alongside the rest of the flock, and everything was quiet.</p>
+
+<p>It all happened so fast that there was no pausing, no musing about whether the appearance of the geese was discordant or merely unexpected. It wasn&rsquo;t until I sat down with that dissonant measure in the Mozart sonata that I thought again about that disruption of a tranquil scene. It had jolted us, for sure, but was it a moment of dissonance, or something else?</p>
+
+<p>&nbsp;</p>
+
+<p><span class="large"><strong>Dissonant sounds</strong>,</span> the composer Arnold Schoenberg claims, have a &ldquo;more remote relationship to the occasional center.&rdquo; Before taking piano lessons, I&rsquo;d have said that dissonance feels more like there are suddenly <em>two</em> centers, and they&rsquo;re anything but remote. Their collision, in fact, feels imminent, which is why we have the urge to swerve to avoid impact. The dissonance I thought I knew doesn&rsquo;t invite dawdling. In its midst, one lurches toward safety &mdash; or, if you&rsquo;re a beginning piano player like me, hurries into the next measure.</p>
+
+<p>&ldquo;No,&rdquo; my teacher said. &ldquo;Try it again. And this time <em>listen</em>.&rdquo; And there it was again, that grating in the first measure. Yes, she nodded, that&rsquo;s right. I let my fingers linger there a few seconds, feeling the clash between those notes, trying to quell the urge to correct it. <em>This</em> is music?</p>
+
+<p>&nbsp;</p>
+
+<p><strong><span class="large">I&rsquo;m an obvious</span></strong> novice at the piano, and on those many days when I can&rsquo;t hear the music in my head, can&rsquo;t get my fingers to do what I want them to do, can&rsquo;t do much at all but bang on the keys and snort at myself, I sometimes give up and take off with my dog Kassi into the woods, where a fast walk and a little stick-throwing will settle my nerves. Kassi&rsquo;s a rescued pup &mdash; a supposed yellow Lab&ndash;golden retriever mix who turned out to be all white and oblivious to dissonance, except perhaps when a deer bolts across the trail and she, wanting only to chase, hears an uncharacteristic sharpness in my call to &ldquo;come, come <em>now</em>.&rdquo; On a recent afternoon, not long after the geese had startled the kids and me at the lake, Kassi and I meandered up the ridge behind the house to a place where for months I had been hearing the elongated screech of a tree creaking, even on windless days. The trail rises steeply there, and as we approached the top, the tree made its singular noise, a clear, raspy creak somewhere between a distressed cat and the swaying mast of an old clipper ship. The first time I heard it, last spring, I froze, my eyes scanning the woods for a wounded kitten or deer or even &mdash; as ridiculous as this sounds &mdash; an abandoned baby. It&rsquo;s not your typical tree moaning in the wind, but something more solitary, plaintive, and unsettling.</p>
+
+<p>Tree creaks are common, of course, in any woods, the result of friction within or between trunks and branches. Internal friction results from the mishmash of young and old fibers. The older fibers have begun to stiffen and dry; the younger ones remain supple. When a breeze sets a tree swaying, those fibers don&rsquo;t all respond the same way. Some bend; some resist. Picture dancers on a stage, some ninety years old, some six. When they all start to move, the younger ones will inevitably bump into the elders, who may not be moving at all but just trying to keep their balance. In a tree the rubbing of young fiber against old sets off cracks and groans.</p>
+
+<p>Or the discord can arise between trees, when one has grown too close to another, or when disease or age has felled one, which starts its slow descent to the ground through the tangle of surrounding branches. Many get caught and languish in tilted postures for years, their bark rubbing against another&rsquo;s. This is no gentle grazing. An eighty-foot hemlock can weigh more than four thousand pounds. When it topples against a nearby oak and gets lodged in its branches, it bears down; it grinds. A slight breeze sets off a muffled fuss of squeaks and low-pitched muttering. There are autumn days in the Appalachian woods, the leaves barely hanging on in the late-afternoon light, when I want only the silent leaf drop by leaf drop easing the branches into bare November. (Am I also talking here about aging?) On such days a tree creak, like that one on the ridge, sounds distinctly wrong, and a part of me wants to untangle the high branches and bring down the leaning tree &mdash; anything to end that incessant groaning.</p>
+
+<p>&nbsp;</p>
+
+<p><strong><span class="large">Dissonance in music</span></strong> was greeted early on by consternation, ridicule, and fear. At the 1913 premi&egrave;re of Igor Stravinsky&rsquo;s ballet <em>The Rite of Spring</em>, the mood of the well-dressed Parisians at the Th&eacute;&acirc;tre des Champs-&Eacute;lys&eacute;es deteriorated from civility, to surprise, to dismay, and then to boos and jeers as the music veered from its haunting opening into harsh dissonance. It wasn&rsquo;t long before the agitation escalated into shouting matches about the merits of the music. The orchestra, trying to hear themselves above the din of the crowd, played louder and louder, and distracted dancers lost track of the beat. Tuxedoed men climbed onto their seats and shook their fists; scuffles spilled into the aisles. Stravinsky, stunned by the reception, made a fast exit from the wings, while police were called in to quell what had become a full-blown riot &mdash; which seemed to me, that afternoon in the screeching woods, a reasonable response.</p>
+
+<p>&nbsp;</p>
+
+<p><strong><span class="large">Years ago in</span></strong> a wilderness seminar, a tracking teacher taught the other participants and me about directional listening. It&rsquo;s similar to the old trick of placing a glass against a wall and pressing your ear to it, the better to hear the murmurings on the other side. But this technique requires only your hands, which you cup behind your ears as you turn your head this way and that until the sound becomes clearer.</p>
+
+<p>The first time I did it, cupping my hands and then dropping them, I found it was true: the world seemed to move in a little closer and then away. But when the tracker whispered, &ldquo;Hear it? Turkeys at four o&rsquo;clock!&rdquo; and I pivoted in that direction, hands to my ears, I heard nothing, or perhaps some faint, faraway shuffle that could easily have been someone&rsquo;s muffled cough. If there were turkeys out there, they were, to me, as silent as they were invisible, yet another reminder of my aural shortcomings.</p>
+
+<p>When Kassi ran off that late afternoon on the ridge in her usual pursuit of chipmunks, I lay down in the leaves, closed my eyes, and tried to follow with cupped hands and swiveling head that creak, which seemed to shift from one high-up place to another &mdash; first above me, then back to the right. Maybe it wasn&rsquo;t a tree at all but a critter of some sort. No, I&rsquo;d heard it for too many months in almost the same place, and no squirrel or crow would take up the same position every time I climbed that trail. And it didn&rsquo;t chatter or caw; it creaked, stuttered, and scraped. And then I heard a rustle of leaves and panting and felt Kassi&rsquo;s tongue mopping every inch of my face. She wanted me to get up and walk or play. An old trick, I told her: disguising impatience with affection, perhaps akin to my attempt to redefine discord with careful attention, as if precise listening could change how I heard it.</p>
+
+<p>Uninterested in such mental gymnastics, Kassi was already off down the trail, and then so was I, and from somewhere above us the creaking went on, unlocatable and eerie. Perhaps that seeming sourcelessness, that out-of-nowhere quality, is in part why certain sounds seem discordant. If we can name them, find the pattern in which they <em>do</em> fit, they might seem not wrong but merely odd. Schoenberg again: &ldquo;Dissonances .&nbsp;.&nbsp;. are not incomprehensible .&nbsp;.&nbsp;. so long as they occur in the right surroundings.&rdquo;</p>
+
+<p>It might be musically true that dissonance can be understood, but I&rsquo;ve known people &mdash; even been one myself at times &mdash; who mix things up, hurt and confound those we love, and create a ruckus of discord, all of which we defend by claiming that no one, alas, understands us. This is a lame excuse, unless our discordances have visionary properties, like Emily Dickinson&rsquo;s or Albert Einstein&rsquo;s.</p>
+
+<p>How, then, to tell the difference between idiosyncrasies and brilliance, between unwanted discord and creative dissonance?</p>
+
+<p>A few propositions: Dissonance inspires patience; discord, correction. Discord is neither arranged nor disarranged; it&rsquo;s haphazard, without any sense of audience or any context larger than itself &mdash; an earmuffed dolphin in a closet with a drumstick attached to its flipper. Dissonance, however, is a seal wobbled by currents on its way to a fish-rich cove. It has a direction in mind. Dissonance expects to be heard. It&rsquo;s composed. There&rsquo;s a backstage plan that means some new potential &mdash; an unexpected feeling, a redefinition &mdash; has consciously entered the scene and altered the harmony, creating a need for resolution. When two people argue, the one who recognizes the dissonance between them has more hope for resolution than does the one who hears only discord.</p>
+
+<p>Back at the piano, I try pausing on that dissonant moment in Mozart&rsquo;s sonata, not because the tempo tells me to, but because I want to hear, really <em>hear</em>, what happens. Inside my ears, I&rsquo;ve learned, those notes are setting off frequencies that interfere with each other, causing a cochlear collision of what audiologists call &ldquo;critical bands.&rdquo; No wonder we think something&rsquo;s amiss. On the piano I press those keys again and again, trying to see if I can separate one note from the other, untangle what seems inharmoniously meshed, <em>listen</em> to the chord Mozart chose more than two hundred years ago so that we would learn to wait, senses heightened, for the resolution he&rsquo;d orchestrated next.</p>
+
+<p>&nbsp;</p>
+
+<p><strong><span class="large">We know that</span></strong> Mozart had a pet starling that supposedly influenced his revision of a piano concerto. It turns out he also had a canary, which interests me more: a clear beauty, the death of which prophesies danger in deep mines. Though Mozart called it one of the &ldquo;most blameless creatures in our household,&rdquo; in the last hours of his life the canary agitated him so strongly that he banished it from his room. Who knows whether the fever shortened his temper, making the bird&rsquo;s melodic trills unbearable, or whether he thought silence was a more fitting end for him.</p>
+
+<p>Starting some two hundred years before Mozart, canaries had been captured, domesticated, and carefully bred in Germany. Bird song had become faddish, and pet owners arranged &ldquo;performances.&rdquo; Competitions pitted canary against canary, the birds going throat to throat for the most melodic phrase, the most liquid song. It amuses me to imagine their managers prepping the birds, coaching their delivery and praising their poise, but what intrigues me more is that, based on the beauty of their songs, ornithologists who catered to the fad began to decide which bird should mate with which and which shouldn&rsquo;t mate at all. The birds were bred, in other words, for the musicality of their sounds. The result? If you compare the sonograms of domesticated canaries to those of wild canaries today, you can see a distinct difference in the third and fourth seconds of their song. On the domesticated bird&rsquo;s sonogram, the markings on the graph (indicating frequency and duration of notes) are consistent, as if drawn by an accomplished graphic artist who&rsquo;d learned to replicate the same graceful squiggle over and over. That bird is repeating clear notes and was cheered at competitions.</p>
+
+<p>But at that same moment on the wild canary&rsquo;s graph, the markings go haywire, as if drawn by a kindergartner using the wrong hand. Their thicknesses vary wildly; splotches hover over skewed jabs. Birders studying the sonogram call this the canary&rsquo;s &ldquo;dissonant phrase.&rdquo; Though it&rsquo;s been completely bred out of domesticated canaries, it remains in wild ones.</p>
+
+<p>There&rsquo;s no chance, I suppose, of it being bred out of humans. The world impinges; the soul responds or retreats. The result is often both messy and enlivening. The trick to distinguishing dissonance from mere discord is, perhaps, keeping an eye on one&rsquo;s wish to mythologize. Despite my old longing to see meaning everywhere, I see now that those geese overhead amount to nothing that matters. Mere happenstance. Only banality followed: Caitlin lobbed a rock that splashed Samantha, who wailed until her mother picked her up, while out on the far end of the lake the birds resumed their cacophonous honking. And those creaking trees? Perhaps equally mundane, though sometimes just thinking about &ldquo;mere&rdquo; noise can lead to unexpected insights &mdash; about aging, in this case, and the sound of friction between young and old, even within one&rsquo;s body.</p>
+
+<p>But dissonance is a different story. It has, in fact, taken me months of practicing Mozart&rsquo;s sonata to realize what I like in that measure: the state of being put on alert, feeling a jolt that requires vigilance. Dissonance makes me <em>want</em> to listen to what seems wrong, to what needs something more. Within its design, in other words, is a summons to the work that lies ahead.</p>
+
+<p>&nbsp;</p>
+
+<p><strong><span class="large">I spent a lot</span></strong> of years teaching, writing, traveling, raising children, and working through the mostly ordinary travails of life with a certain amount of composure. And now the expected glide into retirement has been jarred by the discovery of how hungry I am again for learning, how little I know, how obsessed I&rsquo;ve become with music. My writing time is squeezed between practice sessions at the piano; my garden is full of weeds; the stack of books I&rsquo;d been saving for retirement is buried beneath scores and recordings of Beethoven and Bach. Recomposing itself, my life now seems at times wackily out of tune, a series of unexpected notes, or maybe merely another way to delay thinking about mortality. Or perhaps this is the necessary dissonance that can disturb any tidy conformity to plans, that can prepare us to be flexible in the face of the unknowable future.</p>
+
+<p>Maybe we can&rsquo;t always tell the difference between dissonance that might lead to resolution and the tuneless, discordant obsession of an aging fool, in which case the words of poet Wallace Stevens matter even more: &ldquo;I perceive the stick in the water as broken,&rdquo; he says, &ldquo;but I certainly do not try to straighten it; on the contrary, I measure the distortion.&rdquo; What better way to measure this late-in-life distortion than to put myself at the feet of masters like Mozart and my teacher, who, week after week, reminds me that at its best a daily practice doesn&rsquo;t smooth the edges of dissonance; it helps me to hear the richness in it.</p>
+
+<p>&ldquo;For now we see through a glass, darkly,&rdquo; the Bible says. For me, it&rsquo;s more like <em>Now we hear through a thick wall, barely</em>. How much do I miss? How much cluck and chirp, woof and trill, burrowing, gnashing, and last breaths go on while I walk oblivious among it all, preoccupied with this or that, intent on listening only for sweet melodies? The answer is &ldquo;plenty,&rdquo; though I am hearing more these days than I used to. Maybe the biggest challenge now is to expand my notion of harmony so that it includes even the unlocatable creaks of the dying, the screeches of healthy discontents, the cacophonies of want, all the unnerving sounds that accompany so much of our jostling attempts to make sense of life. Leonardo da Vinci, then, would be right after all, because in the soul&rsquo;s composition, harmony wouldn&rsquo;t mean just resolution but also everything that leads us there.</p>
+
+<p>What seems to be leading me these days is a wish to move, ear first, a little closer to what surrounds me, to close my eyes and hear how dissonance can agitate the spirit, widen the spectrum &mdash; be it musically, psychologically, or philosophically. I blame Mozart and my teacher for such extravagant longings. It&rsquo;s as if they&rsquo;ve conspired to hoist one end of a giant glass to my ear and to press the rim against an invisible wall, to help me hear the dissonance that can both disarrange and recompose.</p>
+														</div>
+
+
+				
+<div class="sharing-bar article-sharing">
+	<div class="sharing-bar-first">
+		<a href="javascript:window.print();" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-printer"></use></svg> <span>Print</span></a>
+	</div>
+
+	<div class="sharing-bar-second">
+		<span class="alt-ff xsmall">Share:</span>
+		<a href="https://www.facebook.com/sharer/sharer.php?u=https://www.thesunmagazine.org/issues/425/dissonance" target="_blank" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-facebook"></use></svg> <span>Facebook</span></a>
+		<a href="https://twitter.com/share?url=https://www.thesunmagazine.org/issues/425/dissonance&amp;via=thesunmagazine" target="_blank" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-twitter"></use></svg> <span>Twitter</span></a>
+		<a href="#" class="b b-1 b-padding-tight xsmall js-toggle-mail-form"><svg><use xlink:href="#i-email"></use></svg> <span>Email</span></a>
+	</div>
+</div>
+
+<div class="send-to-friend-message-container">
+	<div class="alert alert-success xsmall">Thank you for sharing <em>The Sun</em>.</div>
+</div>
+
+<form method="post" action="/ajax/articles/send-to-a-friend" class="form fill-grey send-to-friend-form">
+		<input type="hidden" id="form_url" name="form[url]" value="https://www.thesunmagazine.org/issues/425/dissonance" />
+
+	<ul class="form-fields">
+		<li><label for="form_sender_name"><span class="label-text">Your Full Name</span><span class="label-asterisk">*</span></label><input type="text" id="form_sender_name" name="form[sender_name]" required="required" /></li>
+		<li><label for="form_sender_email"><span class="label-text">Your Email Address</span><span class="label-asterisk">*</span></label><input type="email" id="form_sender_email" name="form[sender_email]" required="required" /></li>
+		<li><label for="form_recipient_name"><span class="label-text">Friend’s Name</span><span class="label-asterisk">*</span></label><input type="text" id="form_recipient_name" name="form[recipient_name]" required="required" /></li>
+		<li><label for="form_recipient_email"><span class="label-text">Friend’s Email Address</span><span class="label-asterisk">*</span></label><input type="email" id="form_recipient_email" name="form[recipient_email]" required="required" /></li>
+		<li><label for="form_message"><span class="label-text">Personalized Message</span></label><textarea id="form_message" name="form[message]"></textarea></li>
+	</ul>
+<div class="send-to-friend-message-container">
+	<div class="alert alert-error xsmall">Something went wrong. Please try again.</div>
+</div>
+
+<div class="g-recaptcha" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs"></div>
+<div class="form-actions"><button type="submit" id="form_submit" name="form[submit]"	class="form-actions-b-primary b b-1 b-loading xsmall"><svg><use xlink:href="#i-loading"></use></svg>
+		Submit
+	</button></div>
+<input type="hidden" id="form__token" name="form[_token]" value="650be946bc49745438bb41bf6402ea62c0dc167e" /></form>
+
+<br>
+
+
+
+										<footer class="article-contributor contributors">
+									
+
+<div class="block-contributor">
+		
+
+		<div class="block-contributor-content">
+		<div class="block-contributor-bio small">
+			<p><strong><span class="smallcaps">Barbara Hurd</span></strong>&rsquo;s most recent book is <em>Walking the Wrack Line: On Tidal Shifts and What Remains</em>, and her essays have appeared in <em>Best American Essays</em>, the <em>Georgia Review</em>, and <em>Orion</em>. She lives in Frostburg, Maryland, and teaches part time in the Stonecoast <span class="smallcaps">MFA</span> program at the University of Southern Maine.</p><a href="/contributors/barbara-hurd" class="block-contributor-link link-alt small">More From This Contributor&nbsp;&#9656;</a>		</div>
+	</div>
+</div>
+
+							</footer>
+						</article>
+
+
+				    <div class="paywall-subscription block-product">
+			<div class="columns">
+			<div class="paywall-banner span3 cta cta-l1">
+				<div class="cta-intro">
+					<h5 class="cta-title alt-ff">One Free Selection Left </h5>
+					<p class="cta-text xsmall"><a class="link-alt" href="https://www.thesunmagazine.org/subscriber/login" data-label="Already a subscriber?">Already a subscriber? Sign in ▸</a><br><br>Read two free selections from <em>The Sun</em> each month.</p>
+				</div>
+			</div>
+			<div class="paywall-banner span9 note note-1 text-center">
+				<h4 class="cta-title alt-ff">Subscribe to <em>The Sun</em> and save 45%</h4>
+				<p class="cta-text xsmall">Subscribers get full access to the current issue and more than 40 years of archives.</p>
+				<a class="b b-1 xsmall cta-trigger"  href="/subscribe1" data-label="Subscribe" data-ctatitle="Subscribe">Subscribe</a>
+			</div>
+		</div>
+
+		<div class="columns">
+			<div class="span12 paywall-cta-bottom">
+				<p>
+					<span class="cta-title-issue">Buy the May 2011 issue for $5.95</span>
+					<span class="xsmall">Order now to get instant access to this issue, and we’ll also send you a print copy.</span>
+					<a class="b b-5 xsmall corona"  href="#" data-product-type="issues" data-id="425" data-label="Order Now ▸">Order Now ▸</a>
+				</p>
+			</div>
+		</div>
+
+		
+
+</div>
+	
+	
+	
+	<div class="spacer"></div>
+	
+
+
+
+		
+		<div class="article-correspondence-cta">
+		<div class="cta cta-l1" data-url="https://www.thesunmagazine.org/letter-to-the-editor">
+			<div class="cta-intro">
+				<h5 class="cta-title alt-ff">Thinking about writing us a letter?</h5>
+				<p class="cta-text">Give in to the temptation. We love getting mail. <br><span class="xsmall">(Of course, we reserve the right to edit.)</span></p>
+			</div>
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" class="cta-button b b-4 b-padding-tight small" data-label="Write Us A Letter!">Write Us A Letter!</a>
+		</div>
+	</div>
+	
+
+			<div class="article-also layout-item-large full-bar fill-grey-mid-light">
+		<div class="layout-item-intro">
+			<h2>Also In This Issue</h2>
+			<a href="/issues/425" class="xsmall link-alt">May 2011&nbsp;&#9656;</a>
+		</div>
+		<div class="issue-articles-l1">
+			<div class="issue-articles-l1-content1">
+				
+<div class="cover cover-l1 block-product">
+	<div>
+							<a href="/issues/425" class="cover-thumb">
+				
+				<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 727'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/import/issue/425.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/561x728r/import/issue/425.jpg
+	 alt=""
+	 class="lazy">
+
+			</a>
+		
+
+													<!-- <a href="/issues/425" data-product-type="issues" data-id="425" data-role="order" class="js-buy-single corona cover-button b b-1 b-full xsmall" data-label="Buy This Issue &#9656;">
+								Buy This Issue&nbsp;&#9656;
+			</a> -->
+			<a href="/issues/425" data-product-type="issues" data-id="425" class="js-buy-single corona cover-button b b-1 b-full xsmall" data-label="Buy This Issue &#9656;">
+								Buy This Issue&nbsp;&#9656;
+			</a>
+					
+					</div>
+</div>
+			</div>
+			<div class="issue-articles-l1-content2">
+				<div class="articles-l3">
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/sy-safranskys-notebook">Sy Safransky&#039;s Notebook</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/425/sy-safranskys-notebook-425">May 2011</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/sy-safransky">Sy Safransky</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/photography">Photography</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/425/they-are-other-nations">They Are Other Nations</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/425/my-sister-teaches-me-the-abcs">My Sister Teaches Me The ABC’s</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/anne-templeton">Anne Templeton</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/dog-eared-page">The Dog-Eared Page</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/425/from-a-thousand-mile-walk-to-the-gulf"><em>excerpted from</em><br />A Thousand-Mile Walk To The Gulf</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/john-muir">John Muir</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+									</div>
+			</div>
+		</div>
+	</div>
+	
+
+			<div class="article-related layout-item-large full-bar fill-pattern-light">
+		<div class="layout-item-intro">
+			<h2>Related Selections</h2>
+			<ul class="list-inline list-inline-tight"><li><a href="/topics/consciousness" class="xsmall link-alt link-text">Consciousness</a></li><li><a href="/topics/identity" class="xsmall link-alt link-text">Identity</a></li></ul>		</div>
+
+		<div class="articles-l2">
+							
+
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/509/people-are-starving">People Are Starving</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/suzanne-rivecca">Suzanne Rivecca</a></li><li><a href="/issues/509">May 2018</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/509" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 727'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/140x182r/2018-04/509.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/2018-04/509.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/505/the-queen-of-hearts">The Queen of Hearts</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/kathleen-hawes">Kathleen Hawes</a></li><li><a href="/issues/505">January 2018</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/505" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 727'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/140x182r/2017-12/505.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/2017-12/505.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/readers-write">Readers Write</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/487/high-school">High School</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/our-readers">Our Readers</a></li><li><a href="/issues/487">July 2016</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/487" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 561 728'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/140x182r/2016-06/487.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/281x364r/2016-06/487.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/458/the-odds-of-injury">The Odds Of Injury</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/rose-whitmore">Rose Whitmore</a></li><li><a href="/issues/458">February 2014</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/458" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 727'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/140x182r/import/issue/458.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/import/issue/458.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+					</div>
+	</div>
+	
+	
+					<form id="newsletterForm" method="post" action="https://www.thesunmagazine.org/newsletter" data-url-send="https://www.thesunmagazine.org/newsletter" class="form form-newsletter fill-grey" enctype="multipart/form-data" target="_blank">
+
+
+
+		<div class="form-newsletter-intro">
+			<h3 class="alt-ff large">Sign Up For Our Newsletter</h3>
+			<p>We’ll let you know about new website selections, upcoming events, special offers, and more.</p>
+		</div>
+
+		<ul class="form-newsletter-fields form-fields form-fields-inline">
+			<li>
+				<input name="name" type="text" maxlength="500" id="name" placeholder="Your Name">
+			</li>
+			<li>
+				<input name="email" type="text" maxlength="500" id="email" placeholder="Your E-mail">
+			</li>
+
+			<li class="form-fields-inline-button">
+				<button disabled="disabled" class="form-newsletter-send b b-4 b-padding-tight b-loading g-recaptcha" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs" data-callback="recaptcha_callback" name="SubmitButton" id="SubmitButton">
+					<svg><use xlink:href="#i-loading"></use></svg>
+					Sign&nbsp;Up
+				</button>
+			</li>
+		</ul>
+	</form>
+	<script id="hiddenlpsubmitdiv" style="display: none;"></script>
+
+
+
+<footer class="footer brand-grey-dark">
+			<div class="footer-first">
+		<h3 class="footer-tagline">Independent, Reader-Supported Publishing</h3>
+		<p class="footer-desc">In each issue of <em>The Sun</em> you’ll find some of the most radically intimate and socially conscious writing being published today. In an age of media conglomerates, we’re something of an oddity: an ad-free, independent, reader-supported magazine.</p>
+		<ul class="footer-nav list-inline-border xsmall">
+			
+		<li class=" first">
+			<a href="https://www.thesunmagazine.org/about" 	   class=''>
+	   About <em>the Sun</em>	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/staff" 	   class=''>
+	   Staff	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/find-the-sun" 	   class=''>
+	   Find <em>The Sun</em>&nbsp;&nbsp;in a Store Near You	</a>
+		
+	</li>
+
+
+		</ul>
+	</div>
+	
+		<div class="footer-second">
+		<ul class="footer-second-social list-inline">
+			<li><a href="https://www.facebook.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-facebook"></use></svg></span> Like Us</a></li>
+			<li><a href="https://twitter.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-twitter"></use></svg></span> Follow Us</a></li>
+			<li><a href="https://instagram.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-instagram"></use></svg></span> Take a Look</a></li>
+		</ul>
+
+		<div class="footer-second-content">
+			<ul class="footer-nav list-inline-border xsmall">
+				
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/" 	   class='current '>
+	   Home	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/privacy-policy" 	   class=''>
+	   Privacy Policy	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/terms-of-use" 	   class=''>
+	   Terms of Use	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/site-map" 	   class=''>
+	   Site Map	</a>
+		
+	</li>
+
+
+			</ul>
+			<p class="footer-copyright xxsmall">Copyright &copy; 1974–2020 <em>The Sun</em>. All rights reserved.</p>
+		</div>
+	</div>
+</footer>
+
+
+
+<div class="offset-nav">
+	<ul>
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/read" 	   class='current '>
+	   Read	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/issues/current" 	   class=''>
+	   Current Issue	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/archives" 	   class=''>
+	   Archives	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/featured" 	   class=''>
+	   Featured Selections	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/topics" 	   class=''>
+	   Browse Topics	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/sections" 	   class=''>
+	   Browse Sections	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/connect" 	   class=''>
+	   Connect	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/news" 	   class=''>
+	   News from <em>The Sun</em>	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" 	   class=''>
+	   Write a Letter to the Editor	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/discussion-groups" 	   class=''>
+	   Discussion & Writing Groups	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/make-a-suggestion" 	   class=''>
+	   Make a Suggestion	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/submit" 	   class=''>
+	   Submit	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/shop" 	   class=''>
+	   Shop	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/giftsub" 	   class=''>
+	   Gift Subscriptions	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/issues" 	   class=''>
+	   Issues	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+											
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/donatemenu" 	   class='highlight'>
+	   Donate	</a>
+		
+	</li>
+
+		<li class=" last">
+														<a href="/SubscribeNav1" 					   class=''>
+						Subscribe					</a>
+									
+	</li>
+
+
+					<li>
+				<a href="https://www.thesunmagazine.org/shop/cart">Cart ( <span class="cart-item-count">  0  </span>)</a>
+			</li>
+			<li><a href="https://www.thesunmagazine.org/subscriber/login" class="link-header-logout link-alt">Sign In</a></li>
+			</ul>
+	<ul>
+		<li class=" first">
+			<a href="https://www.thesunmagazine.org/about" 	   class=''>
+	   About <em>the Sun</em>	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/staff" 	   class=''>
+	   Staff	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/find-the-sun" 	   class=''>
+	   Find <em>The Sun</em>&nbsp;&nbsp;in a Store Near You	</a>
+		
+	</li>
+
+</ul>
+	<ul>
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/" 	   class='current '>
+	   Home	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/privacy-policy" 	   class=''>
+	   Privacy Policy	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/terms-of-use" 	   class=''>
+	   Terms of Use	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/site-map" 	   class=''>
+	   Site Map	</a>
+		
+	</li>
+
+</ul>
+</div>
+
+<div id="buy-popup-message" class="buy-popup mfp-hide white-popup white-popup-block">
+	<a class="popup-modal-dismiss" href="#"></a>
+	<h5>Due to fulfillment challenges related to the novel coronavirus, print copies are temporarily unavailable for individual sale. We are offering free PDFs until we are able to resume print sales.</h5>
+	<p>Enter your e-mail address below to download this issue.</p>
+	<form method="post" id="download-single" action="https://www.thesunmagazine.org/issue/pdfFree/531.pdf">
+		<label for="email"><span class="label-text">E-mail</span><span class="label-asterisk">*</span></label>
+		<input class="buy-single-email" id="email" type="email" name="email">
+		<button type="send" class="form-buy-issue-send b b-3 b-padding-tight b-loading">Send</button>
+		<button class="form-buy-issue-download b b-3 b-padding-tight b-loading">Download pdf</button>
+		<button type="send" class="popup-modal-dismiss b b-2 b-padding-tight b-loading">Close</button>
+		<div class="g-recaptcha" style="text-align: center" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs"></div>
+
+	</form>
+</div>
+
+			<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/plugins.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/site.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/newsletter.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/js/articles.js"></script>
+		</div>
+		</div>
+
+				<script>
+		(function (doc) {
+			var scripts = doc.getElementsByTagName('script');
+			var script = scripts[scripts.length - 1];
+			var xhr = new XMLHttpRequest();
+			xhr.onload = function () {
+				var div = doc.createElement('div');
+				div.innerHTML = this.responseText;
+				div.style.display = 'none';
+				script.parentNode.insertBefore(div, script);
+			}
+			xhr.open('get', '/theme/thesun//assets/build/img/sprite/sprite.svg', true);
+			xhr.send();
+		})(document);
+
+
+
+		</script>
+
+		<script>
+			// Submit function
+            function recaptcha_callback() {
+						var getUrl = $('.form-newsletter').data( "url-send" ),
+							getName = $('input#name').val(),
+							getEmail = $('input#email').val();
+						$.ajax({
+								type: "POST",
+								url: getUrl,
+								data: {
+									name: getName,
+									email: getEmail,
+									grecaptcharesponse: grecaptcha.getResponse()
+								}
+							}).done(function(response) {
+								console.log(response);
+									$('.form-fields').fadeOut(800, function () {
+										$('.form-fields').empty().append('<div class="newsletter-confirm-message">Thank you for signing up to receive news from <em>The Sun</em>. Your first newsletter will arrive soon.<div>').fadeIn(800);
+									});
+							});
+			}
+
+		</script>
+
+		<script>
+			function getUrlCode() {
+				var url_string = window.location.href;
+				var url = new URL(url_string);
+				var c = url.searchParams.get('promotion\_key');
+				if (typeof c !== 'undefined' && c !== null) {
+					setCookie("promotion_code",c);
+				}
+			}
+
+			function setCookie(cname, cvalue) {
+				document.cookie = cname + "=" + cvalue + ";" + "path=/";
+			}
+
+			function getCookie(cname) {
+				var name = cname + "=";
+				var decodedCookie = decodeURIComponent(document.cookie);
+				var ca = decodedCookie.split(';');
+				for(var i = 0; i <ca.length; i++) {
+					var c = ca[i];
+					while (c.charAt(0) == ' ') {
+						c = c.substring(1);
+					}
+					if (c.indexOf(name) == 0) {
+						return c.substring(name.length, c.length);
+					}
+				}
+				return "";
+			}
+			window.addEventListener( "load", getUrlCode );
+		</script>
+
+
+	</body>
+</html>

@@ -1,0 +1,1457 @@
+
+<!DOCTYPE html>
+<html class="no-js" lang="en-US">
+	<head>
+		<title>Virus - The Sun Magazine</title>
+
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		
+		<meta name="viewport" content="width=device-width, minimum-scale=1.0">
+
+		<link rel="dns-prefetch" href="//ajax.googleapis.com">
+		<link rel="dns-prefetch" href="//use.typekit.net">
+		
+		<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/modernizr.js"></script>
+		<script src="https://www.google.com/recaptcha/api.js"
+				async defer>
+		</script>
+
+		<script>(function(d) { var config = { kitId: 'kzw7ebk', scriptTimeout: 3000, async: true }, h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s) })(document);</script>
+
+
+				
+		<link rel="apple-touch-icon" sizes="57x57" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-57x57.png?v=2016">
+		<link rel="apple-touch-icon" sizes="60x60" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-60x60.png?v=2016">
+		<link rel="apple-touch-icon" sizes="72x72" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-72x72.png?v=2016">
+		<link rel="apple-touch-icon" sizes="76x76" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-76x76.png?v=2016">
+		<link rel="apple-touch-icon" sizes="114x114" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-114x114.png?v=2016">
+		<link rel="apple-touch-icon" sizes="120x120" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-120x120.png?v=2016">
+		<link rel="apple-touch-icon" sizes="144x144" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-144x144.png?v=2016">
+		<link rel="apple-touch-icon" sizes="152x152" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-152x152.png?v=2016">
+		<link rel="apple-touch-icon" sizes="180x180" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-180x180.png?v=2016">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-32x32.png?v=2016" sizes="32x32">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/android-chrome-192x192.png?v=2016" sizes="192x192">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-96x96.png?v=2016" sizes="96x96">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-16x16.png?v=2016" sizes="16x16">
+		<link rel="mask-icon" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/safari-pinned-tab.svg?v=2016" color="#444444">
+		<link rel="shortcut icon" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon.ico?v=2016">
+		<meta name="apple-mobile-web-app-title" content="The Sun Magazine">
+		<meta name="application-name" content="The Sun Magazine">
+		<meta name="msapplication-TileColor" content="#fcc330">
+		<meta name="msapplication-TileImage" content="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/mstile-144x144.png?v=2016">
+		<meta name="theme-color" content="#ffffff">
+
+				<link rel="stylesheet" type="text/css" href="https://cloud.typography.com/6578674/659928/css/fonts.css" />
+		<link rel="stylesheet" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/css/style.css">
+
+																		<meta property="og:site_name" content="The Sun Magazine">
+		<meta property="og:type" content="article">
+		<meta property="og:url" content="https://www.thesunmagazine.org/issues/262/virus">
+		<meta property="og:image" content="http://www.thesunmagazine.org/files/import/issue/262.jpg">
+		<meta property="og:title" content="Virus - The Sun Magazine">
+		<meta property="og:description" content="We hold our support-group meetings in a room with Oriental carpets and deep green easy chairs. I arrive a few minutes early to set out chips, cookies, a foil tray full of fried-chicken dinners, and a liter bottle of Coke. Food is a big draw. One by one, they drift in.">
+		<meta property="fb:app_id" content="158741778010551">
+
+						<link rel="image_src" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.comhttp://www.thesunmagazine.org/files/import/issue/262.jpg">
+
+												<meta name="twitter:card" content="summary">
+		<meta name="twitter:title" content="Virus - The Sun Magazine">
+		<meta name="twitter:description" content="We hold our support-group meetings in a room with Oriental carpets and deep green easy chairs. I arrive a few minutes early to set out chips, cookies, a foil tray full of fried-chicken dinners, and a liter bottle of Coke. Food is a big draw. One by one, they drift in.">
+		<meta name="twitter:image" content="http://www.thesunmagazine.org/files/import/issue/262.jpg">
+		<meta name="twitter:site" content="@thesunmagazine">
+
+				<link rel="publisher" href="https://plus.google.com/113792980827145858211">
+        
+		<meta name="Description" content="We hold our support-group meetings in a room with Oriental carpets and deep green easy chairs. I arrive a few minutes early to set out chips, cookies, a foil tray full of fried-chicken dinners, and a liter bottle of Coke. Food is a big draw. One by one, they drift in.">
+
+		
+		<!-- Google Tag Manager -->
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-TKBHCCG');</script>
+		<!-- End Google Tag Manager -->
+
+		<!-- Google Analytics -->
+		<script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+            ga('create', 'UA-2351127-1', 'auto');  // Replace with your property ID.
+            ga('send', 'pageview');
+            ga('require', 'ecommerce');   // Load the ecommerce plug-in.
+		</script>
+		<!-- End Google Analytics -->
+	</head>
+	<body id="">
+
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TKBHCCG"
+		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+		<header class="header" data-offset-start="80">
+		<div class="header-utilities">
+				<ul class="header-utilities-user list-inline list-inline-tight xxsmall">
+							<li>
+					<span class="header-utilities-user-intro">Already A Subscriber?</span> &nbsp;
+					<a href="https://www.thesunmagazine.org/subscriber/login" class="link-text link-alt">Sign In</a>
+				</li>
+					</ul>
+		<a href="https://www.thesunmagazine.org/shop/cart" class="header-utilities-cart  link-alt link-icon tiny">
+			<span class="i"><svg><use xlink:href="#i-cart"></use></svg></span>
+			<span class="cart-item-count">
+									0 Items
+				
+			</span>
+		</a>
+			</div>
+
+		<div class="header-bar">
+		<h1 class="header-logo logo">
+			<a href="/">
+				<img src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/img/logo-thesun.svg" class="logo-thesun" alt="The Sun Magazine">
+				<img src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/img/logo-tagline.svg" class="logo-tagline" alt="">
+			</a>
+		</h1>
+
+		<ul class="header-nav">
+			
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/read" 	   class='current '>
+	   Read	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/issues/current" 	   class=''>
+	   Current Issue	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/archives" 	   class=''>
+	   Archives	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/featured" 	   class=''>
+	   Featured Selections	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/topics" 	   class=''>
+	   Browse Topics	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/sections" 	   class=''>
+	   Browse Sections	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/connect" 	   class=''>
+	   Connect	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/news" 	   class=''>
+	   News from <em>The Sun</em>	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" 	   class=''>
+	   Write a Letter to the Editor	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/discussion-groups" 	   class=''>
+	   Discussion & Writing Groups	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/make-a-suggestion" 	   class=''>
+	   Make a Suggestion	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/submit" 	   class=''>
+	   Submit	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/shop" 	   class=''>
+	   Shop	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/giftsub" 	   class=''>
+	   Gift Subscriptions	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/issues" 	   class=''>
+	   Issues	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+											
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/donatemenu" 	   class='highlight'>
+	   Donate	</a>
+		
+	</li>
+
+		<li class=" last">
+														<a href="/SubscribeNav1" 					   class=''>
+						Subscribe					</a>
+									
+	</li>
+
+
+		</ul>
+
+		<button class="header-nav-toggle"><svg><use xlink:href="#i-menu" class="i-menu"></use><use xlink:href="#i-close" class="i-close"></use></svg></button>
+		<button class="header-search-toggle" data-form-wrapper=".header-search"><svg><use xlink:href="#i-magnifier" class="i-magnifier"></use><use xlink:href="#i-close" class="i-close"></use></svg></button>
+	</div>
+
+		<div class="header-search">
+		<div class="header-search-content">
+			<form action="https://www.thesunmagazine.org/search" class="form form-search" method="get">
+				<h2 class="alt-ff brand-link">Search Our 40 Years of Archives</h2>
+				<ul class="form-search-fields form-fields form-fields-inline">
+					<li><input type="text" name="q" value=""></li>
+					<li class="form-fields-inline-button"><button class="b b-1 b-padding-tight b-loading"><svg><use xlink:href="#i-loading"></use></svg>Search</button></li>
+				</ul>
+
+				<div class="header-search-content-shortcuts">
+					<h6 class="search-advanced alt-ff"><a class="js-handle-advanced" href="https://www.thesunmagazine.org/search?advanced=1">Advanced Search</a></h6>
+					<br>
+					<h6 class="alt-ff">Popular Pages</h6>
+					<ul class="list-inline-border list-inline-tight xxsmall"><li class=" first"><a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a></li><li class=""><a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a></li><li class=""><a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a></li><li class=""><a href="https://www.thesunmagazine.org/sections/quotations" 	   class=''>
+	   Quotations	</a></li><li class=""><a href="https://www.thesunmagazine.org/sections/readers-write" 	   class=''>
+	   Readers Write	</a></li><li class=" last"><a href="https://www.thesunmagazine.org/sections/poetry" 	   class=''>
+	   Poetry	</a></li></ul>				</div>
+			</form>
+		</div>
+	</div>
+</header>
+
+	<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+	<script type="text/javascript">
+		$(document).ready(function() {
+			$('.js-handle-advanced').on('click', function (e) {
+				e.preventDefault();
+				var getSearchValue = $('.form-search-fields input').val();
+				var getURL = $(this).attr('href');
+				var newURL = getURL + '&q=' + getSearchValue;
+				window.location.href = newURL;
+			});
+		});
+	</script>
+
+		<div class="container-hidden">
+		<div class="container">
+
+				
+	
+	<article class="article ">
+		<header class="block-content block-content-l1 block-content-center">
+						<div class="block-content-header">
+				<h6 class="b-content-section heading-square"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+				<h1 class="block-content-title">Virus</h1>
+
+				
+				<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/alison-luterman">Alison Luterman</a></li><li><a href="/issues/262">October 1997</a></li></ul>
+
+			</div>
+
+								</header>
+
+				<div class="article-body link-text-wrap">
+																		<p class="text-right"><em>for J. S., in memoriam, 1959&ndash;1996</em></p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">We hold our support-group meetings in a room with Oriental carpets and deep green easy chairs. I arrive a few minutes early to set out chips, cookies, a foil tray full of fried-chicken dinners, and a liter bottle of Coke. Food is a big draw. One by one, they drift in.</p>
+
+<p>Chris leans on his cane, looking skeletal yet elegant in his homemade African cape. He can take an old piece of cloth, twist it over his shoulder, and create an outfit with character, nuance. In his day (&ldquo;when I had a body&rdquo; is how he refers to it), Chris was a porn star and a great drag queen. Sometimes, when he feels up to it, he comes to group in his drag persona, Zsa Zsa: red lipstick, ringletted wig, skintight dress, and high heels. I love Zsa Zsa &mdash; she&rsquo;s delicate and wispy, like a monarch butterfly with only one day to live. But today Chris is an old African king, leaning heavily on his walking stick, with a cloth-of-gold skullcap atop his shaven head. He takes his seat on the red couch, his stick resting between his knees, his deeply sunken eyes closed. Lately, he has often slept through group meetings. I don&rsquo;t say anything. He&rsquo;s close to the end now. My co-worker Imelda got him into a hospice with a nurse on call twenty-four hours a day and a private chef. For hospice you have to have a note from your doctor saying you&rsquo;re not expected to live six months.</p>
+
+<p>Imelda shows up carrying a stack of napkins and the sign-in sheet. He often remembers what I forget. Imelda is a beautiful, fey African American man-girl, fluid, tactful, and funny. One of the best things about this job is getting a warm hug from Imelda each day. It is unthinkable that the heart of this twenty-eight-year-old co-worker, dancer, and friend &mdash; the heart I feel thumping against my own when we embrace &mdash; is pumping HIV-infected blood through his body.</p>
+
+<p>Next comes Carlo, a big, glossy Jamaican. Once, he was a basketball player, then a successful businessman, till his addiction to prostitutes and gambling brought him down. When he tested positive, he had to leave his country; his family disowned him. Now he pushes a shopping cart all night long, collecting bottles and cans to recycle. &ldquo;It won&rsquo;t be this virus that kills me,&rdquo; he often says, in his thick Caribbean accent. &ldquo;It&rsquo;ll be the loneliness.&rdquo; He shuffles to his favorite chair on arthritic knees. He can&rsquo;t collect SSI because he doesn&rsquo;t have citizenship papers. I keep pushing him to see an immigration lawyer, but he&rsquo;s scared of being deported. I&rsquo;ve come to respect Carlo as a stubborn man of few words with no taste for drama. He pulls the plastic wrap off his chicken dinner and begins to eat methodically.</p>
+
+<p>Then a surprise: Mack appears in the doorway. Mack&rsquo;s a Vietnam vet, a straight white guy, his belly swollen by liver disease, who was referred here from the VA hospital, where he&rsquo;d been receiving treatment for alcoholism. The alcohol was competing with the virus to see which could kill him faster. The last &mdash; and only &mdash; time Mack came to group, he sat next to J. J., a brilliant, bitter, queeny black guy who wears too much mascara and likes to antagonize people who can&rsquo;t accept his sexuality. When J. J. had his turn to speak, he described in excruciating detail his last sexual encounter, with a rock-hard, abusive guy &mdash; his favorite kind &mdash; who fucked him all night and wouldn&rsquo;t use a condom. J. J.&rsquo;s been out on a speed binge for the past few weeks. I expect him back any week now, skinnier, with more of those awful craters speed freaks get on their faces from picking at imaginary blemishes. He&rsquo;ll be repentant, defensive, full of excuses and bullshit. I&rsquo;m glad he&rsquo;s not here today; he was too much for Mack. At the end of that meeting, Mack told everyone he was sorry, but he didn&rsquo;t feel comfortable with the gay men in the room.</p>
+
+<p>&ldquo;It&rsquo;s just not for me,&rdquo; he said firmly in answer to my protests that we were all just people dealing with the virus and the problems that come with it.</p>
+
+<p>I am the real minority in this room: I&rsquo;ve tested negative. At least they don&rsquo;t have to worry that I&rsquo;ll get sick.</p>
+
+<p>We&rsquo;ve got five people now, enough to start. Plus, J. J. could drop in any minute, and I want Mack to have a chance to speak before that happens. We begin with him.</p>
+
+<p>&ldquo;I came here to make amends,&rdquo; Mack says in the straightforward way of a man with no time to waste. &ldquo;After the last group, I got to thinking I&rsquo;d been a real asshole. I&rsquo;ve been turning it over and over in my head and .&nbsp;.&nbsp;. you know, it&rsquo;s you gay people who are out there marching and telling the government it&rsquo;s got to do something about this damn virus before we all die. You&rsquo;re the ones chaining yourselves to the gates, saying we need more trials, and speaking out on TV. And in a way you&rsquo;re doing it for me. When you think about it, I&rsquo;m alive because of you. I owe you an apology, and that&rsquo;s what I came here to do.&rdquo;</p>
+
+<p>He looks around uncertainly. Now I&rsquo;m sorry J. J. isn&rsquo;t here to hear this straight white man apologize to him. It would have been a first.</p>
+
+<p>Several of us start to respond to Mack, but it is Chris who prevails. He speaks with the spiritual authority of an elder, which in this group he is, not because he&rsquo;s the oldest, but because he&rsquo;s the nearest to death. &ldquo;I wasn&rsquo;t here the other week when you came in,&rdquo; he says, &ldquo;so I didn&rsquo;t hear whatever it was you had to say about gay people.&rdquo; He shifts painfully on the couch, dark shadows underneath his jutting cheekbones. &ldquo;But I think it takes a real man to come back to a group and say he&rsquo;s sorry. And if you want someone to accept your apology, I&rsquo;ll do it.&rdquo;</p>
+
+<p>Mack nods stiffly. It&rsquo;s done.</p>
+
+<p>It&rsquo;s moments like this one when I think this job is worth it.</p>
+
+<p>After group I go upstairs to the office, and waiting for me is Timmy, here for his results. I remember him from two weeks ago when he came in to take his test, a funny little speed freak, twitchy but kind of polite, as if straining to act normal.</p>
+
+<p>I look at his sheet to prepare myself: negative. That&rsquo;s good. He&rsquo;s been sharing needles, though, and having unprotected sex with men &mdash; taking all the dangerous risks.</p>
+
+<p>I usher him in and close the door behind us. He looks nervous, though he&rsquo;s trying not to show it. I don&rsquo;t mind that he&rsquo;s afraid &mdash; maybe fear will get him to clean up his act.</p>
+
+<p>I ask him if he wants to hear his results.</p>
+
+<p>&ldquo;Yeah,&rdquo; he says.</p>
+
+<p>&ldquo;Negative.&rdquo;</p>
+
+<p>&ldquo;You sure?&rdquo; he asks.</p>
+
+<p>&ldquo;You seem surprised.&rdquo;</p>
+
+<p>&ldquo;It&rsquo;s just that .&nbsp;.&nbsp;. I know I been doing all that stuff, and my buddy Mark&rsquo;s got it. And we was ripping and running together all those years. I just sort of figured it&rsquo;d be my turn one of these days.&rdquo;</p>
+
+<p>&ldquo;It&rsquo;s like Russian roulette. Mark&rsquo;s luck ran out. Yours hasn&rsquo;t &mdash; yet. Did we talk about the window period?&rdquo;</p>
+
+<p>&ldquo;Yeah, you told me, and they went over it a million times in prison. They show movies and shit.&rdquo;</p>
+
+<p>&ldquo;So you know you&rsquo;ve got to use condoms and not share needles and &mdash;&rdquo;</p>
+
+<p>&ldquo;Yeah, I know it; everybody knows it, but that don&rsquo;t make no difference when you&rsquo;re on the street and you want to fix and someone else is holding and you gotta fuck him or suck him or use his needle to get some of his dope. If you want it, you just do it, you know?&rdquo;</p>
+
+<p>I&rsquo;ve heard this many times before; there&rsquo;s not a lot to say in response. &ldquo;I guess it comes down to what you want most.&rdquo;</p>
+
+<p>He grins ruefully. &ldquo;Right.&rdquo; He barely comes up to my shoulder. His body is compact and muscular, like a miniature weight lifter: upturned nose, gray-blue eyes, short spiky hair. There&rsquo;s something childlike and innocent about Timmy, even though he&rsquo;s thirty; it&rsquo;s as if he&rsquo;s never had a chance to grow up. He has tattoos up and down his arms and all over his chest &mdash; or at least the bits that show through his torn T-shirt &mdash; lacy blue spider webs and anchors and whales and angels and devils. He&rsquo;s been in jail off and on ever since he was twelve &mdash; first detention centers and juvenile halls, then county jails and state penitentiaries. He&rsquo;s homeless, lives mostly in the park because he can&rsquo;t stand to have walls around him after being locked up for so many years.</p>
+
+<p>Even though he has his results, Timmy seems to want to hang around and talk.</p>
+
+<p>&ldquo;So, how&rsquo;s it going?&rdquo; I ask.</p>
+
+<p>He shrugs. &ldquo;OK, I guess. I&rsquo;m off the street.&rdquo;</p>
+
+<p>&ldquo;That&rsquo;s great.&rdquo;</p>
+
+<p>&ldquo;Yeah, I&rsquo;m staying with my buddy Mark.&rdquo;</p>
+
+<p>&ldquo;You don&rsquo;t seem that happy about it.&rdquo;</p>
+
+<p>&ldquo;Well, it&rsquo;s just that he&rsquo;s dying and shit.&rdquo;</p>
+
+<p>&ldquo;That sounds hard.&rdquo;</p>
+
+<p>&ldquo;It is. Last stages, man. It&rsquo;s fucking horrible. They got him all hooked up with tubes and wearing fucking diapers. He made me promise he would die at home; he don&rsquo;t want to be dumped off at no fucking hospital. But now it&rsquo;s like, I don&rsquo;t know if I can do it. It&rsquo;s just me and him in this tiny little apartment, and Mark is like .&nbsp;.&nbsp;. half the time he&rsquo;s totally out of it.&rdquo;</p>
+
+<p>&ldquo;Does the AIDS Foundation know? Is he on SSI? Does he get Open Hand?&rdquo; I do the social-services dance, trying to pass the buck. It&rsquo;s late and I want to go home. I&rsquo;m just supposed to counsel people about their tests and facilitate the group. Someone else take care of this, please.</p>
+
+<p>Timmy gives me the look my questions deserve. &ldquo;Yeah, we got that stuff. The Open Hand people come around. We got food. And he&rsquo;s supposed to have this social worker from SSI, but <em>she</em> don&rsquo;t do shit. Mark says he don&rsquo;t want that anyway. He just wants to stay high till he dies.&rdquo;</p>
+
+<p>I feel totally helpless, but I&rsquo;ve gotten used to feeling this way. The reality is there&rsquo;s only so much I can do, only so much I have the energy to do, only so much I know how to do. I can&rsquo;t go to Timmy&rsquo;s apartment and drag his roommate to the hospital &mdash; if Timmy&rsquo;s story is even true, which I have no way of knowing. But this rationalization sits uneasily with me. Someone should check it out. Someone should take care of it.</p>
+
+<p>&ldquo;How can I help <em>you</em>, Timmy?&rdquo; I ask. &ldquo;I mean, Mark&rsquo;s not here, and you are.&rdquo;</p>
+
+<p>&ldquo;Can I come by sometimes, just to talk, even though I don&rsquo;t have it?&rdquo;</p>
+
+<p>I think of what Carlo says: the virus is loneliness. This guy is so high-risk I could justify the time to my supervisor, call it prevention. &ldquo;Yeah, of course. I&rsquo;d love to see you.&rdquo;</p>
+
+<p>He looks relieved, like a little boy who&rsquo;s just wriggled through a hole in a fence.</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">This is not the life I thought I would get. That life included marriage, children, safety. I didn&rsquo;t know I would be talking with drug addicts about the needle-exchange program the way I used to talk to friends about which classes to take. I didn&rsquo;t know I would be dating Troy.</p>
+
+<p>I get to Troy&rsquo;s house late, around ten. Her round face brightens when she sees me. I step into her arms and run my fingers up and down her back, savoring the feel and smell of her: herbs, wild grasses, sun, dirt, the rough, spicy smell of tomato plants, the slightly iron scent of blood.</p>
+
+<p>&ldquo;How was work?&rdquo; she asks.</p>
+
+<p>I briefly describe my day, telling each client&rsquo;s story but mentioning no names. I hesitate when I come to Chris. &ldquo;There&rsquo;s this one guy &mdash; he&rsquo;s got more lives than a cat; two months ago everyone thought he was going to die, including his doctor, but he didn&rsquo;t. Anyway, he used to be such a bitch. He&rsquo;d come to group all dressed up, make rude comments, interrupt, put people down. But today he was so different &mdash; kind and forgiving.&rdquo;</p>
+
+<p>&ldquo;Like he knows he&rsquo;s going to pass over soon,&rdquo; she says, finishing my thought. &ldquo;Baby, I don&rsquo;t know how you do it.&rdquo;</p>
+
+<p>&ldquo;How many jobs could I get where I don&rsquo;t have to shave my legs or wear stupid heels? Here, I leave all that stuff to the boys. And at least I don&rsquo;t get bored.&rdquo; I bite her neck playfully; she closes her eyes and shivers. I scoop her up, her strong legs wrapped around my waist, and carry her into the bedroom, where I collapse on top of her in the bed. Her cat looks on disapprovingly. I kiss and bite the freckle on her full lower lip, caress the slightly dry skin of her hands, the smooth curves of her arms. Without opening her eyes she murmurs, &ldquo;They taped me reading my book: one take.&rdquo;</p>
+
+<p>&ldquo;Way to go.&rdquo;</p>
+
+<p>Troy writes erotica: juicy lesbian stories for love; straight page turners for money. They can&rsquo;t get enough of her at the books-on-tape place; she has a voice like damp silk.</p>
+
+<p>&ldquo;Here, baby.&rdquo; She guides my fingers. &ldquo;Here.&rdquo;</p>
+
+<p>I can feel how ready for me she is. I tease her, dragging my fingernails lightly over her thighs. She tenses and writhes, arching her back. I kiss the classic African lines of her lovely face, the springy black curls atop her head, the three white hairs she is so proud of. Going down, biting softly along her neck, her shoulders, I bury my face in her breasts, biting her tough, tender, chewy, sweet nipples, biting hard, the way she likes it &mdash; but still not hard enough. &ldquo;Harder,&rdquo; she sighs. Her nipples are brown-purple, like the expensive almonds dusted with cocoa powder at Trader Joe&rsquo;s. I&rsquo;m scared to bite them as hard as she wants, to bite into them, their sweet saltiness; scared to go beyond my own stopping place, into her country.</p>
+
+<p>Her hands are tangled in my hair. I caress the swell of her belly, those long athlete&rsquo;s thighs that recall the year she was Most Valuable Player on her high-school softball team, the only black girl in a sea of white faces. Now I let my fingers lightly graze her mound, the tightly coiled black hair, compact shell of pubic bone guarding all the softness inside. I trace the sealed mauve line, back to front, gently. Her outer labia are the color of black mission figs. I part them gently to reveal the pink inner lips, curled like the furled edge of a gladiolus.</p>
+
+<p>&ldquo;Let me see your hand,&rdquo; she says.</p>
+
+<p>I show her my right hand. The nails are trimmed close, but there are a few ragged cuticles, an open bug bite I scratched too hard, and a paper cut over one knuckle.</p>
+
+<p>&ldquo;Better use a glove this time,&rdquo; she says. &ldquo;I&rsquo;m at the tail end.&rdquo;</p>
+
+<p>The latex gloves are in the top drawer of the night stand, along with the lubricant, the vibrators, the dildos, and the condoms. I put a glove on, squirt some lubricant onto the fingers.</p>
+
+<p>I slide two fingers in fast, the way she likes it, and hear her gasp with excitement. I work my fingers in and out, slow now, palm facing up so I can stroke her G spot. &ldquo;Nice and slow, nice and slow,&rdquo; I babble. Language is such a funny tool, sometimes a hammer, sometimes an embroidery needle, slipping in and out of the raw moment to create little embellishments, French knots. Troy has set up a mirror so we can watch ourselves: my pink cone-shaped breasts swing as I lean into her, her rich brown legs draped open.</p>
+
+<p>Two fingers effortlessly become three. I fuck her the way she likes it: slow and steady, in and out, a rhythm she can trust. Her legs start shaking, and I feel her vagina open with a whoosh.</p>
+
+<p>&ldquo;Do you want four fingers?&rdquo;</p>
+
+<p>&ldquo;I want your fist,&rdquo; she gasps.</p>
+
+<p>I twist my hand so the fingers form a vertical line. I can&rsquo;t believe the room in here, soft and warm, open to receive me. I tell her this is sacred space; I have my hand in the holy place. Everything begins here. Everything.</p>
+
+<p>She grabs my wrist and guides me deeper. More lubricant on the bridge of my thumb bone. The thumb is the tricky part; I don&rsquo;t want to hurt her.</p>
+
+<p>I&rsquo;m in. I turn my hand gently, the way she taught me, fingers fanned out, fluttering against her walls, which shudder with tremors. Then I fold in one finger at a time until my fist is clenched. She grabs my free hand and presses it to her heart. Her orgasm is coiled deep inside her, and she&rsquo;s working to bring it forth, hanging suspended over the abyss.</p>
+
+<p>&ldquo;You&rsquo;re a Siberian tiger in the tundra,&rdquo; I tell her. &ldquo;I&rsquo;m fucking you and we&rsquo;re making tiger babies.&rdquo;</p>
+
+<p>When the orgasm comes, it comes fast and overwhelms her. She screams and lets go. I can feel it leaping in my own clit as she cries, her whole body given over to the contractions. Beneath my hand, her heart knocks wildly against its prison cage of ribs.</p>
+
+<p>In the midst of sobs she starts to laugh; then we are both laughing and crying together. My fist is still inside her, and I feel the ripple of aftershocks. Now I unclench, slowly, waiting for her to exhale, and on her out-breath twist <em>out</em>, fast, the way she likes it, sending another sharp orgasm through her. She gasps with pleasure. &ldquo;You&rsquo;re so bad!&rdquo;</p>
+
+<p>&ldquo;I had a good teacher.&rdquo; I nestle against her, my head on her shoulder. She pulls my gloved hand up to inspect it. Smeared across the latex is a rusty brown streak of blood.</p>
+
+<p>&ldquo;See? Tail end,&rdquo; she says with satisfaction.</p>
+
+<p>&ldquo;Mmm .&nbsp;.&nbsp;. what <em>do</em> lesbians do in bed together, anyway?&rdquo;</p>
+
+<p>&ldquo;We cuddle and hold hands,&rdquo; she murmurs.</p>
+
+<p>&ldquo;Sounds good to me,&rdquo; I say.</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">Another night, a week later. I&rsquo;m staring into space as Troy tells me about her day.</p>
+
+<p>&ldquo;So, where are you?&rdquo; Troy asks abruptly.</p>
+
+<p>&ldquo;Huh?&rdquo;</p>
+
+<p>I&rsquo;ve been obsessing about Chris. Out of nowhere, he&rsquo;s decided to move back to North Carolina, to the abusive fundamentalist family that rejected him for being queer in the first place.</p>
+
+<p>I don&rsquo;t want to lay all of this on Troy. People who aren&rsquo;t insane enough to do the work I do shouldn&rsquo;t have to hear about it, and I don&rsquo;t want to talk about my job on my time off. This is supposed to be my safe place &mdash; except life doesn&rsquo;t work that way. I sigh and try to explain.</p>
+
+<p>&ldquo;He said he got tired of watching the other guys in hospice die all around him. He&rsquo;d make friends with someone, and then <em>boom</em>, the guy would die on him. Finally, he stopped wanting to get close to new people as they came in.&rdquo;</p>
+
+<p>&ldquo;That makes sense.&rdquo;</p>
+
+<p>&ldquo;Yeah, I can understand that, too. But to go back east .&nbsp;.&nbsp;. His family won&rsquo;t even tell neighbors about the virus; they&rsquo;re saying he has cancer. And to leave us, to leave this city where he marched every year in the Gay Pride Parade wearing a G-string and a feather headdress &mdash; I can&rsquo;t accept it.&rdquo;</p>
+
+<p>&ldquo;It doesn&rsquo;t sound like you have a choice,&rdquo; Troy says.</p>
+
+<p>&ldquo;I don&rsquo;t. That&rsquo;s the kicker.&rdquo;</p>
+
+<p>She opens her arms, and I let her hold me. We sleep spooned together: my arm around her waist; her butt nestled in my crotch. I dream the room is full of movie stars &mdash; Jane Fonda, Susan Sarandon, Liz Taylor, all these big-haired, beautiful, liberal women who march at the head of pro-choice rallies and wear red ribbons to the Academy Awards. And all of them have the virus. So do I; so does Troy &mdash; so does everyone. We all have the virus! My moaning wakes Troy, and she lays a sleep-heavy arm across my chest, as if that will keep me pinned to this warm bed, to life, to health.</p>
+
+<p>In the morning, while I&rsquo;m still half asleep, her fingers play across my bare skin. Her breast, heavy and warm, brushes against my chest. I turn over and push my hips against her with all my strength. She rides me and is not thrown off. &ldquo;That&rsquo;s my strong girl,&rdquo; she coos. There is something I have to work through to get there. The muscles in my thighs ache with the effort of it. I am the first sea creature crawling up onto land, straining to grow lungs in place of gills.</p>
+
+<p>Her body is slippery with sweat, pressed against mine as I scream out gratitude and grief and ten other things that have no name.</p>
+
+<p>Afterward, we walk to a breakfast place in my neighborhood, defiantly holding hands. I chose this neighborhood because I like the old black ladies in turbans and slippers and housecoats who tend their ancient roses and call everyone &ldquo;baby,&rdquo; as in &ldquo;How you doing, baby?&rdquo; I like the kids who ride their bikes hellbent up the sidewalks, and the men who lean under the open hoods of their cars, or lie on their backs, changing the oil. It feels like a real neighborhood.</p>
+
+<p>But now, as we walk slowly, stopping to smell lemon blossoms or the blue haze of flowering rosemary against a low rock wall, telling each other how great it is to live in Oakland, I&rsquo;m aware of the disadvantages of a close community: eyes are everywhere. The woman sweeping her front walk doesn&rsquo;t greet us &mdash; because she doesn&rsquo;t see us, or because she sees us all too well?</p>
+
+<p>&ldquo;We don&rsquo;t have to do this,&rdquo; Troy says, breaking into my train of thought.</p>
+
+<p>&ldquo;Do what?&rdquo;</p>
+
+<p>&ldquo;You know what.&rdquo; She gestures at our linked hands. &ldquo;You have to live here, and I respect that.&rdquo;</p>
+
+<p>&ldquo;When I was married, my husband and I held hands anywhere we damn well pleased.&rdquo;</p>
+
+<p>&ldquo;Yeah, well, in case you haven&rsquo;t noticed, I&rsquo;m not your husband.&rdquo;</p>
+
+<p>&ldquo;I&rsquo;m proud of who we are,&rdquo; I say.</p>
+
+<p>&ldquo;It&rsquo;s your call.&rdquo;</p>
+
+<p>I grip her hand tighter and push open the door of the bright little cafe.</p>
+
+<p>&ldquo;Anyway,&rdquo; Troy says as we sit down, meaning to pick up menus but finding each other&rsquo;s fingers instead, &ldquo;it&rsquo;s hard to tell if folks are trying to figure out what a black woman and a white woman are doing together, or if they&rsquo;re staring because the energy between us is so strong &mdash;&rdquo; the waitress approaches, coffeepot in hand &mdash; &ldquo;or if it&rsquo;s just because we&rsquo;re so fucking gorgeous.&rdquo;</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">Two weeks later, the wind whips my hair as I stand at the corner of Taylor and Ellis, watching the usual crowds of people drift by. This is the edge of the Tenderloin: welcome to hell. Two blocks away are the expensive department stores, fancy hotels, tourist attractions. Here are the broken people, busy staying alive. The guy with a blanket over his head mutters to himself as if praying. I once saw him taking a shit between two parked cars. In front of the church, waiting in line for lunch, is a tiny, old black woman, her face covered in white pancake makeup. She wears a dirty white dress, white tights, and filthy white plastic boots. A rosary dangles around her neck, and her lips never stop moving. She, too, is praying for us all. Occasionally you see a lost tourist, someone who took a wrong turn down by the cable cars and accidentally wandered by Bodecker Park, where the crackheads and speed freaks perch like a flock of bedraggled seabirds on the retaining walls, smoking and making deals. Little kids, dragged by angry, exhausted women, play among them &mdash; yes, there are children here in hell, with pink shoes and pink plastic barrettes in their hair. There is art in hell, and families; there are drugs in hell, and plenty of company.</p>
+
+<p>Today&rsquo;s testing day. A big tray of donated pastries sits on the reception desk, and a crowd of people wait to be seen. All afternoon I listen to them talk about their sex lives, until the details run together.</p>
+
+<p>&ldquo;I like the squish-squish sound it makes when I&rsquo;m inside her,&rdquo; one man says, explaining why he doesn&rsquo;t use condoms; he leans forward and makes the sound reverently, with his mouth. He has just been released from a mental hospital and has not had sex in a year. I give him a handful of condoms, some lubricant, and the usual spiel.</p>
+
+<p>An older gay man is angry that he keeps testing negative when all his friends are dying or dead. &ldquo;Why should I be happy?&rdquo; he snaps. &ldquo;What sense is there in this damn virus if I&rsquo;ve taken the same risks they did and they&rsquo;re gone and I&rsquo;m still here?&rdquo;</p>
+
+<p>&ldquo;Oral sex just isn&rsquo;t the same,&rdquo; says a cute dyke with short bright orange hair and seven silver rings in her ears.</p>
+
+<p>&ldquo;There&rsquo;s Saran Wrap,&rdquo; I offer weakly, and she arches an eyebrow. We both burst out laughing.</p>
+
+<p>By five I&rsquo;m exhausted, ready for the long ride home to my apartment. On his way out, Aheem, the phlebotomist, waves the plastic trash bag full of used gloves and cottons to show me he has closed down the blood-draw room. You really want a skilled phlebotomist when you&rsquo;re working with addicts; most of them have exhausted their easy-to-reach veins, and it&rsquo;s surprising how many of them are scared of the syringe. You&rsquo;d think folks who&rsquo;ll stick practically any sharp, rusty thing into their bodies when they&rsquo;re dope-sick wouldn&rsquo;t cringe at a clean needle in the hands of a certified professional. I&rsquo;m about to lock up when Ann, the receptionist, signals me.</p>
+
+<p>&ldquo;Someone to see you,&rdquo; she says.</p>
+
+<p>It&rsquo;s Timmy, trembling all over like an electrocuted cat. As soon as we get the door closed behind us, he starts to sob. I hand him a Kleenex and put my hand on his shoulder.</p>
+
+<p>&ldquo;It&rsquo;s Mark, man,&rdquo; he says. &ldquo;He&rsquo;s gone. Fucking out of here.&rdquo; He calms down enough to start to explain. &ldquo;I was still fixing him sometimes, &rsquo;cause he couldn&rsquo;t go out on the street and cop no more. He was begging me. And I said, &lsquo;I can&rsquo;t do that shit, man.&rsquo; But he would scream and scream at me.&rdquo;</p>
+
+<p>I inch forward cautiously. &ldquo;So you fixed him.&rdquo;</p>
+
+<p>&ldquo;I killed him!&rdquo; he cries. &ldquo;He begged me and begged me. I kept saying, &lsquo;No, man, you&rsquo;re not ready to go yet.&rsquo;&nbsp;&rdquo; He breaks down again. I wrap my arms around his shaking body, thankful I don&rsquo;t have a license to lose for touching him.</p>
+
+<p>&ldquo;It&rsquo;s OK, Timmy. It&rsquo;s going to be all right.&rdquo;</p>
+
+<p>He stops crying a minute to look at me. &ldquo;I don&rsquo;t think so. Not this time it&rsquo;s not.&rdquo;</p>
+
+<p>&ldquo;Are you sure he&rsquo;s dead?&rdquo;</p>
+
+<p>&ldquo;I&rsquo;m fucking positive. The paramedics came and everything. They put a sheet over his head.&rdquo;</p>
+
+<p>&ldquo;Oh, Timmy, I&rsquo;m sorry.&rdquo;</p>
+
+<p>&ldquo;Yeah, me too, man.&rdquo; His sobs return. &ldquo;It was way early in the morning, and they took him away, and I didn&rsquo;t know what to do. So I walked around and I met this guy and I did a bunch of coke. I was feeling so bad, I just wanted the pain to go away. But the coke made it even worse. So then I did some speed, but that just made me crazy. I was scared I was going to lose it, you know? I did some heroin to try and come down off the speed, but it didn&rsquo;t work. I just wanted to be out of here, like Mark. But I couldn&rsquo;t get far enough away. Finally, I climbed a tree.&rdquo;</p>
+
+<p>&ldquo;You &mdash;&rdquo;</p>
+
+<p>&ldquo;Yeah, I climbed this big old tree. Way out to the end of the branch. Swear to God, man! I couldn&rsquo;t think of nothing else to do. I just sat there and watched people&rsquo;s heads down below. Then I remembered how you said I could come and see you.&rdquo;</p>
+
+<p>&ldquo;I&rsquo;m glad you came, Timmy.&rdquo;</p>
+
+<p>What the hell am I going to do with him now? It&rsquo;s five o&rsquo;clock, too late to call the shelters. His crying has subsided, but his shakes haven&rsquo;t. There&rsquo;s sweat all over his face; his hair is sticking straight up, as if he&rsquo;s stuck his finger in a light socket; and I can hear his heart thudding.</p>
+
+<p>&ldquo;Timmy, listen: I think you need to see a doctor.&rdquo;</p>
+
+<p>He starts shaking his head and moaning. &ldquo;Not the E-ward, man. I can&rsquo;t wait all fucking night on those plastic chairs they got.&rdquo;</p>
+
+<p>I continue doggedly. &ldquo;The thing is, you were just saying how you wanted to go away, like Mark. That&rsquo;s like saying you want to kill yourself.&rdquo;</p>
+
+<p>&ldquo;I did! But then I couldn&rsquo;t.&rdquo;</p>
+
+<p>&ldquo;See, Timmy, that&rsquo;s serious. It&rsquo;s like part of you wants to kill yourself. But another part doesn&rsquo;t.&rdquo;</p>
+
+<p>&ldquo;It&rsquo;s true, man. I&rsquo;m scared to die, but I can&rsquo;t live with this either.&rdquo;</p>
+
+<p>&ldquo;It&rsquo;s too much for anyone to handle all by themselves, Timmy. Right now, I&rsquo;m thinking &mdash;&rdquo; I take a deep breath &mdash; &ldquo;you should check into the psych ward, because maybe you&rsquo;re a danger to yourself. I know it sounds scary, but they can watch you there. You won&rsquo;t be alone; there&rsquo;ll be people taking care of you.&rdquo;</p>
+
+<p>&ldquo;It&rsquo;s a locked ward, right?&rdquo;</p>
+
+<p>It wouldn&rsquo;t be right to lie. &ldquo;Yeah, it&rsquo;s locked. You&rsquo;ll have to stay there three days.&rdquo;</p>
+
+<p>He starts to moan and shake his head. &ldquo;I can&rsquo;t do it, man. I just can&rsquo;t do it.&rdquo;</p>
+
+<p>&ldquo;The thing is, Timmy, if something were to happen to you, it would be on my head, see? Just like Mark&rsquo;s death is on yours. If you died, I&rsquo;d feel responsible.&rdquo;</p>
+
+<p>I don&rsquo;t tell him the truth: that I&rsquo;d <em>be</em> responsible, and therefore I have to commit him whether he agrees to it or not. I want him to go of his own accord; I don&rsquo;t want him hauled off in a straitjacket.</p>
+
+<p>He lifts his head. &ldquo;Oh, man, I wouldn&rsquo;t want you to feel like I feel now. I wouldn&rsquo;t want a dog to feel like I&rsquo;m feeling now.&rdquo;</p>
+
+<p>He lets me call Psych Emergency Services, and I wait out on the street with him, holding his hand until the van shows up. Ten or fifteen years ago, I would have wrestled harder with the voice inside me that said, &ldquo;This man doesn&rsquo;t need a mental hospital; he just needs someone to take him in, sit with him, and listen to his story.&rdquo; That was before I had boundaries.</p>
+
+<p>All the way home on the rocking train I think about Timmy. In the middle of his distress, he did something for someone else: he agreed to go to the hospital so I wouldn&rsquo;t have to suffer what he was going through. That&rsquo;s a lot of compassion for a little junkie who grew up in jail. That would be a stretch for anyone.</p>
+
+<p>Will he be OK? Did I drop the ball last month when he first told me his story?</p>
+
+<p>In a daze, I go to my car and drive home. The virus is loneliness.</p>
+														</div>
+
+
+				
+<div class="sharing-bar article-sharing">
+	<div class="sharing-bar-first">
+		<a href="javascript:window.print();" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-printer"></use></svg> <span>Print</span></a>
+	</div>
+
+	<div class="sharing-bar-second">
+		<span class="alt-ff xsmall">Share:</span>
+		<a href="https://www.facebook.com/sharer/sharer.php?u=https://www.thesunmagazine.org/issues/262/virus" target="_blank" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-facebook"></use></svg> <span>Facebook</span></a>
+		<a href="https://twitter.com/share?url=https://www.thesunmagazine.org/issues/262/virus&amp;via=thesunmagazine" target="_blank" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-twitter"></use></svg> <span>Twitter</span></a>
+		<a href="#" class="b b-1 b-padding-tight xsmall js-toggle-mail-form"><svg><use xlink:href="#i-email"></use></svg> <span>Email</span></a>
+	</div>
+</div>
+
+<div class="send-to-friend-message-container">
+	<div class="alert alert-success xsmall">Thank you for sharing <em>The Sun</em>.</div>
+</div>
+
+<form method="post" action="/ajax/articles/send-to-a-friend" class="form fill-grey send-to-friend-form">
+		<input type="hidden" id="form_url" name="form[url]" value="https://www.thesunmagazine.org/issues/262/virus" />
+
+	<ul class="form-fields">
+		<li><label for="form_sender_name"><span class="label-text">Your Full Name</span><span class="label-asterisk">*</span></label><input type="text" id="form_sender_name" name="form[sender_name]" required="required" /></li>
+		<li><label for="form_sender_email"><span class="label-text">Your Email Address</span><span class="label-asterisk">*</span></label><input type="email" id="form_sender_email" name="form[sender_email]" required="required" /></li>
+		<li><label for="form_recipient_name"><span class="label-text">Friend’s Name</span><span class="label-asterisk">*</span></label><input type="text" id="form_recipient_name" name="form[recipient_name]" required="required" /></li>
+		<li><label for="form_recipient_email"><span class="label-text">Friend’s Email Address</span><span class="label-asterisk">*</span></label><input type="email" id="form_recipient_email" name="form[recipient_email]" required="required" /></li>
+		<li><label for="form_message"><span class="label-text">Personalized Message</span></label><textarea id="form_message" name="form[message]"></textarea></li>
+	</ul>
+<div class="send-to-friend-message-container">
+	<div class="alert alert-error xsmall">Something went wrong. Please try again.</div>
+</div>
+
+<div class="g-recaptcha" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs"></div>
+<div class="form-actions"><button type="submit" id="form_submit" name="form[submit]"	class="form-actions-b-primary b b-1 b-loading xsmall"><svg><use xlink:href="#i-loading"></use></svg>
+		Submit
+	</button></div>
+<input type="hidden" id="form__token" name="form[_token]" value="16c2a41882fdd55210684e2fa9a3dc26394b1739" /></form>
+
+<br>
+
+
+
+										<footer class="article-contributor contributors">
+									
+
+<div class="block-contributor">
+		
+
+		<div class="block-contributor-content">
+		<div class="block-contributor-bio small">
+			<p><span class="smallcaps"><strong>Alison Luterman</strong></span> is a writer who teaches poetry in the schools. She lives in Oakland, California.</p><a href="/contributors/alison-luterman" class="block-contributor-link link-alt small">More From This Contributor&nbsp;&#9656;</a>		</div>
+	</div>
+</div>
+
+							</footer>
+						</article>
+
+
+				    <div class="paywall-subscription block-product">
+			<div class="columns">
+			<div class="paywall-banner span3 cta cta-l1">
+				<div class="cta-intro">
+					<h5 class="cta-title alt-ff">One Free Selection Left </h5>
+					<p class="cta-text xsmall"><a class="link-alt" href="https://www.thesunmagazine.org/subscriber/login" data-label="Already a subscriber?">Already a subscriber? Sign in ▸</a><br><br>Read two free selections from <em>The Sun</em> each month.</p>
+				</div>
+			</div>
+			<div class="paywall-banner span9 note note-1 text-center">
+				<h4 class="cta-title alt-ff">Subscribe to <em>The Sun</em> and save 45%</h4>
+				<p class="cta-text xsmall">Subscribers get full access to the current issue and more than 40 years of archives.</p>
+				<a class="b b-1 xsmall cta-trigger"  href="/subscribe1" data-label="Subscribe" data-ctatitle="Subscribe">Subscribe</a>
+			</div>
+		</div>
+
+		<div class="columns">
+			<div class="span12 paywall-cta-bottom">
+				<p>
+					<span class="cta-title-issue">Buy the October 1997 issue for $5.95</span>
+					<span class="xsmall">Order now to get instant access to this issue, and we’ll also send you a print copy.</span>
+					<a class="b b-5 xsmall corona"  href="#" data-product-type="issues" data-id="262" data-label="Order Now ▸">Order Now ▸</a>
+				</p>
+			</div>
+		</div>
+
+		
+
+</div>
+	
+	
+	
+	<div class="spacer"></div>
+	
+
+
+
+			<div class="article-correspondence layout-item fill-pattern-light">
+		<div class="layout-item-intro">
+			<h2>Correspondence</h2>
+			<a class="xsmall link-alt" href="https://www.thesunmagazine.org/letter-to-the-editor">Write a Letter to the Editor&nbsp;&#9656;</a>
+		</div>
+
+		<div id="article-correspondences" class="correspondences correspondences-collapsed">
+								<div class="block-correspondence" id="2624">
+		<blockquote class="quote-2">
+			<p>I admire your publication&rsquo;s commitment to honesty. Quite often, the stories and essays contain unexpected revelations. But I was hardly prepared for the sudden transition from a day in the life of Alison Luterman, compassionate social-services provider, to lesbian porn [&ldquo;<a href="/article/1914">Virus</a>,&rdquo; October 1997]. Was it necessary for Luterman to share the graphic and explicit details of her sexual relationship? This was far more information than I wanted or needed. Not to mention that a clenched fist (except when it&rsquo;s raised in defiance) equals abuse, which equals violence, even between two consenting adult women.</p>
+							<p class="quote-2-author">Dawn Pinnock<br>Brooklyn, New York</p>
+					</blockquote>
+	</div>
+
+								<div class="block-correspondence" id="2625">
+		<blockquote class="quote-2">
+			<p>I like <strong>The Sun</strong>. Not every piece sharpens my pencil (the details of Alison Luterman&rsquo;s sex life were a little more than I needed to know), but it does feed my need for enlightenment.</p>
+							<p class="quote-2-author">Scott Hedrick<br>Noble, Illinois</p>
+					</blockquote>
+	</div>
+
+								<div class="block-correspondence" id="2626">
+		<blockquote class="quote-2">
+			<p>I have loved your magazine for many years and have given subscriptions to friends for Christmas in the past. After reading &ldquo;Virus,&rdquo; however, I am glad I didn&rsquo;t do so last year.</p>
+
+<p>It was a wonderful essay &mdash; except for the gratuitous fist-fucking scene. If I wanted to read about fist fucking, I could have borrowed one of hundreds of books my <em>ex</em>-husband had on the subject.</p>
+							<p class="quote-2-author">Name Withheld<br></p>
+					</blockquote>
+	</div>
+
+								<div class="block-correspondence" id="2627">
+		<blockquote class="quote-2">
+			<p>&ldquo;Virus&rdquo; reminded me that it is the nature of good art to make the private public. Without moralizing or making a &ldquo;statement,&rdquo; Luterman confronts social responsibility, community, desire, otherness, poverty, and death.</p>
+
+<p>I am not a social activist. I do not want to make my sexuality into a political statement. But I live and work in a culture where I am invisible: I look straight; I talk straight; I write and teach straight. It isn&rsquo;t that I try to pass; I do it without trying. Once in a while, it&rsquo;s nice to see some of my world reflected in what I read. It makes me feel just a little less invisible.</p>
+
+<p>Where but <strong>The Sun</strong> would work like this find a voice? It&rsquo;s too political to belong in the genre of eroticism, too sexual to make it into <em>Utne Reader</em>. Over the years, <strong>The Sun</strong> has published something to offend almost everyone. Keep up the good work.</p>
+							<p class="quote-2-author">Alis Whitt<br>Charleston, South Carolina</p>
+					</blockquote>
+	</div>
+
+								<div class="block-correspondence" id="2572">
+		<blockquote class="quote-2">
+			<p>The family I live with loves your magazine. I enjoy it, too, and was deeply moved by Alison Luterman&rsquo;s &ldquo;<a href="/article/1914">Virus</a>&rdquo; [October 1997]. I appreciated the hard truthfulness of her essay, and even looked through some back issues trying to find something similar, but no such luck. You should print more stories that address the struggles of city life.</p>
+							<p class="quote-2-author">Ginger D.<br>East Brunswick, New Jersey</p>
+					</blockquote>
+	</div>
+
+								<div class="block-correspondence" id="2540">
+		<blockquote class="quote-2">
+			<p>Reading the negative letters concerning Alison Luterman&rsquo;s &ldquo;<a href="/article/1914">Virus</a>&rdquo; [<a href="/issues/265/correspondence">Correspondence</a>, January 1998], I was amazed at how different the sensitivities of <strong>Sun</strong> readers can be. I&rsquo;m surprised that in the context of Luterman&rsquo;s essay the description of fist-fucking warranted any negative feedback. Why is it that certain elements of life bother some people so? A good fist-fucking is as much a part of the human experience as a good intellectual debate, an enlightening commentary, or a well-written poem. Lighten up, negative ninnies! All of life is tasty. Fucking, loving, thinking, writing, and farting are all pieces of the same pie. <em>Bon app&eacute;tit</em>!</p>
+							<p class="quote-2-author">Doug Smeltzer<br>Hellam, Pennsylvania</p>
+					</blockquote>
+	</div>
+
+					</div>
+
+				<div class="text-center">
+			<button class="b b-1 xsmall js-b-readmore-correspondence" data-collapsible="#article-correspondences" data-label="Read More Letters">Read More Letters</button>
+		</div>
+			</div>
+    
+		<div class="article-correspondence-cta">
+		<div class="cta cta-l1" data-url="https://www.thesunmagazine.org/letter-to-the-editor">
+			<div class="cta-intro">
+				<h5 class="cta-title alt-ff">Thinking about writing us a letter?</h5>
+				<p class="cta-text">Give in to the temptation. We love getting mail. <br><span class="xsmall">(Of course, we reserve the right to edit.)</span></p>
+			</div>
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" class="cta-button b b-4 b-padding-tight small" data-label="Write Us A Letter!">Write Us A Letter!</a>
+		</div>
+	</div>
+	
+
+			<div class="article-also layout-item-large full-bar fill-grey-mid-light">
+		<div class="layout-item-intro">
+			<h2>Also In This Issue</h2>
+			<a href="/issues/262" class="xsmall link-alt">October 1997&nbsp;&#9656;</a>
+		</div>
+		<div class="issue-articles-l1">
+			<div class="issue-articles-l1-content1">
+				
+<div class="cover cover-l1 block-product">
+	<div>
+							<a href="/issues/262" class="cover-thumb">
+				
+				<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 725'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/281x364r/import/issue/262.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/562x728r/import/issue/262.jpg
+	 alt=""
+	 class="lazy">
+
+			</a>
+		
+
+													<!-- <a href="/issues/262" data-product-type="issues" data-id="262" data-role="order" class="js-buy-single corona cover-button b b-1 b-full xsmall" data-label="Buy This Issue &#9656;">
+								Buy This Issue&nbsp;&#9656;
+			</a> -->
+			<a href="/issues/262" data-product-type="issues" data-id="262" class="js-buy-single corona cover-button b b-1 b-full xsmall" data-label="Buy This Issue &#9656;">
+								Buy This Issue&nbsp;&#9656;
+			</a>
+					
+					</div>
+</div>
+			</div>
+			<div class="issue-articles-l1-content2">
+				<div class="articles-l3">
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/262/grave-matters">Grave Matters</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/andrew-ramer">Andrew Ramer</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/sy-safranskys-notebook">Sy Safransky&#039;s Notebook</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/262/sy-safranskys-notebook-issue-262">October 1997</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/sy-safransky">Sy Safransky</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/poetry">Poetry</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/262/june-1954">June 1954</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/mary-beth-oshea-noonan">Mary-Beth O&#039;Shea-Noonan</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/poetry">Poetry</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/262/ending-it-all">Ending It All</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/vanderbilt-glass">Vanderbilt Glass</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+									</div>
+			</div>
+		</div>
+	</div>
+	
+
+			<div class="article-related layout-item-large full-bar fill-pattern-light">
+		<div class="layout-item-intro">
+			<h2>Related Selections</h2>
+			<ul class="list-inline list-inline-tight"><li><a href="/topics/physical-health" class="xsmall link-alt link-text">Physical Health</a></li><li><a href="/topics/medicine" class="xsmall link-alt link-text">Medicine</a></li><li><a href="/topics/sexuality" class="xsmall link-alt link-text">Sexuality</a></li><li><a href="/topics/addiction-and-recovery" class="xsmall link-alt link-text">Addiction and Recovery</a></li><li><a href="/topics/mental-health" class="xsmall link-alt link-text">Mental Health</a></li></ul>		</div>
+
+		<div class="articles-l2">
+							
+
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/459/anything-for-love">Anything For Love</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/ruth-l-schwartz">Ruth L. Schwartz</a></li><li><a href="/issues/459">March 2014</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/459" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 727'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/140x182r/import/issue/459.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/import/issue/459.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/184/instrument-of-the-immortals">Instrument Of The Immortals</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/jake-gaskins">Jake Gaskins</a></li><li><a href="/issues/184">March 1991</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/184" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 725'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/141x182r/import/issue/184.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/281x364r/import/issue/184.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/165/radical-steps">Radical Steps</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/lily-collett">Lily Collett</a></li><li><a href="/issues/165">August 1989</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/165" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 725'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/141x182r/import/issue/165.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/281x364r/import/issue/165.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/quotations">Quotations</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/106/sunbeams-issue-106">Sunbeams</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li><a href="/issues/106">September 1984</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/106" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 725'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/141x182r/import/issue/106.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/281x364r/import/issue/106.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+					</div>
+	</div>
+	
+	
+					<form id="newsletterForm" method="post" action="https://www.thesunmagazine.org/newsletter" data-url-send="https://www.thesunmagazine.org/newsletter" class="form form-newsletter fill-grey" enctype="multipart/form-data" target="_blank">
+
+
+
+		<div class="form-newsletter-intro">
+			<h3 class="alt-ff large">Sign Up For Our Newsletter</h3>
+			<p>We’ll let you know about new website selections, upcoming events, special offers, and more.</p>
+		</div>
+
+		<ul class="form-newsletter-fields form-fields form-fields-inline">
+			<li>
+				<input name="name" type="text" maxlength="500" id="name" placeholder="Your Name">
+			</li>
+			<li>
+				<input name="email" type="text" maxlength="500" id="email" placeholder="Your E-mail">
+			</li>
+
+			<li class="form-fields-inline-button">
+				<button disabled="disabled" class="form-newsletter-send b b-4 b-padding-tight b-loading g-recaptcha" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs" data-callback="recaptcha_callback" name="SubmitButton" id="SubmitButton">
+					<svg><use xlink:href="#i-loading"></use></svg>
+					Sign&nbsp;Up
+				</button>
+			</li>
+		</ul>
+	</form>
+	<script id="hiddenlpsubmitdiv" style="display: none;"></script>
+
+
+
+<footer class="footer brand-grey-dark">
+			<div class="footer-first">
+		<h3 class="footer-tagline">Independent, Reader-Supported Publishing</h3>
+		<p class="footer-desc">In each issue of <em>The Sun</em> you’ll find some of the most radically intimate and socially conscious writing being published today. In an age of media conglomerates, we’re something of an oddity: an ad-free, independent, reader-supported magazine.</p>
+		<ul class="footer-nav list-inline-border xsmall">
+			
+		<li class=" first">
+			<a href="https://www.thesunmagazine.org/about" 	   class=''>
+	   About <em>the Sun</em>	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/staff" 	   class=''>
+	   Staff	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/find-the-sun" 	   class=''>
+	   Find <em>The Sun</em>&nbsp;&nbsp;in a Store Near You	</a>
+		
+	</li>
+
+
+		</ul>
+	</div>
+	
+		<div class="footer-second">
+		<ul class="footer-second-social list-inline">
+			<li><a href="https://www.facebook.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-facebook"></use></svg></span> Like Us</a></li>
+			<li><a href="https://twitter.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-twitter"></use></svg></span> Follow Us</a></li>
+			<li><a href="https://instagram.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-instagram"></use></svg></span> Take a Look</a></li>
+		</ul>
+
+		<div class="footer-second-content">
+			<ul class="footer-nav list-inline-border xsmall">
+				
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/" 	   class='current '>
+	   Home	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/privacy-policy" 	   class=''>
+	   Privacy Policy	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/terms-of-use" 	   class=''>
+	   Terms of Use	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/site-map" 	   class=''>
+	   Site Map	</a>
+		
+	</li>
+
+
+			</ul>
+			<p class="footer-copyright xxsmall">Copyright &copy; 1974–2020 <em>The Sun</em>. All rights reserved.</p>
+		</div>
+	</div>
+</footer>
+
+
+
+<div class="offset-nav">
+	<ul>
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/read" 	   class='current '>
+	   Read	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/issues/current" 	   class=''>
+	   Current Issue	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/archives" 	   class=''>
+	   Archives	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/featured" 	   class=''>
+	   Featured Selections	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/topics" 	   class=''>
+	   Browse Topics	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/sections" 	   class=''>
+	   Browse Sections	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/connect" 	   class=''>
+	   Connect	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/news" 	   class=''>
+	   News from <em>The Sun</em>	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" 	   class=''>
+	   Write a Letter to the Editor	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/discussion-groups" 	   class=''>
+	   Discussion & Writing Groups	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/make-a-suggestion" 	   class=''>
+	   Make a Suggestion	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/submit" 	   class=''>
+	   Submit	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/shop" 	   class=''>
+	   Shop	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/giftsub" 	   class=''>
+	   Gift Subscriptions	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/issues" 	   class=''>
+	   Issues	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+											
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/donatemenu" 	   class='highlight'>
+	   Donate	</a>
+		
+	</li>
+
+		<li class=" last">
+														<a href="/SubscribeNav1" 					   class=''>
+						Subscribe					</a>
+									
+	</li>
+
+
+					<li>
+				<a href="https://www.thesunmagazine.org/shop/cart">Cart ( <span class="cart-item-count">  0  </span>)</a>
+			</li>
+			<li><a href="https://www.thesunmagazine.org/subscriber/login" class="link-header-logout link-alt">Sign In</a></li>
+			</ul>
+	<ul>
+		<li class=" first">
+			<a href="https://www.thesunmagazine.org/about" 	   class=''>
+	   About <em>the Sun</em>	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/staff" 	   class=''>
+	   Staff	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/find-the-sun" 	   class=''>
+	   Find <em>The Sun</em>&nbsp;&nbsp;in a Store Near You	</a>
+		
+	</li>
+
+</ul>
+	<ul>
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/" 	   class='current '>
+	   Home	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/privacy-policy" 	   class=''>
+	   Privacy Policy	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/terms-of-use" 	   class=''>
+	   Terms of Use	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/site-map" 	   class=''>
+	   Site Map	</a>
+		
+	</li>
+
+</ul>
+</div>
+
+<div id="buy-popup-message" class="buy-popup mfp-hide white-popup white-popup-block">
+	<a class="popup-modal-dismiss" href="#"></a>
+	<h5>Due to fulfillment challenges related to the novel coronavirus, print copies are temporarily unavailable for individual sale. We are offering free PDFs until we are able to resume print sales.</h5>
+	<p>Enter your e-mail address below to download this issue.</p>
+	<form method="post" id="download-single" action="https://www.thesunmagazine.org/issue/pdfFree/531.pdf">
+		<label for="email"><span class="label-text">E-mail</span><span class="label-asterisk">*</span></label>
+		<input class="buy-single-email" id="email" type="email" name="email">
+		<button type="send" class="form-buy-issue-send b b-3 b-padding-tight b-loading">Send</button>
+		<button class="form-buy-issue-download b b-3 b-padding-tight b-loading">Download pdf</button>
+		<button type="send" class="popup-modal-dismiss b b-2 b-padding-tight b-loading">Close</button>
+		<div class="g-recaptcha" style="text-align: center" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs"></div>
+
+	</form>
+</div>
+
+			<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/plugins.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/site.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/newsletter.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/js/articles.js"></script>
+		</div>
+		</div>
+
+				<script>
+		(function (doc) {
+			var scripts = doc.getElementsByTagName('script');
+			var script = scripts[scripts.length - 1];
+			var xhr = new XMLHttpRequest();
+			xhr.onload = function () {
+				var div = doc.createElement('div');
+				div.innerHTML = this.responseText;
+				div.style.display = 'none';
+				script.parentNode.insertBefore(div, script);
+			}
+			xhr.open('get', '/theme/thesun//assets/build/img/sprite/sprite.svg', true);
+			xhr.send();
+		})(document);
+
+
+
+		</script>
+
+		<script>
+			// Submit function
+            function recaptcha_callback() {
+						var getUrl = $('.form-newsletter').data( "url-send" ),
+							getName = $('input#name').val(),
+							getEmail = $('input#email').val();
+						$.ajax({
+								type: "POST",
+								url: getUrl,
+								data: {
+									name: getName,
+									email: getEmail,
+									grecaptcharesponse: grecaptcha.getResponse()
+								}
+							}).done(function(response) {
+								console.log(response);
+									$('.form-fields').fadeOut(800, function () {
+										$('.form-fields').empty().append('<div class="newsletter-confirm-message">Thank you for signing up to receive news from <em>The Sun</em>. Your first newsletter will arrive soon.<div>').fadeIn(800);
+									});
+							});
+			}
+
+		</script>
+
+		<script>
+			function getUrlCode() {
+				var url_string = window.location.href;
+				var url = new URL(url_string);
+				var c = url.searchParams.get('promotion\_key');
+				if (typeof c !== 'undefined' && c !== null) {
+					setCookie("promotion_code",c);
+				}
+			}
+
+			function setCookie(cname, cvalue) {
+				document.cookie = cname + "=" + cvalue + ";" + "path=/";
+			}
+
+			function getCookie(cname) {
+				var name = cname + "=";
+				var decodedCookie = decodeURIComponent(document.cookie);
+				var ca = decodedCookie.split(';');
+				for(var i = 0; i <ca.length; i++) {
+					var c = ca[i];
+					while (c.charAt(0) == ' ') {
+						c = c.substring(1);
+					}
+					if (c.indexOf(name) == 0) {
+						return c.substring(name.length, c.length);
+					}
+				}
+				return "";
+			}
+			window.addEventListener( "load", getUrlCode );
+		</script>
+
+
+	</body>
+</html>

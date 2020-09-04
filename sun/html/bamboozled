@@ -1,0 +1,1496 @@
+
+<!DOCTYPE html>
+<html class="no-js" lang="en-US">
+	<head>
+		<title>Bamboozled - The Sun Magazine</title>
+
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		
+		<meta name="viewport" content="width=device-width, minimum-scale=1.0">
+
+		<link rel="dns-prefetch" href="//ajax.googleapis.com">
+		<link rel="dns-prefetch" href="//use.typekit.net">
+		
+		<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/modernizr.js"></script>
+		<script src="https://www.google.com/recaptcha/api.js"
+				async defer>
+		</script>
+
+		<script>(function(d) { var config = { kitId: 'kzw7ebk', scriptTimeout: 3000, async: true }, h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s) })(document);</script>
+
+
+				
+		<link rel="apple-touch-icon" sizes="57x57" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-57x57.png?v=2016">
+		<link rel="apple-touch-icon" sizes="60x60" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-60x60.png?v=2016">
+		<link rel="apple-touch-icon" sizes="72x72" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-72x72.png?v=2016">
+		<link rel="apple-touch-icon" sizes="76x76" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-76x76.png?v=2016">
+		<link rel="apple-touch-icon" sizes="114x114" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-114x114.png?v=2016">
+		<link rel="apple-touch-icon" sizes="120x120" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-120x120.png?v=2016">
+		<link rel="apple-touch-icon" sizes="144x144" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-144x144.png?v=2016">
+		<link rel="apple-touch-icon" sizes="152x152" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-152x152.png?v=2016">
+		<link rel="apple-touch-icon" sizes="180x180" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-180x180.png?v=2016">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-32x32.png?v=2016" sizes="32x32">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/android-chrome-192x192.png?v=2016" sizes="192x192">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-96x96.png?v=2016" sizes="96x96">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-16x16.png?v=2016" sizes="16x16">
+		<link rel="mask-icon" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/safari-pinned-tab.svg?v=2016" color="#444444">
+		<link rel="shortcut icon" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon.ico?v=2016">
+		<meta name="apple-mobile-web-app-title" content="The Sun Magazine">
+		<meta name="application-name" content="The Sun Magazine">
+		<meta name="msapplication-TileColor" content="#fcc330">
+		<meta name="msapplication-TileImage" content="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/mstile-144x144.png?v=2016">
+		<meta name="theme-color" content="#ffffff">
+
+				<link rel="stylesheet" type="text/css" href="https://cloud.typography.com/6578674/659928/css/fonts.css" />
+		<link rel="stylesheet" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/css/style.css">
+
+																		<meta property="og:site_name" content="The Sun Magazine">
+		<meta property="og:type" content="article">
+		<meta property="og:url" content="https://www.thesunmagazine.org/issues/302/bamboozled">
+		<meta property="og:image" content="http://www.thesunmagazine.org/files/import/issue/302.jpg">
+		<meta property="og:title" content="Bamboozled - The Sun Magazine">
+		<meta property="og:description" content="Dispatches From The Nader Campaign">
+		<meta property="fb:app_id" content="158741778010551">
+
+						<link rel="image_src" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.comhttp://www.thesunmagazine.org/files/import/issue/302.jpg">
+
+												<meta name="twitter:card" content="summary">
+		<meta name="twitter:title" content="Bamboozled - The Sun Magazine">
+		<meta name="twitter:description" content="Dispatches From The Nader Campaign">
+		<meta name="twitter:image" content="http://www.thesunmagazine.org/files/import/issue/302.jpg">
+		<meta name="twitter:site" content="@thesunmagazine">
+
+				<link rel="publisher" href="https://plus.google.com/113792980827145858211">
+        
+		<meta name="Description" content="Nobody wants Al Gore to be president. Democrats will vote for Al Gore for only one reason: they hate George Bush. They hate Bush so much they would vote for anyone else &amp;mdash; even someone with a record of voting pro-life; even someone who&amp;rsquo;s in favor of more military spending and against universal healthcare; even someone who supports capital punishment and other forms of institutionalized racism. By accepting all of this, the Democrats have sold their ideals down the river. Their candidates are obvious crooks. At least the Republicans mean it when they say something stupid. The Democrats just say stupid things because they think that&amp;rsquo;s what the voters want to hear.">
+
+		
+		<!-- Google Tag Manager -->
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-TKBHCCG');</script>
+		<!-- End Google Tag Manager -->
+
+		<!-- Google Analytics -->
+		<script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+            ga('create', 'UA-2351127-1', 'auto');  // Replace with your property ID.
+            ga('send', 'pageview');
+            ga('require', 'ecommerce');   // Load the ecommerce plug-in.
+		</script>
+		<!-- End Google Analytics -->
+	</head>
+	<body id="">
+
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TKBHCCG"
+		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+		<header class="header" data-offset-start="80">
+		<div class="header-utilities">
+				<ul class="header-utilities-user list-inline list-inline-tight xxsmall">
+							<li>
+					<span class="header-utilities-user-intro">Already A Subscriber?</span> &nbsp;
+					<a href="https://www.thesunmagazine.org/subscriber/login" class="link-text link-alt">Sign In</a>
+				</li>
+					</ul>
+		<a href="https://www.thesunmagazine.org/shop/cart" class="header-utilities-cart  link-alt link-icon tiny">
+			<span class="i"><svg><use xlink:href="#i-cart"></use></svg></span>
+			<span class="cart-item-count">
+									0 Items
+				
+			</span>
+		</a>
+			</div>
+
+		<div class="header-bar">
+		<h1 class="header-logo logo">
+			<a href="/">
+				<img src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/img/logo-thesun.svg" class="logo-thesun" alt="The Sun Magazine">
+				<img src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/img/logo-tagline.svg" class="logo-tagline" alt="">
+			</a>
+		</h1>
+
+		<ul class="header-nav">
+			
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/read" 	   class='current '>
+	   Read	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/issues/current" 	   class=''>
+	   Current Issue	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/archives" 	   class=''>
+	   Archives	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/featured" 	   class=''>
+	   Featured Selections	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/topics" 	   class=''>
+	   Browse Topics	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/sections" 	   class=''>
+	   Browse Sections	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/connect" 	   class=''>
+	   Connect	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/news" 	   class=''>
+	   News from <em>The Sun</em>	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" 	   class=''>
+	   Write a Letter to the Editor	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/discussion-groups" 	   class=''>
+	   Discussion & Writing Groups	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/make-a-suggestion" 	   class=''>
+	   Make a Suggestion	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/submit" 	   class=''>
+	   Submit	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/shop" 	   class=''>
+	   Shop	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/giftsub" 	   class=''>
+	   Gift Subscriptions	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/issues" 	   class=''>
+	   Issues	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+											
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/donatemenu" 	   class='highlight'>
+	   Donate	</a>
+		
+	</li>
+
+		<li class=" last">
+														<a href="/SubscribeNav1" 					   class=''>
+						Subscribe					</a>
+									
+	</li>
+
+
+		</ul>
+
+		<button class="header-nav-toggle"><svg><use xlink:href="#i-menu" class="i-menu"></use><use xlink:href="#i-close" class="i-close"></use></svg></button>
+		<button class="header-search-toggle" data-form-wrapper=".header-search"><svg><use xlink:href="#i-magnifier" class="i-magnifier"></use><use xlink:href="#i-close" class="i-close"></use></svg></button>
+	</div>
+
+		<div class="header-search">
+		<div class="header-search-content">
+			<form action="https://www.thesunmagazine.org/search" class="form form-search" method="get">
+				<h2 class="alt-ff brand-link">Search Our 40 Years of Archives</h2>
+				<ul class="form-search-fields form-fields form-fields-inline">
+					<li><input type="text" name="q" value=""></li>
+					<li class="form-fields-inline-button"><button class="b b-1 b-padding-tight b-loading"><svg><use xlink:href="#i-loading"></use></svg>Search</button></li>
+				</ul>
+
+				<div class="header-search-content-shortcuts">
+					<h6 class="search-advanced alt-ff"><a class="js-handle-advanced" href="https://www.thesunmagazine.org/search?advanced=1">Advanced Search</a></h6>
+					<br>
+					<h6 class="alt-ff">Popular Pages</h6>
+					<ul class="list-inline-border list-inline-tight xxsmall"><li class=" first"><a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a></li><li class=""><a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a></li><li class=""><a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a></li><li class=""><a href="https://www.thesunmagazine.org/sections/quotations" 	   class=''>
+	   Quotations	</a></li><li class=""><a href="https://www.thesunmagazine.org/sections/readers-write" 	   class=''>
+	   Readers Write	</a></li><li class=" last"><a href="https://www.thesunmagazine.org/sections/poetry" 	   class=''>
+	   Poetry	</a></li></ul>				</div>
+			</form>
+		</div>
+	</div>
+</header>
+
+	<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+	<script type="text/javascript">
+		$(document).ready(function() {
+			$('.js-handle-advanced').on('click', function (e) {
+				e.preventDefault();
+				var getSearchValue = $('.form-search-fields input').val();
+				var getURL = $(this).attr('href');
+				var newURL = getURL + '&q=' + getSearchValue;
+				window.location.href = newURL;
+			});
+		});
+	</script>
+
+		<div class="container-hidden">
+		<div class="container">
+
+				
+	
+	<article class="article ">
+		<header class="block-content block-content-l1 block-content-center">
+						<div class="block-content-header">
+				<h6 class="b-content-section heading-square"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+				<h1 class="block-content-title">Bamboozled</h1>
+
+								<p class="block-content-subtitle subtitle">Dispatches From The Nader Campaign</p>
+				
+				<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/stephen-elliott">Stephen Elliott</a></li><li><a href="/issues/302">February 2001</a></li></ul>
+
+			</div>
+
+								</header>
+
+				<div class="article-body link-text-wrap">
+																		<p><em>Stephen Elliott worked for three weeks on the Ralph Nader campaign, riding in a &ldquo;cleaning van&rdquo; throughout the Southeast to publicize the Green Party&rsquo;s support of campaign-finance reform. He sent e-mails about his experiences to a small group of friends, composing his dispatches while the van swerved down the highway through the darkened countryside. </em></p>
+
+<p class="text-right"><em>&mdash; Ed.</em></p>
+
+<p>&nbsp;</p>
+
+<p><strong><span class="smallcaps">October 13, Friday the Thirteenth</span></strong><br />
+Last night I got on a plane in San Francisco, and today I arrive at Nader campaign headquarters in Washington, D.C., ready for work. The first person I meet is Amy. Amy says I look tired and asks if I would like a hug. I say no; I would like a bed. She says, &ldquo;You really look like you need a hug.&rdquo; I say, &ldquo;No, I really need a bed.&rdquo; Amy will drive me crazy for the next two days. Fortunately, Amy is not in my van.</p>
+
+<p>Chris is in my van. Chris is a forty-seven-year-old ex-navy officer from Atlanta, Georgia. He&rsquo;s six-foot-four and weighs in at 240 pounds. A lifelong Republican, Chris became a Nader volunteer after hearing Ralph speak last May. Chris doesn&rsquo;t take shit from anybody. He says we&rsquo;re going to go down south and raise some hell. I assure him I am behind him all the way. He asks me where I&rsquo;m from, and I tell him San Francisco. He says he has a wife who lives there.</p>
+
+<p>&nbsp;</p>
+
+<p><strong><span class="smallcaps">October 14</span></strong><br />
+We spend the first two days writing and rehearsing the scripts for our street-theater performances, watching instructional videos, and talking about how to throw a house-party fundraiser. We are going to show up at Republican and Democratic offices dressed as janitors and hand out soap and ask them to clean up their campaigns. We&rsquo;re bringing Gore and Bush sock puppets; the joke is that you wear them both on your right hand. I predict that we will be beaten up by uninsured, minimum-wage-earning, flannel-wearing hillbillies in Alabama. We will be stoned by black people who were fired by Marriott for trying to form a union. And we will be unable to fight back because the attacks will come during the puppet show, and it would look too silly to fight with sock puppets on our hands.</p>
+
+<p>At the end of our training, we pose for a publicity photo in front of the National Press Club wearing our janitor uniforms and holding up big signs. We are believers. We will make a difference.</p>
+
+<p>&nbsp;</p>
+
+<p><span class="smallcaps"><strong>October 15</strong></span><br />
+The vans aren&rsquo;t ready. The natives are getting restless. Morale is low. Nothing is going right. Our coordinator has a nervous breakdown. Chris offers to take his place. We stuff envelopes. We make phone calls. We receive ten thousand custom-made bars of soap to give out on the road.</p>
+
+<p>At 6 <span class="smallcaps">P.M.</span>, the first van arrives. It is beautiful. It looks like a huge box of Tide and says <span class="smallcaps">CORPORATE INFLUENCE CLEAN-UP CREW</span> on it. We high-five and pose for pictures. Later, we have a conversation with Ralph Nader out in front of the campaign headquarters. He is warm, like an uncle or a grandpa, dressed in corduroys and a flannel shirt. He tells me if I get in trouble in Knoxville to call his lawyer friend J.D. Lee. If we see a small-town-newspaper building, he says, stop in and say hi; tell them what we&rsquo;re doing. It&rsquo;s not about the election, he says. It&rsquo;s about after the election. It&rsquo;s about building an alternative political party. When Nader has left, we all decide that he is a good man, and that&rsquo;s important, because it&rsquo;s hard to be sure until you meet someone.</p>
+
+<p>&nbsp;</p>
+
+<p><strong><span class="smallcaps">October 16</span></strong><br />
+Chris and I load up our van and head out. Chris jokes about bringing along a shotgun for protection. Tomorrow we have to be on the radio in Chattanooga, Tennessee. It&rsquo;s going to be a long drive. Along the way, we trade insights and ideas. I discover that Chris is essentially a right-leaning communist. He believes in both compulsory civil service <em>and</em> the right to own a gun. For my part, I&rsquo;m a libertarian who believes the primary function of government should be to stop corporations and the rich from stepping on the rights of the poor. In the world of political animals, I am a spotted pink Bengal tiger.</p>
+
+<p>The trees are turning color. They have fall in this part of the country. The subject of God comes up. Chris and I don&rsquo;t believe in God or ghosts or spirits. We are atheists. Yet here we are, about to drive through small towns, give speeches, and try to convert people in the name of what we think is right. Do we cling to this as Christians do the cross? Are we perhaps just a bunch of misfits looking for a church to give meaning to our lives? I worry that I have joined a cult.</p>
+
+<blockquote class="quote-1 large">
+<p>Chris and I don&rsquo;t believe in God or ghosts or spirits. We are atheists. Yet here we are, about to drive through small towns, give speeches, and try to convert people in the name of what we think is right.</p>
+</blockquote>
+
+<p><strong><span class="smallcaps">October 17</span></strong><br />
+A day of action at last. By 6 <span class="smallcaps">A.M.</span>, we&rsquo;re back on the road to Chattanooga. We get lost. Chris&rsquo;s fuse starts to burn. Our personalities are as different as our political beliefs. He tends to be angry and violent. I tend to be sad and tired.</p>
+
+<p>We find our way, and make it there in time to be on the radio with the local and the state Green Party coordinators, Deborah and Geary. We take phone-in questions, some of them from politicians trying to advance their own agendas. One man calls in and says he doesn&rsquo;t think he should pay higher taxes just because he makes more than three hundred thousand dollars a year; that&rsquo;s why he went to school. Deborah tells him he was supposed to go to school to learn civics.</p>
+
+<p>Later, Elizabeth Dole is scheduled to deliver a speech outside McKinsey Coliseum. We park the van and hold up a sign and our mops. A crowd of a hundred loyal Republicans has shown up to hear Dole speak. The women stand in attendance, children in their arms, long golden hair flowing. The proceedings open with a prayer: God wants George W. Bush in the White House. God has delivered the Republican Party unto us.</p>
+
+<p>But the reporters don&rsquo;t care about Elizabeth Dole and her Republican God. They want to know who are the freaks in the janitor uniforms with the mop buckets and the crazy van that looks like an enormous box of Tide. We tell them our story. We tell them a third party is emerging.</p>
+
+<p>When the speeches are over, the Republicans pray again and then begin marching to the polls to vote early. We walk ahead of them: four shepherds with Nader signs leading a flock of God-fearing Republicans to the polls. The cars driving by honk. They have never seen fifty people marching for Nader before.</p>
+
+<p>Afterward, Deborah buys us lunch. I think she&rsquo;s making eyes at Chris. I tell Chris he should get himself a Chattanooga woman. Chris says he is married and loves his wife, even though she won&rsquo;t talk to him because he is &ldquo;mean.&rdquo;</p>
+
+<p>&nbsp;</p>
+
+<p><strong><span class="smallcaps">October 18</span></strong><br />
+We travel over the Smokies today, where the tree-filled valleys are shimmering bowls of red and orange and yellow. We&rsquo;re going to attend a town-hall debate for state representative in Clayton, Georgia. &ldquo;I&rsquo;ll tell you what,&rdquo; Chris says to me. &ldquo;After this election, I&rsquo;m gonna get violent.&rdquo; I raise my eyebrows and smile awkwardly. He brings up Lori, a volunteer in another van who has been wearing an International Socialist Organization button. &ldquo;ISO is hard-core,&rdquo; Chris says. &ldquo;They are determined to turn the whole thing upside down by any means necessary. You&rsquo;d better look out. There&rsquo;s going to be trouble.&rdquo; He lights up a cigarette. &ldquo;The Republicans and the Democrats are going to sabotage us with all their money. I&rsquo;m not going to take it.&rdquo; He shoots me a look that asks if I am willing to carry a gun and die on the front lines. It&rsquo;s 5 <span class="smallcaps">P.M.</span> A sliver of shade is painting the spoon-shaped slope of the mountains. We are wearing janitor uniforms covered in Green Party buttons, with green baseball caps on our heads.</p>
+
+<p>At the debate, Kerri, the Green Party candidate for state representative, speaks so beautifully that I want to cry. She asks why the government is building a 260-bed prison when the state already has more beds than inmates. She asks why the Democratic incumbent voted in favor of narrowing the creeks. The incumbent explains that it was a compromise between the environmentalists and the business interests. The skin of his face appears to be falling right off the bone. Whenever Kerri says something, she smiles so broadly at the fifty people in attendance that I think it must hurt her cheeks.</p>
+
+<p>The most interesting candidate to me is the Republican. Clearly, he is an idiot, but I never doubt his integrity. I can&rsquo;t say the same for his blatantly dishonest Democratic opponent.</p>
+
+<p>While we&rsquo;ve been running around handing out bars of soap, I&rsquo;ve come to some conclusions about the two major parties. The Republicans are more pink, have worse skin, and wear bad clothes, but they love their candidate. They really want George Bush to be president. They are proud that he is dumb and has been given everything in life. They believe that turning down federal money in favor of corporate funding is a badge of honor. They want school vouchers. They want to lower the minimum wage and criminalize labor unions. They are not afraid to speak their ignorant minds, and there is something to be said for that.</p>
+
+<p><em>Nobody </em>wants Al Gore to be president. Democrats will vote for Al Gore for only one reason: they hate George Bush. They hate Bush so much they would vote for anyone else &mdash; even someone with a record of voting pro-life; even someone who&rsquo;s in favor of more military spending and against universal healthcare; even someone who supports capital punishment and other forms of institutionalized racism. By accepting all of this, the Democrats have sold their ideals down the river. Their candidates are obvious crooks. At least the Republicans mean it when they say something stupid. The Democrats just say stupid things because they think that&rsquo;s what the voters want to hear. As a result, the Democrats are ceasing to exist. There is no reason for a party whose members don&rsquo;t even like their own candidates. The 51 percent of registered voters who didn&rsquo;t vote in the last election were mostly Democrats.</p>
+
+<p>As I&rsquo;ve handed out buttons and bumper stickers, many Republicans have stopped to tell me why they are voting for Bush. Nobody has done the same for Gore &mdash; not even in his home state of Tennessee, not even on the University of Tennessee campus. The Democrats bite their lips and delicately accept my stickers with the tips of their fingers. They look confused, unsure of the right thing to do. The Democrats are locking themselves in their bathrooms and popping little blue pills. They drink to forget. They read the comics instead of the news. They watch <em>Saturday Night Live</em> instead of the debates. They are sad and hungry. They stare at the sky and wish it were an ocean so they could swim somewhere far away and come back in four years. In four years, things will be better. Things will be different.</p>
+
+<p>&nbsp;</p>
+
+<p><strong><span class="smallcaps">October 19</span></strong><br />
+Last night, we slept at Kerri&rsquo;s house in the lonely hills of Georgia. Before going to bed, we watched George Bush on David Letterman. Letterman joked about the death penalty: &ldquo;You Texans sure do have a high electricity bill.&rdquo;</p>
+
+<p>We get up at 5 <span class="smallcaps">A.M. </span>to make the five-hour drive to Columbia, South Carolina. I can&rsquo;t seem to pry my eyes open as I grab my laundry out of Kerri&rsquo;s dryer. Maybe I am going blind. I find my pants and shirts, but all my socks are gone. Chris has already retrieved his half of the load and is fumbling with the zipper on his bag.</p>
+
+<p>&ldquo;Chris,&rdquo; I say, &ldquo;I think you have my socks.&rdquo;</p>
+
+<p>He stops what he is doing. We are tired. We cannot think straight. &ldquo;Well,&rdquo; he says, &ldquo;I suppose if they are the same color as my socks, which are white, then I might have taken them.&rdquo;</p>
+
+<p>I don&rsquo;t say anything else, just pull on my Doc Martens over bare feet and go out to the van. Chris emerges moments later, and we&rsquo;re on our way. I go to sleep in the passenger seat; I&rsquo;ve learned a trick where I wrap the seat belt twice around my biceps and then rest my head against it. It&rsquo;s very comfortable.</p>
+
+<p>When I wake, it is my turn to drive. Chris is pulling into a Texaco because he knows I will need coffee. We joke about the horrible gas-station coffee we&rsquo;ve been drinking on this trip.</p>
+
+<p>&ldquo;I&rsquo;d give anything for a Starbucks,&rdquo; I say. We laugh. We&rsquo;re for Nader. We don&rsquo;t like Starbucks. But really, I would like a Starbucks coffee. We laugh some more.</p>
+
+<p>I buy my wretched, small-town Southern coffee for ninety-three cents, and we get back in the van. Things are <span class="smallcaps">OK</span> again. I drive, and Chris rests his head against the window.</p>
+
+<p>&ldquo;You know, Chris,&rdquo; I say, &ldquo;those are my only socks. I only brought three pairs.&rdquo;</p>
+
+<p>&ldquo;We&rsquo;ll get &rsquo;em out,&rdquo; he says.</p>
+
+<p>&ldquo;I didn&rsquo;t want to make a big deal out of it this morning, seeing as we were so tired.&rdquo;</p>
+
+<p>&ldquo;We&rsquo;ll get your socks,&rdquo; he replies.</p>
+
+<p><em>I&rsquo;d better not catch him wearing my underwear</em>, I think.</p>
+
+<p>&nbsp;</p>
+
+<p><strong><span class="smallcaps">In Columbia, South Carolina, </span></strong>we meet Leslie at her store, which serves as the local Green Party headquarters. Leslie has long red hair and cheeks like the moon. She sells leather and latex apparel. Halloween is her busiest time of year, she says. While we sit and talk, I finger a pair of fishnet stockings hanging on a rack.</p>
+
+<p>We drive over to the University of South Carolina, where I trick the staff into opening the gates and letting us drive onto the campus. &ldquo;You have been expecting us,&rdquo; I tell them. They nod slowly. We park our big white van with its big slogans right in front of the student union. Members of the press await us. Leslie has given us plastic masks of Gore and Bush. Our local supporters wear the masks, and Chris tapes a dollar sign to his chest and pretends to control them like puppets. I fire questions at them in a mock presidential debate. The crowd loves us. We are heroes. A radio is playing hip-hop, and I start to dance, shaking and rattling all the buttons on my janitor uniform. When it&rsquo;s over, we go to visit Republican Congressman Floyd Spence.</p>
+
+<p>We are tired and angry on the drive over to Spence&rsquo;s office. The press follows us in red Toyota trucks. We stand in the parking lot. The reporters ready their cameras and tape recorders. &ldquo;OK,&rdquo; I say, grabbing my mop firmly in my left hand. &ldquo;Let&rsquo;s go.&rdquo;</p>
+
+<p>We push open the doors. The press follows.</p>
+
+<p>&ldquo;I want to see Floyd Spence!&rdquo; I practically yell.</p>
+
+<p>&ldquo;He&rsquo;s not here,&rdquo; I am told.</p>
+
+<p>&ldquo;Well, I want to know how it is he can take fifty thousand dollars from private defense contractors and also be head of the House Armed Services Committee. I believe that is a conflict of interest. Would you like to say anything about that?&rdquo;</p>
+
+<p>&ldquo;No.&rdquo;</p>
+
+<p>&ldquo;OK.&nbsp;.&nbsp;.&nbsp;. Well, thanks for listening. I&rsquo;d like to leave you this soap, and I hope you will clean up your campaign.&rdquo;</p>
+
+<p>&ldquo;Thank you.&rdquo;</p>
+
+<p>&ldquo;Thank you, sir.&rdquo; We shake hands. While the press stays to get a comment, Chris and I head back to Leslie&rsquo;s for a nap.</p>
+
+<blockquote class="quote-1 large">
+<p>One man .&nbsp;.&nbsp;. says he doesn&rsquo;t think he should pay higher taxes just because he makes more than three hundred thousand dollars a year; that&rsquo;s why he went to school. Deborah tells him he was supposed to go to school to learn civics.</p>
+</blockquote>
+
+<p><strong><span class="smallcaps">October 20</span></strong><br />
+The girls of Charleston College are throwing a party for Ralph Nader at a bar on the South Carolina shore. Sweet little Jessica wears flowered skirts and tank tops with no bra. She laughs easily and dances by stretching her arms out and spinning in circles while her favorite band plays rock-and-roll. We walk on the shell-covered beach, and she tells me about driving through the redwood forest and getting out and hugging a tree; she spreads her arms wide to show me what she means, and I picture her dressed in shimmering silk, like Tinkerbell, and gnomes coming out of the trees and latching onto her legs and the nuclear reactor winking at her before shutting its doors forever and the Chiapas Indians sending her postcards of thanks and the dolphins whistling a song in the ocean &mdash; all for sweet little Jessica.</p>
+
+<p>Claire helps me work the Green Party table. We collect names on a petition and ask people to vote. Between sets, I get onstage and tell the crowd to call five friends on November 7 and bring them to the polls, and then go home and call five more. After my speech, the crowd comes over to the table, where Claire sits in a light green dress, brown hair running down her neck like honey. &ldquo;Bring five,&rdquo; I tell everybody, like a mantra. There are too many beautiful girls here. I can&rsquo;t concentrate. My mouth talks politics, but porno movies play at the cinema in my mind.</p>
+
+<p>Do you remember how happy you used to be when you were young? That&rsquo;s how these kids are tonight, playing music and sitting in the corner talking about cocaine and ecstasy. They are having the time of their lives. They are part of a movement, and the music is good, and the air is hot, and the night sky is full of stars. The girls wear backless shirts, and the boys walk with a slouch, fingers gripping cold bottles of beer, fake <span class="smallcaps">ID</span>s in their pockets. Somebody puts out six boxes of doughnuts, and the porch is filled with revelers, and two people are whispering their deepest secrets to each other over by the video games. Everything matters. Everyone cares. The band is really jamming tonight. Life is a raging success.</p>
+
+<p>The bar closes, but the band isn&rsquo;t done. The kids are not tired. There&rsquo;s a house called the &ldquo;Fort&rdquo; on the marsh. Five college students live there. You have to floor it over the sand dunes or you&rsquo;ll never make it through. Hundreds of students, stoned and brimming with good intentions, descend on the marsh. I open a beer, my first of the night, and the music starts again.</p>
+
+<blockquote class="quote-1 large">
+<p>The Democrats have sold their ideals down the river. Their candidates are obvious crooks. At least the Republicans mean it when they say something stupid.</p>
+</blockquote>
+
+<p><strong><span class="smallcaps">October 21</span></strong><br />
+There&rsquo;s been no word from Chris. He left me in this beachfront paradise for a house-party fundraiser in Augusta, Georgia. I spent the night at Karen and Elizabeth&rsquo;s house. Now morning comes, and I&rsquo;m rubbing my eyes on the couch. Elizabeth is sitting in front of me in her ruby-colored pajamas.</p>
+
+<p>&ldquo;Did you sleep well?&rdquo; she asks.</p>
+
+<p>&ldquo;Like a baby.&rdquo;</p>
+
+<p>&ldquo;I&rsquo;m so glad.&rdquo;</p>
+
+<p>Karen comes out of her bedroom in a flowing nightie. I wonder if I am in heaven, and what I have done to deserve it.</p>
+
+<p>Elizabeth leaves, and Karen takes me to lunch at Mondo&rsquo;s, a sandwich shop. On the way, mermaids pass by carrying loads of laundry. The girls at the restaurant all greet Karen like the left-wing, vote-getting, activist royalty she is. When we sit down, I say, &ldquo;I don&rsquo;t get it.&rdquo;</p>
+
+<p>&ldquo;What?&rdquo; Karen asks.</p>
+
+<p>&ldquo;There are so many women here, and no men.&rdquo;</p>
+
+<p>&ldquo;Oh, I know. It&rsquo;s crazy. There&rsquo;re seven girls for every guy in this town.&rdquo;</p>
+
+<p>I spit my orange juice back into my glass and manage to answer the campaign cellphone without choking to death. It&rsquo;s Chris. The van has broken down in Georgia. He&rsquo;ll come and pick me up as soon as it is fixed; he hopes I&rsquo;m having a good time.</p>
+
+<p>&ldquo;Hurry up,&rdquo; I tell him. &ldquo;I don&rsquo;t know if I&rsquo;m going to make it.&rdquo;</p>
+
+<p>&ldquo;Don&rsquo;t tell me what to do, dad-gum-it! I&rsquo;ll get there soon as I can.&rdquo;</p>
+
+<p>He hangs up. Karen smiles at me. I wonder if I &rsquo;m dreaming. I expect to log on to the Internet and find out that Gore and Bush have both withdrawn from the race. &ldquo;I&rsquo;m too stupid to be president,&rdquo; Bush declares before a roomful of stunned journalists. &ldquo;I&rsquo;m a liar,&rdquo; Al Gore admits. &ldquo;My therapist tells me it&rsquo;s a compulsive disorder. I&rsquo;m going to start taking Paxil.&rdquo; They both cede to Nader, candidly admitting that he is the best man for the job.</p>
+
+<p>&nbsp;</p>
+
+<p><strong><span class="smallcaps">October 22</span></strong><br />
+I told Elizabeth I would make her breakfast this morning, but she woke up before me. By the time I awake, all that&rsquo;s left is an apple and some soy milk. What&rsquo;s up with hippies and soy milk? Are the lactose-intolerant more likely to protest? Or is it something in the marijuana that makes it impossible to digest dairy products?</p>
+
+<p>The sun is burning through the ocean fog as I walk along the streets around the College of Charleston. The girls are arriving for their classes, thousands of them, long arms crossed over their books. Here and there a boy walks among them, completely outnumbered. The girls could destroy the boys in Dionysian festivals and throw their bodies to the wolves.</p>
+
+<p>And then I see Claire, the most beautiful of all the ten thousand women of the College of Charleston. We embrace on the sidewalk, and I tell her my time here is coming to an end. The Bat Phone has been ringing. I am to board a Greyhound to Savannah. We have to do something about the Republicans frying blacks in Texas. The forces of evil are brewing in Georgia. We are on a mission to save the free world. Chris will be waiting for me in the bus station with my superhero uniform and the van. If only things could have been different. But Claire&rsquo;s class is starting, and she has to go. Watching her leave, I remember that Sherman spared Charleston his torch during his flaming march to the sea. He must have known.</p>
+
+<p>At the house, I kiss Karen and Elizabeth goodbye. I have a job to do. They run alongside the bus waving napkins and crying, but I stare straight ahead. I have given up the moon and the stars for Ralph Nader.</p>
+
+<p>&nbsp;</p>
+
+<p><strong><span class="smallcaps">OCTOBER 23</span></strong><br />
+I get a call from the Florida van. They say the Sunshine State is a disorganized sinkhole of two- and three-person Green rallies. I&rsquo;ve never liked Florida, with all its swamps and mosquitoes and transplanted geriatric New Yorkers breathing through tubes in air-conditioned condos. It doesn&rsquo;t surprise me the whole damn peninsula is awash with political apathy. Maybe the humidity saps your strength until it takes every fiber of your being just to gather the energy to chew a toothpick. Nevertheless, I find this news from the south disheartening. We need four million votes. It shouldn&rsquo;t be this damn hard.</p>
+
+<p>Our van has been more fortunate than the Florida van overall, despite the breakdown that stranded me for forty-eight hours on the South Carolina coast with the insatiable sea nymphs. Still, I worry. We&rsquo;ll be finishing up our trip in Louisiana, home of Huey Long. There&rsquo;s something dark and foreboding about that state. I&rsquo;ve never met anyone from there, except a few people from New Orleans, a town famous for Mardi Gras, police brutality, and a drink called the Hurricane. It&rsquo;s easy to campaign for Nader in the Bay Area, where a mayor who publicly performs gay marriages is charged with not being liberal enough, but the rest of the country won&rsquo;t even consider a candidate who&rsquo;s against the death penalty.</p>
+
+<p>Right now, I&rsquo;m at Chris&rsquo;s house in Atlanta, drinking beer and celebrating. He lives alone, and his place is barren: hardwood floors, a couple of chairs, a smattering of books on the shelves &mdash; in other words, just like my place, only bigger. But then, I&rsquo;m twenty-eight, and Chris is forty-seven. When I&rsquo;m older, perhaps I&rsquo;ll have a big, naked house in a city with mosquitoes, an eighteen-lane superhighway, and its own cable television network.</p>
+
+<p>I&rsquo;m not sure why we&rsquo;re celebrating. Nader is being blamed for propelling Bush toward the White House, and the Democrats are stalking the Greens in angry mobs and beating us senseless with tire irons. Some of Nader&rsquo;s old crew are accusing him of giving back all of the gains progressives have made. Others are crying betrayal because Nader is campaigning in crucial swing states where Gore is afraid to come out in favor of gun control for fear of pissing voters off. But, truth be told, I don&rsquo;t know what progressive gains people are talking about when they squeal betrayal. This is the same kind of thinking that put Nixon in the White House back in 1968, when the Democrats ran that hack Humphrey. Now the Democrats are fielding a candidate who is pro-death penalty, pro-military, and pro-big business; who voted pro-life for most of his political career; and who has the integrity of a tobacco executive. Yesterday, the President took a break from campaigning for his wife to tell the major papers that there was, in fact, a difference between Al Gore and George Bush. This was such big news that it made the front page of today&rsquo;s <em>New York Times</em>. All I&rsquo;m trying to say is that, if and when the Democrats are beaten silly by someone who can&rsquo;t pronounce &ldquo;Milosevic,&rdquo; it will be their own damn fault, not the Greens&rsquo;. Next time they will be forced to field a candidate with character.</p>
+
+<p>&nbsp;</p>
+
+<p><strong><span class="smallcaps">October 24</span></strong><br />
+I should mention that I really like my van-mate Chris. He&rsquo;s a total freak, and I wouldn&rsquo;t trust him within ten feet of anybody I care about &mdash; especially now, as he dances around his living room in shorts, sandals, and a big winter jacket with a bottle of beer tilted up to his lips. Still, the man is a true revolutionary. He&rsquo;s ready to blow up everybody. Compared to him, I&rsquo;m a moderate. Real violence makes me shiver like a newborn kitten in a tub full of ice water, but Chris wants to go all the way. He invites me to an International Socialist Organization meeting in Athens so I can read them the piece I wrote about Texas Republicans&rsquo; being guilty of murder. His favorite phrase is &ldquo;Why stop there?&rdquo; He also likes to say, &ldquo;That&rsquo;s not good enough,&rdquo; which is great when you&rsquo;re dealing with people who are trying to screw you over. I&rsquo;m more inclined to say, &ldquo;That&rsquo;s <span class="smallcaps">OK</span>. We&rsquo;ll work it out,&rdquo; but Chris barks into the phone, &ldquo;We will skin you like a jack rabbit and hang your carcass from the nearest telephone pole as a reminder to your friends and family!&rdquo; Yes, Chris is a good guy. I joke with him that he has what psychiatrists call &ldquo;anger.&rdquo;</p>
+
+<p>&ldquo;Maybe,&rdquo; he replies, &ldquo;or maybe it&rsquo;s something else altogether.&rdquo;</p>
+
+<p>When Chris first got married, he was afraid of dying, but now that his wife won&rsquo;t talk to him, he&rsquo;s not afraid to die anymore. I love this guy. And he loves me. And if the opportunity ever arose, I know he would take a bullet for me, and he knows that I would lay flowers on his grave.</p>
+
+<blockquote class="quote-1 large">
+<p>It&rsquo;s easy to campaign for Nader in the Bay Area, where a mayor who publicly performs gay marriages is charged with not being liberal enough, but the rest of the country won&rsquo;t even consider a candidate who&rsquo;s against the death penalty.</p>
+</blockquote>
+
+<p><strong><span class="smallcaps">October 25</span></strong><br />
+Being surrounded by serious politicos like Chris has affected the way I think. For example, when Chris tells me there is a forum on the death penalty tonight at a local church, I jump in the van and head down. Normally, I would&rsquo;ve been too busy surfing the Internet or playing ping-pong, but politics has gotten into my lungs until it is nearly impossible to breathe.</p>
+
+<p>Prison reform is the main reason I started campaigning for Nader. As a rebellious kid living on the streets of Chicago, I was harassed by overgrown high-school bullies in police uniforms. They beat me and locked me up for three months. Living in group homes in all-black neighborhoods, I learned that if a cop wants to stop and search you, he can always find a reason. And anybody who thinks black people are not stopped and searched without cause more often than white people doesn&rsquo;t know any black people. I&rsquo;m a short white guy, but I still have a very real, deep-seated fear that I am going to be arrested again someday.</p>
+
+<p>The first speaker is a woman who saw her father murdered and was herself stabbed in the head, but lived. She went to court and pleaded for the life of her father&rsquo;s killer. Her daddy was a preacher, and she carries around a Bible with the killer&rsquo;s name engraved on the cover. She asks everybody she meets to sign the Bible. She intends to give it to her father&rsquo;s killer one day.</p>
+
+<blockquote class="quote-1 large">
+<p>All I&rsquo;m trying to say is that, if and when the Democrats are beaten silly by someone who can&rsquo;t pronounce &ldquo;Milosevic,&rdquo; it will be their own damn fault, not the Greens&rsquo;. Next time they will be forced to field a candidate with character.</p>
+</blockquote>
+
+<p><strong><span class="smallcaps">October 26</span></strong><br />
+First thing this morning, the Georgia Reform Party is endorsing Ralph Nader on the steps of the state capitol in Atlanta. This is a big deal. Ten of us show up waving signs, but the press is down the street interviewing the <span class="smallcaps">CEO</span>s of Coca-Cola and Krispy Kreme. Angry, we pack up our signs and head over. The press conference has ended, but we stick our signs into any photo opportunities. The important press people are all boarding a large <span class="smallcaps">CNBC</span> bus with tinted windows. A spokeswoman for Krispy Kreme gives us two leftover boxes of doughnuts, and I step up to the microphone and loudly announce, &ldquo;Krispy Kreme has decided to endorse Ralph Nader for president and has donated two boxes of doughnuts to his campaign!&rdquo; But I&rsquo;m too late. The buses are pulling away. There&rsquo;s no one left but a handful of electricians and ten lunatics waving green flags at the darkened windows of the departing vehicles.</p>
+
+<p>Then it&rsquo;s on to Athens, Georgia, for a blowout Green meeting. A Unitarian minister has made Nader/LaDuke <span class="smallcaps">T</span>-shirts that say, <span class="smallcaps">GOD BLESS AMERICA</span>. A woman with curly blond hair starts crying. She says she took part in an Indian ceremony with Winona LaDuke and that &ldquo;God bless America&rdquo; is an insult to LaDuke&rsquo;s Native American spirituality. The minister replies that the shirts represent <em>his</em> beliefs and that <em>he</em> paid for them and is giving them away to<em> his</em> friends, but the woman with the tight blond curls won&rsquo;t stop crying. She tells everyone how she rode in a car with Winona and prayed with Winona in a very Native American way. She says the Christian god is an ugly, evil god, responsible for the Inquisition, genocide, and the subjugation of the Third World.</p>
+
+<p>Suddenly a booming voice fills the room, and I wonder if the winds of heaven are coming down to sweep the tiny town of Athens from the map. But it is just the minister shouting into the microphone. He will burn the shirts, he says. They mean nothing compared to the respect he has for the woman with the curly hair. He cries and holds the woman, preaching love and togetherness. She cries, too. The girls in the corner start crying. The guy with the ponytail who offered us a joint earlier starts crying. Of the thirty people in the room, fifteen are crying. I wonder if I should cry, but I don&rsquo;t.</p>
+
+<p>&nbsp;</p>
+
+<p><strong><span class="smallcaps">October 27</span></strong><br />
+This afternoon, we visit the Gore campaign&rsquo;s national headquarters, where a volunteer comes out and pleads with us in front of the news cameras to change our minds. Another Democratic worker tells us flat out that Nader is clearly the best candidate. The news reporter looks as if someone has just slipped a hand up her skirt.</p>
+
+<p>I&rsquo;m sleep deprived and angry. Aside from that, I&rsquo;m having the time of my life.</p>
+
+<p>&nbsp;</p>
+
+<p><strong><span class="smallcaps">October 28</span></strong><br />
+I talked to Washington today. The press is interested now because Nader is polling at 10 percent in the Pacific Northwest, where people are notorious for caring about trees. Gore has blown it by running the most ridiculous campaign of all time. He has done everything wrong. Bush might be the most hated and feared man in the country, but he is looking better than Gore. Democrats are blaming Nader for Gore&rsquo;s drop in the polls. Gore needs to look inside himself. If he weren&rsquo;t such a noodle, there wouldn&rsquo;t have been a strong third-party challenge. Meanwhile, Buchanan doesn&rsquo;t pose a challenge on the Right because Bush is such a bloodthirsty bigot that the Republicans don&rsquo;t need Buchanan to quench their thirst. In other words, Gore has abandoned the progressive constituency, but Bush has held strong with the morons.</p>
+
+<p>I read an article today in the alternative media blasting Nader for not pulling out, and for not putting together any kind of coalition of blacks and laborers, which is true. The Greens are pretty much hippies and students and people who are too pissed off or crazy to vote for anyone else &mdash; dirty dope smokers, the whole lot of us. And nobody has ever been elected president on the strength of the dope-smoker vote.</p>
+
+<p>Tonight I&rsquo;m going to a lesbian gathering followed by a screening of the <em>Rocky Horror Picture Show</em>. And if I can find any acid, I&rsquo;m going to save it up for Election Day so that when the end begins, I can promptly blow my mind.</p>
+
+<p>&nbsp;</p>
+
+<p><strong><span class="smallcaps">October 29</span></strong><br />
+I wake up depressed and grab some coffee, still feeling bitter about having been intentionally abandoned last night by the Alabama Lesbian Coalition. Driving down 280 East to meet Chris in Montgomery, I see a sign for the Birmingham Zoo and take the next exit.</p>
+
+<p>The zoo is the perfect remedy for how I feel. Something about the sight of the baboon&rsquo;s pink naked ass rejuvenates my spirits. I leave again for Montgomery feeling stronger. After this, I&rsquo;m calling Washington to tell them to give up on Alabama. It&rsquo;s doomed.</p>
+
+<p>&nbsp;</p>
+
+<p><strong><span class="smallcaps">October 30</span></strong><br />
+Montgomery was a total failure. The organizer had us booked for a food court at the shopping mall, and we were immediately removed by two fat security guards, neither of whom belonged to a union.</p>
+
+<p>Now we&rsquo;re headed for Jackson, Mississippi, the largest city in the poorest state in the Union. First stop, a laundromat. Signs over the washers give the price of a wash and a quote from the Bible. A handful of locals hang out on benches drinking beers from paper bags at eight o&rsquo;clock in the morning &mdash; a natural Nader coalition if ever I saw one. But who&rsquo;s going to get them to the polls?</p>
+
+<p>The streets of downtown Jackson are practically empty, and the people who are left have never heard of Starbucks or the Internet. The <em>Lonely Planet Guide</em> says Jackson has a serious problem with suburban sprawl. People are fleeing the inner city, but if they go too far, they get eaten by alligators. The biggest problem I see is the proliferation of billboards supporting Senate Majority Leader Trent Lott. The billboards promise jobs and education to a state that has neither. Lott has been in office since 1988.</p>
+
+<p>&nbsp;</p>
+
+<p><span class="smallcaps"><strong>October 31, Halloween</strong></span><br />
+For Halloween, I dress as a man lying in a strange bed with a remote in his right hand trying and failing to stay up long enough to watch Ralph Nader on <em>Nightline</em>. For Halloween, Ralph Nader dresses as a presidential candidate. Al Gore dresses as a man of integrity. George Bush dresses as a compassionate conservative. Bush&rsquo;s costume wins first place because he actually fools people.</p>
+
+<p>&nbsp;</p>
+
+<p><span class="smallcaps"><strong>November 1</strong></span><br />
+&ldquo;There&rsquo;s nothing &lsquo;green&rsquo; about being for Gore,&rdquo; Chris says. We&rsquo;re talking about the recent defection of Green Party members to the Gore camp in California and Oregon. The defectors say the price of voting for Nader is too high. Stephan from the Northwest van has just called to say they&rsquo;re giving up and burning down the fort. Infighting is tearing us apart. We&rsquo;re a small, underfunded group of freaks, hippies, tree-huggers, socialists, libertarians, and lonely women who squat in the woods and hide their children from the government. Of course we are unorganized.</p>
+
+<p>&ldquo;I can&rsquo;t understand a Green voting for Gore,&rdquo; Chris says. &ldquo;I thought we were building a third party.&rdquo;</p>
+
+<p>Easy enough to say in Louisiana, where Bush is sure to win, but in Oregon, the feds are burning a path through the dope fields and the Democrats are angry and the environmentalists are slitting their wrists in the redwood forests and everyone is lashing out. You can hear the anger. It&rsquo;s the sound of oil drills in the Arctic Preserve. The pitter-patter of private-school vouchers and the crumbling of the public schools. The rockets whistling overhead. The spoons rattling in the prison cells. The gathering hum of one in three black males between the ages of twenty and thirty. The gavel cracking on the bench as federal review of capital-punishment cases is overturned. The snap as the unions are broken. The silence of school prayer. The thunder of <span class="smallcaps">NAFTA</span>&rsquo;s wheels rolling over American environmental law. Universal healthcare is dead, and they&rsquo;re searching our urine with flashlights for the drugs we might have done last night. But maybe we deserve this world. After all, we did create it.</p>
+
+<blockquote class="quote-1 large">
+<p>A handful of locals hang out on benches drinking beers from paper bags at eight o&rsquo;clock in the morning &mdash; a natural Nader coalition if ever I saw one. But who&rsquo;s going to get them to the polls?</p>
+</blockquote>
+
+<p><strong><span class="smallcaps">November 3</span></strong><br />
+We are in Houston, staying with David, the head of the Texas Green Party, and preparing to take on big oil: Exxon, Mobil, Texaco, and George Bush. I think we should make signs for our visit to Exxon: <span class="smallcaps">CONSERVATIVES FOR THE ENVIRONMENT.</span> After all, conservatives breathe, too &mdash; through their gills. Then again, I used to be engaged to a girl from Houston, so maybe instead I&rsquo;ll make a sign that reads, <span class="smallcaps">PLEASE TAKE ME BACK</span>.</p>
+
+<p>At 10<span class="smallcaps"> A.M.</span>, we show up at Harris County Republican headquarters, where we are met by Channel 11. We burst into the office and demand they cease taking corporate contributions immediately. &ldquo;Are you allowed to be here?&rdquo; asks an eighty-year-old man stuffing envelopes with crooked fingers.</p>
+
+<p>&ldquo;We are,&rdquo; I say, &ldquo;until you ask us to leave.&rdquo;</p>
+
+<p>&ldquo;Oh, well, humph,&rdquo; he mumbles into the envelopes. He seems to have already forgotten our exchange. I stand between two life-sized cutouts of ex-Presidents George Bush and Ronald Reagan. If only I had brought my camera. &ldquo;I&rsquo;ll get Michael,&rdquo; a little old woman says, ambling toward the rear offices.</p>
+
+<p>When Michael comes out, we peacefully explain our position to him. He listens thoughtfully, then says, &ldquo;You know, it&rsquo;s already illegal for a candidate to accept money from a corporation. The reforms you are asking for already exist.&rdquo; He enunciates every word and smiles broadly for the camera. He sounds so reasonable that for a second I think maybe he&rsquo;s right. I might as well throw in the towel and go home. But wait! If Bush isn&rsquo;t taking money from corporations, then where exactly did he get the $200 million he&rsquo;s spent? And then I remember: soft money, <span class="smallcaps">PAC</span>s. This bastard Michael has momentarily stunned me with his twisted reasoning, but now Chris and I lay into him. &ldquo;I&rsquo;m sleeping with your daughter,&rdquo; I tell Michael. &ldquo;Your grandchildren will listen to hip-hop and wear earrings and steal your prescription drugs.&rdquo; It doesn&rsquo;t matter, though; the microphone is off.</p>
+
+<p>&nbsp;</p>
+
+<p><strong><span class="smallcaps">At noon,</span></strong> the local Warner Brothers station meets us in front of Exxon. The whole Green Party crew is in attendance. A police officer tells us if we block the sidewalk we will be arrested. I ask him to define &ldquo;blocking the sidewalk,&rdquo; and he says it&rsquo;s a gray area, &ldquo;open to interpretation.&rdquo; He&rsquo;s in full uniform &mdash; badge, gun, the whole bit &mdash; and apparently has no other job but to protect Exxon&rsquo;s headquarters. Is he on the corporate payroll? The thought of a public officer in full uniform working directly for a corporation kills something deep inside of me. Every time this cop gets a paycheck, a fairy loses its wings.</p>
+
+<p>The <span class="smallcaps">TV</span>-news reporter wants to know our story. He levels the camera, adjusts the mike. The rain is coming down pretty heavy, and I raise my collar and look up into the cold gray sky. &ldquo;Well,&rdquo; I begin, &ldquo;I was engaged once to a girl from Houston.&nbsp;.&nbsp;.&nbsp;.&rdquo;</p>
+
+<blockquote class="quote-1 large">
+<p>Universal healthcare is dead, and they&rsquo;re searching our urine with flashlights for the drugs we might have done last night. But maybe we deserve this world. After all, we did create it.</p>
+</blockquote>
+
+<p><strong><span class="smallcaps">November 4</span></strong><br />
+I stumble into the Texas Green Party headquarters at 8 <span class="smallcaps">A.M.</span>, hung over from a night in the Houston wilderness, but otherwise feeling much better. Dancing and liquor and live jazz and new people and even cowboy hats can all be good for the soul.</p>
+
+<p>We talk about the mad celebrations we will have in a few days when Nader gets 5 percent of the vote, how we will dance in the streets naked, but organized. Our new progressive power structure will turn the nuclear weapons into glow sticks that last for a thousand years, and we&rsquo;ll drop acid and play peacefully with them for the rest of our lives. We&rsquo;re going to pardon Gore and Bush for their transgressions and then exile them to Cuba, the way Castro sent us all of his criminals. We&rsquo;re going to make the oil companies scrub the skies over Houston until they are looking-glass clear, and the stars of Texas will shine during our victory parade.</p>
+
+<p>As we leave for Lafayette, Louisiana, I lean back in the passenger seat and think, <em>Nothing wrong with Texas, even if a girl from there did once break my heart.</em></p>
+
+<p>&nbsp;</p>
+
+<p><strong><span class="smallcaps">November 6</span></strong><br />
+The day before the election finds us standing in sheets of rain, picketing New Orleans City Hall. The <span class="smallcaps">TV</span> reporters want to know what it is that has us so mad we are willing to stand in the rain. What, indeed. I tell them New Orleans is noted to be the most corrupt major city in America. Afterward, Chris asks me why I&rsquo;m always the one who gets to talk to the reporter. I tell him it is because I am better-looking and more articulate. &ldquo;You&rsquo;d scare them,&rdquo; I say.</p>
+
+<p>Later, at Loyola and Tulane, God is still pissing on us for our indiscretions. We are attacked by angry Democrats, but we are angry as well. We challenge them to give us one good reason to vote for Gore &mdash; other than the fact that George Bush is a not-so-distant relative of Hitler.</p>
+
+<p>&nbsp;</p>
+
+<p><strong><span class="smallcaps">November 7, Election Day</span></strong><br />
+A cold blue dawn.</p>
+
+<p>Last night, emasculated, beaten down, ridiculed, and fed up, I waded out into a Democratic rally in front of Gore headquarters, a green speck in a sea of white and blue. They yelled at me, and I yelled back. More Greens came over, and things got tense. Nothing happened, though, except a ten-year-old Gore supporter rubbed paint on someone&rsquo;s back.</p>
+
+<p>I&rsquo;ve been standing for hours on the corner in front of Green Party headquarters. It&rsquo;s almost noon, and the local organizer has not arrived yet. Chris has not arrived with the van either, so I&rsquo;m left standing in the intersection with my Nader sign. A guy with a broken tooth walks by wearing a Gore/Lieberman shirt and laughs at me. Another guy in a shirt and tie driving a Mercedes cuts real close to me and gives me the finger.</p>
+
+<p>Chris shows up and drives me over to Bush headquarters, where I begin to picket. Outside, I meet a Bush supporter named Tracy who aspires to be a broadcast journalist. She is the color of coffee with cream. Seeing my sign, she says she&rsquo;s glad it&rsquo;s a free country. I tell her that it&rsquo;s not a free country for the 5 percent of people in Texas who are sitting in jail. She replies that Texas is a big state with a lot of people. I ask if she knows the difference between real numbers and percentages. Tracy says you can&rsquo;t pick your president based on one issue. I tell her Texas has a lot of pollution, too. She says the pollution comes from Mexico. She tells me she voted for Bush this morning and will sleep well tonight. She says people who work hard for their money have a right to be rich.</p>
+
+<p>&ldquo;A billion dollars?&rdquo; I ask.</p>
+
+<p>&ldquo;If you work hard all of your life,&rdquo; she replies.</p>
+
+<p>I tell her I worked hard once for six months. Surely I&rsquo;m entitled to a million.</p>
+
+<p>Chris pulls up in the van and says, &ldquo;C&rsquo;mon, let&rsquo;s go hit the polling place.&rdquo;</p>
+
+<p>&ldquo;Just a minute,&rdquo; I tell him. I turn back to Tracy. &ldquo;You know, Tracy, there&rsquo;s a lot of information out there for people who don&rsquo;t know any better. You should educate yourself.&rdquo; She laughs. She has exceptionally white teeth. We shake hands, and her fingers are soft.</p>
+
+<p>Every day I become more convinced of the relationship between politics and sex. The word from D.C. headquarters is that an orgy has erupted; everyone in the office is hooking up: quickies in the bathroom on P Street, blow jobs on Dupont Circle. Hearts are broken almost daily as the volunteers look to each other with large, young, idealistic eyes. I haven&rsquo;t thought this much about sex since Mrs. Scott taught my seventh-grade class. Ahhh, Mrs. Scott .&nbsp;.&nbsp;.</p>
+
+<p>After lunch, the local Green Party coordinator is gone, and the door is locked. Chris has disappeared again. I open the office and then march back and forth out front with my sign. Three little black kids join me. It starts to rain. The kids wash themselves in the rain with the Nader Corporate Influence Clean-Up Soap. Then they yell and fight and jump in puddles. They ask me about the politicians who are running. I tell them Bush hates black people. They ask if Gore is better than Bush, and I admit that he is. So why vote for Nader? they want to know. &ldquo;Do you know any people in prison?&rdquo; I ask. They say yes. I tell them that if Nader were President, they wouldn&rsquo;t know so many people in prison.</p>
+
+<p>A homeless guy stops on the corner, and the children push over his shopping cart and run away. He says to them, &ldquo;I&rsquo;m not mad at you. I fight fire with water.&rdquo; I apologize for the kids. &ldquo;That&rsquo;s all right,&rdquo; he says. &ldquo;They&rsquo;re not yours.&rdquo; Then he offers me some ice cream he got from Bush headquarters and ambles away.</p>
+
+<p>The kids come back and want to know if they can have some bumper stickers. I give them a stack of Nader/LaDuke bumper stickers, and they run off to play &ldquo;sticker the window.&rdquo;</p>
+
+<p>Bored, I head back to Bush headquarters. Tracy is gone. She has been replaced by young girls in pleated skirts and testosterone-charged high-school wrestlers with veins popping out on their necks. The boys talk of hate, of going down to Gore headquarters and stabbing people in the face. They are the worst America has to offer: sociopathic and deranged with hatred and greed. When a car with a Gore/Lieberman sticker pulls up, they swarm it, kicking the sides and the tires. Fox News films the chaos. Why save the world for these people?</p>
+
+<p>&nbsp;</p>
+
+<p><span class="smallcaps"><strong>The polls have closed. </strong></span>There&rsquo;s nothing to do now except watch the returns in some filthy highway bar outside the city, where the local Greens have gathered. I&rsquo;m on my second beer and watching one of three fuzzy <span class="smallcaps">TV</span>s filled with the image of red, white, and blue states. The proprietor has set out plates of tiny roast-beef-sandwich squares and sausage slices smothered in barbecue sauce. The Greens all hover around the <span class="smallcaps">TV</span> sets with their drinks. Brad loops his arms around Kat, who has just come from her job stripping on Bourbon Street. Tonya cries. Jen tells me everything will be <span class="smallcaps">OK</span>. We should all be proud of ourselves, she says.</p>
+
+<blockquote class="quote-1 large">
+<p>She says people who work hard for their money have a right to be rich.</p>
+
+<p>&ldquo;A billion dollars?&rdquo; I ask.</p>
+
+<p>&ldquo;If you work hard all of your life,&rdquo; she replies.</p>
+
+<p>I tell her I worked hard once for six months. Surely I&rsquo;m entitled to a million.</p>
+</blockquote>
+
+<p><strong><span class="smallcaps">November 8, The Day After</span></strong><br />
+With the election too close to call, Jen and I hold hands and sleep. In the morning, the <span class="smallcaps">TV</span> news announcer says that a man was shot eleven times by the police while his arms were raised above his head. The weatherman predicts thunderclouds and a reign of terror. We&rsquo;re all nervous and upset. Nader did not get his 5 percent. He was the best man for the job, but nobody believed he could win.</p>
+
+<p>Did we do the right thing? Nader got 2 percent in Florida. We had a van working exclusively in that state. It&rsquo;s clear that if Bush wins, it will be by far less than the number of Green votes. Still, I believe that Gore cost himself the election. If he had made one show of integrity, it would have been enough: for example, if he&rsquo;d come out in favor of the death penalty, but called for a moratorium on executions until we were able to apply it fairly. Instead, Gore admitted that he thought there were innocent people on death row, but he supported continued executions anyway. He left no openings. The list is long: <span class="smallcaps">NAFTA</span>, Taft-Hartley, three-strikes laws, drug wars, universal healthcare, campaign-finance reform, ballot access, youths tried as adults, military spending, pollution. Even Gore&rsquo;s record on the Supreme Court was horrendous, having voted to confirm Justices Scalia and Thomas. But only time will show just how good or bad our decisions were.</p>
+
+<p>Now I have to decide what to do next. It&rsquo;s not as if I&rsquo;m going to become a good person after this. How much do I want to be a part of the Green Party, now that its tiny wheels are in motion? I could use that time to rock-climb, write poetry, do drugs, travel, watch movies, play ping-pong. I could even get a job. This is what I will be wrestling with as the haze lifts and I wake up. I think it&rsquo;s partly a question of compassion: should I bother trying to force compassion on an unwilling populace that has clearly lost its mind?</p>
+
+<p>Fortunately, Jen has the soundtrack to the movie <em>Grease</em>. We turn down the sound on the <span class="smallcaps">TV</span> news, where black leaders are lambasting the Greens for setting back affirmative action and sending the projects back to the plantation. When I was in second grade, I was in a<em> Grease</em> fan club with Sammy and Dave, two Hasidic Jews. Our parents laughed at the movie; they didn&rsquo;t understand the social relevance of the greasers&rsquo; triumph at the end. I slicked my hair back and wore a black plastic jacket and a white <span class="smallcaps">T</span>-shirt like John Travolta. Olivia Newton-John was the only woman I would ever love &mdash; still is.</p>
+
+<p>Now I crank up the sound as loud as it will go, waking everyone who&rsquo;s asleep on the floor in the next room. Frankie Valli sings, &ldquo;Grease is the word.&rdquo; Soon we are all singing. We dance around the house and throw socks. Rachel and I twist on the bed. Chris sings &ldquo;Greased Lightning&rdquo; with Jen. Angie and Jason &ldquo;go together like ramma lamma lamma a dingity dinga dong.&rdquo; We&rsquo;re so young, even forty-seven-year-old Chris. We&rsquo;re so incredibly young. Too young to give up.</p>
+														</div>
+
+
+				
+<div class="sharing-bar article-sharing">
+	<div class="sharing-bar-first">
+		<a href="javascript:window.print();" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-printer"></use></svg> <span>Print</span></a>
+	</div>
+
+	<div class="sharing-bar-second">
+		<span class="alt-ff xsmall">Share:</span>
+		<a href="https://www.facebook.com/sharer/sharer.php?u=https://www.thesunmagazine.org/issues/302/bamboozled" target="_blank" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-facebook"></use></svg> <span>Facebook</span></a>
+		<a href="https://twitter.com/share?url=https://www.thesunmagazine.org/issues/302/bamboozled&amp;via=thesunmagazine" target="_blank" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-twitter"></use></svg> <span>Twitter</span></a>
+		<a href="#" class="b b-1 b-padding-tight xsmall js-toggle-mail-form"><svg><use xlink:href="#i-email"></use></svg> <span>Email</span></a>
+	</div>
+</div>
+
+<div class="send-to-friend-message-container">
+	<div class="alert alert-success xsmall">Thank you for sharing <em>The Sun</em>.</div>
+</div>
+
+<form method="post" action="/ajax/articles/send-to-a-friend" class="form fill-grey send-to-friend-form">
+		<input type="hidden" id="form_url" name="form[url]" value="https://www.thesunmagazine.org/issues/302/bamboozled" />
+
+	<ul class="form-fields">
+		<li><label for="form_sender_name"><span class="label-text">Your Full Name</span><span class="label-asterisk">*</span></label><input type="text" id="form_sender_name" name="form[sender_name]" required="required" /></li>
+		<li><label for="form_sender_email"><span class="label-text">Your Email Address</span><span class="label-asterisk">*</span></label><input type="email" id="form_sender_email" name="form[sender_email]" required="required" /></li>
+		<li><label for="form_recipient_name"><span class="label-text">Friend’s Name</span><span class="label-asterisk">*</span></label><input type="text" id="form_recipient_name" name="form[recipient_name]" required="required" /></li>
+		<li><label for="form_recipient_email"><span class="label-text">Friend’s Email Address</span><span class="label-asterisk">*</span></label><input type="email" id="form_recipient_email" name="form[recipient_email]" required="required" /></li>
+		<li><label for="form_message"><span class="label-text">Personalized Message</span></label><textarea id="form_message" name="form[message]"></textarea></li>
+	</ul>
+<div class="send-to-friend-message-container">
+	<div class="alert alert-error xsmall">Something went wrong. Please try again.</div>
+</div>
+
+<div class="g-recaptcha" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs"></div>
+<div class="form-actions"><button type="submit" id="form_submit" name="form[submit]"	class="form-actions-b-primary b b-1 b-loading xsmall"><svg><use xlink:href="#i-loading"></use></svg>
+		Submit
+	</button></div>
+<input type="hidden" id="form__token" name="form[_token]" value="64083ac97741d9c43eaad1127e997ebce9d3fbc2" /></form>
+
+<br>
+
+
+
+										<footer class="article-contributor contributors">
+									
+
+<div class="block-contributor">
+		
+
+		<div class="block-contributor-content">
+		<div class="block-contributor-bio small">
+			<p><strong><span class="smallcaps">Stephen Elliott</span></strong> is the author of two books, <em>Jones Inn</em> (Boneyard Press) and <em>Don&rsquo;t Make Me Hate You </em>(iUniverse). He left home at thirteen and has worked as a stripper, a cabdriver, a bartender, and a marketing executive. He avoids small children and long-term relationships. He lives in San Francisco.</p><a href="/contributors/stephen-elliott" class="block-contributor-link link-alt small">More From This Contributor&nbsp;&#9656;</a>		</div>
+	</div>
+</div>
+
+							</footer>
+						</article>
+
+
+				    <div class="paywall-subscription block-product">
+			<div class="columns">
+			<div class="paywall-banner span3 cta cta-l1">
+				<div class="cta-intro">
+					<h5 class="cta-title alt-ff">One Free Selection Left </h5>
+					<p class="cta-text xsmall"><a class="link-alt" href="https://www.thesunmagazine.org/subscriber/login" data-label="Already a subscriber?">Already a subscriber? Sign in ▸</a><br><br>Read two free selections from <em>The Sun</em> each month.</p>
+				</div>
+			</div>
+			<div class="paywall-banner span9 note note-1 text-center">
+				<h4 class="cta-title alt-ff">Subscribe to <em>The Sun</em> and save 45%</h4>
+				<p class="cta-text xsmall">Subscribers get full access to the current issue and more than 40 years of archives.</p>
+				<a class="b b-1 xsmall cta-trigger"  href="/subscribe1" data-label="Subscribe" data-ctatitle="Subscribe">Subscribe</a>
+			</div>
+		</div>
+
+		<div class="columns">
+			<div class="span12 paywall-cta-bottom">
+				<p>
+					<span class="cta-title-issue">Buy the February 2001 issue for $5.95</span>
+					<span class="xsmall">Order now to get instant access to this issue, and we’ll also send you a print copy.</span>
+					<a class="b b-5 xsmall corona"  href="#" data-product-type="issues" data-id="302" data-label="Order Now ▸">Order Now ▸</a>
+				</p>
+			</div>
+		</div>
+
+		
+
+</div>
+	
+	
+	
+	<div class="spacer"></div>
+	
+
+
+
+			<div class="article-correspondence layout-item fill-pattern-light">
+		<div class="layout-item-intro">
+			<h2>Correspondence</h2>
+			<a class="xsmall link-alt" href="https://www.thesunmagazine.org/letter-to-the-editor">Write a Letter to the Editor&nbsp;&#9656;</a>
+		</div>
+
+		<div id="article-correspondences" class="correspondences correspondences-collapsed">
+								<div class="block-correspondence" id="2249">
+		<blockquote class="quote-2">
+			<p>Stephen Elliott&rsquo;s &ldquo;<a href="/article/753">Bamboozled: Dispatches from the Nader Campaign</a>&rdquo; [February 2001] helped fill the gap in mainstream journalism&rsquo;s coverage of Ralph Nader&rsquo;s and the Green Party&rsquo;s role in the last presidential election. Thank you for a welcome glimpse into a small part of history, and for an article so entertainingly written.</p>
+							<p class="quote-2-author">Chuck Joy<br>Erie, Pennsylvania</p>
+					</blockquote>
+	</div>
+
+								<div class="block-correspondence" id="2250">
+		<blockquote class="quote-2">
+			<p>Stephen Elliott&rsquo;s journal entries about campaigning for Ralph Nader shed some light on why Nader&rsquo;s bid was so unsuccessful: sneering condescension and New Age machismo are not the most effective campaign tactics.</p>
+
+<p>As a college-age woman, I can say that, had I been confronted with a &ldquo;short white guy&rdquo; in a janitor&rsquo;s uniform who ogled me (carefully noting whether or not I was wearing a bra), consistently referred to me as a &ldquo;girl,&rdquo; and fed me tired and obvious exaggerations (Bush is a &ldquo;not-so-distant relative of Hitler&rdquo;; Gore a &ldquo;compulsive liar&rdquo;), I might have been a little reluctant to vote for his candidate. Fortunately, I watched Nader on <span class="smallcaps">TV</span> and got a better impression.</p>
+							<p class="quote-2-author">Ellen Garrison<br>Brooklyn, New York</p>
+					</blockquote>
+	</div>
+
+					</div>
+
+				<div class="text-center">
+			<button class="b b-1 xsmall js-b-readmore-correspondence" data-collapsible="#article-correspondences" data-label="Read More Letters">Read More Letters</button>
+		</div>
+			</div>
+    
+		<div class="article-correspondence-cta">
+		<div class="cta cta-l1" data-url="https://www.thesunmagazine.org/letter-to-the-editor">
+			<div class="cta-intro">
+				<h5 class="cta-title alt-ff">Thinking about writing us a letter?</h5>
+				<p class="cta-text">Give in to the temptation. We love getting mail. <br><span class="xsmall">(Of course, we reserve the right to edit.)</span></p>
+			</div>
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" class="cta-button b b-4 b-padding-tight small" data-label="Write Us A Letter!">Write Us A Letter!</a>
+		</div>
+	</div>
+	
+
+			<div class="article-also layout-item-large full-bar fill-grey-mid-light">
+		<div class="layout-item-intro">
+			<h2>Also In This Issue</h2>
+			<a href="/issues/302" class="xsmall link-alt">February 2001&nbsp;&#9656;</a>
+		</div>
+		<div class="issue-articles-l1">
+			<div class="issue-articles-l1-content1">
+				
+<div class="cover cover-l1 block-product">
+	<div>
+							<a href="/issues/302" class="cover-thumb">
+				
+				<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 725'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/281x364r/import/issue/302.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/562x728r/import/issue/302.jpg
+	 alt=""
+	 class="lazy">
+
+			</a>
+		
+
+													<!-- <a href="/issues/302" data-product-type="issues" data-id="302" data-role="order" class="js-buy-single corona cover-button b b-1 b-full xsmall" data-label="Buy This Issue &#9656;">
+								Buy This Issue&nbsp;&#9656;
+			</a> -->
+			<a href="/issues/302" data-product-type="issues" data-id="302" class="js-buy-single corona cover-button b b-1 b-full xsmall" data-label="Buy This Issue &#9656;">
+								Buy This Issue&nbsp;&#9656;
+			</a>
+					
+					</div>
+</div>
+			</div>
+			<div class="issue-articles-l1-content2">
+				<div class="articles-l3">
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/fiction">Fiction</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/302/outlaws">Outlaws</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/john-fulton">John Fulton</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/poetry">Poetry</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/302/baghdad-arizona">Baghdad, Arizona</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/john-herschel">John Herschel</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/sy-safranskys-notebook">Sy Safransky&#039;s Notebook</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/302/sy-safranskys-notebook-302">February 2001</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/sy-safransky">Sy Safransky</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/302/the-slave-chair">The Slave Chair</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/sue-monk-kidd">Sue Monk Kidd</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+									</div>
+			</div>
+		</div>
+	</div>
+	
+
+			<div class="article-related layout-item-large full-bar fill-pattern-light">
+		<div class="layout-item-intro">
+			<h2>Related Selections</h2>
+			<ul class="list-inline list-inline-tight"><li><a href="/topics/government" class="xsmall link-alt link-text">Government</a></li><li><a href="/topics/democracy" class="xsmall link-alt link-text">Democracy</a></li><li><a href="/topics/travel" class="xsmall link-alt link-text">Travel</a></li><li><a href="/topics/cities" class="xsmall link-alt link-text">Cities</a></li><li><a href="/topics/counterculture" class="xsmall link-alt link-text">Counterculture</a></li></ul>		</div>
+
+		<div class="articles-l2">
+							
+
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/photography">Photography</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/514/displaced-persons">Displaced Persons</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							Photos By <a href="/contributors/clemens-kalischer">Clemens Kalischer</a></li><li><a href="/issues/514">October 2018</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/514" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 727'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/140x182r/2018-09/514.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/2018-09/514.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/quotations">Quotations</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/462/sunbeams-462">Sunbeams</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li><a href="/issues/462">June 2014</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/462" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 727'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/140x182r/import/issue/462.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/import/issue/462.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/quotations">Quotations</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/394/sunbeams-394">Sunbeams</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li><a href="/issues/394">October 2008</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/394" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 727'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/140x182r/import/issue/394.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/import/issue/394.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/40/angel-at-the-gate">Angel At The Gate</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a href="/contributors/david-guy">David M. Guy</a></li><li><a href="/issues/40">December 1978</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/40" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 555 728'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/139x182r/import/issue/040.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/278x364r/import/issue/040.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+					</div>
+	</div>
+	
+	
+					<form id="newsletterForm" method="post" action="https://www.thesunmagazine.org/newsletter" data-url-send="https://www.thesunmagazine.org/newsletter" class="form form-newsletter fill-grey" enctype="multipart/form-data" target="_blank">
+
+
+
+		<div class="form-newsletter-intro">
+			<h3 class="alt-ff large">Sign Up For Our Newsletter</h3>
+			<p>We’ll let you know about new website selections, upcoming events, special offers, and more.</p>
+		</div>
+
+		<ul class="form-newsletter-fields form-fields form-fields-inline">
+			<li>
+				<input name="name" type="text" maxlength="500" id="name" placeholder="Your Name">
+			</li>
+			<li>
+				<input name="email" type="text" maxlength="500" id="email" placeholder="Your E-mail">
+			</li>
+
+			<li class="form-fields-inline-button">
+				<button disabled="disabled" class="form-newsletter-send b b-4 b-padding-tight b-loading g-recaptcha" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs" data-callback="recaptcha_callback" name="SubmitButton" id="SubmitButton">
+					<svg><use xlink:href="#i-loading"></use></svg>
+					Sign&nbsp;Up
+				</button>
+			</li>
+		</ul>
+	</form>
+	<script id="hiddenlpsubmitdiv" style="display: none;"></script>
+
+
+
+<footer class="footer brand-grey-dark">
+			<div class="footer-first">
+		<h3 class="footer-tagline">Independent, Reader-Supported Publishing</h3>
+		<p class="footer-desc">In each issue of <em>The Sun</em> you’ll find some of the most radically intimate and socially conscious writing being published today. In an age of media conglomerates, we’re something of an oddity: an ad-free, independent, reader-supported magazine.</p>
+		<ul class="footer-nav list-inline-border xsmall">
+			
+		<li class=" first">
+			<a href="https://www.thesunmagazine.org/about" 	   class=''>
+	   About <em>the Sun</em>	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/staff" 	   class=''>
+	   Staff	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/find-the-sun" 	   class=''>
+	   Find <em>The Sun</em>&nbsp;&nbsp;in a Store Near You	</a>
+		
+	</li>
+
+
+		</ul>
+	</div>
+	
+		<div class="footer-second">
+		<ul class="footer-second-social list-inline">
+			<li><a href="https://www.facebook.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-facebook"></use></svg></span> Like Us</a></li>
+			<li><a href="https://twitter.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-twitter"></use></svg></span> Follow Us</a></li>
+			<li><a href="https://instagram.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-instagram"></use></svg></span> Take a Look</a></li>
+		</ul>
+
+		<div class="footer-second-content">
+			<ul class="footer-nav list-inline-border xsmall">
+				
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/" 	   class='current '>
+	   Home	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/privacy-policy" 	   class=''>
+	   Privacy Policy	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/terms-of-use" 	   class=''>
+	   Terms of Use	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/site-map" 	   class=''>
+	   Site Map	</a>
+		
+	</li>
+
+
+			</ul>
+			<p class="footer-copyright xxsmall">Copyright &copy; 1974–2020 <em>The Sun</em>. All rights reserved.</p>
+		</div>
+	</div>
+</footer>
+
+
+
+<div class="offset-nav">
+	<ul>
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/read" 	   class='current '>
+	   Read	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/issues/current" 	   class=''>
+	   Current Issue	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/archives" 	   class=''>
+	   Archives	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/featured" 	   class=''>
+	   Featured Selections	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/topics" 	   class=''>
+	   Browse Topics	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/sections" 	   class=''>
+	   Browse Sections	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/connect" 	   class=''>
+	   Connect	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/news" 	   class=''>
+	   News from <em>The Sun</em>	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" 	   class=''>
+	   Write a Letter to the Editor	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/discussion-groups" 	   class=''>
+	   Discussion & Writing Groups	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/make-a-suggestion" 	   class=''>
+	   Make a Suggestion	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/submit" 	   class=''>
+	   Submit	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/shop" 	   class=''>
+	   Shop	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/giftsub" 	   class=''>
+	   Gift Subscriptions	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/issues" 	   class=''>
+	   Issues	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+											
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/donatemenu" 	   class='highlight'>
+	   Donate	</a>
+		
+	</li>
+
+		<li class=" last">
+														<a href="/SubscribeNav1" 					   class=''>
+						Subscribe					</a>
+									
+	</li>
+
+
+					<li>
+				<a href="https://www.thesunmagazine.org/shop/cart">Cart ( <span class="cart-item-count">  0  </span>)</a>
+			</li>
+			<li><a href="https://www.thesunmagazine.org/subscriber/login" class="link-header-logout link-alt">Sign In</a></li>
+			</ul>
+	<ul>
+		<li class=" first">
+			<a href="https://www.thesunmagazine.org/about" 	   class=''>
+	   About <em>the Sun</em>	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/staff" 	   class=''>
+	   Staff	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/find-the-sun" 	   class=''>
+	   Find <em>The Sun</em>&nbsp;&nbsp;in a Store Near You	</a>
+		
+	</li>
+
+</ul>
+	<ul>
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/" 	   class='current '>
+	   Home	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/privacy-policy" 	   class=''>
+	   Privacy Policy	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/terms-of-use" 	   class=''>
+	   Terms of Use	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/site-map" 	   class=''>
+	   Site Map	</a>
+		
+	</li>
+
+</ul>
+</div>
+
+<div id="buy-popup-message" class="buy-popup mfp-hide white-popup white-popup-block">
+	<a class="popup-modal-dismiss" href="#"></a>
+	<h5>Due to fulfillment challenges related to the novel coronavirus, print copies are temporarily unavailable for individual sale. We are offering free PDFs until we are able to resume print sales.</h5>
+	<p>Enter your e-mail address below to download this issue.</p>
+	<form method="post" id="download-single" action="https://www.thesunmagazine.org/issue/pdfFree/531.pdf">
+		<label for="email"><span class="label-text">E-mail</span><span class="label-asterisk">*</span></label>
+		<input class="buy-single-email" id="email" type="email" name="email">
+		<button type="send" class="form-buy-issue-send b b-3 b-padding-tight b-loading">Send</button>
+		<button class="form-buy-issue-download b b-3 b-padding-tight b-loading">Download pdf</button>
+		<button type="send" class="popup-modal-dismiss b b-2 b-padding-tight b-loading">Close</button>
+		<div class="g-recaptcha" style="text-align: center" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs"></div>
+
+	</form>
+</div>
+
+			<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/plugins.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/site.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/newsletter.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/js/articles.js"></script>
+		</div>
+		</div>
+
+				<script>
+		(function (doc) {
+			var scripts = doc.getElementsByTagName('script');
+			var script = scripts[scripts.length - 1];
+			var xhr = new XMLHttpRequest();
+			xhr.onload = function () {
+				var div = doc.createElement('div');
+				div.innerHTML = this.responseText;
+				div.style.display = 'none';
+				script.parentNode.insertBefore(div, script);
+			}
+			xhr.open('get', '/theme/thesun//assets/build/img/sprite/sprite.svg', true);
+			xhr.send();
+		})(document);
+
+
+
+		</script>
+
+		<script>
+			// Submit function
+            function recaptcha_callback() {
+						var getUrl = $('.form-newsletter').data( "url-send" ),
+							getName = $('input#name').val(),
+							getEmail = $('input#email').val();
+						$.ajax({
+								type: "POST",
+								url: getUrl,
+								data: {
+									name: getName,
+									email: getEmail,
+									grecaptcharesponse: grecaptcha.getResponse()
+								}
+							}).done(function(response) {
+								console.log(response);
+									$('.form-fields').fadeOut(800, function () {
+										$('.form-fields').empty().append('<div class="newsletter-confirm-message">Thank you for signing up to receive news from <em>The Sun</em>. Your first newsletter will arrive soon.<div>').fadeIn(800);
+									});
+							});
+			}
+
+		</script>
+
+		<script>
+			function getUrlCode() {
+				var url_string = window.location.href;
+				var url = new URL(url_string);
+				var c = url.searchParams.get('promotion\_key');
+				if (typeof c !== 'undefined' && c !== null) {
+					setCookie("promotion_code",c);
+				}
+			}
+
+			function setCookie(cname, cvalue) {
+				document.cookie = cname + "=" + cvalue + ";" + "path=/";
+			}
+
+			function getCookie(cname) {
+				var name = cname + "=";
+				var decodedCookie = decodeURIComponent(document.cookie);
+				var ca = decodedCookie.split(';');
+				for(var i = 0; i <ca.length; i++) {
+					var c = ca[i];
+					while (c.charAt(0) == ' ') {
+						c = c.substring(1);
+					}
+					if (c.indexOf(name) == 0) {
+						return c.substring(name.length, c.length);
+					}
+				}
+				return "";
+			}
+			window.addEventListener( "load", getUrlCode );
+		</script>
+
+
+	</body>
+</html>

@@ -1,0 +1,1352 @@
+
+<!DOCTYPE html>
+<html class="no-js" lang="en-US">
+	<head>
+		<title>Suki - The Sun Magazine</title>
+
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		
+		<meta name="viewport" content="width=device-width, minimum-scale=1.0">
+
+		<link rel="dns-prefetch" href="//ajax.googleapis.com">
+		<link rel="dns-prefetch" href="//use.typekit.net">
+		
+		<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/modernizr.js"></script>
+		<script src="https://www.google.com/recaptcha/api.js"
+				async defer>
+		</script>
+
+		<script>(function(d) { var config = { kitId: 'kzw7ebk', scriptTimeout: 3000, async: true }, h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s) })(document);</script>
+
+
+				
+		<link rel="apple-touch-icon" sizes="57x57" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-57x57.png?v=2016">
+		<link rel="apple-touch-icon" sizes="60x60" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-60x60.png?v=2016">
+		<link rel="apple-touch-icon" sizes="72x72" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-72x72.png?v=2016">
+		<link rel="apple-touch-icon" sizes="76x76" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-76x76.png?v=2016">
+		<link rel="apple-touch-icon" sizes="114x114" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-114x114.png?v=2016">
+		<link rel="apple-touch-icon" sizes="120x120" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-120x120.png?v=2016">
+		<link rel="apple-touch-icon" sizes="144x144" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-144x144.png?v=2016">
+		<link rel="apple-touch-icon" sizes="152x152" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-152x152.png?v=2016">
+		<link rel="apple-touch-icon" sizes="180x180" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-180x180.png?v=2016">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-32x32.png?v=2016" sizes="32x32">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/android-chrome-192x192.png?v=2016" sizes="192x192">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-96x96.png?v=2016" sizes="96x96">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-16x16.png?v=2016" sizes="16x16">
+		<link rel="mask-icon" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/safari-pinned-tab.svg?v=2016" color="#444444">
+		<link rel="shortcut icon" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon.ico?v=2016">
+		<meta name="apple-mobile-web-app-title" content="The Sun Magazine">
+		<meta name="application-name" content="The Sun Magazine">
+		<meta name="msapplication-TileColor" content="#fcc330">
+		<meta name="msapplication-TileImage" content="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/mstile-144x144.png?v=2016">
+		<meta name="theme-color" content="#ffffff">
+
+				<link rel="stylesheet" type="text/css" href="https://cloud.typography.com/6578674/659928/css/fonts.css" />
+		<link rel="stylesheet" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/css/style.css">
+
+																		<meta property="og:site_name" content="The Sun Magazine">
+		<meta property="og:type" content="article">
+		<meta property="og:url" content="https://www.thesunmagazine.org/issues/382/suki">
+		<meta property="og:image" content="http://www.thesunmagazine.org/files/2016-09/382-18-frazier-preview.jpg">
+		<meta property="og:title" content="Suki - The Sun Magazine">
+		<meta property="og:description" content="I want to tell you about a cat &amp;mdash; a sublime creature entrusted to me in my youth &amp;mdash; that I allowed to die. There were extenuating circumstances, but there always are. I forgive myself nothing. She loved me, and I let her down. I committed a terrible crime.">
+		<meta property="fb:app_id" content="158741778010551">
+
+						<link rel="image_src" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.comhttp://www.thesunmagazine.org/files/2016-09/382-18-frazier-preview.jpg">
+
+												<meta name="twitter:card" content="summary">
+		<meta name="twitter:title" content="Suki - The Sun Magazine">
+		<meta name="twitter:description" content="I want to tell you about a cat &amp;mdash; a sublime creature entrusted to me in my youth &amp;mdash; that I allowed to die. There were extenuating circumstances, but there always are. I forgive myself nothing. She loved me, and I let her down. I committed a terrible crime.">
+		<meta name="twitter:image" content="http://www.thesunmagazine.org/files/2016-09/382-18-frazier-preview.jpg">
+		<meta name="twitter:site" content="@thesunmagazine">
+
+				<link rel="publisher" href="https://plus.google.com/113792980827145858211">
+        
+		<meta name="Description" content="I want to tell you about a cat &amp;mdash; a sublime creature entrusted to me in my youth &amp;mdash; that I allowed to die. There were extenuating circumstances, but there always are. I forgive myself nothing. She loved me, and I let her down. I committed a terrible crime.">
+
+		
+		<!-- Google Tag Manager -->
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-TKBHCCG');</script>
+		<!-- End Google Tag Manager -->
+
+		<!-- Google Analytics -->
+		<script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+            ga('create', 'UA-2351127-1', 'auto');  // Replace with your property ID.
+            ga('send', 'pageview');
+            ga('require', 'ecommerce');   // Load the ecommerce plug-in.
+		</script>
+		<!-- End Google Analytics -->
+	</head>
+	<body id="">
+
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TKBHCCG"
+		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+		<header class="header" data-offset-start="80">
+		<div class="header-utilities">
+				<ul class="header-utilities-user list-inline list-inline-tight xxsmall">
+							<li>
+					<span class="header-utilities-user-intro">Already A Subscriber?</span> &nbsp;
+					<a href="https://www.thesunmagazine.org/subscriber/login" class="link-text link-alt">Sign In</a>
+				</li>
+					</ul>
+		<a href="https://www.thesunmagazine.org/shop/cart" class="header-utilities-cart  link-alt link-icon tiny">
+			<span class="i"><svg><use xlink:href="#i-cart"></use></svg></span>
+			<span class="cart-item-count">
+									0 Items
+				
+			</span>
+		</a>
+			</div>
+
+		<div class="header-bar">
+		<h1 class="header-logo logo">
+			<a href="/">
+				<img src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/img/logo-thesun.svg" class="logo-thesun" alt="The Sun Magazine">
+				<img src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/img/logo-tagline.svg" class="logo-tagline" alt="">
+			</a>
+		</h1>
+
+		<ul class="header-nav">
+			
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/read" 	   class='current '>
+	   Read	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/issues/current" 	   class=''>
+	   Current Issue	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/archives" 	   class=''>
+	   Archives	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/featured" 	   class=''>
+	   Featured Selections	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/topics" 	   class=''>
+	   Browse Topics	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/sections" 	   class=''>
+	   Browse Sections	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/connect" 	   class=''>
+	   Connect	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/news" 	   class=''>
+	   News from <em>The Sun</em>	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" 	   class=''>
+	   Write a Letter to the Editor	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/discussion-groups" 	   class=''>
+	   Discussion & Writing Groups	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/make-a-suggestion" 	   class=''>
+	   Make a Suggestion	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/submit" 	   class=''>
+	   Submit	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/shop" 	   class=''>
+	   Shop	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/giftsub" 	   class=''>
+	   Gift Subscriptions	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/issues" 	   class=''>
+	   Issues	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+											
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/donatemenu" 	   class='highlight'>
+	   Donate	</a>
+		
+	</li>
+
+		<li class=" last">
+														<a href="/SubscribeNav1" 					   class=''>
+						Subscribe					</a>
+									
+	</li>
+
+
+		</ul>
+
+		<button class="header-nav-toggle"><svg><use xlink:href="#i-menu" class="i-menu"></use><use xlink:href="#i-close" class="i-close"></use></svg></button>
+		<button class="header-search-toggle" data-form-wrapper=".header-search"><svg><use xlink:href="#i-magnifier" class="i-magnifier"></use><use xlink:href="#i-close" class="i-close"></use></svg></button>
+	</div>
+
+		<div class="header-search">
+		<div class="header-search-content">
+			<form action="https://www.thesunmagazine.org/search" class="form form-search" method="get">
+				<h2 class="alt-ff brand-link">Search Our 40 Years of Archives</h2>
+				<ul class="form-search-fields form-fields form-fields-inline">
+					<li><input type="text" name="q" value=""></li>
+					<li class="form-fields-inline-button"><button class="b b-1 b-padding-tight b-loading"><svg><use xlink:href="#i-loading"></use></svg>Search</button></li>
+				</ul>
+
+				<div class="header-search-content-shortcuts">
+					<h6 class="search-advanced alt-ff"><a class="js-handle-advanced" href="https://www.thesunmagazine.org/search?advanced=1">Advanced Search</a></h6>
+					<br>
+					<h6 class="alt-ff">Popular Pages</h6>
+					<ul class="list-inline-border list-inline-tight xxsmall"><li class=" first"><a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a></li><li class=""><a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a></li><li class=""><a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a></li><li class=""><a href="https://www.thesunmagazine.org/sections/quotations" 	   class=''>
+	   Quotations	</a></li><li class=""><a href="https://www.thesunmagazine.org/sections/readers-write" 	   class=''>
+	   Readers Write	</a></li><li class=" last"><a href="https://www.thesunmagazine.org/sections/poetry" 	   class=''>
+	   Poetry	</a></li></ul>				</div>
+			</form>
+		</div>
+	</div>
+</header>
+
+	<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+	<script type="text/javascript">
+		$(document).ready(function() {
+			$('.js-handle-advanced').on('click', function (e) {
+				e.preventDefault();
+				var getSearchValue = $('.form-search-fields input').val();
+				var getURL = $(this).attr('href');
+				var newURL = getURL + '&q=' + getSearchValue;
+				window.location.href = newURL;
+			});
+		});
+	</script>
+
+		<div class="container-hidden">
+		<div class="container">
+
+				
+	
+	<article class="article ">
+		<header class="block-content block-content-l1 block-content-center">
+						<div class="block-content-header">
+				<h6 class="b-content-section heading-square"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+				<h1 class="block-content-title">Suki</h1>
+
+				
+				<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/varley-oconnor">Varley O’Connor</a></li><li><a href="/issues/382">October 2007</a></li></ul>
+
+			</div>
+
+																			
+
+				<figure class="block-content-photo block-content-photo-large photo photo-outset-center-large">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 2360 1501'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/1180x1855r/photos/382-18-frazier.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/2360x3711r/photos/382-18-frazier.jpg
+	 alt="382 - Frazier - O'Connor"
+	 class="lazy">
+
+										<figcaption>
+
+						
+																				<div class="photo-credit">
+								&copy;&nbsp;<a href="/contributors/hope-frazier">Hope Frazier</a>
+							</div>
+																		</figcaption>
+									</figure>
+
+					</header>
+
+				<div class="article-body link-text-wrap">
+																		<p><strong>I want to tell you about a cat</strong> &mdash; a sublime creature entrusted to me in my youth &mdash; that I allowed to die. There were extenuating circumstances, but there always are. I forgive myself nothing. She loved me, and I let her down. I committed a terrible crime.</p>
+
+<p>I don&rsquo;t remember where this cat, Suki, came from. My boyfriend at the time, a speed freak people called Nicky D., had an inordinate attraction to delicate things, including fine art &mdash; he regularly stole expensive art books from the Harvard Coop &mdash; and animals. The first time I went to Nick&rsquo;s basement apartment, I discovered a menagerie. Lassie, a feisty but sad-eyed Welsh terrier, could jump from the floor to the couch like a pygmy goat: all four feet took flight simultaneously, and in a single hop he would land on the sofa. We howled with laughter as we got him to do it over and over. Petey was a red and green parrot who could say only, &ldquo;Foo.&rdquo; Nick said he had tried to teach Petey to say, &ldquo;Achoo,&rdquo; but &ldquo;the dumb fuck didn&rsquo;t get it.&rdquo;</p>
+
+<p>Nick usually giggled when he said that. Sometimes, though, he said it with such contempt it was scary. I still can&rsquo;t unravel the tangled strands of Nick&rsquo;s personality, and I don&rsquo;t know how much of his darkness was caused by the drugs he was doing. He was uneducated but bright. I&rsquo;m sure he named the terrier Lassie for both humorous and sentimental reasons. I imagine Nick in the alcoholic, debt-ridden New Jersey home where he grew up in the 1950s, his tender heart aching while the boy on <span class="smallcaps">TV</span> called, &ldquo;Lassie, come home!&rdquo; What relief Nick must have felt watching Lassie, stuck on a cliff after having rescued a family of orphaned animals from a landslide, at last find a footing and struggle to safety.</p>
+
+<p>Suki was not named after anyone. A true exotic, a foreigner who was out of her element, she lay stretched luxuriously, like the queen she was, across the most comfortable chair in the apartment, an easy chair with a purple velvet cushion that Nick had made himself during one of his speed-driven, nighttime decorating binges. He had pasted magazine pictures of rock stars on every inch of the walls, and a mobile composed of Janis Joplin photographs floated above Suki&rsquo;s chair. Never once did I see Nick even request that Suki get out of that chair. If people came over and there was no place for him to sit, he would squat on the floor rather than eject Suki from her throne.</p>
+
+<p>One night, after I had been coming by Nick&rsquo;s apartment for a while, Suki got down from the chair and crossed to the couch where I sat. Then she lightly climbed up into my lap and sat down, facing outward and swatting me gently with her tail. Nick observed this incident with a mixture of admiration and skepticism, figuring Suki&rsquo;s gesture would be a one-time event. Suki was not given to sitting on people&rsquo;s laps. Until then, she had witnessed the goings-on in the apartment from her purple seat, watching Nick with cool fascination and thinly veiled displeasure. I believe Nick respected Suki because he hated fools, and he knew that anyone who maintained a wary distance from him was no fool.</p>
+
+<p>But it was to become a regular occurrence. Suki would abdicate her chair in favor of my lap whenever she saw that I was settled and she wouldn&rsquo;t be disturbed. Perhaps Suki loved me because I was another delicate thing. Her pale green eyes, framed by gorgeous black markings, narrowed at Nick&rsquo;s sudden moves, though the rest of her body never expressed any fear; she knew he would leave her alone. But if he left the room, her eyes closed as if she was finally relaxing, and on my lap her purr began, almost inaudible, but I could feel the vibration with my hand against her white throat.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>When I met Nick, I was eighteen,</strong> a freshman at Boston University, the sheltered eldest child of Midwestern parents: vain, spoiled, ambitious, and, like Nick, yearning. I don&rsquo;t think a girl with my upbringing today would go for Nick, who was practically a street person and clearly trouble. But back then, the streets were a festival. Nick set his sights on me, wooing me with yellow pills. I could compose a twenty-page paper in a single night on one of those pills. They obliterated all my anxieties, so that when I saw Nick knock an ex-girlfriend to the ground, I made no connection between that event and my possible future. He confused me. I had never known a person of such extreme contradictions. Tall, dark, and truly handsome, with a missing right bicuspid, Nick lived off welfare, proud that he was beating the system. He was cold steel walking into drugstores and using stolen prescriptions, yet so deferential to me in the face of the fat novels I read, so careful not to push me too quickly into sex. I felt myself melting almost from the first, even as I felt bemused by our situation.</p>
+
+<p>Throughout that first autumn, I kept an emotional distance from Nick. I saw other boys; my life at school remained at center stage. We both left town in December for Christmas. When I returned, Nick had been back for several days, and his mood at our reunion was buoyant. The candlelit apartment was scented by the spaghetti dinner he had prepared. Suki stared up at me, butted her head against the back of my hand, and took her usual seat on my lap once I&rsquo;d settled on the couch. Lassie&rsquo;s greeting was uncharacteristically subdued. Then he went slinking over to a corner of the room and lay down, chin on his paws, sad brown eyes rolled up at me.</p>
+
+<p>I asked what was the matter with Lassie. Nick said Lassie had &ldquo;shit all over the apartment.&rdquo;</p>
+
+<p>&ldquo;Why?&rdquo; I asked.</p>
+
+<p>Nick had spread newspapers in the kitchen for Lassie, but he had been gone longer than he&rsquo;d expected. He&rsquo;d attempted to visit his mother in New Jersey, but his father had refused to let him in the house, so he&rsquo;d made a detour to Florida, spending a week there with friends from high school.</p>
+
+<p>&ldquo;You left them alone here?&rdquo; I said. My legs tensed, and Suki jumped down.</p>
+
+<p>Nick emerged from the kitchen in a full-length flowered apron and did a goofy little dance.</p>
+
+<p>&ldquo;You left them in the apartment for a week?&rdquo; I said. Then I noticed the absent bird cage. &ldquo;Where&rsquo;s Petey?&rdquo;</p>
+
+<p>Nick giggled. &ldquo;Lassie got hungry, ate Petey, yum-yum.&rdquo;</p>
+
+<p>I followed him into the kitchen. &ldquo;You didn&rsquo;t leave food?&rdquo;</p>
+
+<p>Disgruntled, stirring the sauce, he repeated blandly, &ldquo;I was gone longer than I expected.&rdquo;</p>
+
+<p>The room blurred and refocused in sharp, glaring detail: a prison, a torture room. I went for my coat. Suki was hiding.</p>
+
+<p>Nick came after me, but on the street I stuck out my thumb and jumped in the car that stopped, telling the driver, &ldquo;That man is following me.&rdquo; We sped away.</p>
+
+<p>Alone in my dorm room, I cried almost to the point of retching, as if I could expel what I had learned. I was a sensitive, dreamy, idealistic girl, and I had loved animals all my life. I&rsquo;d also developed an early attachment to the escapes of fiction, and I&rsquo;d long identified with innocents, foreigners, outcasts, and those who&rsquo;d been wronged. Once I understood what had happened, I knew that Nick had beaten Lassie. The parrot&rsquo;s death felt as if Nick had beaten me.</p>
+
+<p>I fell asleep in my clothes with the light on and awoke to the ringing of the phone. I was told that I had a guest in the lobby and should come down to get him.</p>
+
+<p>That was the instant when I could have said no. But I didn&rsquo;t. I went down and got him. I had never seen a man cry so inconsolably before, and I forgave him. I was no match for his ocean of need. It was as if, at twenty-two, he had already traveled the world &mdash; alone, shivering, hungry, and certain that he would never obtain what he sought.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>By summer we were living</strong> together in an apartment in another part of town. Lassie became fearful, sticking close to buildings whenever we took him outside, shrinking away from traffic, as if he just wanted to go back home. It was strange how he dreaded the outside world, considering that the worst thing that had happened to him had occurred inside an apartment.</p>
+
+<p>Two buddies of Nick&rsquo;s traveled down from Canada with crystal meth, a powdered white speed much stronger than our yellow pills, which were prescribed for narcolepsy. The three of them shot up together, beat on bongo drums, hooted and hollered, and turned the stereo up loud enough to blast the roof off. Neighbors banged on our door. We received notices of eviction. The guys took off for days on end without saying when they&rsquo;d return. I was never invited, and if I protested, Nick laughed derisively; once he slapped me hard across the mouth.</p>
+
+<p>The next night as he lay in bed, I got a carving knife from the kitchen and touched its point to his cheek. He sat up abruptly. I pulled the knife back.</p>
+
+<p>&ldquo;Hit me again and you&rsquo;re dead,&rdquo; I said. He laughed, but the threat proved effective.</p>
+
+<p>That summer I claimed a small spare room in the apartment as Suki&rsquo;s and mine. I read books and wrote in my journal, fueled by the tiny hits of speed that Nick doled out to me, which I dissolved in water and drank. I sat for hours admiring Suki, drawing her, talking to her. I was enchanted by Suki&rsquo;s uniqueness: her small head and triangular face, like a Siamese; her ears neat and sweetly blunted at their tips; her paws and belly and chest a snowy white, the rest of her striped and gray.</p>
+
+<p>One steamy night, furious at Nick for something, I got into his stash, scooping powder into a glass of lemonade and drinking it before I realized I had taken too much. Terrified, I sat down in the apartment&rsquo;s long hallway. At one end a door opened out to the fire escape, where Lassie enjoyed sniffing the breeze. Nick rarely took Lassie outside anymore, but Ted, one of Nick&rsquo;s Canadian friends, was kind if slow-witted, and he often walked Lassie patiently. Ted must have taken Lassie wherever the three of them had gone that night.</p>
+
+<p>I looked through the open doorway of the apartment at Suki lying on the cool sheets of the bed in the spare room, and I told her I thought I would die. I considered calling a hospital, but my plight was self-inflicted, so why should anyone help me? And wouldn&rsquo;t I get arrested?</p>
+
+<p>The seconds ticked by. My pulse raced, and I had the sensation of growing larger, my consciousness taking up more and more space. I was still sitting on the painted wood floor, but I was also on the fire escape and then on top of the building. Alarmed, I willed my mind back into my body. I breathed, envisioning air filling my fleshy pink lungs. I pressed the palms of my hands to my cheeks and looked for Suki. She&rsquo;d vanished.</p>
+
+<p>I heard the front door of the building open. I ran to meet the guys and told Nick what I&rsquo;d done. He calmly asked me to show him how much I thought I had swallowed.</p>
+
+<p>&ldquo;You&rsquo;ll be <span class="smallcaps">OK</span>,&rdquo; he said. &ldquo;Try to relax and go with it.&rdquo; His wild black hair floated around his thin face. I opened my mouth and eyes very wide, for control.</p>
+
+<p>&ldquo;What are you doing?&rdquo; he asked.</p>
+
+<p>&ldquo;I&rsquo;ve got prickles everywhere.&rdquo;</p>
+
+<p>&ldquo;You&rsquo;re rushing. You&rsquo;re overamping. It&rsquo;s fun, isn&rsquo;t it?&rdquo;</p>
+
+<p>I pondered that skeptically, then felt a shift. &ldquo;I can be anything, can&rsquo;t I?&rdquo; I said excitedly. &ldquo;Look.&rdquo; I hunched down, my knuckles dragging the floor.</p>
+
+<p>&ldquo;What are you?&rdquo; he asked.</p>
+
+<p>&ldquo;Monkey,&rdquo; I said, hopping around.</p>
+
+<p>&ldquo;Come on, chimp.&rdquo; He took my leathery hand and led me down the hall to the bedroom, which would be my safe room. All night long, Nick and Ted and the other boy took turns sitting with me. I climbed to the top of the bureau; I leaped from the chair; I lay flat on the bed with my arms flung out at my sides, looking with <span class="smallcaps">X</span>-ray eyes through the ceiling and up into space. I took off my clothes in front of Ted, and Nick had to come and tell me to put them back on.</p>
+
+<p>Toward dawn, the bright primary colors of my hallucinations grew softer, like watercolors, and I began to feel my own size again. Once more I could focus on a book, and I wrote in my journal until I felt unbearably sad. My bones ached. Light poured into the room. Feeling buffeted by its brightness, I wanted to hide. I knew I was crashing. When Nick crashed, he acted psychotic, or duller and slower than Ted. He would scream at me for the slightest mistake. After having eaten practically nothing for days, he consumed food incessantly. White herringbone stretch marks crisscrossed his stomach and hips from the quick, tremendous weight losses and gains he&rsquo;d undergone.</p>
+
+<p>Nick put me out with a downer for ten hours. I awoke hurting so badly I couldn&rsquo;t move. Suki came and lay at the foot of the bed. I couldn&rsquo;t eat. I drank water when Nick held a glass to my lips.</p>
+
+<p>I lost ten pounds in forty-eight hours. I developed a heart murmur that took six years to right itself. And my trip effected in me a deeper change, a sort of surrender, an odd passivity or humility before the size and scope of the experience. What I&rsquo;d written in my journal was gibberish, but where I&rsquo;d gone in my mind had been profound, and my connection with Nick became stronger. Besides, he was the one who had saved me.</p>
+
+<p>Ted and his friend left in August, taking Lassie with them back to whatever mysterious existence Ted led in Toronto. They had run out of meth. Nick took to bed, on the downswing. One night he hit me again for having brought him a sandwich without any mustard on it, and this time, instead of threatening him, I quietly bled into the sink.</p>
+
+<p>Not once had Nick paid the rent with the money I&rsquo;d given him from my waitressing job. All summer I&rsquo;d planned to leave him and return to school free and clear. But in early September Nick moved again, and I went along with him as if I had never made any other plans. I went back to school, but staying with Nick seemed as if it were absolute fate, no good fighting it.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>We settled into a much smaller,</strong> darker place, with smelly carpeting and buckled wood-veneer paneling on the walls, behind which, we soon discovered, lived innumerable cockroaches. Now Nick&rsquo;s world was my world, the grim little world of our apartment. I commuted on the streetcar to school, a brighter, almost imaginary place. I did my schoolwork, but I kept to myself, hurrying back at the end of the day &mdash; like Lassie on <span class="smallcaps">TV</span> &mdash; to the boy who made me so sad.</p>
+
+<p>That fall I took a course in the Russian novel, and I read <em>Crime and Punishment</em> in a single sitting, riveted, spellbound, in our cramped bedroom with its odor of roach spray and mold. I pictured Raskolnikov as Nick, and I could have been living in the Russian murderer&rsquo;s closet at the top of the rotting St. Petersburg house. My life prior to Boston felt eons away. Suki &mdash; in her beauty and perfection &mdash; appeared before me as a fragment of a lost world. What had I done? I wasn&rsquo;t a drug addict like Nick. After my bad trip, I did drugs very carefully and not too often.</p>
+
+<p>One night that fall, Nick brought home a new dog, a big collie-Doberman mix with long black fur and tan markings.</p>
+
+<p>&ldquo;Look at this,&rdquo; Nick said. &ldquo;Pepper, sit.&rdquo; Pepper sat. &ldquo;Give me five.&rdquo; Pepper placed a paw in Nick&rsquo;s outstretched hand. &ldquo;Outside I told him to shit, and he did. I had to go in a store, and he waited in the exact spot I left him. Somebody trained him real good.&rdquo; The dog had no collar but appeared well cared for.</p>
+
+<p>&ldquo;Then we should put up a sign so that whoever he belongs to can claim him,&rdquo; I said.</p>
+
+<p>Nick winced, as if I were nuts. &ldquo;I want him.&rdquo;</p>
+
+<p>&ldquo;I don&rsquo;t,&rdquo; I said. I buried my face in my book.</p>
+
+<p>Suki had hidden, but she quickly emerged, because Pepper &mdash; named for the Beatles album <em>Sgt. Pepper&rsquo;s Lonely Hearts Club Band</em> &mdash; liked cats and was quiet and gentle. I took to Pepper as well, and soon I more or less commandeered him to protect him from Nick, who was busy dealing bad speed produced by a friend in a lab at Bard College. I often brought Pepper to school when I had lecture classes. He would quietly lie under my desk and be admired by the students and professors. Gradually I renewed external human contacts through Pepper, who was a safe and easy topic of conversation.</p>
+
+<p>Nick also brought home two kittens that fall, Shimmy and Shake, one white and one black-and-white patchwork. A week later, crashing hard, Nick threw them at the wall in a rage.</p>
+
+<p>Crying, I gathered the dazed kittens, put them in a box, and brought them to a schoolmate&rsquo;s apartment. She and I were able to get them adopted. I did this, but I didn&rsquo;t leave Nick. Instead I gave him the silent treatment for a day. I can&rsquo;t remember, but he may have brought me gifts to placate me, as he often did. I&rsquo;d wake up in the morning surrounded by giant candy bars, books, and cheap reproductions of fine-art prints, or I&rsquo;d come home from school to find gorgeous, carefully selected new dresses, pants, and shirts, stolen and laid out artfully by Nick.</p>
+
+<p>But I could not have been bought so easily had I not already been weakened by fear of him, by pity for him, by a mistaken belief that there was nowhere else for me to turn. Like the time I had taken too much crystal meth, being with Nick was something I&rsquo;d done to myself; therefore, I deserved whatever I got, and I had no recourse. I also believed I loved him, at his best. When his teeth, wrecked from the speed, pained him beyond endurance, I managed to borrow money from my mother for the extraction of his molars. He repaid me by nearly getting me thrown in jail: I went alone to a Pink Floyd concert and was nabbed in my seat by a detective because, I discovered, Nick had written a bad check for the ticket.</p>
+
+<p>I eventually learned about Nick&rsquo;s entire sordid history: the abusive father; the battered mother; Nick&rsquo;s bust in high school for dealing acid; the months he had spent locked up in the Tombs with hardened adult criminals. He had skipped out on probation and could return to see his sainted mother in Jersey only under cover of night. By the end of our year in the cockroach palace, though, I no longer cared much about Nick&rsquo;s history, and by the time Nick, Pepper, Suki, and I moved to our third apartment, I was gathering my strength to break free.</p>
+
+<p class="ckeditor-shortcode"><figure class="photo photo-outset-center-small">
+	<div>
+					<div>
+				<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 1560 1551'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/780x776r/photos/382-22-bernstein.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/1560x1551r/photos/382-22-bernstein.jpg
+	 alt="382 - Bernstein - O'Connor"
+	 class="lazy">
+
+									<figcaption>
+																											<div class="photo-credit">
+																			© <a href="https://www.thesunmagazine.org/contributors/rita-bernstein">
+											Rita
+																						Bernstein
+										</a>
+																	</div>
+																								</figcaption>
+							</div>
+			</div>
+</figure>
+</p>
+
+<p><strong>Throughout everything, Suki</strong> kept her composure. Her expression seemed to contain all knowledge, beyond petty strivings that caused only hurt, beyond wisdom, beyond even forgetfulness, until nothing mattered anymore.</p>
+
+<p>The new apartment in the Back Bay had a sunroom off the minuscule living room. On a trip to Cape Cod with the Canadian guys, Nick had used a stolen credit card to buy a rainbow-colored hammock, and I spent many hours lying in it with Suki on my lap and Pepper stretched out on the linoleum floor. Nick was often gone; where, I didn&rsquo;t ask. He&rsquo;d been cut from welfare; the drugstore scam had dried up; and his hustle, whatever it consisted of then, had become more labor-intensive. My parents gave me money as long as I was in school, and that paid the rent, which was now my responsibility. Slowly I began making progress. I&rsquo;d achieved some success at school, some respect. As much as I wanted to lie in that hammock forever, pretending that Nick would never come back, he always did. What had to be done was increasingly obvious.</p>
+
+<p>The very beauty of the apartment may have given me courage and a belief in the possibility of a better life. The place had elaborate moldings and fresh-painted white walls, so I suggested we toss out most of the old decorations and hang just a few posters. Nick didn&rsquo;t argue. He may have realized that his former d&eacute;cor would have been tacky and ugly here. His all-night speed binges were practically over. By then he could get only enough drugs to keep his head straight during the day. I studied diligently, and as a theater major, I was often at rehearsals. I even invited fellow actors to the apartment sometimes. I recall peaceful autumn nights, soft music on the stereo, conversation with my friends, Nick sitting apart from the group and not saying much. Suki planted herself on my lap as if we had mastered our trials &mdash; as if she&rsquo;d been right to trust me.</p>
+
+<p>The power structure had shifted. I had determined that things would be different in the Back Bay, and they were. I was stronger, and Nick was diminished. He was too intelligent not to understand the implications of the shift. I didn&rsquo;t threaten; I didn&rsquo;t say anything about breaking up, but I didn&rsquo;t have to. Occasionally I&rsquo;d still watch <span class="smallcaps">TV</span> with him, one of his favorite activities. We&rsquo;d smoke pot and eat dinner in bed, but only if I had nothing better to do.</p>
+
+<p>Just once that fall did he lose his temper, and when he did, he kicked Pepper. Maybe Pepper was a stand-in for me. I screamed at Nick that I despised him and that he would never change, but if that moment was a test, it was one I failed: I didn&rsquo;t leave that night. I got sick with chronic stomach pains, a physical manifestation of my psychic conflicts. Lying in bed on my side, knees to chest to soothe the cramping, I drifted with Pepper and Suki on a black sea, the black dome of sky above us.</p>
+
+<p>Then one day at school I saw an advertisement seeking apprentices at a nearby Shakespeare festival for the following summer. I decided to apply. It would give me a definite excuse to leave. I could pretend that after the summer I would come back. I told Nick about it.</p>
+
+<p>&ldquo;You&rsquo;d really go?&rdquo; he said.</p>
+
+<p>&ldquo;Just for the summer,&rdquo; I said. &ldquo;And they won&rsquo;t pick me anyway.&rdquo;</p>
+
+<p>Nick was dependent on me, but there was more to it than that. He had two cherished photographs, one of his mother and grandmother and one of a girlfriend from high school, a tall, elegant girl Nick described reverently. With every recounted detail &mdash; every inflection, every pause, every lift of the eyebrows and tip of the head &mdash; Nick communicated that she had been a person of quality, a good girl from a good family, a smart girl, an ambitious girl. The significance of his recitation was this: <em>she had once wanted him</em>, which proved that he deserved someone like her. He had lost her when he&rsquo;d gone to prison, but then he&rsquo;d met me. So I knew that, in a sense, I was Nick&rsquo;s dream, and because I believed in dreams, it was hard for me to wrest his away from him. The time it took me to leave him wasn&rsquo;t due entirely to my weakness.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>In late winter I was accepted</strong> into the apprentice program for the following summer. My lingering illness disappeared. In contrast, Nick&rsquo;s feeble resources dried up entirely. He was unable to get his hands on speed of any kind. He kicked what was left of his habit lying in bed day and night, his torso accumulating a thick, greasy layer of fat. Morose and uncommunicative, he refused to do anything about money, even after a month had gone by. After paying the rent, we subsisted on peanut butter and bread and the quart bottles of Budweiser that kept him manageable. At some point he began going out for a half-hour or so a day to shoplift better food. He sewed deep red flannel pockets inside his coat that would hold London broils.</p>
+
+<p>And then one day Suki relieved herself outside of her litter box, a few inches away on the floor. Astonished, I got her and set her down by the pile and said, &ldquo;Bad cat.&rdquo; I was doing a poor imitation of my mother scolding our childhood pets, and my action was made even more ridiculous by the fact that the accident &mdash; which, of course, is what it was &mdash; was so entirely out of character. Suki turned and, with a glance of mild disapproval, walked unfazed back to where she had been.</p>
+
+<p>But the accidents continued and became more frequent. She got thinner, and her coat dulled. Her stools turned watery and varicolored. As I grimly cleaned up after her, I realized we needed to take her to a vet. When Nick said we couldn&rsquo;t afford to, I told him to get a job.</p>
+
+<p>&ldquo;I&rsquo;m not going to get any fucking job,&rdquo; he said.</p>
+
+<p>&ldquo;You&rsquo;ll have to do <em>something</em> one of these days,&rdquo; I said. Apart from getting high, Nick had no aspirations &mdash; had never had any, as far as I was aware. Like just about every other guy I knew, he&rsquo;d voiced an interest in starting a band, but he could play all of two chords on a guitar.</p>
+
+<p>&ldquo;We should give her away,&rdquo; Nick said.</p>
+
+<p>And what would happen to her then? Who would put up with a cat that shit uncontrollably? I told him that Suki wasn&rsquo;t going anywhere, and I expressly demanded that he leave her alone. &ldquo;I clean up after her, don&rsquo;t I?&rdquo; I said. &ldquo;I take care of it.&rdquo;</p>
+
+<p>&ldquo;Yeah, fucking shithouse,&rdquo; he said.</p>
+
+<p>I scrubbed and scoured the linoleum, but it became spotted and stained, and it stank like a diaper pail and Ajax.</p>
+
+<p>Suki was probably humiliated, and my scolding only increased her humiliation. Yet I think that when she stopped coming to me and sitting on my lap, it was not out of anger but out of pain and an inability to be herself anymore. She wouldn&rsquo;t go near Pepper either. She lurked in shadows and corners, her sweet, bow-shaped mouth shriveled into a crinkly, sour line. I stopped scolding; I just cleaned up. I pleaded with her to come to me, but she wouldn&rsquo;t. If I dared to touch her, she stiffened. Eventually I stopped trying.</p>
+
+<p>I waited it out in a haze. I could have gotten a job myself, or borrowed money, but I&rsquo;d been overtaken by passivity and dread again. Perhaps I was so focused on the prospect of leaving Nick that anything connected with him grew obscure. I was looking away from our life in the apartment, into the future. But what had I thought would become of Pepper and Suki when I left? Hadn&rsquo;t that occurred to me? Perhaps I feared hearing from a vet that Suki was, in fact, mortally ill and would have to be put to sleep. I scrubbed and scrubbed, as if scrubbing would erase all this pain. I got more and more depressed and hopeless. Suki hunkered under the table, her gray stripes as bristly and dull as a broom, her eyes slits. And still I did nothing about getting her to a vet.</p>
+
+<p>At last I told Nick I would be going away for the summer. He wanted to know how he would pay for the apartment. I said that was not my concern, but I felt no satisfaction in announcing my departure; it came too late. I wasn&rsquo;t even looking forward to the summer. I went through the motions of preparing to leave.</p>
+
+<p>Nick told me he had heard of a home for stray cats in Somerville established by a philanthropist. I believed him, so one day I put a soft towel in a cardboard box and let Nick take Suki away to the philanthropic home. Then I felt as if a great weight had been lifted. I felt again the space and energy to do what I needed to do with conviction and zest. I barely thought of Suki; I didn&rsquo;t mourn her absence for a long time.</p>
+
+<p>After I left, Nick stayed in the apartment alone with Pepper for six weeks. Finally Nick left too, abandoning my books and clothes for trash. He showed up at my room on the grounds of the Shakespeare festival, more broken than I had ever seen him before. Taking advantage of his frailty, I got him to accept my deal: I would hide him in my room for the rest of the summer, and then we were through. Some friend of Nick&rsquo;s kept Pepper while we were gone, and in the fall I was able to have Pepper with me in the apartment I rented alone for my senior year. Nick got a job in a pizza parlor and slept in a flophouse. He stopped trying to win me back.</p>
+
+<p>It&rsquo;s been many years since I last saw Nick, and I don&rsquo;t think of him much anymore. If I do, I no longer feel any pain. But it hurts to think of Suki.</p>
+
+<p>That last apartment we shared wasn&rsquo;t far from the Charles River. We used to go there sometimes, and I think that&rsquo;s where Nick must have released Suki, on the banks of the Charles on a cold day in early May. I think he probably didn&rsquo;t even leave her the box. I see him dumping her onto the ground and saying, &ldquo;Get! Get out of here,&rdquo; and stamping his foot. One last disdainful gaze at him, and she would have run, as well as she could. I&rsquo;ll bet that he yelled at her, that if nobody else was by the river that day, he poured out some vitriol he&rsquo;d been wily enough to contain in front of me.</p>
+
+<p>Weak as she was, she still would have managed to get away from him. And then she would have been alone. She was smart; she would have found shelter, a leaf-padded hole from which she could watch for danger.</p>
+
+<p>But she would have been cold and wet, and the familiar gnawing pain would have returned, joined now by hunger, a night and another day and another night of hunger, as she stared out at black water and black empty sky.</p>
+														</div>
+
+
+				
+<div class="sharing-bar article-sharing">
+	<div class="sharing-bar-first">
+		<a href="javascript:window.print();" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-printer"></use></svg> <span>Print</span></a>
+	</div>
+
+	<div class="sharing-bar-second">
+		<span class="alt-ff xsmall">Share:</span>
+		<a href="https://www.facebook.com/sharer/sharer.php?u=https://www.thesunmagazine.org/issues/382/suki" target="_blank" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-facebook"></use></svg> <span>Facebook</span></a>
+		<a href="https://twitter.com/share?url=https://www.thesunmagazine.org/issues/382/suki&amp;via=thesunmagazine" target="_blank" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-twitter"></use></svg> <span>Twitter</span></a>
+		<a href="#" class="b b-1 b-padding-tight xsmall js-toggle-mail-form"><svg><use xlink:href="#i-email"></use></svg> <span>Email</span></a>
+	</div>
+</div>
+
+<div class="send-to-friend-message-container">
+	<div class="alert alert-success xsmall">Thank you for sharing <em>The Sun</em>.</div>
+</div>
+
+<form method="post" action="/ajax/articles/send-to-a-friend" class="form fill-grey send-to-friend-form">
+		<input type="hidden" id="form_url" name="form[url]" value="https://www.thesunmagazine.org/issues/382/suki" />
+
+	<ul class="form-fields">
+		<li><label for="form_sender_name"><span class="label-text">Your Full Name</span><span class="label-asterisk">*</span></label><input type="text" id="form_sender_name" name="form[sender_name]" required="required" /></li>
+		<li><label for="form_sender_email"><span class="label-text">Your Email Address</span><span class="label-asterisk">*</span></label><input type="email" id="form_sender_email" name="form[sender_email]" required="required" /></li>
+		<li><label for="form_recipient_name"><span class="label-text">Friend’s Name</span><span class="label-asterisk">*</span></label><input type="text" id="form_recipient_name" name="form[recipient_name]" required="required" /></li>
+		<li><label for="form_recipient_email"><span class="label-text">Friend’s Email Address</span><span class="label-asterisk">*</span></label><input type="email" id="form_recipient_email" name="form[recipient_email]" required="required" /></li>
+		<li><label for="form_message"><span class="label-text">Personalized Message</span></label><textarea id="form_message" name="form[message]"></textarea></li>
+	</ul>
+<div class="send-to-friend-message-container">
+	<div class="alert alert-error xsmall">Something went wrong. Please try again.</div>
+</div>
+
+<div class="g-recaptcha" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs"></div>
+<div class="form-actions"><button type="submit" id="form_submit" name="form[submit]"	class="form-actions-b-primary b b-1 b-loading xsmall"><svg><use xlink:href="#i-loading"></use></svg>
+		Submit
+	</button></div>
+<input type="hidden" id="form__token" name="form[_token]" value="6f9481fa8c910c23d8d17a4202b1d592692e56fb" /></form>
+
+<br>
+
+
+
+										<footer class="article-contributor contributors">
+									
+
+<div class="block-contributor">
+		
+
+		<div class="block-contributor-content">
+		<div class="block-contributor-bio small">
+			<p><strong><span class="smallcaps">Varley O&rsquo;Connor</span></strong> has published three novels: <em>Like China</em> (Morrow), <em>A Company of Three</em> (Algonquin), and <em>The Cure</em> (Bellevue Literary Review Press). She teaches at Kent State University and lives in Stow, Ohio.</p><a href="/contributors/varley-oconnor" class="block-contributor-link link-alt small">More From This Contributor&nbsp;&#9656;</a>		</div>
+	</div>
+</div>
+
+							</footer>
+						</article>
+
+
+				    <div class="paywall-subscription block-product">
+			<div class="columns">
+			<div class="paywall-banner span3 cta cta-l1">
+				<div class="cta-intro">
+					<h5 class="cta-title alt-ff">One Free Selection Left </h5>
+					<p class="cta-text xsmall"><a class="link-alt" href="https://www.thesunmagazine.org/subscriber/login" data-label="Already a subscriber?">Already a subscriber? Sign in ▸</a><br><br>Read two free selections from <em>The Sun</em> each month.</p>
+				</div>
+			</div>
+			<div class="paywall-banner span9 note note-1 text-center">
+				<h4 class="cta-title alt-ff">Subscribe to <em>The Sun</em> and save 45%</h4>
+				<p class="cta-text xsmall">Subscribers get full access to the current issue and more than 40 years of archives.</p>
+				<a class="b b-1 xsmall cta-trigger"  href="/subscribe1" data-label="Subscribe" data-ctatitle="Subscribe">Subscribe</a>
+			</div>
+		</div>
+
+		<div class="columns">
+			<div class="span12 paywall-cta-bottom">
+				<p>
+					<span class="cta-title-issue">Buy the October 2007 issue for $5.95</span>
+					<span class="xsmall">Order now to get instant access to this issue, and we’ll also send you a print copy.</span>
+					<a class="b b-5 xsmall corona"  href="#" data-product-type="issues" data-id="382" data-label="Order Now ▸">Order Now ▸</a>
+				</p>
+			</div>
+		</div>
+
+		
+
+</div>
+	
+	
+	
+	<div class="spacer"></div>
+	
+
+
+
+			<div class="article-correspondence layout-item fill-pattern-light">
+		<div class="layout-item-intro">
+			<h2>Correspondence</h2>
+			<a class="xsmall link-alt" href="https://www.thesunmagazine.org/letter-to-the-editor">Write a Letter to the Editor&nbsp;&#9656;</a>
+		</div>
+
+		<div id="article-correspondences" class="correspondences correspondences-collapsed">
+								<div class="block-correspondence" id="1228">
+		<blockquote class="quote-2">
+			<p>Varley O&rsquo;Connor&rsquo;s essay &ldquo;<a href="/article/4094">Suki</a>&rdquo; [October 2007], about a cat she once abandoned, depressed me for days and made me hate the author. I am fully educated in the cruelty of human nature and have rescued such animals and advocated for animal welfare and rights. O&rsquo;Connor might gain catharsis by writing about the precious being she allowed to suffer, but publishing her essay in your magazine doesn&rsquo;t change the ugliness.</p>
+							<p class="quote-2-author">Diane Venberg<br>Seattle, Washington</p>
+					</blockquote>
+	</div>
+
+								<div class="block-correspondence-respond fill-pattern-light" id="1229">
+								<p><a href="/contributors/varley-oconnor"><strong>Varley O’Connor</strong></a> responds:</p>
+							<p>With so many people out there who propagate animal cruelty yet deny their part in it, I wonder why Diane Venberg would choose to &ldquo;hate&rdquo; someone who fully admits her own complicity? I was only twenty years old at the time, and thirty years later I still cared enough to consider what might have happened to Suki and to write a careful inquiry intended to honor her and bring attention to her suffering and the suffering of others like her. Venberg and I are not on opposing sides.</p>
+	</div>
+
+
+					</div>
+
+				<div class="text-center">
+			<button class="b b-1 xsmall js-b-readmore-correspondence" data-collapsible="#article-correspondences" data-label="Read More Letters">Read More Letters</button>
+		</div>
+			</div>
+    
+		<div class="article-correspondence-cta">
+		<div class="cta cta-l1" data-url="https://www.thesunmagazine.org/letter-to-the-editor">
+			<div class="cta-intro">
+				<h5 class="cta-title alt-ff">Thinking about writing us a letter?</h5>
+				<p class="cta-text">Give in to the temptation. We love getting mail. <br><span class="xsmall">(Of course, we reserve the right to edit.)</span></p>
+			</div>
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" class="cta-button b b-4 b-padding-tight small" data-label="Write Us A Letter!">Write Us A Letter!</a>
+		</div>
+	</div>
+	
+
+			<div class="article-also layout-item-large full-bar fill-grey-mid-light">
+		<div class="layout-item-intro">
+			<h2>Also In This Issue</h2>
+			<a href="/issues/382" class="xsmall link-alt">October 2007&nbsp;&#9656;</a>
+		</div>
+		<div class="issue-articles-l1">
+			<div class="issue-articles-l1-content1">
+				
+<div class="cover cover-l1 block-product">
+	<div>
+							<a href="/issues/382" class="cover-thumb">
+				
+				<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 727'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/import/issue/382.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/561x728r/import/issue/382.jpg
+	 alt=""
+	 class="lazy">
+
+			</a>
+		
+
+													<!-- <a href="/issues/382" data-product-type="issues" data-id="382" data-role="order" class="js-buy-single corona cover-button b b-1 b-full xsmall" data-label="Buy This Issue &#9656;">
+								Buy This Issue&nbsp;&#9656;
+			</a> -->
+			<a href="/issues/382" data-product-type="issues" data-id="382" class="js-buy-single corona cover-button b b-1 b-full xsmall" data-label="Buy This Issue &#9656;">
+								Buy This Issue&nbsp;&#9656;
+			</a>
+					
+					</div>
+</div>
+			</div>
+			<div class="issue-articles-l1-content2">
+				<div class="articles-l3">
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/readers-write">Readers Write</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/382/telling-the-truth-issue-382">Telling The Truth</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/our-readers">Our Readers</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/poetry">Poetry</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/382/song-of-the-swordsmith">Song Of The Swordsmith</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/coleman-barks">Coleman Barks</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/poetry">Poetry</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/382/time-out-issue-382">Time Out</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/mark-smith-soto">Mark Smith-Soto</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/382/the-hereafter">The Hereafter</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/thomas-boyd">Thomas Boyd</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+									</div>
+			</div>
+		</div>
+	</div>
+	
+
+			<div class="article-related layout-item-large full-bar fill-pattern-light">
+		<div class="layout-item-intro">
+			<h2>Related Selections</h2>
+			<ul class="list-inline list-inline-tight"><li><a href="/topics/companion-animals" class="xsmall link-alt link-text">Companion Animals</a></li><li><a href="/topics/romantic-love" class="xsmall link-alt link-text">Romantic Love</a></li><li><a href="/topics/domestic-violence" class="xsmall link-alt link-text">Domestic Violence</a></li><li><a href="/topics/addiction-and-recovery" class="xsmall link-alt link-text">Addiction and Recovery</a></li></ul>		</div>
+
+		<div class="articles-l2">
+							
+
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/459/we-did">We Did</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/brian-doyle">Brian Doyle</a></li><li><a href="/issues/459">March 2014</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/459" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 727'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/140x182r/import/issue/459.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/import/issue/459.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/poetry">Poetry</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/436/selected-poems-3">Selected Poems</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/tony-hoagland">Tony Hoagland</a></li><li><a href="/issues/436">April 2012</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/436" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 727'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/140x182r/import/issue/436.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/import/issue/436.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/poetry">Poetry</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/270/marriage">Marriage</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/marc-petersen">Marc Petersen</a></li><li><a href="/issues/270">June 1998</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/270" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 725'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/141x182r/import/issue/270.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/281x364r/import/issue/270.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/poetry">Poetry</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/215/leaves-under-snow">Leaves Under Snow</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/thom-tammaro">Thom Tammaro</a></li><li><a href="/issues/215">November 1993</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/215" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 550 728'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/138x182r/import/issue/215.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/275x364r/import/issue/215.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+					</div>
+	</div>
+	
+	
+					<form id="newsletterForm" method="post" action="https://www.thesunmagazine.org/newsletter" data-url-send="https://www.thesunmagazine.org/newsletter" class="form form-newsletter fill-grey" enctype="multipart/form-data" target="_blank">
+
+
+
+		<div class="form-newsletter-intro">
+			<h3 class="alt-ff large">Sign Up For Our Newsletter</h3>
+			<p>We’ll let you know about new website selections, upcoming events, special offers, and more.</p>
+		</div>
+
+		<ul class="form-newsletter-fields form-fields form-fields-inline">
+			<li>
+				<input name="name" type="text" maxlength="500" id="name" placeholder="Your Name">
+			</li>
+			<li>
+				<input name="email" type="text" maxlength="500" id="email" placeholder="Your E-mail">
+			</li>
+
+			<li class="form-fields-inline-button">
+				<button disabled="disabled" class="form-newsletter-send b b-4 b-padding-tight b-loading g-recaptcha" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs" data-callback="recaptcha_callback" name="SubmitButton" id="SubmitButton">
+					<svg><use xlink:href="#i-loading"></use></svg>
+					Sign&nbsp;Up
+				</button>
+			</li>
+		</ul>
+	</form>
+	<script id="hiddenlpsubmitdiv" style="display: none;"></script>
+
+
+
+<footer class="footer brand-grey-dark">
+			<div class="footer-first">
+		<h3 class="footer-tagline">Independent, Reader-Supported Publishing</h3>
+		<p class="footer-desc">In each issue of <em>The Sun</em> you’ll find some of the most radically intimate and socially conscious writing being published today. In an age of media conglomerates, we’re something of an oddity: an ad-free, independent, reader-supported magazine.</p>
+		<ul class="footer-nav list-inline-border xsmall">
+			
+		<li class=" first">
+			<a href="https://www.thesunmagazine.org/about" 	   class=''>
+	   About <em>the Sun</em>	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/staff" 	   class=''>
+	   Staff	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/find-the-sun" 	   class=''>
+	   Find <em>The Sun</em>&nbsp;&nbsp;in a Store Near You	</a>
+		
+	</li>
+
+
+		</ul>
+	</div>
+	
+		<div class="footer-second">
+		<ul class="footer-second-social list-inline">
+			<li><a href="https://www.facebook.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-facebook"></use></svg></span> Like Us</a></li>
+			<li><a href="https://twitter.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-twitter"></use></svg></span> Follow Us</a></li>
+			<li><a href="https://instagram.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-instagram"></use></svg></span> Take a Look</a></li>
+		</ul>
+
+		<div class="footer-second-content">
+			<ul class="footer-nav list-inline-border xsmall">
+				
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/" 	   class='current '>
+	   Home	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/privacy-policy" 	   class=''>
+	   Privacy Policy	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/terms-of-use" 	   class=''>
+	   Terms of Use	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/site-map" 	   class=''>
+	   Site Map	</a>
+		
+	</li>
+
+
+			</ul>
+			<p class="footer-copyright xxsmall">Copyright &copy; 1974–2020 <em>The Sun</em>. All rights reserved.</p>
+		</div>
+	</div>
+</footer>
+
+
+
+<div class="offset-nav">
+	<ul>
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/read" 	   class='current '>
+	   Read	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/issues/current" 	   class=''>
+	   Current Issue	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/archives" 	   class=''>
+	   Archives	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/featured" 	   class=''>
+	   Featured Selections	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/topics" 	   class=''>
+	   Browse Topics	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/sections" 	   class=''>
+	   Browse Sections	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/connect" 	   class=''>
+	   Connect	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/news" 	   class=''>
+	   News from <em>The Sun</em>	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" 	   class=''>
+	   Write a Letter to the Editor	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/discussion-groups" 	   class=''>
+	   Discussion & Writing Groups	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/make-a-suggestion" 	   class=''>
+	   Make a Suggestion	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/submit" 	   class=''>
+	   Submit	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/shop" 	   class=''>
+	   Shop	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/giftsub" 	   class=''>
+	   Gift Subscriptions	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/issues" 	   class=''>
+	   Issues	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+											
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/donatemenu" 	   class='highlight'>
+	   Donate	</a>
+		
+	</li>
+
+		<li class=" last">
+														<a href="/SubscribeNav1" 					   class=''>
+						Subscribe					</a>
+									
+	</li>
+
+
+					<li>
+				<a href="https://www.thesunmagazine.org/shop/cart">Cart ( <span class="cart-item-count">  0  </span>)</a>
+			</li>
+			<li><a href="https://www.thesunmagazine.org/subscriber/login" class="link-header-logout link-alt">Sign In</a></li>
+			</ul>
+	<ul>
+		<li class=" first">
+			<a href="https://www.thesunmagazine.org/about" 	   class=''>
+	   About <em>the Sun</em>	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/staff" 	   class=''>
+	   Staff	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/find-the-sun" 	   class=''>
+	   Find <em>The Sun</em>&nbsp;&nbsp;in a Store Near You	</a>
+		
+	</li>
+
+</ul>
+	<ul>
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/" 	   class='current '>
+	   Home	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/privacy-policy" 	   class=''>
+	   Privacy Policy	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/terms-of-use" 	   class=''>
+	   Terms of Use	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/site-map" 	   class=''>
+	   Site Map	</a>
+		
+	</li>
+
+</ul>
+</div>
+
+<div id="buy-popup-message" class="buy-popup mfp-hide white-popup white-popup-block">
+	<a class="popup-modal-dismiss" href="#"></a>
+	<h5>Due to fulfillment challenges related to the novel coronavirus, print copies are temporarily unavailable for individual sale. We are offering free PDFs until we are able to resume print sales.</h5>
+	<p>Enter your e-mail address below to download this issue.</p>
+	<form method="post" id="download-single" action="https://www.thesunmagazine.org/issue/pdfFree/531.pdf">
+		<label for="email"><span class="label-text">E-mail</span><span class="label-asterisk">*</span></label>
+		<input class="buy-single-email" id="email" type="email" name="email">
+		<button type="send" class="form-buy-issue-send b b-3 b-padding-tight b-loading">Send</button>
+		<button class="form-buy-issue-download b b-3 b-padding-tight b-loading">Download pdf</button>
+		<button type="send" class="popup-modal-dismiss b b-2 b-padding-tight b-loading">Close</button>
+		<div class="g-recaptcha" style="text-align: center" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs"></div>
+
+	</form>
+</div>
+
+			<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/plugins.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/site.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/newsletter.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/js/articles.js"></script>
+		</div>
+		</div>
+
+				<script>
+		(function (doc) {
+			var scripts = doc.getElementsByTagName('script');
+			var script = scripts[scripts.length - 1];
+			var xhr = new XMLHttpRequest();
+			xhr.onload = function () {
+				var div = doc.createElement('div');
+				div.innerHTML = this.responseText;
+				div.style.display = 'none';
+				script.parentNode.insertBefore(div, script);
+			}
+			xhr.open('get', '/theme/thesun//assets/build/img/sprite/sprite.svg', true);
+			xhr.send();
+		})(document);
+
+
+
+		</script>
+
+		<script>
+			// Submit function
+            function recaptcha_callback() {
+						var getUrl = $('.form-newsletter').data( "url-send" ),
+							getName = $('input#name').val(),
+							getEmail = $('input#email').val();
+						$.ajax({
+								type: "POST",
+								url: getUrl,
+								data: {
+									name: getName,
+									email: getEmail,
+									grecaptcharesponse: grecaptcha.getResponse()
+								}
+							}).done(function(response) {
+								console.log(response);
+									$('.form-fields').fadeOut(800, function () {
+										$('.form-fields').empty().append('<div class="newsletter-confirm-message">Thank you for signing up to receive news from <em>The Sun</em>. Your first newsletter will arrive soon.<div>').fadeIn(800);
+									});
+							});
+			}
+
+		</script>
+
+		<script>
+			function getUrlCode() {
+				var url_string = window.location.href;
+				var url = new URL(url_string);
+				var c = url.searchParams.get('promotion\_key');
+				if (typeof c !== 'undefined' && c !== null) {
+					setCookie("promotion_code",c);
+				}
+			}
+
+			function setCookie(cname, cvalue) {
+				document.cookie = cname + "=" + cvalue + ";" + "path=/";
+			}
+
+			function getCookie(cname) {
+				var name = cname + "=";
+				var decodedCookie = decodeURIComponent(document.cookie);
+				var ca = decodedCookie.split(';');
+				for(var i = 0; i <ca.length; i++) {
+					var c = ca[i];
+					while (c.charAt(0) == ' ') {
+						c = c.substring(1);
+					}
+					if (c.indexOf(name) == 0) {
+						return c.substring(name.length, c.length);
+					}
+				}
+				return "";
+			}
+			window.addEventListener( "load", getUrlCode );
+		</script>
+
+
+	</body>
+</html>

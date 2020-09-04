@@ -1,0 +1,1348 @@
+
+<!DOCTYPE html>
+<html class="no-js" lang="en-US">
+	<head>
+		<title>Shade - The Sun Magazine</title>
+
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		
+		<meta name="viewport" content="width=device-width, minimum-scale=1.0">
+
+		<link rel="dns-prefetch" href="//ajax.googleapis.com">
+		<link rel="dns-prefetch" href="//use.typekit.net">
+		
+		<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/modernizr.js"></script>
+		<script src="https://www.google.com/recaptcha/api.js"
+				async defer>
+		</script>
+
+		<script>(function(d) { var config = { kitId: 'kzw7ebk', scriptTimeout: 3000, async: true }, h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s) })(document);</script>
+
+
+				
+		<link rel="apple-touch-icon" sizes="57x57" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-57x57.png?v=2016">
+		<link rel="apple-touch-icon" sizes="60x60" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-60x60.png?v=2016">
+		<link rel="apple-touch-icon" sizes="72x72" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-72x72.png?v=2016">
+		<link rel="apple-touch-icon" sizes="76x76" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-76x76.png?v=2016">
+		<link rel="apple-touch-icon" sizes="114x114" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-114x114.png?v=2016">
+		<link rel="apple-touch-icon" sizes="120x120" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-120x120.png?v=2016">
+		<link rel="apple-touch-icon" sizes="144x144" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-144x144.png?v=2016">
+		<link rel="apple-touch-icon" sizes="152x152" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-152x152.png?v=2016">
+		<link rel="apple-touch-icon" sizes="180x180" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-180x180.png?v=2016">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-32x32.png?v=2016" sizes="32x32">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/android-chrome-192x192.png?v=2016" sizes="192x192">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-96x96.png?v=2016" sizes="96x96">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-16x16.png?v=2016" sizes="16x16">
+		<link rel="mask-icon" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/safari-pinned-tab.svg?v=2016" color="#444444">
+		<link rel="shortcut icon" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon.ico?v=2016">
+		<meta name="apple-mobile-web-app-title" content="The Sun Magazine">
+		<meta name="application-name" content="The Sun Magazine">
+		<meta name="msapplication-TileColor" content="#fcc330">
+		<meta name="msapplication-TileImage" content="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/mstile-144x144.png?v=2016">
+		<meta name="theme-color" content="#ffffff">
+
+				<link rel="stylesheet" type="text/css" href="https://cloud.typography.com/6578674/659928/css/fonts.css" />
+		<link rel="stylesheet" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/css/style.css">
+
+																		<meta property="og:site_name" content="The Sun Magazine">
+		<meta property="og:type" content="article">
+		<meta property="og:url" content="https://www.thesunmagazine.org/issues/377/shade">
+		<meta property="og:image" content="http://www.thesunmagazine.org/files/2017-05/377-16-library-of-congress-preview.jpg">
+		<meta property="og:title" content="Shade - The Sun Magazine">
+		<meta property="og:description" content="A Letter From Gettysburg">
+		<meta property="fb:app_id" content="158741778010551">
+
+						<link rel="image_src" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.comhttp://www.thesunmagazine.org/files/2017-05/377-16-library-of-congress-preview.jpg">
+
+												<meta name="twitter:card" content="summary">
+		<meta name="twitter:title" content="Shade - The Sun Magazine">
+		<meta name="twitter:description" content="A Letter From Gettysburg">
+		<meta name="twitter:image" content="http://www.thesunmagazine.org/files/2017-05/377-16-library-of-congress-preview.jpg">
+		<meta name="twitter:site" content="@thesunmagazine">
+
+				<link rel="publisher" href="https://plus.google.com/113792980827145858211">
+        
+		<meta name="Description" content="I didn&amp;rsquo;t learn about the tree-cutting program at Gettysburg National Military Park until I saw early evidence of its implementation. Just north of the hill known as Little Round Top, more than a hundred large trees &amp;mdash; maples, oaks, tulip trees, mulberries, magnolias, cedars, hickories, and ash &amp;mdash; were felled and hauled away in a matter of weeks.">
+
+		
+		<!-- Google Tag Manager -->
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-TKBHCCG');</script>
+		<!-- End Google Tag Manager -->
+
+		<!-- Google Analytics -->
+		<script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+            ga('create', 'UA-2351127-1', 'auto');  // Replace with your property ID.
+            ga('send', 'pageview');
+            ga('require', 'ecommerce');   // Load the ecommerce plug-in.
+		</script>
+		<!-- End Google Analytics -->
+	</head>
+	<body id="">
+
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TKBHCCG"
+		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+		<header class="header" data-offset-start="80">
+		<div class="header-utilities">
+				<ul class="header-utilities-user list-inline list-inline-tight xxsmall">
+							<li>
+					<span class="header-utilities-user-intro">Already A Subscriber?</span> &nbsp;
+					<a href="https://www.thesunmagazine.org/subscriber/login" class="link-text link-alt">Sign In</a>
+				</li>
+					</ul>
+		<a href="https://www.thesunmagazine.org/shop/cart" class="header-utilities-cart  link-alt link-icon tiny">
+			<span class="i"><svg><use xlink:href="#i-cart"></use></svg></span>
+			<span class="cart-item-count">
+									0 Items
+				
+			</span>
+		</a>
+			</div>
+
+		<div class="header-bar">
+		<h1 class="header-logo logo">
+			<a href="/">
+				<img src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/img/logo-thesun.svg" class="logo-thesun" alt="The Sun Magazine">
+				<img src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/img/logo-tagline.svg" class="logo-tagline" alt="">
+			</a>
+		</h1>
+
+		<ul class="header-nav">
+			
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/read" 	   class='current '>
+	   Read	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/issues/current" 	   class=''>
+	   Current Issue	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/archives" 	   class=''>
+	   Archives	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/featured" 	   class=''>
+	   Featured Selections	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/topics" 	   class=''>
+	   Browse Topics	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/sections" 	   class=''>
+	   Browse Sections	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/connect" 	   class=''>
+	   Connect	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/news" 	   class=''>
+	   News from <em>The Sun</em>	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" 	   class=''>
+	   Write a Letter to the Editor	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/discussion-groups" 	   class=''>
+	   Discussion & Writing Groups	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/make-a-suggestion" 	   class=''>
+	   Make a Suggestion	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/submit" 	   class=''>
+	   Submit	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/shop" 	   class=''>
+	   Shop	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/giftsub" 	   class=''>
+	   Gift Subscriptions	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/issues" 	   class=''>
+	   Issues	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+											
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/donatemenu" 	   class='highlight'>
+	   Donate	</a>
+		
+	</li>
+
+		<li class=" last">
+														<a href="/SubscribeNav1" 					   class=''>
+						Subscribe					</a>
+									
+	</li>
+
+
+		</ul>
+
+		<button class="header-nav-toggle"><svg><use xlink:href="#i-menu" class="i-menu"></use><use xlink:href="#i-close" class="i-close"></use></svg></button>
+		<button class="header-search-toggle" data-form-wrapper=".header-search"><svg><use xlink:href="#i-magnifier" class="i-magnifier"></use><use xlink:href="#i-close" class="i-close"></use></svg></button>
+	</div>
+
+		<div class="header-search">
+		<div class="header-search-content">
+			<form action="https://www.thesunmagazine.org/search" class="form form-search" method="get">
+				<h2 class="alt-ff brand-link">Search Our 40 Years of Archives</h2>
+				<ul class="form-search-fields form-fields form-fields-inline">
+					<li><input type="text" name="q" value=""></li>
+					<li class="form-fields-inline-button"><button class="b b-1 b-padding-tight b-loading"><svg><use xlink:href="#i-loading"></use></svg>Search</button></li>
+				</ul>
+
+				<div class="header-search-content-shortcuts">
+					<h6 class="search-advanced alt-ff"><a class="js-handle-advanced" href="https://www.thesunmagazine.org/search?advanced=1">Advanced Search</a></h6>
+					<br>
+					<h6 class="alt-ff">Popular Pages</h6>
+					<ul class="list-inline-border list-inline-tight xxsmall"><li class=" first"><a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a></li><li class=""><a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a></li><li class=""><a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a></li><li class=""><a href="https://www.thesunmagazine.org/sections/quotations" 	   class=''>
+	   Quotations	</a></li><li class=""><a href="https://www.thesunmagazine.org/sections/readers-write" 	   class=''>
+	   Readers Write	</a></li><li class=" last"><a href="https://www.thesunmagazine.org/sections/poetry" 	   class=''>
+	   Poetry	</a></li></ul>				</div>
+			</form>
+		</div>
+	</div>
+</header>
+
+	<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+	<script type="text/javascript">
+		$(document).ready(function() {
+			$('.js-handle-advanced').on('click', function (e) {
+				e.preventDefault();
+				var getSearchValue = $('.form-search-fields input').val();
+				var getURL = $(this).attr('href');
+				var newURL = getURL + '&q=' + getSearchValue;
+				window.location.href = newURL;
+			});
+		});
+	</script>
+
+		<div class="container-hidden">
+		<div class="container">
+
+				
+	
+	<article class="article ">
+		<header class="block-content block-content-l1 block-content-center">
+						<div class="block-content-header">
+				<h6 class="b-content-section heading-square"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+				<h1 class="block-content-title">Shade</h1>
+
+								<p class="block-content-subtitle subtitle">A Letter From Gettysburg</p>
+				
+				<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/dustin-beall-smith">Dustin Beall Smith</a></li><li><a href="/issues/377">May 2007</a></li></ul>
+
+			</div>
+
+																			
+
+				<figure class="block-content-photo block-content-photo-large photo photo-outset-center-small">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 960 969'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/960x969c/photos/377-16-loc.jpg
+	 alt="377 - Library of Congress - Smith"
+	 class="lazy">
+
+										<figcaption>
+
+												<div class="photo-caption">
+							<p><em>Dead soldier and shot-battered trees, Culp&rsquo;s Hill, Gettysburg, 1863.</em><br />
+<span class="smallcaps">Library of Congress, photographer unknown</span></p>
+						</div>
+						
+																								</figcaption>
+									</figure>
+
+					</header>
+
+				<div class="article-body link-text-wrap">
+																		<p><em>I tell myself that in times like these there has to be something for which one is willing to get shot and for which, in all probability, one is actually going to get shot.</em></p>
+
+<p class="text-right">&mdash; <em>Thomas Merton,</em> Conjectures of a Guilty Bystander</p>
+
+<p>&nbsp;</p>
+
+<p><em class="large">&ldquo;So I will disappear,&rdquo;</em> said Thomas Merton, concluding his address to the International Monastic Conference in Bangkok on December 10, 1968. Merton, a Trappist monk and writer, planned to take an afternoon nap before a panel discussion that evening. He walked back to his guest cottage in the sweltering midday heat, took a shower, and, while standing in his bare feet on a tile floor, reached to turn on an improperly wired electric fan. The end came for him with a sustained jolt of direct current, at about 2 <span class="smallcaps">P.M.</span> local time. He was fifty-three years old.</p>
+
+<p>I thought of Merton the day before my sixty-fifth birthday, in 2005, while standing barefoot on a wobbly chair to change a light bulb over the kitchen sink in my rented house in Gettysburg, Pennsylvania. A rusted, poorly installed socket was making the task difficult. As I coaxed the old bulb loose, my mind drifted from Merton&rsquo;s tragic fate to a discussion I&rsquo;d had during a family get-together sixteen years earlier.</p>
+
+<p>That winter of 1989, Bill McKibben&rsquo;s book <em>The End of Nature </em>had been making waves by predicting the depletion of the ozone layer, the warming of the planet, and widespread species extinctions &mdash; shocking revelations at the time. My seventy-eight-year-old mother, after hearing my agitated reiteration of McKibben&rsquo;s statistics, shoved aside the vegetables she was preparing and tearfully asked, &ldquo;Why is it that, of all the billions of people who&rsquo;ve lived on the earth, <em>we</em> are the ones who must witness the time of the end?&rdquo; I put my arm around her and made light of the subject, joking that we had at <em>least</em> six months before the end. But my eighty-year-old father, who had also read McKibben&rsquo;s book, did not conspire with me to be lighthearted for my mother&rsquo;s sake. &ldquo;What makes me sad,&rdquo; he said, &ldquo;is that we can&rsquo;t take with us into old age and death the assumption that nature, as we&rsquo;ve always known it, will survive. <em>That</em>, it seems to me, is a first.&rdquo;</p>
+
+<p>I changed the kitchen light bulb without incident and turned sixty-five the next day. Life goes on, both within me and around me, but I am left holding this intuition of The End.</p>
+
+<p>&nbsp;</p>
+
+<p><em class="large">I didn&rsquo;t</em> learn about the tree-cutting program at Gettysburg National Military Park until I saw early evidence of its implementation. Just north of the hill known as Little Round Top, more than a hundred large trees &mdash; maples, oaks, tulip trees, mulberries, magnolias, cedars, hickories, and ash &mdash; were felled and hauled away in a matter of weeks. The sudden and seemingly pointless cutting was deeply disturbing to me. When I walked the former wood lot just after the logging machinery had left, I had to choke back rage at the sight of the low-cut stumps, many of them two and three feet in diameter, and some as much as five feet across. Left standing for the pleasure of visitors to the national park were exactly fourteen eight-inch-diameter ash trees, their leaves shot through with disease, their bark scraped by logging machinery &mdash; scrawny, wobbly-looking, giraffe-like stalks that seemed puzzled by their own survival.</p>
+
+<p>Tourists can now rest assured that no trees will stop them from envisioning what the soldiers of Battery C, First New York Light Artillery, Fifth Corps, saw on July 2, 1863. Which is precisely what the park service intended: &ldquo;to rehabilitate the Gettysburg battlefield so that the features that were significant to the outcome of the battle .&nbsp;.&nbsp;. more nearly reflect their historic conditions.&rdquo;</p>
+
+<p>When this logging project is complete, a forested area equivalent to 526 football fields will have been &ldquo;restored&rdquo; to match photographs taken in July 1863. At the time of this writing, 147 acres of woods have been cleared, and the remaining 429 acres are legally doomed. Any trees that have grown on the battlefield in the years since the Civil War will be removed; trees that were present in those days but have been cut or have died in the interim will be &ldquo;replaced.&rdquo; The work has been swift, efficient, and neat. In a year no one will be able to tell those woods existed.</p>
+
+<p>The lovely hilltop road leading to the Eternal Light Peace Memorial, dedicated by President Franklin D. Roosevelt on the seventy-fifth anniversary of the battle, has been stripped bare of the dozens of old oaks that once lined it. Restored to its original state, the once-wooded hilltop itself now resembles not an arboreal amphitheater positioned for a spectacular view to the west and south, but a badly scalped bump of land hosting a stark granite platform. As a bonus, visitors can enjoy an unobstructed view, to the east and southeast, of the Giant supermarket, the Days Inn, the Hilton Garden Inn, the U-Haul franchise, the North Gettysburg Shopping Center, and the Gettysburg College sports facilities. The now-unfiltered din of traffic from surrounding highways makes it nearly impossible to conjure up the nineteenth century.</p>
+
+<p>After five years of planning and protest, the forces in favor of historical restoration have prevailed over those who regard the stately woods as reassuring evidence that America has healed from its contentious history &mdash; not to mention those who simply cannot fathom the wholesale slaughter of hundred-year-old trees for <em>any </em>reason. The argument is over, and what I write here is not an attempt to persuade but an elegy for the kind of healing spirit that gave rise to this place.</p>
+
+<p>Everyone understands that in the larger scheme of devastation caused by development and suburban sprawl, this particular alteration of the environment is relatively benign. The woods are not being replaced by shopping malls, after all. And at least the battlefield cannot be sold to developers. Opposing camps in this conflict have withdrawn and retrenched for now, but the deep and irreconcilable divisions between them remain.</p>
+
+<p>&nbsp;</p>
+
+<p><em class="large">I teach </em>composition and creative writing at Gettysburg College. Sometimes I illustrate the process of beginning an essay or story by drawing a thundercloud on the chalkboard and sketching the start of a zigzag lightning strike: a series of unlinked dashes descending from the cloud at forty-five-degree angles to each other. Scientists call this a &ldquo;stepped leader.&rdquo; You can&rsquo;t see a stepped leader, I tell my students. Those unlinked dashes represent intuition, the first tentative ideas for an essay, usually nebulous and vague, and as invisible to a reader as a stepped leader is to the naked eye. To produce visible lightning, the stepped leader must join with an upward-reaching &ldquo;ground leader.&rdquo; (I draw a little line from the ground to the lowest dash.) When the two leaders connect .&nbsp;.&nbsp;. <em>zap!</em> Lightning rushes <em>up</em> from the ground, not down from the cloud. Let grounded detail illuminate your intuition, I tell them.</p>
+
+<p>Many cultures equate lightning with intuition. For the Lakota, for example, if you dream of lightning, you are likely what they call a <em>heyoka </em>&mdash; an intuitive who experiences brilliant flashes of inspiration, but rarely understands their source. <em>Heyokas</em> are the irreverent contrarians, the sacred clowns who do everything backward during formal ceremonies. At a sun dance a <em>heyoka </em>might pretend to piss on the medicine man&rsquo;s altar, or sashay around like a woman, or splash his face with steaming hot water to cool off. <em>Heyokas </em>wear black-and-white costumes, and everything they do provokes laughter tinged with fear.</p>
+
+<p>The Lakota believe that <em>heyokas </em>can cross the boundaries that exist between human beings and read people&rsquo;s minds. &ldquo;Be careful not to look me in the eye,&rdquo; a <em>heyoka </em>once told me during my stay at the Pine Ridge Reservation in South Dakota. I asked him what he meant and then made the mistake of glancing at him while waiting for an answer. Only when I tried to tear my eyes away did I understand that he had somehow held me paralyzed with his gaze, as effectively as if I&rsquo;d touched a bare electrical wire.</p>
+
+<p>Shortly after that incident, two young Lakota, Mike and Tony, visited me at my apartment in New York City. I took them to the Statue of Liberty, and we got stuck in a long line waiting for the ferry. The captive crowd had attracted the usual array of street performers, one of whom &mdash; a man with dreadlocks &mdash; followed hapless pedestrians and mimicked the way they walked. He had an uncanny ability to duplicate the posture and pace of another individual and exaggerate the single element that seemed to define that person: the slouch, the urgency, the shyness, the arrogance. His imitations were hilarious, but they were also disturbing. I glanced at Mike and Tony to see their reactions; they both casually nodded their approval and said in unison, &ldquo;Heyoka.&rdquo;</p>
+
+<p>When I was a young man and insecure in my own skin, I used to compensate for my fear of lightning by getting all pumped up and challenging it to strike me as I pranced around soaking wet under a flashing sky. You wouldn&rsquo;t want to do that where Mike and Tony live. Out there, the many-fingered lightning sizzles across the Great Plains, striking indiscriminately at anything higher than the prairie grass. It&rsquo;s enough to make you run to your car and whimper like a dog.</p>
+
+<p>In Gettysburg lightning will strike a monument once in a while, but mostly it&rsquo;s the trees that take the hits. Once, while walking on a service road, I found a ten-foot-long splinter of bark and pulp that had been blasted from a nearby oak just minutes earlier. A surprising number of trees in the park bear the scars of lightning strikes. Some survive, while the others attract all sorts of insects and serve as feeding grounds for the population of redheaded woodpeckers in the battlefield woods.</p>
+
+<p>&nbsp;</p>
+
+<p><em class="large">If Thomas Merton</em> screamed for help as he died, no one seems to have heard him. His Thai hosts found him lying on the tile floor, pinned beneath the fan, its blades still whirling in their cage. That was the same year Martin Luther King Jr. and Robert F. Kennedy were assassinated, and some speculated that Merton, too, had been murdered for his progressive beliefs.</p>
+
+<p>I knew almost nothing about Merton at the time. His early autobiography, <em>The Seven Storey Mountain,</em> sat unopened on my bookshelf throughout the sixties. I don&rsquo;t know why I never got around to reading it; maybe because I wasn&rsquo;t Catholic, or because too much was happening in the public domain for me to be interested in the life story of a contemplative monk. John F. Kennedy&rsquo;s assassination had produced in me a strange addiction to news of chaos and turmoil. It seemed as if every time you turned around, some well-known person was getting shot. Along with Martin Luther King Jr. and the two Kennedy brothers, there were such disparate figures as black militant leader Malcolm X, President Diem of South Vietnam, pop artist Andy Warhol, and revolutionary Che Guevara.</p>
+
+<p>I was driving a taxicab in New York City on the fourth of April, 1968, when a passenger told me that King had been gunned down on a balcony in Memphis. I remember feeling a wave of nausea. If there were people out there willing and able to kill our most visionary political and religious leaders, what did that say about the future of democracy? I drove up to Harlem and began giving people rides for free, my meter off. For a brief time that evening, everything seemed almost thrillingly clear: For all of us there was now a common enemy. Murderous racism had shown its face, and I could help beat the enemy by demonstrating my solidarity, as a white man, with my black neighbors. Then an off-duty police detective jumped into the front seat of my cab and ordered me to drive him to the Bedford-Stuyvesant section of Brooklyn. By the time we arrived, a small riot was in bloom. After I let the detective out, a group of young people splintered off from the crowd and stormed my cab, pelting it with bottles. I ducked low behind the steering wheel and ran red lights as I sped away.</p>
+
+<p>That same evening, exactly two months before he was gunned down himself, Senator Robert F. Kennedy, on a presidential-campaign stop in Indianapolis, addressed a crowd of mostly black inner-city residents. He told them that he, too, had lost a brother to a white man&rsquo;s bullet. He quoted the Greek playwright Aeschylus in an attempt to universalize the suffering and pain, and he suggested that everyone go home and pray. Riots shook more than a hundred American cities that night, but not Indianapolis.</p>
+
+<p>I had worked as an advance man for Bobby Kennedy during his 1964 U.S. Senate race. President Kennedy had been assassinated in his motorcade in Dallas nine months earlier, but that did not deter Bobby from riding slowly in open convertibles along avenues and side streets all over New York State. I was sometimes obliged to ride with him, hanging on to his belt from behind while he leaned into the crowd to shake hands. At other times I would walk along beside the car to protect people from being run over.</p>
+
+<p>In Buffalo, when our campaign coincided for a day with that of President Lyndon B. Johnson, the head of the president&rsquo;s Secret Service detail asked me what kind of security we were traveling with for Bobby. He blanched when I told him that all we had was an on-leave New York City police detective armed with a .38 caliber pistol.</p>
+
+<p>&ldquo;I think I should tell you,&rdquo; he said, &ldquo;that all the people we&rsquo;ve rounded up seem to be after your candidate &mdash; not the president.&rdquo;</p>
+
+<p>&ldquo;<em>All </em>the people?&rdquo; I said.</p>
+
+<p>&ldquo;Yeah,&rdquo; he answered, &ldquo;they&rsquo;re coming out of the woodwork. We just caught some guy with a rifle lying in the high grass along the thruway.&rdquo;</p>
+
+<p>It must have taken an iron will (the word <em>courage</em> doesn&rsquo;t entirely explain it; nor does the phrase <em>death wish</em>) for Bobby Kennedy to ride in an open motorcade and wade into crowds of admirers. He knew the risk. But he took seriously (and had copied into his notebook) Albert Camus&rsquo;s admonition that &ldquo;to know your own death is nothing.&rdquo; In the early hours of June 5, 1968, about thirty seconds after a .22 caliber bullet lodged in Bobby&rsquo;s brain &mdash; and only a few seconds before he lost consciousness for good &mdash; he lay on the kitchen floor at the Ambassador Hotel in Los Angeles, looking up at his wife, Ethel, who cradled his bleeding head in her hands.</p>
+
+<p>&ldquo;Is everyone else all right?&rdquo; he asked.</p>
+
+<p>As I write these words, news drifts in through my window from a neighbor&rsquo;s radio that President George W. Bush plans to visit a training center for border-security guards in Texas today &mdash; another of his prepackaged appearances in front of government employees, calculated to strengthen his political base. When was the last time a political figure thought about anyone but himself and his party? And what is the consequence of this self-serving political charade? Perhaps it can be discerned in American democracy&rsquo;s great shadow, which we have now projected onto Iraq: civil war.</p>
+
+<blockquote class="quote-1 large">
+<p>I was driving a taxicab in New York City on the fourth of April, 1968, when a passenger told me that King had been gunned down on a balcony in Memphis. I remember feeling a wave of nausea. If there were people out there willing and able to kill our most visionary political and religious leaders, what did that say about the future of democracy?</p>
+</blockquote>
+
+<p><em class="large">Ask people</em> where they think Gettysburg is located, and they&rsquo;ll often say Virginia. (I thought this when I was young.) Perhaps they are conflating Robert E. Lee&rsquo;s defeat at Gettysburg with the fact that he signed the Treaty of Appomattox in his home state of Virginia. In any case, Gettysburg sits in a beautiful valley in south-central Pennsylvania, nine miles north of the Maryland border, which is also known as the Mason-Dixon line, the division between North and South, &ldquo;free&rdquo; states and &ldquo;slave&rdquo; states, during the Civil War.</p>
+
+<p>Gettysburg was hailed as good ground by generals on both sides. The place has power still. The same ten roads that led 172,000 Confederate and Union troops into battle still radiate from the borough today. Approach from any direction, and you will feel the agricultural richness and geological resonance of the valley. In the summer, rolling thunderstorms patrol the sky.</p>
+
+<p>When I was a boy, I lived on the edge of the Pound Ridge Reservation, a four-thousand-acre preserve in New York&rsquo;s northern Westchester County. I spent a lot of idle time in that preserve, just as I now spend idle time on the expansive Gettysburg battlefield. Like the battlefield, the reservation consisted of an enchanting mix of woods and fields, set apart and quiet, yet so alive with wildlife that you could sometimes imagine humankind started there.</p>
+
+<p>I used to walk the three-mile dirt road that bisected the Pound Ridge Reservation to a small nature museum run by a naturalist named Mr. Wheeler. I think he must have suffered from Parkinson&rsquo;s disease. Stoop-shouldered and old before his time, he moved slowly and sometimes seemed to be in pain, but he never failed to smile broadly when he saw me, or to beckon me into his musty world with a wave of his palsied hand. He spoke with a raspy, breathless voice as he shuffled along the stone floor, narrating the contents of each display: jars crammed with pickled snakes; stuffed raptors hanging on brass wires; a dust-covered, yellow-eyed bobcat frozen in midprowl on the windowsill; bugs and butterflies pinned to sun-bleached cardboard; arrowheads locked in glass cabinets; and minerals galore. Some of these displays allowed you to identify an object by matching it with its name. Two tenpenny nails &mdash; one for the object, one for the name &mdash; were wired to a battery and would set off a buzzer if you got it right.</p>
+
+<p>About three decades later, in the early eighties, I lived in a rural area not far from where I&rsquo;d grown up. Mr. Wheeler had died many years before, but I fancied that if I could restore my memory of him &mdash; touch him with a tenpenny nail, as it were &mdash; I might learn something about myself as a child. I tried writing a story about the way he would ritually end our visits by scooping a cupful of sunflower seeds and making an offering to the sky. Little black-capped chickadees would swoop down from the roof and cling to the edge of the cup, two or three at once, feeding from it even as the old man&rsquo;s hand shook with an embarrassing violence.</p>
+
+<p>But I simply couldn&rsquo;t write the story &mdash; nothing worked. I threw away page after unsuccessful page until finally, at about ten o&rsquo;clock one winter night, I gave up entirely and went outside to shoot baskets in front of the garage. As a way to clear my mind, shooting baskets worked almost as well as meditation. Finally I tossed the basketball into an empty planter, glanced overhead at the stars, and headed back toward the house.</p>
+
+<p>No sooner had I begun walking than I heard a rapid fluttering right above my head. The sound sent a chill up my spine. A chickadee appeared in front of my face and landed on the stone walkway at my feet. Partly hopping, partly flying, the bird preceded me to the house and then perched on a Christmas wreath attached to the front door, which I opened gently. The chickadee flew inside and sat for a few minutes atop an open bathroom door, where I snapped its picture with an Instamatic. It spent the rest of the night resting on a beam while I watched it for hours from the sofa. At first light, I opened the front door, and it flew away with a single <em>peep</em>.</p>
+
+<p>A bird expert has assured me you will never see a chickadee fly at night. That I have a poorly lit snapshot of the bird does not erase the paper-thin boundary between the material world and that of the spirit; it simply confirms that the causal perspective with which we negotiate the real world vanishes when we cross that boundary. Tourists by the thousands cross it every day in Gettysburg. You can see it in their faces as they silently imagine the battle &mdash; and perhaps intuit its resonance in the here and now. And therein lies the power of the whole enterprise to which Gettysburg National Military Park was dedicated: memory.</p>
+
+<p>The past cannot be restored, but if allowed it will manifest in the present as spirit. To manipulate the process by which spirit is evoked &mdash; by removing any evidence that time has passed, or by tampering with a place where so many souls have died &mdash; might just short-circuit it. I guess, after they&rsquo;re done clearing the trees, we&rsquo;ll find out.</p>
+
+<blockquote class="quote-1 large">
+<p>When was the last time a political figure thought about anyone but himself and his party? And what is the consequence of this self-serving political charade? Perhaps it can be discerned in American democracy&rsquo;s great shadow, which we have now projected onto Iraq: civil war.</p>
+</blockquote>
+
+<p><em class="large">&ldquo;We are numbered</em> in billions,&rdquo; Merton writes, &ldquo;.&nbsp;.&nbsp;. worked to the point of insensibility, dazed by information, drugged by entertainment, surfeited with everything, nauseated with the human race and with ourselves, nauseated with life.&rdquo;</p>
+
+<p>The nausea of which Merton writes is what we used to call &ldquo;despair&rdquo; or &ldquo;angst,&rdquo; and what experts today refer to by an array of psychiatric names: anxiety, clinical depression, bipolar disorder, post-traumatic stress disorder, and attention-deficit disorder &mdash; not to mention erectile dysfunction. You can take an assortment of pills for the nausea of modern despair: the pain of a lost love, the fear of failure, the dread of poor sexual performance. Many of my students take such medications. These pills are pushed on network television in slick, long-winded commercials interspersed with brief news segments calculated to <em>cause</em> anxiety &mdash; reports of suicide bombers, child molesters, suspected threats to national security, nascent pandemics, kidnappings, genocide. This mind-numbing, socially engineered cocktail has left many young people tone-deaf to prophetic nuance. It is as if they have arrived at adulthood with their alarm systems disabled.</p>
+
+<p>In the classes I teach, I must take care to avoid making any negative statements that might label me as antagonistic to popular culture. Having been taught to assess attitude rather than substance, young people have developed an eagle eye for affect. For them, affect <em>is</em> substance. I get around this problem by cheerily assigning stories about suffering and death. And I never lecture.</p>
+
+<p>When I assign E.B. White&rsquo;s essay &ldquo;Once More to the Lake&rdquo; to my composition class, I lure students in by noting that White also wrote <em>Charlotte&rsquo;s Web</em> and <em>Stuart Little.</em> (They have all seen the movies.) &ldquo;Once More to the Lake&rdquo; is about death and trepidation, but its bleak mood is rescued from despair by the notion of heritage and continuity. At the time he wrote the essay, in 1941, White had outlived his father, who used to bring the entire family to this particular Maine lake during the summer. White transcends the premonition of his own mortality by imagining that his young son will one day return to the lake, continuing the tradition. It is all quite patrician and predictable, really. White&rsquo;s voice exudes generations of entitlement. But almost everyone loves the essay and has no problem responding to it, even students who might never have seen a pristine lake. All are struck by White&rsquo;s subtle evocation of death and admire how the author uses death&rsquo;s shadow to give texture to a bland summer day. They seem aroused, even mesmerized, by his description of a gathering thunderstorm, and by the release of a perennial spirit when the children swim in the rain after the lightning has passed.</p>
+
+<p>&nbsp;</p>
+
+<p><em class="large">At the beginning</em> of each fall semester, more than seven hundred first-year Gettysburg College students assemble to walk south down Carlisle and Baltimore Streets to Evergreen Cemetery, near where historians believe Abraham Lincoln delivered his famous address on November 19, 1863. Traffic is held up for miles in several directions as the students march to the cemetery lawn, where they will listen to a reading of the Gettysburg Address.</p>
+
+<p>Two years ago I went to the cemetery early, hoping to locate the grave of the poet Marianne Moore before the arrival of the students. I wound up wandering the nearby battlefield until I came to the area directly across the road from Evergreen, a place called East Cemetery Hill: ground that, on the second day of battle, was taken and then lost by Confederate soldiers of the Twentieth Division. I parked my butt on an old stone wall and relaxed in the shade of a spreading ash, one of five large trees that grew into and around the wall. I could have sat a little further down the hill, beneath a huge tulip tree whose twenty-foot circumference was girdled with a faded orange tape that read <span class="smallcaps">DO NOT CUT.</span> But my perfectly adequate ash tree, whose twelve-foot circumference had garnered it no such reprieve, provided me a better view of the entrance to Evergreen Cemetery. I heard a slight breeze rustle the leaves, felt the stillness of the afternoon, and relished the shade that, because it was growing late, seemed to be building everywhere.</p>
+
+<p>And that&rsquo;s when I began to hear it: the approach of hundreds of students. You can hear a similar sound in late autumn, further out on the battlefield, when enormous flocks of migrating Canada geese descend on a patch of open marshland. As the students grew near, I thought that even the songbirds must have been impressed by the high-pitched cacophony of so many uninitiated young people.</p>
+
+<p>What could all those kids have been talking about individually to raise the collective clamor to such a level? I don&rsquo;t know. I&rsquo;m not sure I want to know. There they were, approaching a cemetery to listen to a recital of the Gettysburg Address, that great, sad oration, but if I shut my eyes, I could imagine a massive cocktail party in progress. The tens of thousands of soldiers who marched along this same road, canteens and swords clanging, must have sounded low-key by comparison. Here they came, this blissfully naive and blessedly upbeat gaggle of tightly packed teenagers &mdash; agitated, eager, self-conscious &mdash; about to descend on the sacred burial ground of the ancestors. The slow procession was preceded by a single police car, motorcade-style.</p>
+
+<p>&nbsp;</p>
+
+<p><em class="large">During one</em> of my winter walks through the battlefield, I saw a man with hands clasped behind his back, blond hair streaming from beneath a broad-brimmed cavalry hat, his black riding boots set apart in a stance that affected the authority of a commanding officer. In the light of the setting sun, he began solemnly pacing a fence line that had been, on July 3, 1863, one of the obstacles to Pickett&rsquo;s Charge, when thousands of Confederate soldiers had swept in futile fashion across the nearly mile-long field to the west. The man seemed to be assessing the lay of the land, or perhaps imagining himself surveying a line of Union troops before the bombardment on day three of the battle. I couldn&rsquo;t resist walking up to him and telling him he looked much like George A. Custer, and I wondered if he could tell me whether the famous cavalryman had fought in the battle of Gettysburg.</p>
+
+<p>&ldquo;Wh-wh-wh-why, yes, he d-d-d-d-did,&rdquo; answered the man. He told me with some difficulty that Custer had fought a small skirmish a ways to the east of where we stood. I saw now that the man&rsquo;s blond hair had the rough consistency of a horse&rsquo;s mane and must have been colored with cheap dye. I asked if anyone else ever remarked on his resemblance to Custer. Yes, they did, he answered. &ldquo;And you m-m-m-may be interested to know that Cu-Cu-Cu-Custer stuttered, too.&rdquo; He told me he lived in New York State and came here every weekend, though he didn&rsquo;t like going to the place where Custer actually fought, because it was &ldquo;too spooky out there.&rdquo; His eyes grew damp as he spoke about the number of men who had died on that spot. By the time we finished talking, his stutter had disappeared.</p>
+
+<p>After my encounter with George Custer, the chain saws and steel-treaded tree clippers advanced from several directions on an area known as Devil&rsquo;s Den. The loggers worked quickly to fell the trees, but the huge trunk segments remained stacked along the road for months. I walked there every evening during the winter and early spring, and the sight of the carnage made my throat grow dry and my mind concoct absurd fantasies of violence and revenge. I thought of sabotaging logging equipment: putting sugar in the gas tanks, flattening tires, spiking trees. I even allowed myself to imagine committing cold-blooded murder: sniping at loggers from up on Little Round Top, ambushing the vehicles with a loaded shotgun, blowing up culverts, torching gas tanks. I told myself it wouldn&rsquo;t matter if I died in the attack.</p>
+
+<p>Those trees had been there to teach patience and poise, a counterpoint to the desperation of war. My worst fantasies rushed to fill the void created by their loss &mdash; harmlessly, of course, because I&rsquo;m old. But the idea was out of the bag.</p>
+
+<p>There is a scene in Michael Shaara&rsquo;s Civil War novel, <em>The Killer Angels,</em> in which Union Colonel Joshua Chamberlain recounts to a friend an argument he had with a minister. This man of the cloth was also a serious advocate of slavery and claimed that Negroes were not men, but more like horses. &ldquo;I was really thinking of killing him,&rdquo; Chamberlain says, &ldquo;wiping him off the earth, and it was then I realized for the first time that if it was necessary to kill [proponents of slavery], then I would kill them.&rdquo;</p>
+
+<p>For months I walked despairingly past the piles of wood chips, the remains of old trees that had provided shade for generations of visitors: shade for the overweight, shade for the old and infirm, shade for the infants, watercolorists, veterans, and lovers, all of whom must now cower from the heat in idling, air-conditioned buses, or huge <span class="smallcaps">SUV</span>s, or oversize pickup trucks, lest they become puddles of bubbling flesh among the sun-cooked boulders of Devil&rsquo;s Den &mdash; or, on a cloudy day, the target of lightning strikes that were once easily absorbed by large trees.</p>
+
+<p>True, those trees were not there when Confederate sharpshooters hid behind the rocks and picked off Union officers on Little Round Top, just across the way to the east. And, true, visitors to the battlefield enjoy a more accurate view of the way things were. But the breadth and height of those trees, and the way they sometimes blocked what was once a clear view, were the only real evidence that what happened then is not still happening &mdash; or about to happen &mdash; now.</p>
+
+<p>There are two sides to any argument, I teach my students. But the fulcrum of an argument, like the base of a seesaw, must be the collective, the transcendent, good. Without that fulcrum, the ideal of reasoned and balanced argument collapses. Debate becomes a playground for bullies. My patience with argument has snapped.</p>
+
+<p class="ckeditor-shortcode"><figure class="photo photo-outset-center-medium">
+	<div>
+					<div>
+				<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 1960 1237'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/980x619r/photos/377-22-satterlee.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/1960x1237r/photos/377-22-satterlee.jpg
+	 alt="377 - Satterlee- Smith"
+	 class="lazy">
+
+									<figcaption>
+																											<div class="photo-credit">
+																			© <a href="https://www.thesunmagazine.org/contributors/craig-j-satterlee">
+											Craig
+																							J.
+																						Satterlee
+										</a>
+																	</div>
+																								</figcaption>
+							</div>
+			</div>
+</figure>
+</p>
+
+<p><em class="large">I love</em> a good graveyard. My parents&rsquo; ashes are buried in Mount Auburn Cemetery in Cambridge, Massachusetts, which was dedicated on September 24, 1831. Mount Auburn was the first large American cemetery conceived according to the Athenian model, which recognized death as integrally linked with life and celebrated nature &mdash; specifically trees and birds &mdash; as a reminder of the life-death continuum. The Gettysburg National Cemetery became the second such graveyard. But in Gettysburg, the cemetery resides in the middle of what was once a battlefield, and the battlefield &mdash; because so many fought and died there, and because there are so many monuments attesting to that fact &mdash; has the feel of a cemetery. Indeed cemetery and battlefield would be indistinguishable if not for a wrought-iron fence.</p>
+
+<p>Birds ignore the fence, of course, and treat the two properties as a single preserve. It is sometimes fun to imagine them as the winged spirits of the dead: blue herons traversing the domed evening sky; turkey vultures soaring over Little Round Top; mockingbirds singing up a storm while perched atop the heads of sculpted riflemen; finches, cardinals, jays, swallows, orioles, and woodpeckers all darting everywhere, protected by the surrounding woods. Here&rsquo;s how Joshua Chamberlain put it in his dedication of the Maine monuments at Gettysburg, on the evening of October 3, 1889: &ldquo;In great deeds something abides. On great fields something stays. Forms change and pass; bodies disappear, but spirits linger to consecrate ground for the vision-place of souls.&rdquo;</p>
+
+<p>Even if lingering spirits aren&rsquo;t your idea of fun, I&rsquo;ll guarantee that if you visit in the spring, you will be impressed by the clouds of grackles and starlings that appear as if from some invisible seam in the sky on the western horizon, advancing by the thousands to swarm above, around, and behind Big Round Top, cackling amid the leafless branches, feathers iridescent in the light of the setting sun.</p>
+
+<p>For me, Thomas Merton speaks from that twilight stratum where day ends and night begins. He was able to balance both states of mind &mdash; light and dark, sun and shade &mdash; finding in the biblical notion of &ldquo;end time&rdquo; a promise of fulfillment, and in fulfillment the promise of a new beginning. He was careful to distinguish between biblical eschatology and secular anxiety, which he defined as<em> &ldquo;the pathological fear of the violent end,&rdquo;</em> calling it a thinly disguised <em>&ldquo;hope for the violent end&rdquo;</em> [emphasis his]. He used the biblical Time of the End as a metaphor to encourage people &mdash; Americans, in particular &mdash; to turn away from the material abyss, where one is no longer governed by the heart but propelled instead by the forces of blind fear and narrow greed.</p>
+
+<p>From Bangkok, courtesy of President Lyndon Johnson, Merton&rsquo;s body was flown back to the States in a U.S. Air Force plane, along with the coffins of the American soldiers killed in Vietnam that week.</p>
+
+<p>&nbsp;</p>
+
+<p><em class="large">I must have</em> read and heard the Gettysburg Address a hundred times. I still can&rsquo;t listen to it without wanting to weep. As the writer Garry Wills has pointed out, the speech violates all the rules of rhetoric. But Lincoln did not need to prepare the ground for his audience; he was standing on it. The hard specifics of war, which are missing from the address, were buried in the earth all around him. Death&rsquo;s stench filled in the blanks. The speech is pure lightning.</p>
+
+<p>I am closer in age by almost half a century than my students to the three-day slaughter that prompted that speech. Both my grandfathers were born in the decade of the Civil War. My great-grandfather&rsquo;s cavalry sword sits in the corner as I write. I even once had the privilege of drinking bourbon with an old man who was born to slaves in Georgia. I can feel the Civil War in my bones.</p>
+
+<p>And now I live nearby it.</p>
+
+<blockquote class="quote-1 large">
+<p>Thomas Merton used the biblical Time of the End as a metaphor to encourage people &mdash; Americans, in particular &mdash; to turn away from the material abyss, where one is no longer governed by the heart but propelled instead by the forces of blind fear and narrow greed.</p>
+</blockquote>
+
+<p><em class="large">Just before</em> the summer solstice last year, while walking on the battlefield, I came across a redheaded woodpecker lying in the middle of United States Avenue. A thinned-out woodlot lines the south side of the avenue, and a vast field stretches to the north. The bird must have been whacked by a vehicle as it flew across the road between woods and field. I assumed it was dead. It lay motionless on the pavement, one black-and-white wing splayed, its bright crimson head turned sharply to the side. Its left eye looked dazed and bloodshot, like the eye of a drunk after a bar fight.</p>
+
+<p>When I squatted to pick up the woodpecker, thinking to move it to a grassy burial place on the shoulder of the road, it suddenly struggled to flap its open wing. I gathered the creature into my hand, holding both wings tight against its body. Happy to see that its neck wasn&rsquo;t broken, I walked to a stone wall, where I sat on a rock and tried to give the bird some solace. It lay still in my grasp, its beak parted, one clear eye staring at me. I touched its long, stiff tongue, but it didn&rsquo;t bite or peck my finger. I stroked its smooth head, which looked like a red hood pulled down over neck and throat. Some minutes passed, during which I managed to clean its wings of the loose fluff produced by the trauma, and the bird grew more alert. Its heartbeat seemed normal enough. After checking that no cars were approaching, I slowly opened my hand to let it fly away. But it just sat there contentedly, as if nesting. Even when I made a gentle tossing motion, urging it toward flight, it didn&rsquo;t budge. The bird reminded me of my composition students the previous spring when I&rsquo;d told them, midway through the final class &mdash; after pizza and a few stories &mdash; that I was done with them and they were free to leave early. They&rsquo;d just sat there, refusing to break the circle of our group.</p>
+
+<p>The sun was close to setting. I carried the bird across the road and into the woodlot, where I spoke to it about the need to get home before dark. I had to pry its sharp, four-clawed feet from my index finger. Only then did it fly to a nearby oak, where it clung crazily to the rough bark, hanging from the tree trunk like an exhausted window washer leaning away from a ledge. Disappointed, I tramped through the low brush and reached up to offer my help again, but just as I touched it, the bird flew toward another oak deeper in the woods, swooping abruptly before it landed &mdash; correctly this time &mdash; high up on the trunk.</p>
+														</div>
+
+
+				
+<div class="sharing-bar article-sharing">
+	<div class="sharing-bar-first">
+		<a href="javascript:window.print();" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-printer"></use></svg> <span>Print</span></a>
+	</div>
+
+	<div class="sharing-bar-second">
+		<span class="alt-ff xsmall">Share:</span>
+		<a href="https://www.facebook.com/sharer/sharer.php?u=https://www.thesunmagazine.org/issues/377/shade" target="_blank" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-facebook"></use></svg> <span>Facebook</span></a>
+		<a href="https://twitter.com/share?url=https://www.thesunmagazine.org/issues/377/shade&amp;via=thesunmagazine" target="_blank" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-twitter"></use></svg> <span>Twitter</span></a>
+		<a href="#" class="b b-1 b-padding-tight xsmall js-toggle-mail-form"><svg><use xlink:href="#i-email"></use></svg> <span>Email</span></a>
+	</div>
+</div>
+
+<div class="send-to-friend-message-container">
+	<div class="alert alert-success xsmall">Thank you for sharing <em>The Sun</em>.</div>
+</div>
+
+<form method="post" action="/ajax/articles/send-to-a-friend" class="form fill-grey send-to-friend-form">
+		<input type="hidden" id="form_url" name="form[url]" value="https://www.thesunmagazine.org/issues/377/shade" />
+
+	<ul class="form-fields">
+		<li><label for="form_sender_name"><span class="label-text">Your Full Name</span><span class="label-asterisk">*</span></label><input type="text" id="form_sender_name" name="form[sender_name]" required="required" /></li>
+		<li><label for="form_sender_email"><span class="label-text">Your Email Address</span><span class="label-asterisk">*</span></label><input type="email" id="form_sender_email" name="form[sender_email]" required="required" /></li>
+		<li><label for="form_recipient_name"><span class="label-text">Friend’s Name</span><span class="label-asterisk">*</span></label><input type="text" id="form_recipient_name" name="form[recipient_name]" required="required" /></li>
+		<li><label for="form_recipient_email"><span class="label-text">Friend’s Email Address</span><span class="label-asterisk">*</span></label><input type="email" id="form_recipient_email" name="form[recipient_email]" required="required" /></li>
+		<li><label for="form_message"><span class="label-text">Personalized Message</span></label><textarea id="form_message" name="form[message]"></textarea></li>
+	</ul>
+<div class="send-to-friend-message-container">
+	<div class="alert alert-error xsmall">Something went wrong. Please try again.</div>
+</div>
+
+<div class="g-recaptcha" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs"></div>
+<div class="form-actions"><button type="submit" id="form_submit" name="form[submit]"	class="form-actions-b-primary b b-1 b-loading xsmall"><svg><use xlink:href="#i-loading"></use></svg>
+		Submit
+	</button></div>
+<input type="hidden" id="form__token" name="form[_token]" value="a99641cf5afc2faccffc852d05724146252fac81" /></form>
+
+<br>
+
+
+
+										<footer class="article-contributor contributors">
+									
+
+<div class="block-contributor">
+		
+
+		<div class="block-contributor-content">
+		<div class="block-contributor-bio small">
+			<p><strong><span class="smallcaps">Dustin Beall Smith</span></strong> worked until his midfifties as a key grip in the movie business (&ldquo;an industry,&rdquo; he says, &ldquo;that eats its young and discards its elders&rdquo;). He now teaches at Gettysburg College, and his essays have appeared or are forthcoming in the <em>Gettysburg Review, River Teeth,</em> and the <em>New York Times Magazine</em>. He lives in Gettysburg, Pennsylvania.</p><a href="/contributors/dustin-beall-smith" class="block-contributor-link link-alt small">More From This Contributor&nbsp;&#9656;</a>		</div>
+	</div>
+</div>
+
+							</footer>
+						</article>
+
+
+				    <div class="paywall-subscription block-product">
+			<div class="columns">
+			<div class="paywall-banner span3 cta cta-l1">
+				<div class="cta-intro">
+					<h5 class="cta-title alt-ff">One Free Selection Left </h5>
+					<p class="cta-text xsmall"><a class="link-alt" href="https://www.thesunmagazine.org/subscriber/login" data-label="Already a subscriber?">Already a subscriber? Sign in ▸</a><br><br>Read two free selections from <em>The Sun</em> each month.</p>
+				</div>
+			</div>
+			<div class="paywall-banner span9 note note-1 text-center">
+				<h4 class="cta-title alt-ff">Subscribe to <em>The Sun</em> and save 45%</h4>
+				<p class="cta-text xsmall">Subscribers get full access to the current issue and more than 40 years of archives.</p>
+				<a class="b b-1 xsmall cta-trigger"  href="/subscribe1" data-label="Subscribe" data-ctatitle="Subscribe">Subscribe</a>
+			</div>
+		</div>
+
+		<div class="columns">
+			<div class="span12 paywall-cta-bottom">
+				<p>
+					<span class="cta-title-issue">Buy the May 2007 issue for $5.95</span>
+					<span class="xsmall">Order now to get instant access to this issue, and we’ll also send you a print copy.</span>
+					<a class="b b-5 xsmall corona"  href="#" data-product-type="issues" data-id="377" data-label="Order Now ▸">Order Now ▸</a>
+				</p>
+			</div>
+		</div>
+
+		
+
+</div>
+	
+	
+	
+	<div class="spacer"></div>
+	
+
+
+
+			<div class="article-correspondence layout-item fill-pattern-light">
+		<div class="layout-item-intro">
+			<h2>Correspondence</h2>
+			<a class="xsmall link-alt" href="https://www.thesunmagazine.org/letter-to-the-editor">Write a Letter to the Editor&nbsp;&#9656;</a>
+		</div>
+
+		<div id="article-correspondences" class="correspondences correspondences-collapsed">
+								<div class="block-correspondence" id="1395">
+		<blockquote class="quote-2">
+			<p>In his lament for the felled trees of Gettysburg [&ldquo;<a href="/article/26">Shade</a>,&rdquo; May 2007], Dustin Beall Smith misses the greatest irony of all. The cutting of trees at Gettysburg today mimics the logging that took place one year prior to the great battle of 1863. Many Adams County landowners had sold the trees on their woodlots to government purchasing agents, because the Union Army of the Potomac, with eighty thousand men in winter quarters in Maryland and Virginia, needed trainloads of timber and firewood. Hence some important battles, such as the struggle for Little Round Top, were fought on recently denuded land. In fact, Little Round Top was tactically important precisely because it had been cut and thus offered clear fields of fire. Today&rsquo;s cutting is simply history repeating itself, albeit for different reasons.</p>
+							<p class="quote-2-author">Harry Roach<br>Stroudsburg, Pennsylvania</p>
+					</blockquote>
+	</div>
+
+								<div class="block-correspondence" id="1396">
+		<blockquote class="quote-2">
+			<p>Though I was enchanted by most of Dustin Beall Smith&rsquo;s &ldquo;Shade,&rdquo; I was angered by his complete ignorance of mental illness. To suggest that mental illnesses are a fabrication of our societal &ldquo;angst&rdquo; or &ldquo;despair&rdquo; only makes it that much harder for those who struggle with them. Not only do they have to battle a medical condition that can be crippling and stigmatizing, but every day they must fight people&rsquo;s skepticism about the very existence of these disorders.</p>
+
+<p>Simply because drugs are marketed on television does not make it a mere lifestyle choice to take them. To compare bipolar disorder, anxiety disorder, post-traumatic stress disorder, and clinical depression with erectile dysfunction, as Smith does, is appalling. As a college professor, he has an obligation to be informed about these matters; he probably has students who cope with these disorders every day. When they are left untreated, the consequences can be tragic.</p>
+							<p class="quote-2-author">Tina Maynard<br>Oakland, California</p>
+					</blockquote>
+	</div>
+
+								<div class="block-correspondence-respond fill-pattern-light" id="1397">
+								<p><a href="/contributors/dustin-beall-smith"><strong>Dustin Beall Smith</strong></a> responds:</p>
+							<p>As a college professor I listen carefully to my students, and I work closely with mental-health professionals on campus. I am acutely aware that students cope with legitimate disorders every day. Nevertheless, Tina Maynard&rsquo;s angry reaction to what I wrote is valid. My discursion into the subject of prescription medication was too brief and casual to accommodate the complexities of the issue. I did not mean to suggest that mental illness is a &ldquo;fabrication of our societal &lsquo;angst&rsquo; &rdquo; (who would suggest that?), but rather that market forces and advertising have blurred the lines between mental illness, per se, and what one might call &ldquo;healthy&rdquo; anxiety, sadness, and anger &mdash; the kind that motivates us to act in response to real injustices and dangers.</p>
+	</div>
+
+
+					</div>
+
+				<div class="text-center">
+			<button class="b b-1 xsmall js-b-readmore-correspondence" data-collapsible="#article-correspondences" data-label="Read More Letters">Read More Letters</button>
+		</div>
+			</div>
+    
+		<div class="article-correspondence-cta">
+		<div class="cta cta-l1" data-url="https://www.thesunmagazine.org/letter-to-the-editor">
+			<div class="cta-intro">
+				<h5 class="cta-title alt-ff">Thinking about writing us a letter?</h5>
+				<p class="cta-text">Give in to the temptation. We love getting mail. <br><span class="xsmall">(Of course, we reserve the right to edit.)</span></p>
+			</div>
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" class="cta-button b b-4 b-padding-tight small" data-label="Write Us A Letter!">Write Us A Letter!</a>
+		</div>
+	</div>
+	
+
+			<div class="article-also layout-item-large full-bar fill-grey-mid-light">
+		<div class="layout-item-intro">
+			<h2>Also In This Issue</h2>
+			<a href="/issues/377" class="xsmall link-alt">May 2007&nbsp;&#9656;</a>
+		</div>
+		<div class="issue-articles-l1">
+			<div class="issue-articles-l1-content1">
+				
+<div class="cover cover-l1 block-product">
+	<div>
+							<a href="/issues/377" class="cover-thumb">
+				
+				<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 727'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/import/issue/377.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/561x728r/import/issue/377.jpg
+	 alt=""
+	 class="lazy">
+
+			</a>
+		
+
+													<!-- <a href="/issues/377" data-product-type="issues" data-id="377" data-role="order" class="js-buy-single corona cover-button b b-1 b-full xsmall" data-label="Buy This Issue &#9656;">
+								Buy This Issue&nbsp;&#9656;
+			</a> -->
+			<a href="/issues/377" data-product-type="issues" data-id="377" class="js-buy-single corona cover-button b b-1 b-full xsmall" data-label="Buy This Issue &#9656;">
+								Buy This Issue&nbsp;&#9656;
+			</a>
+					
+					</div>
+</div>
+			</div>
+			<div class="issue-articles-l1-content2">
+				<div class="articles-l3">
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/sy-safranskys-notebook">Sy Safransky&#039;s Notebook</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/377/sy-safranskys-notebook-377">May 2007</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/sy-safransky">Sy Safransky</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/377/mission-accomplished">Mission Accomplished</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/al-neipris">Al Neipris</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/fiction">Fiction</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/377/the-apology">The Apology</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/j-r-helton">J.R. Helton</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/fiction">Fiction</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/377/cuba-libre">Cuba Libre</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/bruce-mitchell">Bruce Mitchell</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+									</div>
+			</div>
+		</div>
+	</div>
+	
+
+			<div class="article-related layout-item-large full-bar fill-pattern-light">
+		<div class="layout-item-intro">
+			<h2>Related Selections</h2>
+			<ul class="list-inline list-inline-tight"><li><a href="/topics/plants" class="xsmall link-alt link-text">Plants</a></li><li><a href="/topics/pollution" class="xsmall link-alt link-text">Pollution</a></li><li><a href="/topics/cities" class="xsmall link-alt link-text">Cities</a></li><li><a href="/topics/writing" class="xsmall link-alt link-text">Writing</a></li><li><a href="/topics/war" class="xsmall link-alt link-text">War</a></li></ul>		</div>
+
+		<div class="articles-l2">
+							
+
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/sun-interview">The Sun Interview</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/508/we-only-protect-what-we-love">We Only Protect What We Love</a></h3>
+					<p class="block-content-subtitle subtitle">Michael Soule On The Vanishing Wilderness</p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/leath-tonino">Leath Tonino</a></li><li><a href="/issues/508">April 2018</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/508" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 727'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/140x182r/2018-03/508.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/2018-03/508.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/491/waterbugs">Waterbugs</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/alice-bradley">Alice Bradley</a></li><li><a href="/issues/491">November 2016</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/491" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 727'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/140x182r/2016-10/491.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/2016-10/491.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/poetry">Poetry</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/390/taedong-river-bridge">Taedong River Bridge</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/steve-kowit">Steve Kowit</a></li><li><a href="/issues/390">June 2008</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/390" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 727'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/140x182r/import/issue/390.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/import/issue/390.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/poetry">Poetry</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/138/february">February</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/nellie-hill">Nellie Hill</a></li><li><a href="/issues/138">May 1987</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/138" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 725'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/141x182r/import/issue/138.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/281x364r/import/issue/138.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+					</div>
+	</div>
+	
+	
+					<form id="newsletterForm" method="post" action="https://www.thesunmagazine.org/newsletter" data-url-send="https://www.thesunmagazine.org/newsletter" class="form form-newsletter fill-grey" enctype="multipart/form-data" target="_blank">
+
+
+
+		<div class="form-newsletter-intro">
+			<h3 class="alt-ff large">Sign Up For Our Newsletter</h3>
+			<p>We’ll let you know about new website selections, upcoming events, special offers, and more.</p>
+		</div>
+
+		<ul class="form-newsletter-fields form-fields form-fields-inline">
+			<li>
+				<input name="name" type="text" maxlength="500" id="name" placeholder="Your Name">
+			</li>
+			<li>
+				<input name="email" type="text" maxlength="500" id="email" placeholder="Your E-mail">
+			</li>
+
+			<li class="form-fields-inline-button">
+				<button disabled="disabled" class="form-newsletter-send b b-4 b-padding-tight b-loading g-recaptcha" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs" data-callback="recaptcha_callback" name="SubmitButton" id="SubmitButton">
+					<svg><use xlink:href="#i-loading"></use></svg>
+					Sign&nbsp;Up
+				</button>
+			</li>
+		</ul>
+	</form>
+	<script id="hiddenlpsubmitdiv" style="display: none;"></script>
+
+
+
+<footer class="footer brand-grey-dark">
+			<div class="footer-first">
+		<h3 class="footer-tagline">Independent, Reader-Supported Publishing</h3>
+		<p class="footer-desc">In each issue of <em>The Sun</em> you’ll find some of the most radically intimate and socially conscious writing being published today. In an age of media conglomerates, we’re something of an oddity: an ad-free, independent, reader-supported magazine.</p>
+		<ul class="footer-nav list-inline-border xsmall">
+			
+		<li class=" first">
+			<a href="https://www.thesunmagazine.org/about" 	   class=''>
+	   About <em>the Sun</em>	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/staff" 	   class=''>
+	   Staff	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/find-the-sun" 	   class=''>
+	   Find <em>The Sun</em>&nbsp;&nbsp;in a Store Near You	</a>
+		
+	</li>
+
+
+		</ul>
+	</div>
+	
+		<div class="footer-second">
+		<ul class="footer-second-social list-inline">
+			<li><a href="https://www.facebook.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-facebook"></use></svg></span> Like Us</a></li>
+			<li><a href="https://twitter.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-twitter"></use></svg></span> Follow Us</a></li>
+			<li><a href="https://instagram.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-instagram"></use></svg></span> Take a Look</a></li>
+		</ul>
+
+		<div class="footer-second-content">
+			<ul class="footer-nav list-inline-border xsmall">
+				
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/" 	   class='current '>
+	   Home	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/privacy-policy" 	   class=''>
+	   Privacy Policy	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/terms-of-use" 	   class=''>
+	   Terms of Use	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/site-map" 	   class=''>
+	   Site Map	</a>
+		
+	</li>
+
+
+			</ul>
+			<p class="footer-copyright xxsmall">Copyright &copy; 1974–2020 <em>The Sun</em>. All rights reserved.</p>
+		</div>
+	</div>
+</footer>
+
+
+
+<div class="offset-nav">
+	<ul>
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/read" 	   class='current '>
+	   Read	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/issues/current" 	   class=''>
+	   Current Issue	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/archives" 	   class=''>
+	   Archives	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/featured" 	   class=''>
+	   Featured Selections	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/topics" 	   class=''>
+	   Browse Topics	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/sections" 	   class=''>
+	   Browse Sections	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/connect" 	   class=''>
+	   Connect	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/news" 	   class=''>
+	   News from <em>The Sun</em>	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" 	   class=''>
+	   Write a Letter to the Editor	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/discussion-groups" 	   class=''>
+	   Discussion & Writing Groups	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/make-a-suggestion" 	   class=''>
+	   Make a Suggestion	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/submit" 	   class=''>
+	   Submit	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/shop" 	   class=''>
+	   Shop	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/giftsub" 	   class=''>
+	   Gift Subscriptions	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/issues" 	   class=''>
+	   Issues	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+											
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/donatemenu" 	   class='highlight'>
+	   Donate	</a>
+		
+	</li>
+
+		<li class=" last">
+														<a href="/SubscribeNav1" 					   class=''>
+						Subscribe					</a>
+									
+	</li>
+
+
+					<li>
+				<a href="https://www.thesunmagazine.org/shop/cart">Cart ( <span class="cart-item-count">  0  </span>)</a>
+			</li>
+			<li><a href="https://www.thesunmagazine.org/subscriber/login" class="link-header-logout link-alt">Sign In</a></li>
+			</ul>
+	<ul>
+		<li class=" first">
+			<a href="https://www.thesunmagazine.org/about" 	   class=''>
+	   About <em>the Sun</em>	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/staff" 	   class=''>
+	   Staff	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/find-the-sun" 	   class=''>
+	   Find <em>The Sun</em>&nbsp;&nbsp;in a Store Near You	</a>
+		
+	</li>
+
+</ul>
+	<ul>
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/" 	   class='current '>
+	   Home	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/privacy-policy" 	   class=''>
+	   Privacy Policy	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/terms-of-use" 	   class=''>
+	   Terms of Use	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/site-map" 	   class=''>
+	   Site Map	</a>
+		
+	</li>
+
+</ul>
+</div>
+
+<div id="buy-popup-message" class="buy-popup mfp-hide white-popup white-popup-block">
+	<a class="popup-modal-dismiss" href="#"></a>
+	<h5>Due to fulfillment challenges related to the novel coronavirus, print copies are temporarily unavailable for individual sale. We are offering free PDFs until we are able to resume print sales.</h5>
+	<p>Enter your e-mail address below to download this issue.</p>
+	<form method="post" id="download-single" action="https://www.thesunmagazine.org/issue/pdfFree/531.pdf">
+		<label for="email"><span class="label-text">E-mail</span><span class="label-asterisk">*</span></label>
+		<input class="buy-single-email" id="email" type="email" name="email">
+		<button type="send" class="form-buy-issue-send b b-3 b-padding-tight b-loading">Send</button>
+		<button class="form-buy-issue-download b b-3 b-padding-tight b-loading">Download pdf</button>
+		<button type="send" class="popup-modal-dismiss b b-2 b-padding-tight b-loading">Close</button>
+		<div class="g-recaptcha" style="text-align: center" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs"></div>
+
+	</form>
+</div>
+
+			<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/plugins.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/site.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/newsletter.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/js/articles.js"></script>
+		</div>
+		</div>
+
+				<script>
+		(function (doc) {
+			var scripts = doc.getElementsByTagName('script');
+			var script = scripts[scripts.length - 1];
+			var xhr = new XMLHttpRequest();
+			xhr.onload = function () {
+				var div = doc.createElement('div');
+				div.innerHTML = this.responseText;
+				div.style.display = 'none';
+				script.parentNode.insertBefore(div, script);
+			}
+			xhr.open('get', '/theme/thesun//assets/build/img/sprite/sprite.svg', true);
+			xhr.send();
+		})(document);
+
+
+
+		</script>
+
+		<script>
+			// Submit function
+            function recaptcha_callback() {
+						var getUrl = $('.form-newsletter').data( "url-send" ),
+							getName = $('input#name').val(),
+							getEmail = $('input#email').val();
+						$.ajax({
+								type: "POST",
+								url: getUrl,
+								data: {
+									name: getName,
+									email: getEmail,
+									grecaptcharesponse: grecaptcha.getResponse()
+								}
+							}).done(function(response) {
+								console.log(response);
+									$('.form-fields').fadeOut(800, function () {
+										$('.form-fields').empty().append('<div class="newsletter-confirm-message">Thank you for signing up to receive news from <em>The Sun</em>. Your first newsletter will arrive soon.<div>').fadeIn(800);
+									});
+							});
+			}
+
+		</script>
+
+		<script>
+			function getUrlCode() {
+				var url_string = window.location.href;
+				var url = new URL(url_string);
+				var c = url.searchParams.get('promotion\_key');
+				if (typeof c !== 'undefined' && c !== null) {
+					setCookie("promotion_code",c);
+				}
+			}
+
+			function setCookie(cname, cvalue) {
+				document.cookie = cname + "=" + cvalue + ";" + "path=/";
+			}
+
+			function getCookie(cname) {
+				var name = cname + "=";
+				var decodedCookie = decodeURIComponent(document.cookie);
+				var ca = decodedCookie.split(';');
+				for(var i = 0; i <ca.length; i++) {
+					var c = ca[i];
+					while (c.charAt(0) == ' ') {
+						c = c.substring(1);
+					}
+					if (c.indexOf(name) == 0) {
+						return c.substring(name.length, c.length);
+					}
+				}
+				return "";
+			}
+			window.addEventListener( "load", getUrlCode );
+		</script>
+
+
+	</body>
+</html>

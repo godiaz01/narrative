@@ -1,0 +1,1309 @@
+
+<!DOCTYPE html>
+<html class="no-js" lang="en-US">
+	<head>
+		<title>The Seed - The Sun Magazine</title>
+
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		
+		<meta name="viewport" content="width=device-width, minimum-scale=1.0">
+
+		<link rel="dns-prefetch" href="//ajax.googleapis.com">
+		<link rel="dns-prefetch" href="//use.typekit.net">
+		
+		<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/modernizr.js"></script>
+		<script src="https://www.google.com/recaptcha/api.js"
+				async defer>
+		</script>
+
+		<script>(function(d) { var config = { kitId: 'kzw7ebk', scriptTimeout: 3000, async: true }, h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s) })(document);</script>
+
+
+				
+		<link rel="apple-touch-icon" sizes="57x57" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-57x57.png?v=2016">
+		<link rel="apple-touch-icon" sizes="60x60" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-60x60.png?v=2016">
+		<link rel="apple-touch-icon" sizes="72x72" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-72x72.png?v=2016">
+		<link rel="apple-touch-icon" sizes="76x76" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-76x76.png?v=2016">
+		<link rel="apple-touch-icon" sizes="114x114" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-114x114.png?v=2016">
+		<link rel="apple-touch-icon" sizes="120x120" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-120x120.png?v=2016">
+		<link rel="apple-touch-icon" sizes="144x144" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-144x144.png?v=2016">
+		<link rel="apple-touch-icon" sizes="152x152" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-152x152.png?v=2016">
+		<link rel="apple-touch-icon" sizes="180x180" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-180x180.png?v=2016">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-32x32.png?v=2016" sizes="32x32">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/android-chrome-192x192.png?v=2016" sizes="192x192">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-96x96.png?v=2016" sizes="96x96">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-16x16.png?v=2016" sizes="16x16">
+		<link rel="mask-icon" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/safari-pinned-tab.svg?v=2016" color="#444444">
+		<link rel="shortcut icon" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon.ico?v=2016">
+		<meta name="apple-mobile-web-app-title" content="The Sun Magazine">
+		<meta name="application-name" content="The Sun Magazine">
+		<meta name="msapplication-TileColor" content="#fcc330">
+		<meta name="msapplication-TileImage" content="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/mstile-144x144.png?v=2016">
+		<meta name="theme-color" content="#ffffff">
+
+				<link rel="stylesheet" type="text/css" href="https://cloud.typography.com/6578674/659928/css/fonts.css" />
+		<link rel="stylesheet" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/css/style.css">
+
+																		<meta property="og:site_name" content="The Sun Magazine">
+		<meta property="og:type" content="article">
+		<meta property="og:url" content="https://www.thesunmagazine.org/issues/373/the-seed">
+		<meta property="og:image" content="http://www.thesunmagazine.org/files/2016-10/373-14-chandler-preview.jpg">
+		<meta property="og:title" content="The Seed - The Sun Magazine">
+		<meta property="og:description" content="The ultimate consequence of my time in the Seed was an overwhelming self-disgust that lingered for years. Everything seemed a mockery of itself. I fundamentally doubted the authenticity of any conviction &amp;mdash; my own or someone else&amp;rsquo;s. I had acquiesced and adopted the Seed&amp;rsquo;s judgment for a time, and I could not easily disown it.">
+		<meta property="fb:app_id" content="158741778010551">
+
+						<link rel="image_src" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.comhttp://www.thesunmagazine.org/files/2016-10/373-14-chandler-preview.jpg">
+
+												<meta name="twitter:card" content="summary">
+		<meta name="twitter:title" content="The Seed - The Sun Magazine">
+		<meta name="twitter:description" content="The ultimate consequence of my time in the Seed was an overwhelming self-disgust that lingered for years. Everything seemed a mockery of itself. I fundamentally doubted the authenticity of any conviction &amp;mdash; my own or someone else&amp;rsquo;s. I had acquiesced and adopted the Seed&amp;rsquo;s judgment for a time, and I could not easily disown it.">
+		<meta name="twitter:image" content="http://www.thesunmagazine.org/files/2016-10/373-14-chandler-preview.jpg">
+		<meta name="twitter:site" content="@thesunmagazine">
+
+				<link rel="publisher" href="https://plus.google.com/113792980827145858211">
+        
+		<meta name="Description" content="The ultimate consequence of my time in the Seed was an overwhelming self-disgust that lingered for years. Everything seemed a mockery of itself. I fundamentally doubted the authenticity of any conviction &amp;mdash; my own or someone else&amp;rsquo;s. I had acquiesced and adopted the Seed&amp;rsquo;s judgment for a time, and I could not easily disown it.">
+
+		
+		<!-- Google Tag Manager -->
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-TKBHCCG');</script>
+		<!-- End Google Tag Manager -->
+
+		<!-- Google Analytics -->
+		<script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+            ga('create', 'UA-2351127-1', 'auto');  // Replace with your property ID.
+            ga('send', 'pageview');
+            ga('require', 'ecommerce');   // Load the ecommerce plug-in.
+		</script>
+		<!-- End Google Analytics -->
+	</head>
+	<body id="">
+
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TKBHCCG"
+		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+		<header class="header" data-offset-start="80">
+		<div class="header-utilities">
+				<ul class="header-utilities-user list-inline list-inline-tight xxsmall">
+							<li>
+					<span class="header-utilities-user-intro">Already A Subscriber?</span> &nbsp;
+					<a href="https://www.thesunmagazine.org/subscriber/login" class="link-text link-alt">Sign In</a>
+				</li>
+					</ul>
+		<a href="https://www.thesunmagazine.org/shop/cart" class="header-utilities-cart  link-alt link-icon tiny">
+			<span class="i"><svg><use xlink:href="#i-cart"></use></svg></span>
+			<span class="cart-item-count">
+									0 Items
+				
+			</span>
+		</a>
+			</div>
+
+		<div class="header-bar">
+		<h1 class="header-logo logo">
+			<a href="/">
+				<img src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/img/logo-thesun.svg" class="logo-thesun" alt="The Sun Magazine">
+				<img src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/img/logo-tagline.svg" class="logo-tagline" alt="">
+			</a>
+		</h1>
+
+		<ul class="header-nav">
+			
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/read" 	   class='current '>
+	   Read	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/issues/current" 	   class=''>
+	   Current Issue	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/archives" 	   class=''>
+	   Archives	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/featured" 	   class=''>
+	   Featured Selections	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/topics" 	   class=''>
+	   Browse Topics	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/sections" 	   class=''>
+	   Browse Sections	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/connect" 	   class=''>
+	   Connect	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/news" 	   class=''>
+	   News from <em>The Sun</em>	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" 	   class=''>
+	   Write a Letter to the Editor	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/discussion-groups" 	   class=''>
+	   Discussion & Writing Groups	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/make-a-suggestion" 	   class=''>
+	   Make a Suggestion	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/submit" 	   class=''>
+	   Submit	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/shop" 	   class=''>
+	   Shop	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/giftsub" 	   class=''>
+	   Gift Subscriptions	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/issues" 	   class=''>
+	   Issues	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+											
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/donatemenu" 	   class='highlight'>
+	   Donate	</a>
+		
+	</li>
+
+		<li class=" last">
+														<a href="/SubscribeNav1" 					   class=''>
+						Subscribe					</a>
+									
+	</li>
+
+
+		</ul>
+
+		<button class="header-nav-toggle"><svg><use xlink:href="#i-menu" class="i-menu"></use><use xlink:href="#i-close" class="i-close"></use></svg></button>
+		<button class="header-search-toggle" data-form-wrapper=".header-search"><svg><use xlink:href="#i-magnifier" class="i-magnifier"></use><use xlink:href="#i-close" class="i-close"></use></svg></button>
+	</div>
+
+		<div class="header-search">
+		<div class="header-search-content">
+			<form action="https://www.thesunmagazine.org/search" class="form form-search" method="get">
+				<h2 class="alt-ff brand-link">Search Our 40 Years of Archives</h2>
+				<ul class="form-search-fields form-fields form-fields-inline">
+					<li><input type="text" name="q" value=""></li>
+					<li class="form-fields-inline-button"><button class="b b-1 b-padding-tight b-loading"><svg><use xlink:href="#i-loading"></use></svg>Search</button></li>
+				</ul>
+
+				<div class="header-search-content-shortcuts">
+					<h6 class="search-advanced alt-ff"><a class="js-handle-advanced" href="https://www.thesunmagazine.org/search?advanced=1">Advanced Search</a></h6>
+					<br>
+					<h6 class="alt-ff">Popular Pages</h6>
+					<ul class="list-inline-border list-inline-tight xxsmall"><li class=" first"><a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a></li><li class=""><a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a></li><li class=""><a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a></li><li class=""><a href="https://www.thesunmagazine.org/sections/quotations" 	   class=''>
+	   Quotations	</a></li><li class=""><a href="https://www.thesunmagazine.org/sections/readers-write" 	   class=''>
+	   Readers Write	</a></li><li class=" last"><a href="https://www.thesunmagazine.org/sections/poetry" 	   class=''>
+	   Poetry	</a></li></ul>				</div>
+			</form>
+		</div>
+	</div>
+</header>
+
+	<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+	<script type="text/javascript">
+		$(document).ready(function() {
+			$('.js-handle-advanced').on('click', function (e) {
+				e.preventDefault();
+				var getSearchValue = $('.form-search-fields input').val();
+				var getURL = $(this).attr('href');
+				var newURL = getURL + '&q=' + getSearchValue;
+				window.location.href = newURL;
+			});
+		});
+	</script>
+
+		<div class="container-hidden">
+		<div class="container">
+
+				
+	
+	<article class="article ">
+		<header class="block-content block-content-l1 block-content-center">
+						<div class="block-content-header">
+				<h6 class="b-content-section heading-square"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+				<h1 class="block-content-title">The Seed</h1>
+
+				
+				<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/marc-polonsky">Marc Polonsky</a></li><li><a href="/issues/373">January 2007</a></li></ul>
+
+			</div>
+
+																			
+
+				<figure class="block-content-photo block-content-photo-large photo photo-outset-center-small">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 1940 1960'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/970x980r/photos/373-14-chandler.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/1940x1960r/photos/373-14-chandler.jpg
+	 alt="373 - Chandler - Polonsky"
+	 class="lazy">
+
+										<figcaption>
+
+						
+																				<div class="photo-credit">
+								&copy;&nbsp;<a href="/contributors/polly-chandler">Polly Chandler</a>
+							</div>
+																		</figcaption>
+									</figure>
+
+					</header>
+
+				<div class="article-body link-text-wrap">
+																		<p><em>The Seed was a controversial youth drug-rehabilitation program that flourished in south Florida when I was a teen in the early 1970s. Founded by former comedian and recovering alcoholic Art Barker, it was modeled after adult treatment programs and administered by unlicensed staff. The Seed utilized coercive techniques such as aggressive confrontation, intimidation, verbal abuse, sleep deprivation, and restricted access to the bathroom to tear down a teen&rsquo;s sense of self and replace it with the ready-made identity of a &ldquo;Seedling.&rdquo;</em></p>
+
+<p><em>The Seed was highly publicized, and the attention eventually proved destructive to the program. In 1974 the U.S. Senate published a study that accused the Seed of using methods similar to North Korean communist brainwashing techniques. The bad press, in conjunction with legal pressure from the National Institute on Drug Abuse and the drying up of federal funds, forced the Seed to scale back its operations dramatically. By the 1980s it had shrunk to a fraction of its former size and was officially admitting only voluntary clients. The Seed endured in this diminished capacity until it finally closed in 2001.</em></p>
+
+<p><em>Today hundreds of similar programs are in operation throughout the United States and abroad. Some are even run by former Seed staffers. By most accounts, these programs are much harsher than the Seed.</em></p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">I was in ninth-grade science class one afternoon in October 1972 when a note arrived summoning me to the dean&rsquo;s office. My older sister, Judy, was already there. &ldquo;Mommy needs us,&rdquo; she said. I could tell by the apprehension in her eyes that she knew nothing more. I imagined my grandmother might be very sick, perhaps even dying.</p>
+
+<p>My sister and I sat in front of the school until our parents pulled up. There were two other adults with them, a couple they introduced to us as &ldquo;Mr. and Mrs. J.&rdquo; I was relieved, because I could tell from my parents&rsquo; jovial attitude that nothing terrible had occurred. My sister and I got in the back seat. I didn&rsquo;t think it unusual that Mrs. J. took the window seat next to my sister and Mr. J. got in on the other side, next to me; my mood had lightened considerably by then. Our mother encouraged us to try to guess where we were going. After a few minutes she gave my sister a hint: &ldquo;Remember that news story we saw on <span class="smallcaps">TV</span> the other night?&rdquo;</p>
+
+<p>&ldquo;Oh,&rdquo; my sister replied. &ldquo;The Seed.&rdquo;</p>
+
+<p>I had heard of the Seed. It was a drug-rehabilitation center. My experience with drugs consisted of having smoked marijuana about ten times. My parents didn&rsquo;t know this for a fact but were concerned about the company I was keeping and my disrespectful attitude toward them. Judy was also a source of worry to them because of her more blatant drug use and rebellious streak. I imagined they were taking us on a tour of this place to scare us. I mentioned to my father that I had a chess-club meeting that afternoon and did not want to miss it.</p>
+
+<p>We arrived at an old warehouse surrounded by a chain-link fence. Two young men sitting on chairs by the driveway stopped our car briefly, then let us park. In the reception office a middle-aged woman named Vera sat down to talk with us. She addressed my sister first, asking her age, grade in school, and the kinds of drugs she had used. My sister answered frankly. There followed a peculiar exchange in which Vera made insulting remarks about my sister&rsquo;s character and lifestyle, for no apparent reason other than to goad her. Judy&rsquo;s reaction was first astonishment, then hostility. Meanwhile young people came in and out of the office, calling out greetings to Vera or bringing her messages. These were not kids receiving treatment but Seed staff members, I&rsquo;d later discover, all of whom had been through the program. After each interaction Vera would say in a singsong voice, &ldquo;Looove you.&rdquo;</p>
+
+<p>Toward the end of her prickly conversation with Judy, Vera revealed that my sister and I would be staying at the Seed for a while, and that we had no choice. I was shocked. We were not &ldquo;druggies,&rdquo; as Vera charged. I had no concept of what was really going on, and was sure we would get out soon, once the Seed realized its mistake. I even said to my sister, who was upset, &ldquo;It&rsquo;s <span class="smallcaps">OK</span>. We&rsquo;ll just agree with what they say, and then we can go.&rdquo;</p>
+
+<p>When Vera finally got around to me, she asked how old I was (fourteen) and what drugs I had used. I told her just pot. &ldquo;Don&rsquo;t bullshit me,&rdquo; she said with a sweet, contrived voice and an intimidating stare.</p>
+
+<p>While Vera was doing my intake, my sister had to use the bathroom. She was accompanied by a chaperone, another girl her age. A few minutes later a female Seed staff member approached my parents and informed them that my sister&rsquo;s attitude was rotten. She explained: &ldquo;We have a rule here that when a newcomer goes to the bathroom, someone must be there to hold her hand. Your daughter didn&rsquo;t accept this, and she swung at the other girl.&rdquo;</p>
+
+<p>My sister and I were taken to separate rooms to be searched. I had to strip, and my keys and money were turned over to my parents. Then Judy and I were led to a long, stark, cement-walled room where about three hundred young people, ranging in age from twelve to their midtwenties, sat in rows of folding chairs. They all faced a young man seated on a high stool and holding a microphone. The boys and girls &mdash; whom the man referred to as &ldquo;guys&rdquo; and &ldquo;chicks&rdquo; &mdash; were separated by a wide aisle down the middle of the room. (Males and females were always separated at the Seed.) The windows were eight or nine feet up on the walls, and the two doors were guarded by Seed staffers. A sign on the wall proclaimed, &ldquo;You&rsquo;re not alone anymore.&rdquo;</p>
+
+<p>Upon our arrival, the &ldquo;rap&rdquo; in progress was briefly interrupted, and Judy and I were made to stand in front of the group to be introduced by our name and the drugs we had done. When it was my turn, the rap leader said, &ldquo;And this is Marc. He <em>says</em> he&rsquo;s only done pot.&rdquo; The group then greeted us in unison with a resounding &ldquo;Love ya, Judy and Marc!&rdquo; and we were led to seats in the front rows of our respective sections.</p>
+
+<p>We stayed there until ten that night. At the end of the day&rsquo;s final rap, the rap leader said, &ldquo;OK, all oldcomers picking up newcomers, pick &rsquo;em up.&rdquo; The program had no overnight facility, and &ldquo;newcomers&rdquo; were not allowed to live at home, so they went home with &ldquo;oldcomers&rdquo; who&rsquo;d been in the program a while and were deemed trustworthy. My first night I went home with Aaron, who was fifteen. I tried to explain to him that I was not a druggie, but he insisted that I was, even if I had smoked pot only once &mdash; or, for that matter, even if I just had a &ldquo;druggie attitude.&rdquo; When I told him I thought my attitude was fine, Aaron replied, &ldquo;Listen. Don&rsquo;t argue with me. Your attitude sucks.&rdquo; I don&rsquo;t think he was being mean. At the Seed it was an indisputable tenet that any newcomer&rsquo;s attitude sucked, and there were only three roads a person could travel after his or her first puff on a joint: prison, insanity, or death &mdash; unless he or she was saved by the Seed.</p>
+
+<p>I slept on the floor of Aaron&rsquo;s bedroom. He had removed the handles from the windows, and he slept with his bed blocking the door. I still felt this was all a big mistake and entertained hopes of getting home soon. The Seed was probably a good place for some people, I thought, but I obviously did not belong there.</p>
+
+<p class="ckeditor-shortcode"><figure class="photo photo-outset-center-medium">
+	<div>
+					<div>
+				<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 1960 2934'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/980x1467r/photos/1495575621_373-17-townsend.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/1960x2934r/photos/1495575621_373-17-townsend.jpg
+	 alt="373 - Townsend - Polonsky"
+	 class="lazy">
+
+									<figcaption>
+																											<div class="photo-credit">
+																			© <a href="https://www.thesunmagazine.org/contributors/mark-townsend">
+											Mark
+																						Townsend
+										</a>
+																	</div>
+																								</figcaption>
+							</div>
+			</div>
+</figure>
+</p>
+
+<p class="dropcap">As a &ldquo;Seedling&rdquo; I lived by a strict schedule. Until the Seed determined you were rehabilitated enough to sleep at home and go to school, you had to spend twelve hours a day at the warehouse. Even after they&rsquo;d returned to school, Seedlings were required to be at the Seed from the time school ended until ten o&rsquo;clock at night. In the final stage of the program, attendance was required only three evenings a week, and one day on the weekend.</p>
+
+<p>The Seed day began at 10 <span class="smallcaps">A.M.</span> with the &ldquo;morning rap,&rdquo; which lasted more than two hours. The rap leader sat on his stool and called on people to stand and &ldquo;participate.&rdquo; Everyone who had been in the Seed more than a few days had to raise his or her hand to be called on or else be accused of &ldquo;copping out.&rdquo;</p>
+
+<p>There were a limited number of topics for raps. Some were about how you and your old druggie friends had used each other for drugs or money or status and had only pretended to be friends while secretly despising one another. &ldquo;Honesty&rdquo; was a standard topic too. Being honest meant admitting you&rsquo;d been &ldquo;full of shit&rdquo; before coming to the Seed, that all your relationships had been &ldquo;bullshit,&rdquo; that you had been horrible to your parents, who loved you, and that you&rsquo;d been a dishonest, insecure, unkind, thoroughly worthless mess.</p>
+
+<p>On my first day the morning rap was on &ldquo;conning,&rdquo; which meant parroting the Seed philosophy without really subscribing to it. No one could successfully con the Seed, I learned, because &ldquo;everyone knows just where you&rsquo;re at.&rdquo; Seedlings were so supremely &ldquo;aware&rdquo; they could spot a con a mile away. This was when I realized that the Seed was after a different, more fundamental change than I&rsquo;d imagined. Now I was scared.</p>
+
+<p>Just as bad as conning were &ldquo;analyzing&rdquo; and &ldquo;justifying.&rdquo; &ldquo;Analyzing&rdquo; was just mixing up the facts and making them more confusing. &ldquo;Justifying&rdquo; was what you achieved by doing this. You analyzed your past actions to make it seem as if you&rsquo;d had good intentions, or you analyzed what the Seed was telling you and tried to twist it in such a way that it seemed as if the Seed were wrong and you were right, though you knew in your heart that the Seed was right and you were an asshole. In fact, everyone was an asshole before he or she came to the Seed. Most of us had to proclaim this before the group at least once before we got to go home. Occasionally there were feel-good raps about &ldquo;love&rdquo; or &ldquo;happiness,&rdquo; which inevitably elicited ecstatic comments about the &ldquo;vibes&rdquo; in the room, but even these came back around to how you had never truly been happy when you&rsquo;d been &ldquo;on the streets.&rdquo;</p>
+
+<p>Sleeping during raps was strictly prohibited, though virtually everyone was sleep deprived due to the long days at the Seed, followed by extended carpool rides to the homes of oldcomer hosts and after-hours &ldquo;rehabilitation&rdquo; with oldcomers. If you saw someone sleeping nearby, you were supposed to shake him or her awake. Even daydreaming was forbidden. If you looked as if you weren&rsquo;t paying attention, the rap leader or a staff member would shout, &ldquo;Hey, get out of your head!&rdquo; &ldquo;In your head&rdquo; was a bad place to be caught at any time. Private reflection and introspection were counterproductive, because they inexorably led to analyzing and justifying.</p>
+
+<p>During raps, a person who&rsquo;d been unwilling to be &ldquo;honest&rdquo; might be &ldquo;stood up&rdquo;: made to stand before the group while everyone else took turns saying how appalling he or she was, using name-calling, derision, and profanity. Boys were &ldquo;twerps&rdquo; and &ldquo;pussies.&rdquo; Girls were destined to become prostitutes if they didn&rsquo;t shape up.</p>
+
+<p>On my second day a young man named Jerry was made to stand up in front of the group. Apparently he had turned eighteen and had decided to leave the Seed, as was his legal right. A staff member said dryly, &ldquo;I think we should try to talk him out of it.&rdquo; One by one, members of the group told Jerry what they thought of him. The boys said things like &ldquo;If I had met up with a guy like you on the streets, I would have used you for what I could get from you, walked all over you, and then beaten the crap out of you.&rdquo; The girls emphasized that he was pathetic and ridiculous and unmanly. When the rap leader asked, &ldquo;How many of you chicks would have had anything to do with a guy like this when you were on the streets?&rdquo; no girl raised her hand. After the group was finished with Jerry, he was crying and had to beg to be allowed back into the Seed. The rap leader contemptuously told Jerry the precise words to say, and Jerry dutifully repeated them through his tears.</p>
+
+<p>Everyone knew what you were supposed to say in the raps. The trick was to make your testimony sound convincing, lest you be accused of conning or giving &ldquo;pat answers.&rdquo; Rap leaders repeatedly warned the group: &ldquo;I don&rsquo;t want to hear any pat answers!&rdquo; This placed us in a double bind: we were expected always to say the same things, but in different ways.</p>
+
+<p>After the morning rap, we sang songs. Most were innocent kids&rsquo; songs, such as &ldquo;I&rsquo;ve Been Working on the Railroad,&rdquo; but a few had lyrics altered to fit the philosophy of the Seed. For example: &ldquo;If You&rsquo;re Straight and You Know It, Clap Your Hands.&rdquo; And then there was the &ldquo;Seed Song,&rdquo; sung to the tune of &ldquo;Greensleeves&rdquo;:</p>
+
+<blockquote>
+<pre><span class="poem-line">The Seed indeed is all you need</span>
+<span class="poem-line">To stay off junk and pills and weed.</span>
+<span class="poem-line">You come each day from ten to ten</span>
+<span class="poem-line">And if you screw up, then you start again.</span></pre>
+</blockquote>
+
+<p>After the songs came lunch. A line formed at the back of the room, and each Seedling picked up a baloney or peanut-butter sandwich and a cup of Kool-Aid. Sometimes during lunch an oldcomer would introduce himself to the group and say what drugs he&rsquo;d done, usually expressed as a range: &ldquo;I&rsquo;ve done pot to speed.&rdquo; The Seed placed drugs in the following, somewhat arbitrary, hierarchy: marijuana, hashish, barbiturates, mescaline, <span class="smallcaps">LSD</span>, amphetamines, cocaine, and heroin. This was assumed to be the order in which everyone tried drugs. So if someone had done &ldquo;pot to speed,&rdquo; he or she presumably had also used <span class="smallcaps">LSD</span>, but not cocaine.</p>
+
+<p>After lunch came the afternoon rap, which lasted until three. Then everyone filed into the parking lot for a half-hour of calisthenics. Next the &ldquo;guys&rdquo; and &ldquo;chicks&rdquo; gathered at opposite corners of the parking lot for gender-specific raps. I cannot say what went on in the girls&rsquo; raps, but in the boys&rsquo; raps we talked about how chicks used and manipulated us and always had us &ldquo;by the balls.&rdquo; (Having had very limited experience with girls, I could not participate too well in these discussions, but I invented things to say all the same.) One frequently delivered pronouncement was &ldquo;Chicks are so slick, man!&rdquo; There was also contrite acknowledgement that all we had really wanted from chicks was sex and ego gratification.</p>
+
+<p>At five everyone filed back inside for the hour-long &ldquo;rules rap.&rdquo; The first thing the rap leader said each night was &ldquo;Honesty is our first and most important rule.&rdquo; The other rules followed in no particular order:</p>
+
+<p><em>No boy-girl relationships while in the program.</em> The reason was that you had to get straight first before you could have any kind of relationship with the opposite sex that wasn&rsquo;t &ldquo;bullshit.&rdquo;</p>
+
+<p><em>No old druggie friends or old druggie hangouts.</em> Talking to an old friend was a serious offense, and if someone was caught doing so after returning to school, he or she could be made to start the program over. In fact, a Seedling could be abruptly started over or demoted to an earlier stage for a variety of real or imagined transgressions.</p>
+
+<p><em>No hitchhiking or picking up hitchhikers.</em> People who hitchhiked or picked up hitchhikers were invariably druggies.</p>
+
+<p><em>No stopping at the store on the way home if you have newcomers in the car.</em> Convenience stores such as 7-Eleven were druggie hangouts.</p>
+
+<p><em>No newcomers talking to newcomers.</em> Newcomers were full of shit and had nothing to say anyway. They could only hold each other back by talking to one another.</p>
+
+<p><em>No automatically moving ahead in the program.</em> Only the Seed could say when an individual was ready to progress to the next stage.</p>
+
+<p><em>Protect each other&rsquo;s anonymity.</em> This was pointless, I&rsquo;d discover, because everyone at school knew who&rsquo;d been in the Seed.</p>
+
+<p>Supper, which was served with songs before, during, and after, generally consisted of sloppy Joe or dubious chow mein with a cup of Kool-Aid or powdered milk. During the rules rap and supper, those who were back in school were allowed to sit apart from the group and do their homework. At seven came the evening rap, which lasted almost until the end of the Seed day at 10 <span class="smallcaps">P.M.</span></p>
+
+<p>On my third day in the Seed I was called out of the group to speak privately with Gloria, a nineteen-year-old staffer. &ldquo;As you probably know,&rdquo; Gloria began, &ldquo;your sister split this morning.&rdquo; To &ldquo;split&rdquo; meant to escape from the program. Many newcomers attempted to run when they had a chance, but usually they were caught and restrained by physical force. The few who got away had no place to go and were often brought back and made to start the program over from day one. (Judy was picked up hitchhiking by a kind soul who drove her to a voluntary halfway house for girls in Miami called Genesis House. They treated her with compassion there, and she wound up living in Genesis House until she turned eighteen.)</p>
+
+<p>Gloria and I talked for an hour or so. When I tried to explain that I did not have a druggie attitude, Gloria asked, &ldquo;Have you ever been inside Raiford?&rdquo; Raiford was the state penitentiary. &ldquo;It&rsquo;s an <em>awful</em> place,&rdquo; she said. &ldquo;People use you. They use your <em>body</em>.&rdquo; The implication was that, if I did not get straight through the Seed, I was likely to end up being raped in Raiford. The specter of prison was often held over the heads of newcomers who resisted: &ldquo;You wouldn&rsquo;t last very long at Raiford, smartass.&rdquo;</p>
+
+<p>Needless to say, I did not convince Gloria that I was straight. That night I was sent home with a different oldcomer. Stan was older than Aaron, had been in the Seed longer (three months), and was a really &ldquo;strong&rdquo; Seedling. He had other Seedlings besides me staying with him: up to four of us at once, with the help of a second oldcomer. Stan lived with his father in an enormous home in Coral Gables, an hour and fifteen minutes from the Seed. We all slept in two adjoining rooms upstairs. The doors had security locks on them to which Stan alone had the keys.</p>
+
+<p>The relationship between a newcomer and his or her oldcomer host was supposed to be intimate. It was the oldcomer&rsquo;s responsibility to get the newcomer straight, and to do that the oldcomer had to get to know the newcomer and exploit his or her weaknesses and inconsistencies. Many times Stan screamed at me, &ldquo;You don&rsquo;t argue with what I say! You just <em>accept</em> it!&rdquo; Disputing the oldcomer&rsquo;s word was a sure sign of being full of shit, not honest, and not &ldquo;working.&rdquo; And you had to please your oldcomer if you wanted to go home, since the oldcomer could report you to the Seed staff.</p>
+
+<p>Though we were not supposed to talk about our old druggie lives in any but the most derogatory terms, Stan bragged about his. He would recount all the <span class="smallcaps">LSD</span> he had taken, the girls he had bedded, and the smashing parties he had thrown. Of course he&rsquo;d always add how, through it all, he had been secretly miserable. Although he had been undisputed king of his druggie world, inside he had been suffering. Late at night, when the parties were over, he would throw himself on his bed and cry. He also made sure to point out that he was a straight-A student with a genius-level <span class="smallcaps">IQ</span>, lest I think I was <em>smarter</em> than him.</p>
+
+<p>Each night Stan made me write a &ldquo;moral inventory,&rdquo; listing all the good things I&rsquo;d done that day (&ldquo;I participated honestly in the morning rap about old friends&rdquo;) and the bad (&ldquo;I was getting into my head during the afternoon rap&rdquo;). Then I had to explain my bad points. (&ldquo;I was copping out of the rap because it was blowing my image of myself.&rdquo;) My moral inventory had to satisfy Stan before I was allowed to go to sleep. Often he would make me redo it two or three times until it was &ldquo;honest.&rdquo;</p>
+
+<p>Stan turned sleep into a privilege that had to be bought for a price: usually a concession in an argument, or a chunk of dignity. Often I would be the last newcomer allowed to retire because I was arguing with Stan over something, like whether I had read <em>Siddhartha</em>, by Hermann Hesse, for pleasure or just to impress people. He vehemently accused me of &ldquo;playing the heavy-intellectual game.&rdquo; If I mentioned that I had two good friends, Stan would state flatly that they were not my friends, nor had they ever been, nor had I ever been a friend to them. He insisted that I&rsquo;d been completely insecure and unhappy before coming to the Seed, and he loved me too much to let me deny it. I resisted giving in on these and other points, but I eventually relented, since my stubbornness only earned me more scorn and rage. It hurt, though, to &ldquo;admit&rdquo; he was right.</p>
+
+<p>&ldquo;What are you thinking?&rdquo; Stan would often demand without warning, as if it were his right to open my head like a jar full of jelly beans and pick out a thought. Most of the time I would answer him truthfully; he could tell if I was lying, because it would take me a moment to make something up or twist what I was thinking into a more acceptable version. After I&rsquo;d told him precisely what I was thinking, he would pronounce it bullshit and tell me what I <em>should</em> have been thinking instead. I remember the moment, on the evening of my eighth day, when I realized that I had lost the ability to think matters through, because I had grown so accustomed to having my thoughts intruded upon without a moment&rsquo;s notice.</p>
+
+<p>The only point on which I did not eventually give in to Stan was my belief that I&rsquo;d been happy before I&rsquo;d come to the Seed. I believe it was this refusal that led Stan to comment, on the night before I was finally allowed to go home, &ldquo;You&rsquo;ve made some progress, but you&rsquo;re not even in the same <em>ballpark</em> as being allowed to go home.&rdquo;</p>
+
+<p>What &ldquo;progress&rdquo; I&rsquo;d made had already cost me dearly. Even if I had been pulled out of the program at that point, I could not have gone back to being the person I had been. I could no longer think clearly and had a reflexive fear of being caught or invaded. Stan&rsquo;s &ldquo;What are you thinking?&rdquo; ploy had done its job.</p>
+
+<p>Stan was a genuine believer in the Seed. Once, after a night of arguing with me, he sighed and said softly, &ldquo;You know, even though you&rsquo;re so full of shit right now, I know you&rsquo;re going to make it. You&rsquo;ll be another Seed success story.&rdquo; And I once heard him remark reverently to another oldcomer, &ldquo;The Seed will change the world. The Seed will <em>be</em> the world someday.&rdquo; This was the mythology of the Seed, and we were all indoctrinated into it. The Seed would keep growing until there were Seed programs in every city on the globe. The Seed was not just the only drug program that worked; it was the primary source of enlightenment in the world.</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">On Monday and Friday nights we had &ldquo;open meetings,&rdquo; which started at 7:30 <span class="smallcaps">P.M.</span> and often lasted past midnight. They were called &ldquo;open meetings&rdquo; because parents and other family members were allowed to attend. The parents sat in rows of chairs opposite their children. The Seed&rsquo;s founder, Art Barker himself, was usually on hand to say a few words of comfort and assurance. Everyone had reason to be happy, he&rsquo;d tell the parents, because these kids were in the best place they could possibly be. Sure, they might take some bumps and hard knocks, but every one of them was on his or her way to getting straight. And no matter what anyone said or did, the Seed was just going to &ldquo;keep on saving kids.&rdquo;</p>
+
+<p>When it was the parents&rsquo; turn to speak, the microphone was passed from couple to couple, and they could talk to their child as long as they liked, which is why the meetings lasted so long. Usually they would encourage their kids to &ldquo;keep working&rdquo; and tell them they were missed, but once in a while a parent would say something like &ldquo;We got your message through the Seed that you needed some more clothes and cigarettes.&rdquo; (Cigarette-smoking was permitted in the Seed.) &ldquo;Well, we brought your clothes, but we didn&rsquo;t bring the cigarettes. You don&rsquo;t deserve any!&rdquo; Any public censure of a child by a parent was applauded on principle. After all, the kids were there to learn respect.</p>
+
+<p>But what was exciting about the open meetings was that the parents learned at the door whether or not they could take their child home with them that night, and then they revealed the news to their son or daughter in front of the group. The emotional drama was spectacular. Of course there were also those who waited expectantly, meeting after meeting, for the magic words that did not come.</p>
+
+<p>On my thirty-second day in the Seed, a Monday, I was allowed to go home. I walked out the gate that night with one arm around each parent. When we got home, I told them how awful I had been to them, how happy I was that they had sent me to the Seed, and &mdash; many times &mdash; how much I loved them. There were smiles all around, and I got to eat all my favorite foods to my heart&rsquo;s content. Best of all, I could take my dog for a walk, play my records, and use the toilet all by myself. The freedom was heavenly, and I cannot say I was unhappy that night. But underneath all the jubilance was a sick feeling. I had said all the things I was supposed to say to my parents, but in my heart I did not feel them. The brand-new son my folks were so pleased with was not who I really was.</p>
+
+<p>A day or two after coming home I wrote a letter to my sister, who was living in Genesis House. I told her about the new person I&rsquo;d become, and the wrongs we had done to our parents, and how fortunate I was to be in the Seed. I also disparaged my previous relationship with her. Much later I would learn how deeply this letter had hurt Judy, and I would tell her, truthfully, that I hadn&rsquo;t meant any of it. I&rsquo;d written it only because I wanted to prove my loyalty to the Seed. There had been occasions when a rap leader had mentioned, or even read aloud to the group, letters that had been intercepted. One girl, whose letters to her boyfriend were read before the group, had been humiliated and then forced to start the program over. I was convinced the same could happen to me.</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">A week after arriving home I was allowed to return to school. On my first day back, my best friend, George, turned around in his seat, looked skeptically at me, and asked, &ldquo;Same as you were?&rdquo;</p>
+
+<p>I smiled an arrogant Seed smile. &ldquo;A little different,&rdquo; I said.</p>
+
+<p>&ldquo;I liked you the way you were.&rdquo;</p>
+
+<p>&ldquo;Turn around. I can&rsquo;t talk to you.&rdquo; I was afraid I had already said too much. I didn&rsquo;t know whether there were any other Seedlings in the room.</p>
+
+<p>There were about thirty-five Seedlings in my high school, and later that day I was made a member of their society. Seedlings were supposed to keep an eye on each other, though some followed this directive much more enthusiastically than others. If one of us so much as went missing from the Seedlings&rsquo; lunch table in the cafeteria, it was cause for deep suspicion.</p>
+
+<p>I soon decided that George was straight after all. Like me, he&rsquo;d done little to earn the title &ldquo;druggie.&rdquo; A kid had to <em>look</em> straight to other Seedlings, however, for it to be all right to talk to him, and George, whose hair was over his ears, did not meet this criterion. Within a week of being back in school I was in trouble with my fellow Seedlings at lunch. There was no name-calling or overt threat, but everyone seemed genuinely concerned that George was &ldquo;dangerous.&rdquo; Hadn&rsquo;t he been a part of the life I had led before the Seed? How did I know he wasn&rsquo;t using drugs now? He could be lying to me.</p>
+
+<p>To the credit of the Seedlings at my high school, this incident was never reported back to the Seed. I certainly would have heard about it if it had been. But just the implicit threat was enough. People had been started over for less-serious offenses.</p>
+
+<p>The next day I told George that I couldn&rsquo;t talk to him. When I reported this to a fellow Seedling, he good-naturedly corrected me: &ldquo;You should say you don&rsquo;t <em>want</em> to talk to him. Not you <em>can&rsquo;t</em>.&rdquo; So the next time I saw George, that is what I said.</p>
+
+<p>George and I eventually worked out an arrangement in which we talked only in gym class, which was held outside, so there was no chance of another Seedling walking by and spotting us. But our friendship was never the same.</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">Shortly after I&rsquo;d been allowed to go home, I was sitting in the large warehouse room at the Seed one evening, pondering the fact that I still believed myself to be different from everyone else in the Seed and wondering what good it did me to feel this way. I could see how the belief was causing me pain, but I could not see how it served me. If there was nothing for me but to be a Seedling, I thought, then I might as well be one wholeheartedly and embrace whatever rewards came with it: being a part of something larger than myself, a member of a self-proclaimed elite; having friends, a community, an identity. Why hold out for some other set of rewards that I had already sold out anyway?</p>
+
+<p>And that&rsquo;s when I made a strange decision: I decided to become a true Seedling. All the energy I had put into resisting Stan and the others I now directed at myself. I became my own primary oppressor, working to deny and even <em>change</em> my genuine feelings. After all, I&rsquo;d already betrayed my sister and my friends. One more betrayal would not make much difference.</p>
+
+<p>This strategy worked brilliantly. I moved quickly through the rest of the program and graduated from the Seed nine days after my fifteenth birthday. For a few weeks it was still mandatory for me to come to meetings on Tuesday and Saturday nights, but when I started missing them now and then, no one said anything, and I gradually attended them less and less.</p>
+
+<p>A year after completing the program I was excommunicated from the Seed community at school for talking to druggies, growing my hair long, and showing other signs of having a druggie attitude. And I did use drugs again &mdash; many more drugs, in fact, than I had used prior to being in the Seed. My relationship with my parents deteriorated and became fraught with hostility. My grades declined, and I failed classes for the first time in my life.</p>
+
+<p>Within two years all but one or two of the students who&rsquo;d been in the Seed with me had gone back to drugs and their old friends. Some of my fellow ex-Seedlings were, like me, deeply bitter about the experience, but most were indifferent; they seemed to have gotten over it and wondered aloud why I couldn&rsquo;t. One or two even contended that it had been good for them: though they had returned to the lives they&rsquo;d led before, they were now more in control.</p>
+
+<p>Why did I feel so damaged? Because the Seed had forced me to <em>mean</em> things that were not true. I felt I had betrayed everything that was sacred to me, and even if my old friends still thought well of me, I no longer deserved them.</p>
+
+<p>Perhaps some people did con the Seed, but I couldn&rsquo;t. Maintaining a consistent lie under such stressful conditions was a tall order for an unsophisticated young teenager. Also I saw too many other Seedlings get busted and started over for conning. Whether these unlucky kids had actually been conning or not, I have no idea.</p>
+
+<p>The ultimate consequence of my time in the Seed was an overwhelming self-disgust that lingered for years. Everything seemed a mockery of itself. I fundamentally doubted the authenticity of any conviction &mdash; my own or someone else&rsquo;s. I had acquiesced and adopted the Seed&rsquo;s judgment for a time, and I could not easily disown it.</p>
+
+<p>In order to see the Seed not as a fundamental frame of reference but as just one tiny, narrow-minded, self-aggrandizing pocket of fear in the world, I first had to forgive myself for the part I had played in my own undoing. I needed to look at the fourteen-year-old kid I had been in 1972 and understand the pressure he&rsquo;d been under, and feel compassion for the choices he&rsquo;d made, and accept that he hadn&rsquo;t been as heroic and invulnerable as he would have liked to be.</p>
+
+<p>When I think now of the power the Seed had over me, I remember a time when I was still a newcomer, and the Seed was trying to obtain a license to open up a branch in Dade County, Florida. A new song was introduced called &ldquo;When the Seed Comes into Dade&rdquo; (sung to the tune of &ldquo;When the Saints Go Marching In&rdquo;). During renditions of this song, we would all wave our hands above our heads in a hallelujah gesture and sing more and more exuberantly with each repetition of the chorus. And when, in the middle of an open meeting one night, Art Barker strode into the room and announced that the Seed had won its license, I took part in the three-minute standing ovation that ensued. Despite my adversarial relationship with the Seed, despite the fact that I was there unwillingly, despite my general misery, I somehow felt included in the victory.</p>
+														</div>
+
+
+				
+<div class="sharing-bar article-sharing">
+	<div class="sharing-bar-first">
+		<a href="javascript:window.print();" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-printer"></use></svg> <span>Print</span></a>
+	</div>
+
+	<div class="sharing-bar-second">
+		<span class="alt-ff xsmall">Share:</span>
+		<a href="https://www.facebook.com/sharer/sharer.php?u=https://www.thesunmagazine.org/issues/373/the-seed" target="_blank" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-facebook"></use></svg> <span>Facebook</span></a>
+		<a href="https://twitter.com/share?url=https://www.thesunmagazine.org/issues/373/the-seed&amp;via=thesunmagazine" target="_blank" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-twitter"></use></svg> <span>Twitter</span></a>
+		<a href="#" class="b b-1 b-padding-tight xsmall js-toggle-mail-form"><svg><use xlink:href="#i-email"></use></svg> <span>Email</span></a>
+	</div>
+</div>
+
+<div class="send-to-friend-message-container">
+	<div class="alert alert-success xsmall">Thank you for sharing <em>The Sun</em>.</div>
+</div>
+
+<form method="post" action="/ajax/articles/send-to-a-friend" class="form fill-grey send-to-friend-form">
+		<input type="hidden" id="form_url" name="form[url]" value="https://www.thesunmagazine.org/issues/373/the-seed" />
+
+	<ul class="form-fields">
+		<li><label for="form_sender_name"><span class="label-text">Your Full Name</span><span class="label-asterisk">*</span></label><input type="text" id="form_sender_name" name="form[sender_name]" required="required" /></li>
+		<li><label for="form_sender_email"><span class="label-text">Your Email Address</span><span class="label-asterisk">*</span></label><input type="email" id="form_sender_email" name="form[sender_email]" required="required" /></li>
+		<li><label for="form_recipient_name"><span class="label-text">Friend’s Name</span><span class="label-asterisk">*</span></label><input type="text" id="form_recipient_name" name="form[recipient_name]" required="required" /></li>
+		<li><label for="form_recipient_email"><span class="label-text">Friend’s Email Address</span><span class="label-asterisk">*</span></label><input type="email" id="form_recipient_email" name="form[recipient_email]" required="required" /></li>
+		<li><label for="form_message"><span class="label-text">Personalized Message</span></label><textarea id="form_message" name="form[message]"></textarea></li>
+	</ul>
+<div class="send-to-friend-message-container">
+	<div class="alert alert-error xsmall">Something went wrong. Please try again.</div>
+</div>
+
+<div class="g-recaptcha" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs"></div>
+<div class="form-actions"><button type="submit" id="form_submit" name="form[submit]"	class="form-actions-b-primary b b-1 b-loading xsmall"><svg><use xlink:href="#i-loading"></use></svg>
+		Submit
+	</button></div>
+<input type="hidden" id="form__token" name="form[_token]" value="dc9067eddcb21648df65213701edadb448d9df8a" /></form>
+
+<br>
+
+
+
+										<footer class="article-contributor contributors">
+									
+
+<div class="block-contributor">
+		
+
+		<div class="block-contributor-content">
+		<div class="block-contributor-bio small">
+			<p><strong><span class="smallcaps">Marc Polonsky</span></strong> is the author of <em>The Poetry Reader&rsquo;s Toolkit</em> (Glencoe/McGraw-Hill) and loves working at home as a freelance writer, although he occasionally gets distracted by online chess. His e-zine, <em>Watch Words</em>, is available for free through his website, <a href="http://marcwordsmith.com/">www.marcwordsmith.com</a>. He lives in Oakland, California, with his wife, singer-songwriter Eve Decker (<a href="http://evedecker.com">www.evedecker.com</a>). A longer version of his essay in this issue can be found online at <a href="http://insidersview.info/theseed.htm">www.insidersview.info/theseed.htm</a>.</p><a href="/contributors/marc-polonsky" class="block-contributor-link link-alt small">More From This Contributor&nbsp;&#9656;</a>		</div>
+	</div>
+</div>
+
+							</footer>
+						</article>
+
+
+				    <div class="paywall-subscription block-product">
+			<div class="columns">
+			<div class="paywall-banner span3 cta cta-l1">
+				<div class="cta-intro">
+					<h5 class="cta-title alt-ff">One Free Selection Left </h5>
+					<p class="cta-text xsmall"><a class="link-alt" href="https://www.thesunmagazine.org/subscriber/login" data-label="Already a subscriber?">Already a subscriber? Sign in ▸</a><br><br>Read two free selections from <em>The Sun</em> each month.</p>
+				</div>
+			</div>
+			<div class="paywall-banner span9 note note-1 text-center">
+				<h4 class="cta-title alt-ff">Subscribe to <em>The Sun</em> and save 45%</h4>
+				<p class="cta-text xsmall">Subscribers get full access to the current issue and more than 40 years of archives.</p>
+				<a class="b b-1 xsmall cta-trigger"  href="/subscribe1" data-label="Subscribe" data-ctatitle="Subscribe">Subscribe</a>
+			</div>
+		</div>
+
+		<div class="columns">
+			<div class="span12 paywall-cta-bottom">
+				<p>
+					<span class="cta-title-issue">Buy the January 2007 issue for $5.95</span>
+					<span class="xsmall">Order now to get instant access to this issue, and we’ll also send you a print copy.</span>
+					<a class="b b-5 xsmall corona"  href="#" data-product-type="issues" data-id="373" data-label="Order Now ▸">Order Now ▸</a>
+				</p>
+			</div>
+		</div>
+
+		
+
+</div>
+	
+	
+	
+	<div class="spacer"></div>
+	
+
+
+
+		
+		<div class="article-correspondence-cta">
+		<div class="cta cta-l1" data-url="https://www.thesunmagazine.org/letter-to-the-editor">
+			<div class="cta-intro">
+				<h5 class="cta-title alt-ff">Thinking about writing us a letter?</h5>
+				<p class="cta-text">Give in to the temptation. We love getting mail. <br><span class="xsmall">(Of course, we reserve the right to edit.)</span></p>
+			</div>
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" class="cta-button b b-4 b-padding-tight small" data-label="Write Us A Letter!">Write Us A Letter!</a>
+		</div>
+	</div>
+	
+
+			<div class="article-also layout-item-large full-bar fill-grey-mid-light">
+		<div class="layout-item-intro">
+			<h2>Also In This Issue</h2>
+			<a href="/issues/373" class="xsmall link-alt">January 2007&nbsp;&#9656;</a>
+		</div>
+		<div class="issue-articles-l1">
+			<div class="issue-articles-l1-content1">
+				
+<div class="cover cover-l1 block-product">
+	<div>
+							<a href="/issues/373" class="cover-thumb">
+				
+				<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 727'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/import/issue/373.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/561x728r/import/issue/373.jpg
+	 alt=""
+	 class="lazy">
+
+			</a>
+		
+
+													<!-- <a href="/issues/373" data-product-type="issues" data-id="373" data-role="order" class="js-buy-single corona cover-button b b-1 b-full xsmall" data-label="Buy This Issue &#9656;">
+								Buy This Issue&nbsp;&#9656;
+			</a> -->
+			<a href="/issues/373" data-product-type="issues" data-id="373" class="js-buy-single corona cover-button b b-1 b-full xsmall" data-label="Buy This Issue &#9656;">
+								Buy This Issue&nbsp;&#9656;
+			</a>
+					
+					</div>
+</div>
+			</div>
+			<div class="issue-articles-l1-content2">
+				<div class="articles-l3">
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/373/abuelita">Abuelita</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/krista-bremer">Krista Bremer</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/fiction">Fiction</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/373/what-are-you-waiting-for">What Are You Waiting For?</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/athena-stevens">Athena Stevens</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/readers-write">Readers Write</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/373/nothing-to-lose">Nothing To Lose</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/our-readers">Our Readers</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/poetry">Poetry</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/373/my-stepsisters-music">My Stepsister’s Music</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/matthew-deshe-cashion">Matthew Deshe Cashion</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+									</div>
+			</div>
+		</div>
+	</div>
+	
+
+			<div class="article-related layout-item-large full-bar fill-pattern-light">
+		<div class="layout-item-intro">
+			<h2>Related Selections</h2>
+			<ul class="list-inline list-inline-tight"><li><a href="/topics/identity" class="xsmall link-alt link-text">Identity</a></li><li><a href="/topics/parents" class="xsmall link-alt link-text">Parents</a></li><li><a href="/topics/friendship" class="xsmall link-alt link-text">Friendship</a></li><li><a href="/topics/oppression" class="xsmall link-alt link-text">Oppression</a></li><li><a href="/topics/psychology" class="xsmall link-alt link-text">Psychology</a></li></ul>		</div>
+
+		<div class="articles-l2">
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/sy-safranskys-notebook">Sy Safransky&#039;s Notebook</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/304/sy-safranskys-notebook-304">April 2001</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/sy-safransky">Sy Safransky</a></li><li><a href="/issues/304">April 2001</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/304" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 725'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/141x182r/import/issue/304.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/281x364r/import/issue/304.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/fiction">Fiction</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/227/my-journal-of-the-plague-years">My Journal Of The Plague Years</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/andrew-ramer">Andrew Ramer</a></li><li><a href="/issues/227">November 1994</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/227" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 555 728'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/139x182r/import/issue/227.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/278x364r/import/issue/227.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/poetry">Poetry</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/152/no-poet-michael-wilson-issue-152">[no poet,]</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/michael-wilson">Michael Wilson</a></li><li><a href="/issues/152">July 1988</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/152" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 725'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/141x182r/import/issue/152.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/281x364r/import/issue/152.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/25/playing-the-edge-a-new-look-at-yoga">Playing The Edge: A New Look At Yoga</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/joel-kramer">Joel Kramer</a></li><li><a href="/issues/25">March 1977</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/25" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 725'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/141x182r/import/issue/025.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/281x364r/import/issue/025.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+					</div>
+	</div>
+	
+	
+					<form id="newsletterForm" method="post" action="https://www.thesunmagazine.org/newsletter" data-url-send="https://www.thesunmagazine.org/newsletter" class="form form-newsletter fill-grey" enctype="multipart/form-data" target="_blank">
+
+
+
+		<div class="form-newsletter-intro">
+			<h3 class="alt-ff large">Sign Up For Our Newsletter</h3>
+			<p>We’ll let you know about new website selections, upcoming events, special offers, and more.</p>
+		</div>
+
+		<ul class="form-newsletter-fields form-fields form-fields-inline">
+			<li>
+				<input name="name" type="text" maxlength="500" id="name" placeholder="Your Name">
+			</li>
+			<li>
+				<input name="email" type="text" maxlength="500" id="email" placeholder="Your E-mail">
+			</li>
+
+			<li class="form-fields-inline-button">
+				<button disabled="disabled" class="form-newsletter-send b b-4 b-padding-tight b-loading g-recaptcha" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs" data-callback="recaptcha_callback" name="SubmitButton" id="SubmitButton">
+					<svg><use xlink:href="#i-loading"></use></svg>
+					Sign&nbsp;Up
+				</button>
+			</li>
+		</ul>
+	</form>
+	<script id="hiddenlpsubmitdiv" style="display: none;"></script>
+
+
+
+<footer class="footer brand-grey-dark">
+			<div class="footer-first">
+		<h3 class="footer-tagline">Independent, Reader-Supported Publishing</h3>
+		<p class="footer-desc">In each issue of <em>The Sun</em> you’ll find some of the most radically intimate and socially conscious writing being published today. In an age of media conglomerates, we’re something of an oddity: an ad-free, independent, reader-supported magazine.</p>
+		<ul class="footer-nav list-inline-border xsmall">
+			
+		<li class=" first">
+			<a href="https://www.thesunmagazine.org/about" 	   class=''>
+	   About <em>the Sun</em>	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/staff" 	   class=''>
+	   Staff	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/find-the-sun" 	   class=''>
+	   Find <em>The Sun</em>&nbsp;&nbsp;in a Store Near You	</a>
+		
+	</li>
+
+
+		</ul>
+	</div>
+	
+		<div class="footer-second">
+		<ul class="footer-second-social list-inline">
+			<li><a href="https://www.facebook.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-facebook"></use></svg></span> Like Us</a></li>
+			<li><a href="https://twitter.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-twitter"></use></svg></span> Follow Us</a></li>
+			<li><a href="https://instagram.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-instagram"></use></svg></span> Take a Look</a></li>
+		</ul>
+
+		<div class="footer-second-content">
+			<ul class="footer-nav list-inline-border xsmall">
+				
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/" 	   class='current '>
+	   Home	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/privacy-policy" 	   class=''>
+	   Privacy Policy	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/terms-of-use" 	   class=''>
+	   Terms of Use	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/site-map" 	   class=''>
+	   Site Map	</a>
+		
+	</li>
+
+
+			</ul>
+			<p class="footer-copyright xxsmall">Copyright &copy; 1974–2020 <em>The Sun</em>. All rights reserved.</p>
+		</div>
+	</div>
+</footer>
+
+
+
+<div class="offset-nav">
+	<ul>
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/read" 	   class='current '>
+	   Read	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/issues/current" 	   class=''>
+	   Current Issue	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/archives" 	   class=''>
+	   Archives	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/featured" 	   class=''>
+	   Featured Selections	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/topics" 	   class=''>
+	   Browse Topics	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/sections" 	   class=''>
+	   Browse Sections	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/connect" 	   class=''>
+	   Connect	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/news" 	   class=''>
+	   News from <em>The Sun</em>	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" 	   class=''>
+	   Write a Letter to the Editor	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/discussion-groups" 	   class=''>
+	   Discussion & Writing Groups	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/make-a-suggestion" 	   class=''>
+	   Make a Suggestion	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/submit" 	   class=''>
+	   Submit	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/shop" 	   class=''>
+	   Shop	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/giftsub" 	   class=''>
+	   Gift Subscriptions	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/issues" 	   class=''>
+	   Issues	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+											
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/donatemenu" 	   class='highlight'>
+	   Donate	</a>
+		
+	</li>
+
+		<li class=" last">
+														<a href="/SubscribeNav1" 					   class=''>
+						Subscribe					</a>
+									
+	</li>
+
+
+					<li>
+				<a href="https://www.thesunmagazine.org/shop/cart">Cart ( <span class="cart-item-count">  0  </span>)</a>
+			</li>
+			<li><a href="https://www.thesunmagazine.org/subscriber/login" class="link-header-logout link-alt">Sign In</a></li>
+			</ul>
+	<ul>
+		<li class=" first">
+			<a href="https://www.thesunmagazine.org/about" 	   class=''>
+	   About <em>the Sun</em>	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/staff" 	   class=''>
+	   Staff	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/find-the-sun" 	   class=''>
+	   Find <em>The Sun</em>&nbsp;&nbsp;in a Store Near You	</a>
+		
+	</li>
+
+</ul>
+	<ul>
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/" 	   class='current '>
+	   Home	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/privacy-policy" 	   class=''>
+	   Privacy Policy	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/terms-of-use" 	   class=''>
+	   Terms of Use	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/site-map" 	   class=''>
+	   Site Map	</a>
+		
+	</li>
+
+</ul>
+</div>
+
+<div id="buy-popup-message" class="buy-popup mfp-hide white-popup white-popup-block">
+	<a class="popup-modal-dismiss" href="#"></a>
+	<h5>Due to fulfillment challenges related to the novel coronavirus, print copies are temporarily unavailable for individual sale. We are offering free PDFs until we are able to resume print sales.</h5>
+	<p>Enter your e-mail address below to download this issue.</p>
+	<form method="post" id="download-single" action="https://www.thesunmagazine.org/issue/pdfFree/531.pdf">
+		<label for="email"><span class="label-text">E-mail</span><span class="label-asterisk">*</span></label>
+		<input class="buy-single-email" id="email" type="email" name="email">
+		<button type="send" class="form-buy-issue-send b b-3 b-padding-tight b-loading">Send</button>
+		<button class="form-buy-issue-download b b-3 b-padding-tight b-loading">Download pdf</button>
+		<button type="send" class="popup-modal-dismiss b b-2 b-padding-tight b-loading">Close</button>
+		<div class="g-recaptcha" style="text-align: center" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs"></div>
+
+	</form>
+</div>
+
+			<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/plugins.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/site.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/newsletter.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/js/articles.js"></script>
+		</div>
+		</div>
+
+				<script>
+		(function (doc) {
+			var scripts = doc.getElementsByTagName('script');
+			var script = scripts[scripts.length - 1];
+			var xhr = new XMLHttpRequest();
+			xhr.onload = function () {
+				var div = doc.createElement('div');
+				div.innerHTML = this.responseText;
+				div.style.display = 'none';
+				script.parentNode.insertBefore(div, script);
+			}
+			xhr.open('get', '/theme/thesun//assets/build/img/sprite/sprite.svg', true);
+			xhr.send();
+		})(document);
+
+
+
+		</script>
+
+		<script>
+			// Submit function
+            function recaptcha_callback() {
+						var getUrl = $('.form-newsletter').data( "url-send" ),
+							getName = $('input#name').val(),
+							getEmail = $('input#email').val();
+						$.ajax({
+								type: "POST",
+								url: getUrl,
+								data: {
+									name: getName,
+									email: getEmail,
+									grecaptcharesponse: grecaptcha.getResponse()
+								}
+							}).done(function(response) {
+								console.log(response);
+									$('.form-fields').fadeOut(800, function () {
+										$('.form-fields').empty().append('<div class="newsletter-confirm-message">Thank you for signing up to receive news from <em>The Sun</em>. Your first newsletter will arrive soon.<div>').fadeIn(800);
+									});
+							});
+			}
+
+		</script>
+
+		<script>
+			function getUrlCode() {
+				var url_string = window.location.href;
+				var url = new URL(url_string);
+				var c = url.searchParams.get('promotion\_key');
+				if (typeof c !== 'undefined' && c !== null) {
+					setCookie("promotion_code",c);
+				}
+			}
+
+			function setCookie(cname, cvalue) {
+				document.cookie = cname + "=" + cvalue + ";" + "path=/";
+			}
+
+			function getCookie(cname) {
+				var name = cname + "=";
+				var decodedCookie = decodeURIComponent(document.cookie);
+				var ca = decodedCookie.split(';');
+				for(var i = 0; i <ca.length; i++) {
+					var c = ca[i];
+					while (c.charAt(0) == ' ') {
+						c = c.substring(1);
+					}
+					if (c.indexOf(name) == 0) {
+						return c.substring(name.length, c.length);
+					}
+				}
+				return "";
+			}
+			window.addEventListener( "load", getUrlCode );
+		</script>
+
+
+	</body>
+</html>

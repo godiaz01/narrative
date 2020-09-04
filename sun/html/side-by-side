@@ -1,0 +1,1465 @@
+
+<!DOCTYPE html>
+<html class="no-js" lang="en-US">
+	<head>
+		<title>Side By Side - The Sun Magazine</title>
+
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		
+		<meta name="viewport" content="width=device-width, minimum-scale=1.0">
+
+		<link rel="dns-prefetch" href="//ajax.googleapis.com">
+		<link rel="dns-prefetch" href="//use.typekit.net">
+		
+		<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/modernizr.js"></script>
+		<script src="https://www.google.com/recaptcha/api.js"
+				async defer>
+		</script>
+
+		<script>(function(d) { var config = { kitId: 'kzw7ebk', scriptTimeout: 3000, async: true }, h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s) })(document);</script>
+
+
+				
+		<link rel="apple-touch-icon" sizes="57x57" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-57x57.png?v=2016">
+		<link rel="apple-touch-icon" sizes="60x60" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-60x60.png?v=2016">
+		<link rel="apple-touch-icon" sizes="72x72" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-72x72.png?v=2016">
+		<link rel="apple-touch-icon" sizes="76x76" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-76x76.png?v=2016">
+		<link rel="apple-touch-icon" sizes="114x114" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-114x114.png?v=2016">
+		<link rel="apple-touch-icon" sizes="120x120" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-120x120.png?v=2016">
+		<link rel="apple-touch-icon" sizes="144x144" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-144x144.png?v=2016">
+		<link rel="apple-touch-icon" sizes="152x152" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-152x152.png?v=2016">
+		<link rel="apple-touch-icon" sizes="180x180" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-180x180.png?v=2016">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-32x32.png?v=2016" sizes="32x32">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/android-chrome-192x192.png?v=2016" sizes="192x192">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-96x96.png?v=2016" sizes="96x96">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-16x16.png?v=2016" sizes="16x16">
+		<link rel="mask-icon" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/safari-pinned-tab.svg?v=2016" color="#444444">
+		<link rel="shortcut icon" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon.ico?v=2016">
+		<meta name="apple-mobile-web-app-title" content="The Sun Magazine">
+		<meta name="application-name" content="The Sun Magazine">
+		<meta name="msapplication-TileColor" content="#fcc330">
+		<meta name="msapplication-TileImage" content="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/mstile-144x144.png?v=2016">
+		<meta name="theme-color" content="#ffffff">
+
+				<link rel="stylesheet" type="text/css" href="https://cloud.typography.com/6578674/659928/css/fonts.css" />
+		<link rel="stylesheet" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/css/style.css">
+
+																		<meta property="og:site_name" content="The Sun Magazine">
+		<meta property="og:type" content="article">
+		<meta property="og:url" content="https://www.thesunmagazine.org/issues/448/side-by-side">
+		<meta property="og:image" content="http://www.thesunmagazine.org/files/2016-04/448-26-kollasch-preview.jpg">
+		<meta property="og:title" content="Side By Side - The Sun Magazine">
+		<meta property="og:description" content="When I pull up to my house after work, my friend Eppie is standing in the middle of our shared driveway, clutching her green canvas shopping bag. Her face shows relief and then worry as I get out of my car. &amp;ldquo;I hate to bother you,&amp;rdquo; she says, &amp;ldquo;but would you mind taking me home?&amp;rdquo;">
+		<meta property="fb:app_id" content="158741778010551">
+
+						<link rel="image_src" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.comhttp://www.thesunmagazine.org/files/2016-04/448-26-kollasch-preview.jpg">
+
+												<meta name="twitter:card" content="summary">
+		<meta name="twitter:title" content="Side By Side - The Sun Magazine">
+		<meta name="twitter:description" content="When I pull up to my house after work, my friend Eppie is standing in the middle of our shared driveway, clutching her green canvas shopping bag. Her face shows relief and then worry as I get out of my car. &amp;ldquo;I hate to bother you,&amp;rdquo; she says, &amp;ldquo;but would you mind taking me home?&amp;rdquo;">
+		<meta name="twitter:image" content="http://www.thesunmagazine.org/files/2016-04/448-26-kollasch-preview.jpg">
+		<meta name="twitter:site" content="@thesunmagazine">
+
+				<link rel="publisher" href="https://plus.google.com/113792980827145858211">
+        
+		<meta name="Description" content="When I pull up to my house after work, my friend Eppie is standing in the middle of our shared driveway, clutching her green canvas shopping bag. Her face shows relief and then worry as I get out of my car. &amp;ldquo;I hate to bother you,&amp;rdquo; she says, &amp;ldquo;but would you mind taking me home?&amp;rdquo;">
+
+		
+		<!-- Google Tag Manager -->
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-TKBHCCG');</script>
+		<!-- End Google Tag Manager -->
+
+		<!-- Google Analytics -->
+		<script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+            ga('create', 'UA-2351127-1', 'auto');  // Replace with your property ID.
+            ga('send', 'pageview');
+            ga('require', 'ecommerce');   // Load the ecommerce plug-in.
+		</script>
+		<!-- End Google Analytics -->
+	</head>
+	<body id="">
+
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TKBHCCG"
+		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+		<header class="header" data-offset-start="80">
+		<div class="header-utilities">
+				<ul class="header-utilities-user list-inline list-inline-tight xxsmall">
+							<li>
+					<span class="header-utilities-user-intro">Already A Subscriber?</span> &nbsp;
+					<a href="https://www.thesunmagazine.org/subscriber/login" class="link-text link-alt">Sign In</a>
+				</li>
+					</ul>
+		<a href="https://www.thesunmagazine.org/shop/cart" class="header-utilities-cart  link-alt link-icon tiny">
+			<span class="i"><svg><use xlink:href="#i-cart"></use></svg></span>
+			<span class="cart-item-count">
+									0 Items
+				
+			</span>
+		</a>
+			</div>
+
+		<div class="header-bar">
+		<h1 class="header-logo logo">
+			<a href="/">
+				<img src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/img/logo-thesun.svg" class="logo-thesun" alt="The Sun Magazine">
+				<img src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/img/logo-tagline.svg" class="logo-tagline" alt="">
+			</a>
+		</h1>
+
+		<ul class="header-nav">
+			
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/read" 	   class='current '>
+	   Read	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/issues/current" 	   class=''>
+	   Current Issue	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/archives" 	   class=''>
+	   Archives	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/featured" 	   class=''>
+	   Featured Selections	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/topics" 	   class=''>
+	   Browse Topics	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/sections" 	   class=''>
+	   Browse Sections	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/connect" 	   class=''>
+	   Connect	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/news" 	   class=''>
+	   News from <em>The Sun</em>	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" 	   class=''>
+	   Write a Letter to the Editor	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/discussion-groups" 	   class=''>
+	   Discussion & Writing Groups	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/make-a-suggestion" 	   class=''>
+	   Make a Suggestion	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/submit" 	   class=''>
+	   Submit	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/shop" 	   class=''>
+	   Shop	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/giftsub" 	   class=''>
+	   Gift Subscriptions	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/issues" 	   class=''>
+	   Issues	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+											
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/donatemenu" 	   class='highlight'>
+	   Donate	</a>
+		
+	</li>
+
+		<li class=" last">
+														<a href="/SubscribeNav1" 					   class=''>
+						Subscribe					</a>
+									
+	</li>
+
+
+		</ul>
+
+		<button class="header-nav-toggle"><svg><use xlink:href="#i-menu" class="i-menu"></use><use xlink:href="#i-close" class="i-close"></use></svg></button>
+		<button class="header-search-toggle" data-form-wrapper=".header-search"><svg><use xlink:href="#i-magnifier" class="i-magnifier"></use><use xlink:href="#i-close" class="i-close"></use></svg></button>
+	</div>
+
+		<div class="header-search">
+		<div class="header-search-content">
+			<form action="https://www.thesunmagazine.org/search" class="form form-search" method="get">
+				<h2 class="alt-ff brand-link">Search Our 40 Years of Archives</h2>
+				<ul class="form-search-fields form-fields form-fields-inline">
+					<li><input type="text" name="q" value=""></li>
+					<li class="form-fields-inline-button"><button class="b b-1 b-padding-tight b-loading"><svg><use xlink:href="#i-loading"></use></svg>Search</button></li>
+				</ul>
+
+				<div class="header-search-content-shortcuts">
+					<h6 class="search-advanced alt-ff"><a class="js-handle-advanced" href="https://www.thesunmagazine.org/search?advanced=1">Advanced Search</a></h6>
+					<br>
+					<h6 class="alt-ff">Popular Pages</h6>
+					<ul class="list-inline-border list-inline-tight xxsmall"><li class=" first"><a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a></li><li class=""><a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a></li><li class=""><a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a></li><li class=""><a href="https://www.thesunmagazine.org/sections/quotations" 	   class=''>
+	   Quotations	</a></li><li class=""><a href="https://www.thesunmagazine.org/sections/readers-write" 	   class=''>
+	   Readers Write	</a></li><li class=" last"><a href="https://www.thesunmagazine.org/sections/poetry" 	   class=''>
+	   Poetry	</a></li></ul>				</div>
+			</form>
+		</div>
+	</div>
+</header>
+
+	<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+	<script type="text/javascript">
+		$(document).ready(function() {
+			$('.js-handle-advanced').on('click', function (e) {
+				e.preventDefault();
+				var getSearchValue = $('.form-search-fields input').val();
+				var getURL = $(this).attr('href');
+				var newURL = getURL + '&q=' + getSearchValue;
+				window.location.href = newURL;
+			});
+		});
+	</script>
+
+		<div class="container-hidden">
+		<div class="container">
+
+				
+	
+	<article class="article ">
+		<header class="block-content block-content-l1 block-content-center">
+						<div class="block-content-header">
+				<h6 class="b-content-section heading-square"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+				<h1 class="block-content-title">Side By Side</h1>
+
+				
+				<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/mally-z-ray">Mally Z. Ray</a></li><li><a href="/issues/448">April 2013</a></li></ul>
+
+			</div>
+
+																			
+
+				<figure class="block-content-photo block-content-photo-large photo photo-outset-center-large">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 2360 1576'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/1180x1767r/photos/448-26-kollasch.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/2360x3534r/photos/448-26-kollasch.jpg
+	 alt="448 - Kollasch - Ray"
+	 class="lazy">
+
+										<figcaption>
+
+						
+																				<div class="photo-credit">
+								&copy;&nbsp;<a href="/contributors/matthew-a-kollasch">Matt Kollasch</a>
+							</div>
+																		</figcaption>
+									</figure>
+
+					</header>
+
+				<div class="article-body link-text-wrap">
+																		<p class="dropcap">When I pull up to my house after work, my friend Eppie is standing in the middle of our shared driveway, clutching her green canvas shopping bag. Her face shows relief and then worry as I get out of my car. &ldquo;I hate to bother you,&rdquo; she says, &ldquo;but would you mind taking me home?&rdquo;</p>
+
+<p>&ldquo;You <em>are</em> home, Eppie,&rdquo; I say, putting my arm around her. &ldquo;We&rsquo;ve lived here side by side in our duplex for more than twenty years.&rdquo; I turn her toward the house so she can see her little dog, Bramble, watching us from the window.</p>
+
+<p>Eppie shakes her head, then stares into my eyes, her gaze narrowed, scrutinizing. &ldquo;Don&rsquo;t we have another house? Over the hill there?&rdquo; She waves vaguely toward the woods where our street dead-ends.</p>
+
+<p>&ldquo;Nope, this is it,&rdquo; I tell her. &ldquo;Let&rsquo;s go inside and get some tea.&rdquo;</p>
+
+<p>This goes on almost daily for several weeks until, one warm June afternoon, Eppie isn&rsquo;t in our driveway, and I can see through her front window that the lamp next to her chair, where she&rsquo;s spent the better part of the last three years, isn&rsquo;t on. Margaret, her daughter, has been coming by more frequently ever since Senior Services said Eppie shouldn&rsquo;t be left alone anymore. Maybe they&rsquo;ve gone out for supper.</p>
+
+<p>I stand there in the driveway, staring warily at the house. Something just doesn&rsquo;t feel right.</p>
+
+<p>I press in the code to the lockbox beside Eppie&rsquo;s door. I installed it because she keeps losing her keys.</p>
+
+<p>As I open the door, my eyes burn from the acidic smell of dog urine. It&rsquo;s been a long time since Eppie has been able to remember to take Bramble out regularly, and although her daughter frequently has her carpet shampooed, it is pungent.</p>
+
+<p>Everything is in its usual place. There&rsquo;s Eppie&rsquo;s chair with the stack of old newspapers next to it, her Eiffel Tower lamp rising like an oil rig from a sea of used kleenex. Her oak dining table is buried under mounds of bills and catalogs and junk mail. Dishes, canned goods, and bags of potato chips and cookies blanket her kitchen counters.</p>
+
+<p>Yet the emptiness is so absolute, it feels like a presence I have to push through.</p>
+
+<p>Then I notice that the rectangular Tupperware container that holds her medications is gone.</p>
+
+<p>I hear scratching at the door to the garage and open it. Bramble leaps into my arms, shaking. Eppie would never have left Bramble in the garage, not even for one minute. Tears sting my eyes, and I clutch Bramble to my chest. I know Margaret was looking for a place for Eppie in an Alzheimer&rsquo;s facility &mdash; or &ldquo;memory-care center,&rdquo; as they call them. Has she found one? Somehow I thought I would have more warning.</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">I seemed to see Eppie everywhere when I first escaped to this small Willamette Valley town in Oregon in 1979. I was thirty-one and had left my violent husband in Colorado. I saw Eppie at parties and again at my doctor&rsquo;s office, where she worked as a receptionist. I knew she had left her husband and moved here from the East Coast a few months before me. But she was fifteen years older, and I didn&rsquo;t think we&rsquo;d have much in common. Plump and middle-aged, she seemed a bit dowdy, the way a doctor&rsquo;s receptionist is supposed to look.</p>
+
+<p>One Sunday a new friend named Gordon held a champagne brunch at his home. In his sixties and a recent widower, Gordon was known for his sophisticated gatherings. (It was at his house that I witnessed for the first time a Christmas tree lit with real candles set in antique tin holders.) On this Sunday morning twenty of us sat around Gordon&rsquo;s linen-draped dining table, which was set with gleaming silverware and stiff cloth napkins fashioned into swans. We sipped champagne cocktails and made polite conversation while Gordon served eggs Benedict with fresh asparagus. As we ate, the room turned quiet, the chiming of our silver knives and forks against fine china the only sound.</p>
+
+<p>And then:</p>
+
+<p>&ldquo;Fuck! I&rsquo;m getting drunk!&rdquo;</p>
+
+<p>All heads snapped toward the end of the table, where Eppie was tossing back a champagne cocktail. She plunked her crystal flute down as though signaling a bartender for a refill. All that was missing was the belch. She looked down the table at me and gave me a lopsided grin. Her staccato two-note laugh, the second note higher than the first, rang out.</p>
+
+<p>I smiled back. Eppie suddenly seemed more interesting.</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">There is no memorial service to honor a mind being eaten away by Alzheimer&rsquo;s. Instead you finish your friend&rsquo;s sentences and remind her how old she is or how many grandchildren she has. Early one morning you discover her cordless telephone on the hood of your car. You find her house keys inside your mailbox. She helps you load your car for a weekend trip and then is mad at you when you come home because you didn&rsquo;t tell her you were going away. Everybody forgets things, you tell yourself.</p>
+
+<p>But all the while she is leaving you.</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">When I told Eppie that my parents had disowned me after I&rsquo;d left my husband, she scooped me up and planted me in her own family.</p>
+
+<p>Over the years I counted deer with her father in the mountains of Washington State, painted a house with her son, collected fossils with her daughter, hiked with her niece, snowmobiled with her brother. And I spent one terrible evening playing Trivial Pursuit with her son, his girlfriend, and Eppie&rsquo;s ex-husband, &ldquo;that damn James Seavey.&rdquo;</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">In 1987 I moved to Portland for a job, which turned out to be a big mistake. I was lonesome in my new town. Eppie had moved to Washington to live with a man named Ralph. Our friendship was relegated to letters and occasional weekend camping trips. I missed her spontaneous invitations to go for a hike or come over and help her eat a meatloaf she&rsquo;d just made. But mostly I missed those quiet evenings when we&rsquo;d sit on her back patio, stare into the night, sip wine or smoke some pot, and let the stories of our lives unfurl between us.</p>
+
+<p>A year went by. On a weekend trip to visit her, I sat in the backseat of the car while Eppie broke up with Ralph. Thinking she had forgotten I was there, I said, &ldquo;Why don&rsquo;t we stop, and I&rsquo;ll go for a walk and let the two of you talk.&rdquo;</p>
+
+<p>&ldquo;Oh, no, dear, you&rsquo;re fine,&rdquo; Eppie replied and then went right on explaining to a tearful Ralph why their relationship could never work.</p>
+
+<p>Back in Portland I skipped out of my office early one afternoon and sat in my car next to a farmer&rsquo;s field outside the city. I pulled my journal out of my purse and wrote: <em>I want to go back to the Willamette Valley and live in that duplex where Eppie used to live</em>.</p>
+
+<p>At six o&rsquo;clock the next morning my telephone woke me. It was Eppie. &ldquo;If the owner of my old duplex is willing to sell it, do you want to buy it with me?&rdquo; she asked.</p>
+
+<p>A few months later, after we&rsquo;d moved into <em>our</em> duplex, Eppie made an appointment with her attorney to draw up an agreement. It stipulated that if either of us ever decided to sell, the other had first right of refusal for half the original purchase price. Signing papers seemed silly to me: we both knew what we wanted; why pay an attorney to write it down? But we did, and Eppie made sure we both had copies.</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">A week after Eppie&rsquo;s family puts her in the memory-care center, her son, David, calls. &ldquo;Tell me about this &lsquo;agreement&rsquo; you and my mother had about her property,&rdquo; he says.</p>
+
+<p>Then Margaret phones and asks, &ldquo;So, according to these papers, Mother can&rsquo;t give me her house?&rdquo;</p>
+
+<p>One afternoon, after Margaret drives off with a carload of Eppie&rsquo;s belongings, a neighbor who has lived across the street for years comes over and says she&rsquo;ll testify for me if Eppie&rsquo;s family gives me any trouble over the house. &ldquo;When you moved in, Eppie told me about your agreement,&rdquo; she says. &ldquo;I remember she said, &lsquo;Now Mally and I will always be taken care of.&rsquo;&nbsp;&rdquo;</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">For years Eppie would say, &ldquo;I&rsquo;m going to wind up just like my mother and not remember anything.&rdquo;</p>
+
+<p>&ldquo;Don&rsquo;t say that!&rdquo; I&rsquo;d reply. &ldquo;It&rsquo;s like praying for it to happen.&rdquo;</p>
+
+<p>After she retired, she rarely wanted to leave the house. I&rsquo;d suggest we take Bramble out for a walk, believing that if I could pry Eppie out of that easy chair, she&rsquo;d feel better. But she&rsquo;d just sink in deeper and reply, &ldquo;Maybe later.&rdquo;</p>
+
+<p>I&rsquo;d think of the hikes we&rsquo;d taken together throughout the Cascades and the Coast Range, most of which Eppie had planned: The sudden stops on the trail while she stooped to brush aside a few dead leaves and reveal wild ginger. The way she cupped her hand around a trillium or bleeding heart or tiny yellow wildflower that had no name. Her staccato two-note laugh if she spotted a calypso orchid, which, no matter how many times she described the difference, looked like a miniature iris to me.</p>
+
+<p>After her diagnosis, even though I knew Alzheimer&rsquo;s was an incurable disease, I railed at her in my head: <em>You&rsquo;re giving in too easily! Fight back!</em></p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">One day, after work, I popped in to see if Eppie wanted to get some supper. This was in 2008, two years before I would come home to find her gone. She was watching the Democratic National Convention on <span class="smallcaps">TV</span>.</p>
+
+<p>&ldquo;Don&rsquo;t you just love Hillary?&rdquo; she asked.</p>
+
+<p>I sat in the rocking chair and watched with her.</p>
+
+<p>&ldquo;Oh, Mally! Can you imagine what it would be like to be able to vote for a woman for president?&rdquo; There were tears in her eyes.</p>
+
+<p>It was by observing Eppie that I&rsquo;d learned what being a feminist really meant. I&rsquo;d been so angry when I left my husband that I&rsquo;d seized feminism as though it were a weapon I could use to bludgeon any man who tried to hurt me again. Eppie taught me that a feminist could grow flowers and quote Emily Dickinson and go antiquing and have about a hundred different hand lotions &mdash; just because they all smelled so good &mdash; and knit mittens and make applesauce and sew quilted vests for all her friends and, yes, occasionally smoke a little pot.</p>
+
+<p>It was thanks to women like Eppie that this moment in history could exist &mdash; a moment when a woman could be a serious contender for the presidency of the United States. In the 1970s Eppie had defied her husband by helping to found a Planned Parenthood branch in her town. She&rsquo;d started a women&rsquo;s empowerment group before most of us even knew what <em>empowerment</em> meant.</p>
+
+<p>The crowd on <span class="smallcaps">TV</span> roared for Hillary Clinton. Eppie turned to me and asked, &ldquo;What&rsquo;s this we&rsquo;re watching again?&rdquo;</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">At first Eppie blamed her doctor for taking away her driver&rsquo;s license. Then she blamed me. On my darker, less rational days I wondered if maybe it was my fault. If I hadn&rsquo;t called the doctor with my concerns, maybe Eppie&rsquo;s Alzheimer&rsquo;s would never have become real, and we could have gone on living the same as always.</p>
+
+<p>A doctor is required to report a diagnosis of Alzheimer&rsquo;s to the <span class="smallcaps">DMV</span>. Eppie stormed over to my place, waving the letter announcing that her license had been suspended and would be revoked if she couldn&rsquo;t pass the driving test.</p>
+
+<p>&ldquo;I&rsquo;ve been driving all my life!&rdquo; she screamed, her face furrowed with fury. &ldquo;I&rsquo;ve driven across the country all by myself! Twice!&rdquo; She shook the letter in my face.</p>
+
+<p>It was the first time Eppie had ever shouted at me.</p>
+
+<p>Secretly I was relieved by the letter. Sooner or later she would have either had an accident or gotten lost and been unable to find her way home.</p>
+
+<p>Eppie didn&rsquo;t take the test, nor did she stop driving. She tried to hide it from me, but the neighbors ratted her out. When I confronted her, she told me to mind my own damn business.</p>
+
+<p>Finally I slipped a neighbor her garage key, and while I took Eppie to a doctor&rsquo;s appointment, the neighbor disconnected her car&rsquo;s battery.</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">For as long as we lived side by side, Eppie and I went out to dinner together on Friday nights. After she developed Alzheimer&rsquo;s, Eppie always chose the same restaurant. By then she had settled into three conversation loops: How much she loved Bramble, what a good mother our friend Rene was, and &ldquo;<span class="smallcaps">CRS</span>.&rdquo;</p>
+
+<p>&ldquo;I have <span class="smallcaps">CRS</span>. You know what that is, don&rsquo;t you?&rdquo; she&rsquo;d ask. I&rsquo;d shake my head no, because I knew she liked saying the punch line: &ldquo;Can&rsquo;t Remember Shit.&rdquo;</p>
+
+<p>She studied her menu even though she&rsquo;d wind up ordering whatever I did. Her hair would often stick up on one side, and the ghosts of previous meals might dapple a frayed blue sweatshirt that, before Alzheimer&rsquo;s, she wouldn&rsquo;t have worn even to weed her flower beds.</p>
+
+<p>&ldquo;I have <span class="smallcaps">CRS</span>. You know what that is, don&rsquo;t you?&rdquo;</p>
+
+<p>I wanted to shake her by her shoulders and yell, <em>Give me back my friend!</em></p>
+
+<p class="ckeditor-shortcode"><figure class="photo photo-outset-center-large">
+	<div>
+					<div>
+				<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 2360 1596'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/1180x798r/photos/448-29-carroll.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/2360x1596r/photos/448-29-carroll.jpg
+	 alt="448 - Carroll - Ray"
+	 class="lazy">
+
+									<figcaption>
+																											<div class="photo-credit">
+																			© <a href="https://www.thesunmagazine.org/contributors/james-carroll">
+											James
+																						Carroll
+										</a>
+																	</div>
+																								</figcaption>
+							</div>
+			</div>
+</figure>
+</p>
+
+<p class="dropcap">A few hours after I come home to discover Eppie gone, Margaret calls. I&rsquo;ve just gotten back from taking Bramble for a walk, and now she trots after me nervously. She&rsquo;s never been in my house without Eppie before.</p>
+
+<p>Margaret says a memory-care center an hour away had an unexpected opening, and she moved Eppie in that afternoon.</p>
+
+<p>&ldquo;Mother kept asking if &lsquo;Margaret&rsquo; knew where she was, and I kept saying, &lsquo;<em>I&rsquo;m</em> Margaret.&rsquo; Finally I asked her if she meant Mally, and she said yes.&rdquo;</p>
+
+<p>I tell Margaret I wish she had called me; I would have stayed home from work.</p>
+
+<p>It was all so sudden, she says. She didn&rsquo;t have time to think.</p>
+
+<p>I say I&rsquo;ll drive down to see Eppie over the weekend, but Margaret explains that new patients can&rsquo;t have visitors for two weeks &mdash; so they can get acclimated to their surroundings.</p>
+
+<p>Two weeks is a long time. I wonder if Eppie will remember me.</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">Early the next morning I imagine I hear the sound of Eppie&rsquo;s garage door opening &mdash; a comforting, low, rocking sound. It seems so real that I think maybe I only dreamed that Eppie was gone.</p>
+
+<p>Later a neighbor sees me out walking Bramble and asks about Eppie. Tears flood my eyes, and I realize I&rsquo;m in no condition to go to work.</p>
+
+<p>As I&rsquo;m calling in, I stumble over what word to use to label our relationship. Eppie and I aren&rsquo;t family, and the word <em>friend</em> isn&rsquo;t strong enough. Finally I say, &ldquo;My Eppie has just moved into a memory-care center.&rdquo;</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">The first time I took Bramble for a walk after Eppie moved out, the dog didn&rsquo;t want to go. Eppie had carried her everywhere. I practically had to drag Bramble down the street. Now she spins in circles when I bring out her leash.</p>
+
+<p>&ldquo;Don&rsquo;t get too attached,&rdquo; I tell her as she licks my face.</p>
+
+<p>I&rsquo;m ashamed to admit that I don&rsquo;t particularly like Bramble. She&rsquo;s a prissy Pomeranian &mdash; the antithesis of Eppie&rsquo;s sheltie, Tamas, who ran her life for fourteen years. A neighbor gave Bramble to Eppie after we&rsquo;d buried Tamas in the backyard.</p>
+
+<p>The way Eppie took to Bramble was probably the first sign that her mind had begun to deteriorate. Before, she&rsquo;d had no patience for fluffy little dogs with high-pitched barks.</p>
+
+<p>When Margaret announces that she is taking Bramble to the Humane Society, I say I&rsquo;ll find a home for her, but it proves harder than I thought. Bramble&rsquo;s reputation among our neighbors precedes her: she hates other animals and isn&rsquo;t housebroken. (Though, in all fairness, since I&rsquo;ve been walking her, she&rsquo;s not slipped up once.)</p>
+
+<p>Finally one of the volunteers at Senior Services agrees to take her. I get Bramble caught up on her shots and send her off to her new life with my favorite feather pillow, which she has claimed as her bed.</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">Margaret spends Saturdays sorting through Eppie&rsquo;s belongings. I try not to react as I watch her toss piles of cards and letters into the trash. The baskets Eppie filled with vegetables from the Saturday market are thrown into a box for the Salvation Army.</p>
+
+<p>I look over at Eppie&rsquo;s china cabinet. &ldquo;What about Aunt Helen&rsquo;s china?&rdquo;</p>
+
+<p>&ldquo;Nobody wants it,&rdquo; Margaret says, plowing through Eppie&rsquo;s desk. &ldquo;I&rsquo;ll sell it at a garage sale.&rdquo;</p>
+
+<p>Eppie brought the china home when Aunt Helen, well into her nineties, could no longer live on her own and moved into assisted living. Aunt Helen and her husband had run a ranch, and on Sundays she&rsquo;d always cooked a big dinner for all the ranch hands. Eppie remembered the men, their calloused palms scrubbed clean, holding the dainty cup handles between their thumbs and forefingers, the white linen napkins tucked under their chins. When Eppie brought the china home some fifteen years ago, we delighted in unpacking the pieces, so delicate we could almost see through them. That night Eppie served leftover potato salad on the dessert plates and ice cream in the two-handled soup bowls.</p>
+
+<p>Margaret pulls Eppie&rsquo;s stained and dog-eared copy of <em>Birds of the Northwest</em> from her desk drawer. I recall Eppie putting the yellow book down on a log as she rummaged around her day pack for her binoculars. For a minute I forget to breathe.</p>
+
+<p>Margaret rubs her hand over the cover. &ldquo;This little book has been very well loved,&rdquo; she says quietly. She takes it over to the couch and places it next to her purse. &ldquo;Maybe Cousin Ruth will want the china. I&rsquo;ll call her.&rdquo;</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">It&rsquo;s been two weeks since Eppie moved to the memory-care center, and I&rsquo;m on my way to visit her for the first time. I&rsquo;m afraid she&rsquo;s forgotten me. Our friend Rene is with me.</p>
+
+<p>The place is decorated like a Holiday Inn lobby, and in spite of being shiny clean, it smells old and sad, like a thrift shop when it&rsquo;s raining.</p>
+
+<p>One of the aides leads us to the common area, where a dozen women and men wearing blank expressions sit in a circle tapping a giant balloon to one another. Mostly it just bounces off them as they sit and stare at nothing. When the balloon floats by Eppie, however, she punches it across the circle as though she were playing volleyball.</p>
+
+<p>She sees us and shrieks, wiggling with happiness.</p>
+
+<p>&ldquo;You came all the way from Oregon to see me!&rdquo; (The center is in Oregon, and for a moment I wonder where Eppie believes she is.) She hugs me and pats my face and kisses my cheeks and hugs me again. No one has ever been this happy to see me before.</p>
+
+<p>She shows us her room and the patio, then introduces us to a new friend. She doesn&rsquo;t remember the friend&rsquo;s name, but it&rsquo;s all right, because the friend doesn&rsquo;t remember Eppie&rsquo;s either.</p>
+
+<p>Later, when I ask about the balloon game, Eppie says it&rsquo;s stupid. &ldquo;Although I am very good at it, if I do say so myself.&rdquo;</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">Two months after I sign a mortgage for Eppie&rsquo;s half of the duplex, Margaret finishes moving everything out. The delay is fine with me; I am in no hurry to rent it.</p>
+
+<p>Once the place is empty, I let myself in. Spiders have strung cobwebs everywhere, and I bat them away. The carpet smells faintly of Bramble, and dead leaves have been tracked inside. The walls are marred where Eppie&rsquo;s furniture was. The kitchen sink and bathtub are thick with grime.</p>
+
+<p>I wander through the empty rooms with a clipboard to make a list of the work that needs to be done. Pictures of Eppie&rsquo;s children and grandchildren used to cover this wall. The quilt some friends and I made for her sixtieth birthday hung over there. Her <span class="smallcaps">CD</span> player sat on a tall shelf unit in that corner by the window. Before the <span class="smallcaps">CD</span> player, it was a tape player. Before that, a stereo.</p>
+
+<p>I remember when Eppie discovered Paul Simon&rsquo;s <em>Graceland</em>. That night we danced: Eppie with her eyes closed, head bobbing from side to side, hips swaying, fingers fluttering in time to the beat.</p>
+
+<p>When I leave, there is nothing written on my clipboard.</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">Margaret has set up a typewriter in Eppie&rsquo;s room at the memory-care center because Eppie wants to write letters. But in all the months the typewriter has been there, I&rsquo;ve seen only one in the carriage, a garbled message: &ldquo;Do you ever awakened in the morn ning and not knolw who you are?&rdquo;</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">One late afternoon a few months before Eppie moved out, we sat on her front porch talking.</p>
+
+<p>&ldquo;I have something important to tell you,&rdquo; she said. She explained that she planned to end her life when her memory got too bad. She wanted me to know since I would be the one to find her.</p>
+
+<p>That night I called her son, but he dismissed it. He talked to her every week on the phone, he said, and she sounded fine.</p>
+
+<p>&ldquo;She&rsquo;s not going to talk to you about something like this,&rdquo; I told him. And a five-minute phone call wasn&rsquo;t enough for him to judge her mental state. He should spend an afternoon with her, I said.</p>
+
+<p>Now, when Eppie talks about suicide, I tell her she&rsquo;ll forget what she&rsquo;s doing before it&rsquo;s over and wind up living forever. She laughs. Once in a while, though, she keeps talking about it, and when she does, I just listen.</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">We turn onto the Delta Highway on our way to lunch, and, having caught sight of the sign, Eppie bursts into song: &ldquo;Delta Dawn, what&rsquo;s that flower you have on? / Could it be a faded rose from days gone by?&rdquo;</p>
+
+<p>She&rsquo;s already sung &ldquo;Mutual Admiration Society,&rdquo; which she will likely sing again in the restaurant, and again on the way home. Music must be stored in a part of the brain that Alzheimer&rsquo;s leaves untouched.</p>
+
+<p>Last week, while we were waiting for a table, Eppie slid onto the bench next to an older woman. After asking her age (ninety-seven), Eppie said, &ldquo;Hey, Mama,&rdquo; and started singing &ldquo;Red River Valley.&rdquo; The woman joined in, their voices sweetly harmonizing.</p>
+
+<p>&ldquo;Sometimes I lie in bed and sing songs in my head,&rdquo; Eppie said during one of my visits. Then she kissed me on the cheek and sang, &ldquo;I love you a bushel and a peck, / A bushel and a peck and a hug around the neck.&rdquo;</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">I hire Sam, a co-worker&rsquo;s husband, to do the work on Eppie&rsquo;s place. I grudgingly dole out one task at a time to him: new floor coverings, new appliances, new bathroom fixtures, fresh paint.</p>
+
+<p>Sam offers to hang new drape rods, but I tell him I can do it. Late one Saturday afternoon I take a stepladder, a hammer, and a screwdriver over to Eppie&rsquo;s. I can&rsquo;t get the rod out of the shrink-wrap, so I go back to my place for a pair of scissors. Then, after I&rsquo;ve removed the wrap, I realize I have a flat-head screwdriver and I need a Phillips, so I go back for that.</p>
+
+<p>Balancing on the ladder, I gently tap the screw with my hammer to get it started. Then I twist and twist and twist until the screw won&rsquo;t go in any farther, but it still sticks out a half inch from the wall. I pick up the hammer and slam the screw. It still doesn&rsquo;t budge. I slam harder. I slam and slam and slam until the hammer busts through the sheetrock. I pull the hammer out and slam it again. And again. And again.</p>
+
+<p>&ldquo;Fuck!&rdquo; I yell, even though I hate the word <em>fuck</em>. I don&rsquo;t want a fucking renter. I want my friend back.</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">Eppie has always loved her glass &mdash; or glasses &mdash; of wine. Toward the end of her time at home, she&rsquo;d get pretty loopy on occasion, but I figured it couldn&rsquo;t hurt and always let her have a glass or two at our Friday-night dinners &mdash; until Margaret asked me to put a stop to it, saying the alcohol could interact with her medications. That created some hard scenes. &ldquo;I&rsquo;m not a child, you know!&rdquo; Eppie would say in a loud voice.</p>
+
+<p>I wish I could let Eppie have some wine at lunch now. Then I remember pot.</p>
+
+<p>On a Sunday afternoon we sit in the car outside the restaurant as Rene taps some marijuana into a little glass pipe. Eppie watches with all the intensity of a four-year-old waiting for her birthday cake to be sliced. I think of the Milk of Magnesia tin in which she kept her rolling papers and dolphin-shaped roach clip, and I wonder what Margaret thought when she found it in her mother&rsquo;s underwear drawer.</p>
+
+<p>Years ago I figured out that being drug- and alcohol-free makes my life better, but as Rene lights the pipe for Eppie, I decide that it&rsquo;s still <span class="smallcaps">OK</span> for me to get a contact high, and I breathe in deeply. Soon I forget why I ever stopped.</p>
+
+<p>I lean my head back and close my eyes, remembering those summer evenings drinking wine in Eppie&rsquo;s backyard, when we were first getting to know each other. She had recently discovered pot smoking and decided to grow her own. She proudly showed me two spindly plants hidden among the gladioluses. But a few weeks later she ripped the plants out of the ground and hid them in her trash. She had read in the paper that the <span class="smallcaps">DEA</span> was using planes to spot marijuana plants from the air, and she worried she&rsquo;d get busted.</p>
+
+<p>In the car Eppie coughs and asks, &ldquo;Am I high? Am I high?&rdquo;</p>
+
+<p>There&rsquo;s always the chance that Eppie will tell the staff at the center that we let her smoke, but if she does, we&rsquo;ll deny it. We have much more credibility than an old woman with Alzheimer&rsquo;s.</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">After Sam has repaired the wall damage and hung drapes, I decide to hire a property manager. It&rsquo;s time to rent this place. Taxes will be due soon and then the insurance. Eppie is never coming home.</p>
+
+<p>The first property manager I call comes over and tells me how much rent I should charge and what his percentage would be. He opens and closes a kitchen cabinet and runs his hand over the counter.</p>
+
+<p>&ldquo;You could do this yourself,&rdquo; he says. He explains how for just one unit &mdash; especially when the owner lives in the other half &mdash; it&rsquo;s easiest for the owner to be the manager.</p>
+
+<p>Maybe he&rsquo;s right.</p>
+
+<p>He walks over to the sliding glass door and looks out at the backyard. &ldquo;Just remember, your renters aren&rsquo;t going to be your friends.&rdquo;</p>
+
+<p>For some reason this comes as a relief.</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">People tell me I&rsquo;m a good friend for driving to see Eppie on weekends, but the truth is I need to see her more than she needs to see me. She probably forgets my visits the minute I leave, whereas I remember them long afterward.</p>
+
+<p>Two years ago I learned that my father had died. The news came to me several weeks after his passing, and I was stunned that neither my sister nor my brother had contacted me. Out of habit I went straight to Eppie. Immediately I regretted it. She simply did not have the capacity anymore to understand what had happened. She wept uncontrollably, saying over and over, &ldquo;How could they? How could they?&rdquo; Hoping she&rsquo;d forget about it if I distracted her, I tossed Bramble&rsquo;s stuffed squirrel into the air. Soon Eppie was laughing at Bramble racing around the living room.</p>
+
+<p>But late that night Eppie knocked on my door. When I answered, she was standing on my porch in her bathrobe, crying. She took my hands into hers and squeezed them hard. &ldquo;I am your family,&rdquo; she said.</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">Sometimes, when you first wake up from a dream, it seems so real you think you&rsquo;ll never forget it. But then you try to remember it, and it&rsquo;s gone. I wonder if that&rsquo;s what it feels like to be inside Eppie&rsquo;s head.</p>
+
+<p>&ldquo;Your name is Mally, isn&rsquo;t it?&rdquo; Eppie asks. We&rsquo;ve just been seated at our table for lunch at the restaurant.</p>
+
+<p>&ldquo;It is.&rdquo; I smile at her.</p>
+
+<p>&ldquo;Why do you come see me?&rdquo;</p>
+
+<p>&ldquo;Because I love you, Eppie, and you love me.&rdquo;</p>
+
+<p>She nods. &ldquo;That I do.&rdquo;</p>
+
+<p>I used to believe that if someone I loved wound up in an Alzheimer&rsquo;s unit, I&rsquo;d stop visiting once the person forgot who I was.</p>
+
+<p>That was before Eppie.</p>
+														</div>
+
+
+				
+<div class="sharing-bar article-sharing">
+	<div class="sharing-bar-first">
+		<a href="javascript:window.print();" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-printer"></use></svg> <span>Print</span></a>
+	</div>
+
+	<div class="sharing-bar-second">
+		<span class="alt-ff xsmall">Share:</span>
+		<a href="https://www.facebook.com/sharer/sharer.php?u=https://www.thesunmagazine.org/issues/448/side-by-side" target="_blank" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-facebook"></use></svg> <span>Facebook</span></a>
+		<a href="https://twitter.com/share?url=https://www.thesunmagazine.org/issues/448/side-by-side&amp;via=thesunmagazine" target="_blank" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-twitter"></use></svg> <span>Twitter</span></a>
+		<a href="#" class="b b-1 b-padding-tight xsmall js-toggle-mail-form"><svg><use xlink:href="#i-email"></use></svg> <span>Email</span></a>
+	</div>
+</div>
+
+<div class="send-to-friend-message-container">
+	<div class="alert alert-success xsmall">Thank you for sharing <em>The Sun</em>.</div>
+</div>
+
+<form method="post" action="/ajax/articles/send-to-a-friend" class="form fill-grey send-to-friend-form">
+		<input type="hidden" id="form_url" name="form[url]" value="https://www.thesunmagazine.org/issues/448/side-by-side" />
+
+	<ul class="form-fields">
+		<li><label for="form_sender_name"><span class="label-text">Your Full Name</span><span class="label-asterisk">*</span></label><input type="text" id="form_sender_name" name="form[sender_name]" required="required" /></li>
+		<li><label for="form_sender_email"><span class="label-text">Your Email Address</span><span class="label-asterisk">*</span></label><input type="email" id="form_sender_email" name="form[sender_email]" required="required" /></li>
+		<li><label for="form_recipient_name"><span class="label-text">Friend’s Name</span><span class="label-asterisk">*</span></label><input type="text" id="form_recipient_name" name="form[recipient_name]" required="required" /></li>
+		<li><label for="form_recipient_email"><span class="label-text">Friend’s Email Address</span><span class="label-asterisk">*</span></label><input type="email" id="form_recipient_email" name="form[recipient_email]" required="required" /></li>
+		<li><label for="form_message"><span class="label-text">Personalized Message</span></label><textarea id="form_message" name="form[message]"></textarea></li>
+	</ul>
+<div class="send-to-friend-message-container">
+	<div class="alert alert-error xsmall">Something went wrong. Please try again.</div>
+</div>
+
+<div class="g-recaptcha" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs"></div>
+<div class="form-actions"><button type="submit" id="form_submit" name="form[submit]"	class="form-actions-b-primary b b-1 b-loading xsmall"><svg><use xlink:href="#i-loading"></use></svg>
+		Submit
+	</button></div>
+<input type="hidden" id="form__token" name="form[_token]" value="756006486970a40ba4e4c8cad6fda69d7711ab06" /></form>
+
+<br>
+
+
+
+										<footer class="article-contributor contributors">
+									
+
+<div class="block-contributor">
+		
+
+		<div class="block-contributor-content">
+		<div class="block-contributor-bio small">
+			<p><strong><span class="smallcaps">Mally Z. Ray</span></strong> is the pseudonym of a writer living in Oregon&rsquo;s Willamette Valley.</p><a href="/contributors/mally-z-ray" class="block-contributor-link link-alt small">More From This Contributor&nbsp;&#9656;</a>		</div>
+	</div>
+</div>
+
+							</footer>
+						</article>
+
+
+				    <div class="paywall-subscription block-product">
+			<div class="columns">
+			<div class="paywall-banner span3 cta cta-l1">
+				<div class="cta-intro">
+					<h5 class="cta-title alt-ff">One Free Selection Left </h5>
+					<p class="cta-text xsmall"><a class="link-alt" href="https://www.thesunmagazine.org/subscriber/login" data-label="Already a subscriber?">Already a subscriber? Sign in ▸</a><br><br>Read two free selections from <em>The Sun</em> each month.</p>
+				</div>
+			</div>
+			<div class="paywall-banner span9 note note-1 text-center">
+				<h4 class="cta-title alt-ff">Subscribe to <em>The Sun</em> and save 45%</h4>
+				<p class="cta-text xsmall">Subscribers get full access to the current issue and more than 40 years of archives.</p>
+				<a class="b b-1 xsmall cta-trigger"  href="/subscribe1" data-label="Subscribe" data-ctatitle="Subscribe">Subscribe</a>
+			</div>
+		</div>
+
+		<div class="columns">
+			<div class="span12 paywall-cta-bottom">
+				<p>
+					<span class="cta-title-issue">Buy the April 2013 issue for $5.95</span>
+					<span class="xsmall">Order now to get instant access to this issue, and we’ll also send you a print copy.</span>
+					<a class="b b-5 xsmall corona"  href="#" data-product-type="issues" data-id="448" data-label="Order Now ▸">Order Now ▸</a>
+				</p>
+			</div>
+		</div>
+
+		
+
+</div>
+	
+	
+	
+	<div class="spacer"></div>
+	
+
+
+
+			<div class="article-correspondence layout-item fill-pattern-light">
+		<div class="layout-item-intro">
+			<h2>Correspondence</h2>
+			<a class="xsmall link-alt" href="https://www.thesunmagazine.org/letter-to-the-editor">Write a Letter to the Editor&nbsp;&#9656;</a>
+		</div>
+
+		<div id="article-correspondences" class="correspondences correspondences-collapsed">
+								<div class="block-correspondence" id="482">
+		<blockquote class="quote-2">
+			<p>Mally Z. Ray&rsquo;s essay about her friend Eppie [&ldquo;<a href="/article/4778">Side by Side</a>,&rdquo; April 2013] changed my mind about committing suicide should I develop Alzheimer&rsquo;s. When Eppie told the author she was prepared to end her life as soon as her symptoms got too bad, I commiserated. Then I came to the end: &ldquo;I used to believe that if someone I loved wound up in an Alzheimer&rsquo;s unit, I&rsquo;d stop visiting once the person forgot who I was. That was before Eppie.&rdquo; Those lines awakened me to the idea that a loved one who isn&rsquo;t all there is better than one who isn&rsquo;t there at all.</p>
+							<p class="quote-2-author">Cynthia Thomas<br>Cambridge, Maryland</p>
+					</blockquote>
+	</div>
+
+					</div>
+
+			</div>
+    
+		<div class="article-correspondence-cta">
+		<div class="cta cta-l1" data-url="https://www.thesunmagazine.org/letter-to-the-editor">
+			<div class="cta-intro">
+				<h5 class="cta-title alt-ff">Thinking about writing us a letter?</h5>
+				<p class="cta-text">Give in to the temptation. We love getting mail. <br><span class="xsmall">(Of course, we reserve the right to edit.)</span></p>
+			</div>
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" class="cta-button b b-4 b-padding-tight small" data-label="Write Us A Letter!">Write Us A Letter!</a>
+		</div>
+	</div>
+	
+
+			<div class="article-also layout-item-large full-bar fill-grey-mid-light">
+		<div class="layout-item-intro">
+			<h2>Also In This Issue</h2>
+			<a href="/issues/448" class="xsmall link-alt">April 2013&nbsp;&#9656;</a>
+		</div>
+		<div class="issue-articles-l1">
+			<div class="issue-articles-l1-content1">
+				
+<div class="cover cover-l1 block-product">
+	<div>
+							<a href="/issues/448" class="cover-thumb">
+				
+				<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 727'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/import/issue/448.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/561x728r/import/issue/448.jpg
+	 alt=""
+	 class="lazy">
+
+			</a>
+		
+
+													<!-- <a href="/issues/448" data-product-type="issues" data-id="448" data-role="order" class="js-buy-single corona cover-button b b-1 b-full xsmall" data-label="Buy This Issue &#9656;">
+								Buy This Issue&nbsp;&#9656;
+			</a> -->
+			<a href="/issues/448" data-product-type="issues" data-id="448" class="js-buy-single corona cover-button b b-1 b-full xsmall" data-label="Buy This Issue &#9656;">
+								Buy This Issue&nbsp;&#9656;
+			</a>
+					
+					</div>
+</div>
+			</div>
+			<div class="issue-articles-l1-content2">
+				<div class="articles-l3">
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/fiction">Fiction</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/448/blueberries">Blueberries</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/halina-duraj">Halina Duraj</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/sun-interview">The Sun Interview</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/448/out-of-our-heads">Out Of Our Heads</a></h3>
+					<p class="block-content-subtitle subtitle">Philip Shepherd On The Brain In Our Belly</p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/amnon-buchbinder">Amnon Buchbinder</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/poetry">Poetry</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/448/i-had-been-sad-for-so-long-that-it-shocked-me">I had been sad for so long that it shocked me,</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/ruth-l-schwartz">Ruth L. Schwartz</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/announcements">Announcements</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/448/god-in-the-machine">God In The Machine</a></h3>
+					<p class="block-content-subtitle subtitle">Introducing <em>The Sun</em>’s Digital Edition</p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/david-mahaffey">David Mahaffey</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+									</div>
+			</div>
+		</div>
+	</div>
+	
+
+			<div class="article-related layout-item-large full-bar fill-pattern-light">
+		<div class="layout-item-intro">
+			<h2>Related Selections</h2>
+			<ul class="list-inline list-inline-tight"><li><a href="/topics/dementia" class="xsmall link-alt link-text">Dementia</a></li><li><a href="/topics/friendship" class="xsmall link-alt link-text">Friendship</a></li></ul>		</div>
+
+		<div class="articles-l2">
+							
+
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/fiction">Fiction</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/533/maryam-and-yeshua">Maryam And Yeshua</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/kate-osterloh">Kate Osterloh</a></li><li><a href="/issues/533">May 2020</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/533" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 727'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/140x182r/2020-04/533.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/2020-04/533.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/458/learning-to-sleep">Learning To Sleep</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/allyson-goldin-loomis">Allyson Goldin Loomis</a></li><li><a href="/issues/458">February 2014</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/458" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 727'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/140x182r/import/issue/458.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/import/issue/458.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/quotations">Quotations</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/456/sunbeams-456">Sunbeams</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li><a href="/issues/456">December 2013</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/456" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 727'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/140x182r/import/issue/456.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/import/issue/456.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/quotations">Quotations</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/68/sunbeams-issue-68">Sunbeams</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li><a href="/issues/68">July 1981</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/68" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 725'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/141x182r/import/issue/068.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/281x364r/import/issue/068.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+					</div>
+	</div>
+	
+	
+					<form id="newsletterForm" method="post" action="https://www.thesunmagazine.org/newsletter" data-url-send="https://www.thesunmagazine.org/newsletter" class="form form-newsletter fill-grey" enctype="multipart/form-data" target="_blank">
+
+
+
+		<div class="form-newsletter-intro">
+			<h3 class="alt-ff large">Sign Up For Our Newsletter</h3>
+			<p>We’ll let you know about new website selections, upcoming events, special offers, and more.</p>
+		</div>
+
+		<ul class="form-newsletter-fields form-fields form-fields-inline">
+			<li>
+				<input name="name" type="text" maxlength="500" id="name" placeholder="Your Name">
+			</li>
+			<li>
+				<input name="email" type="text" maxlength="500" id="email" placeholder="Your E-mail">
+			</li>
+
+			<li class="form-fields-inline-button">
+				<button disabled="disabled" class="form-newsletter-send b b-4 b-padding-tight b-loading g-recaptcha" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs" data-callback="recaptcha_callback" name="SubmitButton" id="SubmitButton">
+					<svg><use xlink:href="#i-loading"></use></svg>
+					Sign&nbsp;Up
+				</button>
+			</li>
+		</ul>
+	</form>
+	<script id="hiddenlpsubmitdiv" style="display: none;"></script>
+
+
+
+<footer class="footer brand-grey-dark">
+			<div class="footer-first">
+		<h3 class="footer-tagline">Independent, Reader-Supported Publishing</h3>
+		<p class="footer-desc">In each issue of <em>The Sun</em> you’ll find some of the most radically intimate and socially conscious writing being published today. In an age of media conglomerates, we’re something of an oddity: an ad-free, independent, reader-supported magazine.</p>
+		<ul class="footer-nav list-inline-border xsmall">
+			
+		<li class=" first">
+			<a href="https://www.thesunmagazine.org/about" 	   class=''>
+	   About <em>the Sun</em>	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/staff" 	   class=''>
+	   Staff	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/find-the-sun" 	   class=''>
+	   Find <em>The Sun</em>&nbsp;&nbsp;in a Store Near You	</a>
+		
+	</li>
+
+
+		</ul>
+	</div>
+	
+		<div class="footer-second">
+		<ul class="footer-second-social list-inline">
+			<li><a href="https://www.facebook.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-facebook"></use></svg></span> Like Us</a></li>
+			<li><a href="https://twitter.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-twitter"></use></svg></span> Follow Us</a></li>
+			<li><a href="https://instagram.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-instagram"></use></svg></span> Take a Look</a></li>
+		</ul>
+
+		<div class="footer-second-content">
+			<ul class="footer-nav list-inline-border xsmall">
+				
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/" 	   class='current '>
+	   Home	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/privacy-policy" 	   class=''>
+	   Privacy Policy	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/terms-of-use" 	   class=''>
+	   Terms of Use	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/site-map" 	   class=''>
+	   Site Map	</a>
+		
+	</li>
+
+
+			</ul>
+			<p class="footer-copyright xxsmall">Copyright &copy; 1974–2020 <em>The Sun</em>. All rights reserved.</p>
+		</div>
+	</div>
+</footer>
+
+
+
+<div class="offset-nav">
+	<ul>
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/read" 	   class='current '>
+	   Read	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/issues/current" 	   class=''>
+	   Current Issue	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/archives" 	   class=''>
+	   Archives	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/featured" 	   class=''>
+	   Featured Selections	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/topics" 	   class=''>
+	   Browse Topics	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/sections" 	   class=''>
+	   Browse Sections	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/connect" 	   class=''>
+	   Connect	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/news" 	   class=''>
+	   News from <em>The Sun</em>	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" 	   class=''>
+	   Write a Letter to the Editor	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/discussion-groups" 	   class=''>
+	   Discussion & Writing Groups	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/make-a-suggestion" 	   class=''>
+	   Make a Suggestion	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/submit" 	   class=''>
+	   Submit	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/shop" 	   class=''>
+	   Shop	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/giftsub" 	   class=''>
+	   Gift Subscriptions	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/issues" 	   class=''>
+	   Issues	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+											
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/donatemenu" 	   class='highlight'>
+	   Donate	</a>
+		
+	</li>
+
+		<li class=" last">
+														<a href="/SubscribeNav1" 					   class=''>
+						Subscribe					</a>
+									
+	</li>
+
+
+					<li>
+				<a href="https://www.thesunmagazine.org/shop/cart">Cart ( <span class="cart-item-count">  0  </span>)</a>
+			</li>
+			<li><a href="https://www.thesunmagazine.org/subscriber/login" class="link-header-logout link-alt">Sign In</a></li>
+			</ul>
+	<ul>
+		<li class=" first">
+			<a href="https://www.thesunmagazine.org/about" 	   class=''>
+	   About <em>the Sun</em>	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/staff" 	   class=''>
+	   Staff	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/find-the-sun" 	   class=''>
+	   Find <em>The Sun</em>&nbsp;&nbsp;in a Store Near You	</a>
+		
+	</li>
+
+</ul>
+	<ul>
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/" 	   class='current '>
+	   Home	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/privacy-policy" 	   class=''>
+	   Privacy Policy	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/terms-of-use" 	   class=''>
+	   Terms of Use	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/site-map" 	   class=''>
+	   Site Map	</a>
+		
+	</li>
+
+</ul>
+</div>
+
+<div id="buy-popup-message" class="buy-popup mfp-hide white-popup white-popup-block">
+	<a class="popup-modal-dismiss" href="#"></a>
+	<h5>Due to fulfillment challenges related to the novel coronavirus, print copies are temporarily unavailable for individual sale. We are offering free PDFs until we are able to resume print sales.</h5>
+	<p>Enter your e-mail address below to download this issue.</p>
+	<form method="post" id="download-single" action="https://www.thesunmagazine.org/issue/pdfFree/531.pdf">
+		<label for="email"><span class="label-text">E-mail</span><span class="label-asterisk">*</span></label>
+		<input class="buy-single-email" id="email" type="email" name="email">
+		<button type="send" class="form-buy-issue-send b b-3 b-padding-tight b-loading">Send</button>
+		<button class="form-buy-issue-download b b-3 b-padding-tight b-loading">Download pdf</button>
+		<button type="send" class="popup-modal-dismiss b b-2 b-padding-tight b-loading">Close</button>
+		<div class="g-recaptcha" style="text-align: center" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs"></div>
+
+	</form>
+</div>
+
+			<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/plugins.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/site.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/newsletter.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/js/articles.js"></script>
+		</div>
+		</div>
+
+				<script>
+		(function (doc) {
+			var scripts = doc.getElementsByTagName('script');
+			var script = scripts[scripts.length - 1];
+			var xhr = new XMLHttpRequest();
+			xhr.onload = function () {
+				var div = doc.createElement('div');
+				div.innerHTML = this.responseText;
+				div.style.display = 'none';
+				script.parentNode.insertBefore(div, script);
+			}
+			xhr.open('get', '/theme/thesun//assets/build/img/sprite/sprite.svg', true);
+			xhr.send();
+		})(document);
+
+
+
+		</script>
+
+		<script>
+			// Submit function
+            function recaptcha_callback() {
+						var getUrl = $('.form-newsletter').data( "url-send" ),
+							getName = $('input#name').val(),
+							getEmail = $('input#email').val();
+						$.ajax({
+								type: "POST",
+								url: getUrl,
+								data: {
+									name: getName,
+									email: getEmail,
+									grecaptcharesponse: grecaptcha.getResponse()
+								}
+							}).done(function(response) {
+								console.log(response);
+									$('.form-fields').fadeOut(800, function () {
+										$('.form-fields').empty().append('<div class="newsletter-confirm-message">Thank you for signing up to receive news from <em>The Sun</em>. Your first newsletter will arrive soon.<div>').fadeIn(800);
+									});
+							});
+			}
+
+		</script>
+
+		<script>
+			function getUrlCode() {
+				var url_string = window.location.href;
+				var url = new URL(url_string);
+				var c = url.searchParams.get('promotion\_key');
+				if (typeof c !== 'undefined' && c !== null) {
+					setCookie("promotion_code",c);
+				}
+			}
+
+			function setCookie(cname, cvalue) {
+				document.cookie = cname + "=" + cvalue + ";" + "path=/";
+			}
+
+			function getCookie(cname) {
+				var name = cname + "=";
+				var decodedCookie = decodeURIComponent(document.cookie);
+				var ca = decodedCookie.split(';');
+				for(var i = 0; i <ca.length; i++) {
+					var c = ca[i];
+					while (c.charAt(0) == ' ') {
+						c = c.substring(1);
+					}
+					if (c.indexOf(name) == 0) {
+						return c.substring(name.length, c.length);
+					}
+				}
+				return "";
+			}
+			window.addEventListener( "load", getUrlCode );
+		</script>
+
+
+	</body>
+</html>

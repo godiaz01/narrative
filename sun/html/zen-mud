@@ -1,0 +1,1224 @@
+
+<!DOCTYPE html>
+<html class="no-js" lang="en-US">
+	<head>
+		<title>Zen Mud - The Sun Magazine</title>
+
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		
+		<meta name="viewport" content="width=device-width, minimum-scale=1.0">
+
+		<link rel="dns-prefetch" href="//ajax.googleapis.com">
+		<link rel="dns-prefetch" href="//use.typekit.net">
+		
+		<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/modernizr.js"></script>
+		<script src="https://www.google.com/recaptcha/api.js"
+				async defer>
+		</script>
+
+		<script>(function(d) { var config = { kitId: 'kzw7ebk', scriptTimeout: 3000, async: true }, h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s) })(document);</script>
+
+
+				
+		<link rel="apple-touch-icon" sizes="57x57" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-57x57.png?v=2016">
+		<link rel="apple-touch-icon" sizes="60x60" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-60x60.png?v=2016">
+		<link rel="apple-touch-icon" sizes="72x72" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-72x72.png?v=2016">
+		<link rel="apple-touch-icon" sizes="76x76" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-76x76.png?v=2016">
+		<link rel="apple-touch-icon" sizes="114x114" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-114x114.png?v=2016">
+		<link rel="apple-touch-icon" sizes="120x120" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-120x120.png?v=2016">
+		<link rel="apple-touch-icon" sizes="144x144" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-144x144.png?v=2016">
+		<link rel="apple-touch-icon" sizes="152x152" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-152x152.png?v=2016">
+		<link rel="apple-touch-icon" sizes="180x180" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-180x180.png?v=2016">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-32x32.png?v=2016" sizes="32x32">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/android-chrome-192x192.png?v=2016" sizes="192x192">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-96x96.png?v=2016" sizes="96x96">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-16x16.png?v=2016" sizes="16x16">
+		<link rel="mask-icon" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/safari-pinned-tab.svg?v=2016" color="#444444">
+		<link rel="shortcut icon" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon.ico?v=2016">
+		<meta name="apple-mobile-web-app-title" content="The Sun Magazine">
+		<meta name="application-name" content="The Sun Magazine">
+		<meta name="msapplication-TileColor" content="#fcc330">
+		<meta name="msapplication-TileImage" content="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/mstile-144x144.png?v=2016">
+		<meta name="theme-color" content="#ffffff">
+
+				<link rel="stylesheet" type="text/css" href="https://cloud.typography.com/6578674/659928/css/fonts.css" />
+		<link rel="stylesheet" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/css/style.css">
+
+																		<meta property="og:site_name" content="The Sun Magazine">
+		<meta property="og:type" content="article">
+		<meta property="og:url" content="https://www.thesunmagazine.org/issues/204/zen-mud">
+		<meta property="og:image" content="http://www.thesunmagazine.org/files/import/issue/204.jpg">
+		<meta property="og:title" content="Zen Mud - The Sun Magazine">
+		<meta property="og:description" content="I&amp;rsquo;d planned to arrive in Japan with practically no social resources. I had some money, and my pack was heavy, but I hadn&amp;rsquo;t bothered to learn Japanese. I wanted to see what would happen. I arrived shaggy, hot, dizzy, and alone.">
+		<meta property="fb:app_id" content="158741778010551">
+
+						<link rel="image_src" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.comhttp://www.thesunmagazine.org/files/import/issue/204.jpg">
+
+												<meta name="twitter:card" content="summary">
+		<meta name="twitter:title" content="Zen Mud - The Sun Magazine">
+		<meta name="twitter:description" content="I&amp;rsquo;d planned to arrive in Japan with practically no social resources. I had some money, and my pack was heavy, but I hadn&amp;rsquo;t bothered to learn Japanese. I wanted to see what would happen. I arrived shaggy, hot, dizzy, and alone.">
+		<meta name="twitter:image" content="http://www.thesunmagazine.org/files/import/issue/204.jpg">
+		<meta name="twitter:site" content="@thesunmagazine">
+
+				<link rel="publisher" href="https://plus.google.com/113792980827145858211">
+        
+		<meta name="Description" content="I&amp;rsquo;d planned to arrive in Japan with practically no social resources. I had some money, and my pack was heavy, but I hadn&amp;rsquo;t bothered to learn Japanese. I wanted to see what would happen. I arrived shaggy, hot, dizzy, and alone.">
+
+		
+		<!-- Google Tag Manager -->
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-TKBHCCG');</script>
+		<!-- End Google Tag Manager -->
+
+		<!-- Google Analytics -->
+		<script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+            ga('create', 'UA-2351127-1', 'auto');  // Replace with your property ID.
+            ga('send', 'pageview');
+            ga('require', 'ecommerce');   // Load the ecommerce plug-in.
+		</script>
+		<!-- End Google Analytics -->
+	</head>
+	<body id="">
+
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TKBHCCG"
+		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+		<header class="header" data-offset-start="80">
+		<div class="header-utilities">
+				<ul class="header-utilities-user list-inline list-inline-tight xxsmall">
+							<li>
+					<span class="header-utilities-user-intro">Already A Subscriber?</span> &nbsp;
+					<a href="https://www.thesunmagazine.org/subscriber/login" class="link-text link-alt">Sign In</a>
+				</li>
+					</ul>
+		<a href="https://www.thesunmagazine.org/shop/cart" class="header-utilities-cart  link-alt link-icon tiny">
+			<span class="i"><svg><use xlink:href="#i-cart"></use></svg></span>
+			<span class="cart-item-count">
+									0 Items
+				
+			</span>
+		</a>
+			</div>
+
+		<div class="header-bar">
+		<h1 class="header-logo logo">
+			<a href="/">
+				<img src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/img/logo-thesun.svg" class="logo-thesun" alt="The Sun Magazine">
+				<img src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/img/logo-tagline.svg" class="logo-tagline" alt="">
+			</a>
+		</h1>
+
+		<ul class="header-nav">
+			
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/read" 	   class='current '>
+	   Read	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/issues/current" 	   class=''>
+	   Current Issue	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/archives" 	   class=''>
+	   Archives	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/featured" 	   class=''>
+	   Featured Selections	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/topics" 	   class=''>
+	   Browse Topics	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/sections" 	   class=''>
+	   Browse Sections	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/connect" 	   class=''>
+	   Connect	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/news" 	   class=''>
+	   News from <em>The Sun</em>	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" 	   class=''>
+	   Write a Letter to the Editor	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/discussion-groups" 	   class=''>
+	   Discussion & Writing Groups	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/make-a-suggestion" 	   class=''>
+	   Make a Suggestion	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/submit" 	   class=''>
+	   Submit	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/shop" 	   class=''>
+	   Shop	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/giftsub" 	   class=''>
+	   Gift Subscriptions	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/issues" 	   class=''>
+	   Issues	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+											
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/donatemenu" 	   class='highlight'>
+	   Donate	</a>
+		
+	</li>
+
+		<li class=" last">
+														<a href="/SubscribeNav1" 					   class=''>
+						Subscribe					</a>
+									
+	</li>
+
+
+		</ul>
+
+		<button class="header-nav-toggle"><svg><use xlink:href="#i-menu" class="i-menu"></use><use xlink:href="#i-close" class="i-close"></use></svg></button>
+		<button class="header-search-toggle" data-form-wrapper=".header-search"><svg><use xlink:href="#i-magnifier" class="i-magnifier"></use><use xlink:href="#i-close" class="i-close"></use></svg></button>
+	</div>
+
+		<div class="header-search">
+		<div class="header-search-content">
+			<form action="https://www.thesunmagazine.org/search" class="form form-search" method="get">
+				<h2 class="alt-ff brand-link">Search Our 40 Years of Archives</h2>
+				<ul class="form-search-fields form-fields form-fields-inline">
+					<li><input type="text" name="q" value=""></li>
+					<li class="form-fields-inline-button"><button class="b b-1 b-padding-tight b-loading"><svg><use xlink:href="#i-loading"></use></svg>Search</button></li>
+				</ul>
+
+				<div class="header-search-content-shortcuts">
+					<h6 class="search-advanced alt-ff"><a class="js-handle-advanced" href="https://www.thesunmagazine.org/search?advanced=1">Advanced Search</a></h6>
+					<br>
+					<h6 class="alt-ff">Popular Pages</h6>
+					<ul class="list-inline-border list-inline-tight xxsmall"><li class=" first"><a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a></li><li class=""><a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a></li><li class=""><a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a></li><li class=""><a href="https://www.thesunmagazine.org/sections/quotations" 	   class=''>
+	   Quotations	</a></li><li class=""><a href="https://www.thesunmagazine.org/sections/readers-write" 	   class=''>
+	   Readers Write	</a></li><li class=" last"><a href="https://www.thesunmagazine.org/sections/poetry" 	   class=''>
+	   Poetry	</a></li></ul>				</div>
+			</form>
+		</div>
+	</div>
+</header>
+
+	<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+	<script type="text/javascript">
+		$(document).ready(function() {
+			$('.js-handle-advanced').on('click', function (e) {
+				e.preventDefault();
+				var getSearchValue = $('.form-search-fields input').val();
+				var getURL = $(this).attr('href');
+				var newURL = getURL + '&q=' + getSearchValue;
+				window.location.href = newURL;
+			});
+		});
+	</script>
+
+		<div class="container-hidden">
+		<div class="container">
+
+				
+	
+	<article class="article ">
+		<header class="block-content block-content-l1 block-content-center">
+						<div class="block-content-header">
+				<h6 class="b-content-section heading-square"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+				<h1 class="block-content-title">Zen Mud</h1>
+
+				
+				<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/steve-miles">Steve Miles</a></li><li><a href="/issues/204">December 1992</a></li></ul>
+
+			</div>
+
+								</header>
+
+				<div class="article-body link-text-wrap">
+																		<p><em>Be drunken, if you would not be martyred slaves of time.&nbsp;.&nbsp;.&nbsp;.</em></p>
+
+<p class="text-right"><em>&mdash; Baudelaire</em></p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">&ldquo;I &rsquo;ll be right over,&rdquo; I said to Jeff as I hung up the phone. I was living in Kyoto with a tiny old Japanese woman whose seventy-seven-year-old husband was my <em>sensei</em>, or teacher. I&rsquo;d met Sensei at my college in Colorado, where he came to teach a seminar on Zen Buddhism. He didn&rsquo;t really live at his house in Kyoto: he was always traveling and staying with other people. His wife spoke no English, and my Japanese was barely sufficient to feed myself at the restaurants around town. We spoke very little; just smiled and bowed when we passed one another.</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">One morning, as I was urgently making my way to the little bathroom stool, she called to me from the kitchen. I went in and she motioned to me to sit down at the table. The room was quiet, and we said nothing as the cool, muddy air floated in through the back screen door. She placed a thin glass saucer directly in front of me and carefully set a teacup on it. She arranged a lemon slice and sugar packet around the cup and set down her finest teaspoon with a quiet but distinct &ldquo;clink&rdquo; that made the cup ring like a finger-cymbal. She then raised the pot and poured a teak-colored tea, careful not to drip. The steam rose in slow whirlpools. I was hypnotized, but uncomfortable, not used to such care from a stranger.</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">After Jeff&rsquo;s phone call, I shouldered my pack and straddled the thick old bicycle, on loan from Sensei; its large, bald tires went flat to the rims when I rode. It would take twenty-five minutes to make the dodging downhill ride through the city along the Kamogawa River. Evening was sinking in, and the clouds stretched over me like a fishnet.</p>
+
+<p>Jeff had invited me over to his apartment to meet his friend Alabama Steve, a Soto Zen monk on a break from the monastery to heal his knees, which weren&rsquo;t used to so much cross-legged sitting. I&rsquo;d been feeling lonely and uneasy that day; Jeff always seemed to know when I needed something.</p>
+
+<p>One Saturday I&rsquo;d spent all my cash at the Shinto flea market, an enormous Japanese garage sale where you could find beautiful and cheap clothes, tea bowls, sculpture, and assorted exotic junk. The next day all the banks were closed, and I&rsquo;d resigned myself to fasting when Jeff called and asked me over for Thanksgiving lunch. I hadn&rsquo;t even remembered it was Thanksgiving weekend. We ate turkey and mashed potatoes and stuffing and gravy, and drank warmed sake. After three months of cheap seaweed sushi, a plate of old habits felt good.</p>
+
+<p>Riding down the city sidewalks, I began my usual questioning. Why had I come to Japan? To study Zen Buddhism: the teachings of nothingness and compassion. To get away from my noisy life in America where I couldn&rsquo;t stay quiet enough to find my own music. I&rsquo;d needed something entirely different. I had planned to enter a monastery, but Sensei discouraged me from doing that. He said they were almost all corrupt tourist attractions. He always said, after succinctly criticizing America as the land of hungry devils, that Japan was more Americanized than America.</p>
+
+<p>I reached the intersection of McDonald&rsquo;s and Mr. Donut, where &ldquo;If I Had A Hammer&rdquo; was being piped out through tinny horns. Before I made it across to McDonald&rsquo;s, a taxi screeched right up to my pedals, in a hurry to turn. Close calls like this were common. Taxi drivers in Kyoto were like those in any big city, I suppose; they operated the gas and the brakes with the same imperative shove of the foot. Only here they were gloved and uniformed and clean-shaven.</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">My very first Japanese taxi ride took me out of the Osaka airport. I had arrived after twelve hours without sleep in pressurized cabins that sucked the moisture out of my eyes. It was four a.m. according to my body.</p>
+
+<p>I&rsquo;d planned to arrive in Japan with practically no social resources. I had some money, and my pack was heavy, but I hadn&rsquo;t bothered to learn Japanese. I wanted to see what would happen. I arrived shaggy, hot, dizzy, and alone. When the customs man pawed through my belongings and asked me some questions, I shrugged and tried a smile. He gave me a look of disgust, then waved me on. I took a few steps away from the counter and stopped, frozen.</p>
+
+<p>Never before had I felt so absolutely at a loss. All my life I&rsquo;d had everything adequately arranged; I was at least used to <em>looking</em> like I knew what I was doing and where I was going. Now I simply had no idea what to do next. No plan or schedule put my mind ahead of where I really was, and I noticed after a moment that I was truly present at that very spot. I was also scared. I wandered stiffly across the lobby. Outside, the humidity made my body feel like a rising loaf of bread. I stank.</p>
+
+<p>The sleek black taxis were lined up outside the airport. One of the wiry, stiff-collared, white-gloved drivers ran up to take my bags. Aaahh, Japanese politeness, just when I needed it most. Someone had told me I should stay at the Kurada hotel since it was close and cheap. I enunciated, &ldquo;Ku-ra-da Ho-te-ru,&rdquo; to my driver. <em>&ldquo;Hai!&rdquo;</em> he said, so sharply I jumped. He jammed on the accelerator, and our black Daihatsu lurched across traffic and into the main road, suddenly going thirty miles an hour.</p>
+
+<p>I remembered a Japanese word that was perfectly appropriate, so I said it.<em> &ldquo;Atsui!&rdquo;</em> (It was hot, even at night.) <em>&ldquo;Atsui ne!&rdquo;</em> the driver agreed, exceedingly pleased that I spoke Japanese. He reeled off a few more sentences, which I ignored. My experiment was a success. Here I was, speeding through town to my first night&rsquo;s sleep in Japan, alone and innocent. I suddenly felt alive, speeding over bridges, under enormous shimmering red and white electric Coca-Cola billboards, through the tunnels formed by downtown high-rises. Uh-oh. The Kurada was supposed to be <em>close</em> to the airport. Ten minutes later we arrived at the Plaza Hotel. There were doormen, bellboys, red carpet, and chandeliers in the lobby. The doormen assisted me in giving my larger yen bills to the driver. The experiment was failing rapidly now. The ride had cost me about twenty dollars. The hotel would cost about eighty. I was tired and unwilling to get into another taxi. I took a room and slept.</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">I gripped the brake handles hard to avoid hitting another bicycle. Both our brakes squealed in a dissonant screech. <em>&ldquo;Sumimasen,&rdquo;</em> I blurted, <em>excuse me</em>. When I first came to Kyoto, the noise and filth of the city overwhelmed me. In mid-August the combined smells of fish and diesel and sewer lines floated heavily in the moist heat, and the car and truck horns were so sharp and loud the vehicles always seemed on the verge of hitting me. Sensei seemed completely accustomed to them as we walked along the streets talking, but one day, to escape the noise, we ducked into a shrine. A stream trickled through a small garden; Coke cans and plastic wrappers lined its banks. Sensei saw my surprised look. &ldquo;Such is the state of religion today,&rdquo; he said.</p>
+
+<p>After passing Mr. Donut, I rode with the tune of &ldquo;If I Had A Hammer&rdquo; shuffling in my thoughts. Mr. Donut was where Sensei and I had our first discussion after I arrived in Kyoto, and he was &ldquo;explaining&rdquo; Zen. The place was packed with coffee-drinking, cigarette-smoking college students. Sensei drew a circle on a piece of notebook paper. &ldquo;Mr. Postman&rdquo; descended through the ceiling speakers. I heard a collage of Sensei&rsquo;s words and the Marvelettes&rsquo; lyrics:</p>
+
+<blockquote>
+<pre><span class="poem-line">Now is forever now; here is always here.</span>
+<span class="poem-line"><em>You&rsquo;ve got to wait a minute, wait a minute!</em></span>
+<span class="poem-line">You may step a few meters away . . .</span>
+<span class="poem-line"><em>Way-yay-yay-yait Mister Po-ost Man.</em></span>
+<span class="poem-line">. . . but you are not there anymore, you are, once again, here.</span>
+<span class="poem-line"><em>. . . is there a letter, a letter for me?</em></span></pre>
+</blockquote>
+
+<p>This went on until I was full of chocolate donuts and a genuine distrust of the intellect. When we said goodbye, he gave his usual warning, &ldquo;Be careful of the taxis.&rdquo;</p>
+
+<p>At Colorado State University, where I first met him, he wore his formal black kimono and carried a Bible. To start each class we all would sit a few minutes to quiet our minds. Eyes closed, we sat in a semicircle behind a large table, in a small classroom in the library. Everything was quiet. We could hear our breathing and the faint sounds of a lecture in another room. During one meditation, I heard Sensei&rsquo;s long sleeves shoosh. I thought he might be reaching for a tissue, as he sometimes did in lecture. Then there was an enormous crash. We all jumped, our eyelids flying open. The table had tipped over; scattered across the floor were Sensei&rsquo;s watch, Bible, and handkerchief. We stared at him, and he said softly, covering a grin with his hand, &ldquo;Oh, I&rsquo;m sorry. I don&rsquo;t know what happened.&rdquo;</p>
+
+<p>We had just resettled into quiet when a professor from down the hall opened the door and asked, &ldquo;Is everyone OK in here?&rdquo; He saw a toppled table, fifteen students and several professors sitting with eyes half shut, some still repressing smiles, and a small Japanese man in black sitting still as a mountain. Getting no response, he quietly closed the door. Later in the lecture, Sensei commented on how easily we are distracted. &ldquo;Now is forever now,&rdquo; he said. &ldquo;You may speak of past or present, but you do it always now. So you must be attentive, now.&rdquo;</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">I stopped my bike at the intersection where the new Haagen-D&auml;zs store was booming. I remembered walking up this street with my friend Hugh from Australia on the day of its grand opening. He and I always went to a weekly two-hour <em>zazen</em> session at Shokoku-ji temple. That day, we detoured into balloons, loud music, and video cameras, and got ice cream. We were talking about the heart of zen &mdash; compassion. Hugh said he&rsquo;d been trying very hard to think about the Four Bodhisattva Vows, especially the first one, which translates roughly into, &ldquo;However innumerable living beings are, I vow to save them all.&rdquo; We always chanted the four vows before sitting meditation at Shokoku-ji. The chant sounded like an enormous tree whose roots had decided to sing.</p>
+
+<p>&ldquo;I should practice Zen for all mankind, not only for myself,&rdquo; he said.</p>
+
+<p>&ldquo;Yes, but don&rsquo;t think about it too much,&rdquo; I said.</p>
+
+<p>I told Hugh about something that had happened to me on one cool autumn night at Shokoku-ji. We were gathered in a partial circle on the tatami mats, with me at the end of the line, near the door. A plate of cakes and some tea were going around the circle. I watched as each person bowed slightly as he or she accepted the cakes, slowly picked one out and set it on a napkin, then slid the plate gracefully across the tatami with another bow, offering it to the next person. My mind became absorbed with the idea of compassion, and I began to think about the vows, and about how beautiful the promise of kindness was, when someone to my left cleared his throat. I awoke from my reverie, and he offered me the cakes with a bow. &ldquo;Be attentive; don&rsquo;t let yourself be distracted,&rdquo; I thought to myself, remembering Sensei and the table he&rsquo;d knocked over. I accepted politely, and sat there overcome again with the quiet simplicity of such a gesture, when I realized that at some point someone had softly come in and sat down on my right. Embarrassed, I bowed deeply and passed him the cakes.</p>
+
+<p>&ldquo;When I think about compassion too much,&rdquo; I told Hugh, &ldquo;I forget to pass a cake to my neighbor.&rdquo;</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">I rode along the Kamogawa river for a while, watching white egrets fold their wings as they settled in the trees. I thought more about the episode with the cakes. That must be what it means to be &ldquo;stinking of Zen.&rdquo; When we think we&rsquo;re involved in the Way by studying the Way, our actions in everyday life give us away. Religion must be existential. It must transcend its own definitions and break out of the confinement of reason. As it says in the <em>Tao Te Ching</em>, &ldquo;The Tao that can be named is not the eternal Tao.&rdquo; I stopped thinking a moment as I skimmed through the breeze of the river and smelled the moisture and the fish and the tart cut of diesel and the brilliant white of the egrets. I felt my tires on the ground down to the least thread and bump, and the gravel and the declines, and I saw the trees stretching out behind me and the thousand white ripples of the river pulling me alongside. I felt alive and completely present in my own body.</p>
+
+<p>&ldquo;This &mdash; this is how I should practice Zen,&rdquo; I said to myself, ending my attentiveness with the utterance. Sensei once told me that to practice <em>zazen</em> you must think nothing. I nodded seriously. &ldquo;But then,&rdquo; he said, giggling, &ldquo;you will be thinking not to think anything. That is OK. Both theory and practice are necessary to go on.&rdquo;</p>
+
+<p>I curved away from the river and turned back into the swarm of Kawaramachi Street to get to Jeff&rsquo;s. The strained, oscillating whine of an ambulance crept up from behind and passed me with a sad, deafening din. Every day I lived in Kyoto I heard an ambulance. Somewhere there was always something going wrong. Once, riding my bike to Myoshin-ji temple to assist Sensei and his daughter in a tea ceremony, I came upon some policemen chalking out a figure in the road. There was a large pool of blood on the asphalt, shimmering and turning dark under the sun&rsquo;s heat. Just the night before, Sensei had said, &ldquo;Without the criminal, the policeman cannot go on. Without death, you could not live. We think always that the mother gives birth to the baby; but remember, the baby also gives birth to the mother. A painting may be very beautiful on one side, with many pleasing colors, but the back side may be very dirty and ugly. One side cannot come into existence without the other. It is the same with religion. It may have some beautiful church or ritual or teaching, but without human suffering, it cannot go on.&rdquo;</p>
+
+<p>When I reached Myoshin-ji, Sensei&rsquo;s daughter Miyo-san, who was about fifty, taught me how to serve a bowl of tea to someone, how to get up and leave, how to come back for the bowl. This took about an hour, since the art of tea involved a level of attention to detail to which I wasn&rsquo;t accustomed. She placed her palms flat on the tatami in front of her knees, then looked directly into my eyes. Her look was not shy as it always had been, nor authoritative, nor self-debasing. She looked at me as if I were very fragile. Her eyes reflected a quiet, encompassing, respectful compassion for me that I rarely, if ever, realized for myself or anyone else.</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">I rode along a narrow side street where some women were closing down their vegetable stands for the evening; it was getting cold and dark. There were wooden crates stacked all over the sidewalk with the remains of the day&rsquo;s vegetables. The old women were picking them up and starting conversations, their eyes shining like black lacquered bowls. Hugh and I once snaked our bikes through an area like this on our way to buy some sake for dinner, feeling froggy, ringing our annoying bike bells back and forth to each other. He was about ten feet behind me when I grabbed a big stale cabbage leaf about the size of a large frisbee off a crate, and tossed it directly over my head. I looked back in time to see Hugh swerving and trying to peel it off his face. He kept riding as he flung it high.</p>
+
+<p>I got to Jeff&rsquo;s with no accidents, no taxis scraping me over the crosswalks. I felt lucky again. I rang the doorbell and he slid open his door. I took off my shoes and we got comfortable sitting at his low dining table, listening to old American tapes. Tom Waits. Paul Simon. Something in me ached a little for home. The doorbell rang again, announcing Alabama Steve. He and Jeff exchanged greetings in Japanese, cordially and easily. Japanese spoken with a Southern-American accent was one of the funnier things I&rsquo;d heard since my arrival in Japan.</p>
+
+<p>Steve was tall and limped slightly; he had a sharp, predatory look. He had been in a temple for two years. After trying to get accepted into Zen practice and being thrown out several times, he realized that he couldn&rsquo;t let the monks tell him that there wasn&rsquo;t room, or to come back later, or that foreigners weren&rsquo;t allowed. He sat down outside the meditation hall and didn&rsquo;t move. When they physically threw him out of the gates, he came back and sat down again. When he grew weak from hunger, they let him stay inside one night. Then another, since he was an attentive guest. Then another, and so on.</p>
+
+<p>Jeff left to buy a two-liter bottle of beer from the vending machine around the corner. (In Japan one can get almost anything from a vending machine.) Steve asked me questions about myself. He made me nervous, and I shuffled my sentences, talking self-consciously about what I wanted to learn and who I thought I was. He leaned into me like a falling wall. He ridiculed me and called me silly names while asking my opinion about everything that came up. My sweatshirt, which I&rsquo;d bought at a used clothing store, had the initials D.U.A.C. on it. Steve decided that was my name for the night. Jeff had come back, and he and Steve were talking about enlightenment when Steve said to me, &ldquo;Well, Doo-wack, what do <em>you</em> think?&rdquo;</p>
+
+<p>&ldquo;I&rsquo;m just having fun listening.&rdquo;</p>
+
+<p>&ldquo;Really? You must be an awfully boring person, Doo-wack.&rdquo;</p>
+
+<p>Steve went to get the next bottle of beer, and Jeff told me not to take him too seriously. I knew Steve was only practicing compassion, going for my ego, pricking my hypersensitivity into an awareness of how stupid it was for me to feel defensive about something like my sweatshirt. He had undoubtedly received much worse treatment in the temple. Strangely enough, I was enjoying myself. I felt like a student, like something might come of this night. Steve came back with the next two liters, and we got drunk.</p>
+
+<p>I started to talk about my difficulties with sitting meditation, my lack of self-discipline, and how little I was seeing my teacher lately. As I was talking, I slowly traced wet rings with the bottom of my beer glass onto the shiny black surface of the table. Unconsciously, I traced circles that joined one another, swirling infinity signs.</p>
+
+<p>&ldquo;You know, Doo-wack,&rdquo; Steve said, &ldquo;you should just forget about sitting. Don&rsquo;t get attached to it. Do something else. It doesn&rsquo;t matter <em>what</em> you do, so long as you aren&rsquo;t so goddamn self-conscious. Don&rsquo;t be so serious. How serious is washing your balls? This whole serious attitude of yours is just another ego trip. The ego will do anything it can to avoid its own death. You have to be aware of that. The lines you&rsquo;re making there on the table are enlightened. You just have to bring the mind around to seeing that. Don&rsquo;t worry about your &lsquo;teacher.&rsquo; Look at all your teachers and teachings as signposts that you&rsquo;re buzzing past at seventy miles an hour; acknowledge them well, but then let them go! Ultimately no one really cares about you. What you do is entirely up to you, every second you exist.&rdquo;</p>
+
+<p>At that moment I felt as I had at the airport when I&rsquo;d had no idea where to go. Only this time I didn&rsquo;t feel sick. Steve could read my self-critical banter as ego-dressing, and I was defrocked. The ideas he spoke of had been dawning on me the entire time I&rsquo;d lived in Kyoto. I&rsquo;d been moving from disappointment that things weren&rsquo;t working out exactly as planned into a freedom that was both terrifying and exhilarating. Now everything he said penetrated me at once with a thumping impact, as if the chants we sang at Shokoku-ji had been bundled up and swung into my body like a sack full of mud. Zen-mud. I went to get the next bottle of beer, feeling better than I had since my arrival in Japan.</p>
+
+<p>It was pouring outside. The rain in Kyoto didn&rsquo;t just come from above; it seemed to come flying out of buildings and houses, shooting off the streets, seeping from inside one&rsquo;s own body. It joined inner and outer with water, and one couldn&rsquo;t avoid getting soaked. I stood with my little clear plastic umbrella at the machine and waited for the beer to drop down the chute. It took a long time, then &mdash; <em>thrumph</em> &mdash; the two-liter bottle of Kirin dropped with such force it sounded like the first roll of a bass drum.</p>
+
+<p>When I got back we drank the rest of the beer. Afterward, Jeff tried to make me stay, but I felt like being alone. I said goodbye, mounted my bike, pointed my umbrella out in front of me with one hand like a lance in the sheeting rain, and rolled down the long hill toward Kawaramachi Street.</p>
+
+<p>Two blocks from Kawaramachi, as I sailed down a street that crossed one of Kyoto&rsquo;s narrow alleys, a flash lit the wet asphalt as a taxi lurched out from behind a building and stopped in my path. I clutched the front brake with my free hand, and the pads spun uselessly on the wet rim. As I hit the taxi, I leaned into a slow, drunken, graceful slide. The impact threw me onto the pavement. The taxi driver jumped out of the car to see what had just bounced off his white cab. He watched me get up, unhurt.</p>
+
+<p><em>&ldquo;Sumimasen,&rdquo;</em> I apologized.</p>
+
+<p>Still astonished, he drove off with his fare, a middle-aged, moon-faced woman who stared at me as they left. I began to giggle, then to laugh uncontrollably in the rain. I had made a beautiful, round imperfection in the side of his white taxi. I began the long pedal uphill, back home.</p>
+														</div>
+
+
+				
+<div class="sharing-bar article-sharing">
+	<div class="sharing-bar-first">
+		<a href="javascript:window.print();" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-printer"></use></svg> <span>Print</span></a>
+	</div>
+
+	<div class="sharing-bar-second">
+		<span class="alt-ff xsmall">Share:</span>
+		<a href="https://www.facebook.com/sharer/sharer.php?u=https://www.thesunmagazine.org/issues/204/zen-mud" target="_blank" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-facebook"></use></svg> <span>Facebook</span></a>
+		<a href="https://twitter.com/share?url=https://www.thesunmagazine.org/issues/204/zen-mud&amp;via=thesunmagazine" target="_blank" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-twitter"></use></svg> <span>Twitter</span></a>
+		<a href="#" class="b b-1 b-padding-tight xsmall js-toggle-mail-form"><svg><use xlink:href="#i-email"></use></svg> <span>Email</span></a>
+	</div>
+</div>
+
+<div class="send-to-friend-message-container">
+	<div class="alert alert-success xsmall">Thank you for sharing <em>The Sun</em>.</div>
+</div>
+
+<form method="post" action="/ajax/articles/send-to-a-friend" class="form fill-grey send-to-friend-form">
+		<input type="hidden" id="form_url" name="form[url]" value="https://www.thesunmagazine.org/issues/204/zen-mud" />
+
+	<ul class="form-fields">
+		<li><label for="form_sender_name"><span class="label-text">Your Full Name</span><span class="label-asterisk">*</span></label><input type="text" id="form_sender_name" name="form[sender_name]" required="required" /></li>
+		<li><label for="form_sender_email"><span class="label-text">Your Email Address</span><span class="label-asterisk">*</span></label><input type="email" id="form_sender_email" name="form[sender_email]" required="required" /></li>
+		<li><label for="form_recipient_name"><span class="label-text">Friend’s Name</span><span class="label-asterisk">*</span></label><input type="text" id="form_recipient_name" name="form[recipient_name]" required="required" /></li>
+		<li><label for="form_recipient_email"><span class="label-text">Friend’s Email Address</span><span class="label-asterisk">*</span></label><input type="email" id="form_recipient_email" name="form[recipient_email]" required="required" /></li>
+		<li><label for="form_message"><span class="label-text">Personalized Message</span></label><textarea id="form_message" name="form[message]"></textarea></li>
+	</ul>
+<div class="send-to-friend-message-container">
+	<div class="alert alert-error xsmall">Something went wrong. Please try again.</div>
+</div>
+
+<div class="g-recaptcha" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs"></div>
+<div class="form-actions"><button type="submit" id="form_submit" name="form[submit]"	class="form-actions-b-primary b b-1 b-loading xsmall"><svg><use xlink:href="#i-loading"></use></svg>
+		Submit
+	</button></div>
+<input type="hidden" id="form__token" name="form[_token]" value="dfaebdc1cd526d711d05e7f115fae6d645e6ec11" /></form>
+
+<br>
+
+
+
+										<footer class="article-contributor contributors">
+									
+
+<div class="block-contributor">
+		
+
+		<div class="block-contributor-content">
+		<div class="block-contributor-bio small">
+			<p><span class="smallcaps"><strong>Steve Miles</strong></span> lives, writes, and makes pots in Fort Collins, Colorado. His poems have appeared in the <em>Hawaii Review</em> and in a new anthology of erotic writing called <em>The Fabric Of Desire</em>.</p><a href="/contributors/steve-miles" class="block-contributor-link link-alt small">More From This Contributor&nbsp;&#9656;</a>		</div>
+	</div>
+</div>
+
+							</footer>
+						</article>
+
+
+				    <div class="paywall-subscription block-product">
+			<div class="columns">
+			<div class="paywall-banner span3 cta cta-l1">
+				<div class="cta-intro">
+					<h5 class="cta-title alt-ff">One Free Selection Left </h5>
+					<p class="cta-text xsmall"><a class="link-alt" href="https://www.thesunmagazine.org/subscriber/login" data-label="Already a subscriber?">Already a subscriber? Sign in ▸</a><br><br>Read two free selections from <em>The Sun</em> each month.</p>
+				</div>
+			</div>
+			<div class="paywall-banner span9 note note-1 text-center">
+				<h4 class="cta-title alt-ff">Subscribe to <em>The Sun</em> and save 45%</h4>
+				<p class="cta-text xsmall">Subscribers get full access to the current issue and more than 40 years of archives.</p>
+				<a class="b b-1 xsmall cta-trigger"  href="/subscribe1" data-label="Subscribe" data-ctatitle="Subscribe">Subscribe</a>
+			</div>
+		</div>
+
+		<div class="columns">
+			<div class="span12 paywall-cta-bottom">
+				<p>
+					<span class="cta-title-issue">Buy the December 1992 issue for $5.95</span>
+					<span class="xsmall">Order now to get instant access to this issue, and we’ll also send you a print copy.</span>
+					<a class="b b-5 xsmall corona"  href="#" data-product-type="issues" data-id="204" data-label="Order Now ▸">Order Now ▸</a>
+				</p>
+			</div>
+		</div>
+
+		
+
+</div>
+	
+	
+	
+	<div class="spacer"></div>
+	
+
+
+
+		
+		<div class="article-correspondence-cta">
+		<div class="cta cta-l1" data-url="https://www.thesunmagazine.org/letter-to-the-editor">
+			<div class="cta-intro">
+				<h5 class="cta-title alt-ff">Thinking about writing us a letter?</h5>
+				<p class="cta-text">Give in to the temptation. We love getting mail. <br><span class="xsmall">(Of course, we reserve the right to edit.)</span></p>
+			</div>
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" class="cta-button b b-4 b-padding-tight small" data-label="Write Us A Letter!">Write Us A Letter!</a>
+		</div>
+	</div>
+	
+
+			<div class="article-also layout-item-large full-bar fill-grey-mid-light">
+		<div class="layout-item-intro">
+			<h2>Also In This Issue</h2>
+			<a href="/issues/204" class="xsmall link-alt">December 1992&nbsp;&#9656;</a>
+		</div>
+		<div class="issue-articles-l1">
+			<div class="issue-articles-l1-content1">
+				
+<div class="cover cover-l1 block-product">
+	<div>
+							<a href="/issues/204" class="cover-thumb">
+				
+				<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 725'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/281x364r/import/issue/204.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/562x728r/import/issue/204.jpg
+	 alt=""
+	 class="lazy">
+
+			</a>
+		
+
+													<!-- <a href="/issues/204" data-product-type="issues" data-id="204" data-role="order" class="js-buy-single corona cover-button b b-1 b-full xsmall" data-label="Buy This Issue &#9656;">
+								Buy This Issue&nbsp;&#9656;
+			</a> -->
+			<a href="/issues/204" data-product-type="issues" data-id="204" class="js-buy-single corona cover-button b b-1 b-full xsmall" data-label="Buy This Issue &#9656;">
+								Buy This Issue&nbsp;&#9656;
+			</a>
+					
+					</div>
+</div>
+			</div>
+			<div class="issue-articles-l1-content2">
+				<div class="articles-l3">
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/204/cowards">Cowards</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/dan-howell">Dan Howell</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/204/freedoms-just-another-word">Freedom’s Just Another Word</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/sy-safransky">Sy Safransky</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/poetry">Poetry</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/204/combing">Combing</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/veronica-patterson">Veronica Patterson</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/204/confederacy-of-dunces">Confederacy Of Dunces</a></h3>
+					<p class="block-content-subtitle subtitle">The Tyranny Of Compulsory Schooling</p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/john-taylor-gatto">John Taylor Gatto</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+									</div>
+			</div>
+		</div>
+	</div>
+	
+
+			<div class="article-related layout-item-large full-bar fill-pattern-light">
+		<div class="layout-item-intro">
+			<h2>Related Selections</h2>
+			<ul class="list-inline list-inline-tight"><li><a href="/topics/buddhism" class="xsmall link-alt link-text">Buddhism</a></li><li><a href="/topics/travel" class="xsmall link-alt link-text">Travel</a></li><li><a href="/topics/friendship" class="xsmall link-alt link-text">Friendship</a></li><li><a href="/topics/consciousness" class="xsmall link-alt link-text">Consciousness</a></li><li><a href="/topics/meditation" class="xsmall link-alt link-text">Meditation</a></li></ul>		</div>
+
+		<div class="articles-l2">
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/148/on-being-unable-to-breathe">On Being Unable To Breathe</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/stephen-t-butterfield">Stephen T. Butterfield</a></li><li><a href="/issues/148">March 1988</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/148" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 725'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/141x182r/import/issue/148.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/281x364r/import/issue/148.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/fiction">Fiction</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/133/backlighting">Backlighting</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/kim-addonizio">Kim Addonizio</a></li><li><a href="/issues/133">December 1986</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/133" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 725'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/141x182r/import/issue/133.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/281x364r/import/issue/133.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/31/books-mary-lukas-and-ellen-lukas-teilhard">Teilhard</a></h3>
+					<p class="block-content-subtitle subtitle">Book Review</p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/richard-williams">Richard Williams</a></li><li><a href="/issues/31">October 1977</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/31" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 728'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/140x182r/2016-10/031.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/2016-10/031.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/poetry">Poetry</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/5/goats-chant">Goat’s Chant</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/dennis-kordell">Dennis Kordell</a></li><li><a href="/issues/5">September 1974</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/5" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 455 728'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/114x182r/import/issue/005.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/228x364r/import/issue/005.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+					</div>
+	</div>
+	
+	
+					<form id="newsletterForm" method="post" action="https://www.thesunmagazine.org/newsletter" data-url-send="https://www.thesunmagazine.org/newsletter" class="form form-newsletter fill-grey" enctype="multipart/form-data" target="_blank">
+
+
+
+		<div class="form-newsletter-intro">
+			<h3 class="alt-ff large">Sign Up For Our Newsletter</h3>
+			<p>We’ll let you know about new website selections, upcoming events, special offers, and more.</p>
+		</div>
+
+		<ul class="form-newsletter-fields form-fields form-fields-inline">
+			<li>
+				<input name="name" type="text" maxlength="500" id="name" placeholder="Your Name">
+			</li>
+			<li>
+				<input name="email" type="text" maxlength="500" id="email" placeholder="Your E-mail">
+			</li>
+
+			<li class="form-fields-inline-button">
+				<button disabled="disabled" class="form-newsletter-send b b-4 b-padding-tight b-loading g-recaptcha" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs" data-callback="recaptcha_callback" name="SubmitButton" id="SubmitButton">
+					<svg><use xlink:href="#i-loading"></use></svg>
+					Sign&nbsp;Up
+				</button>
+			</li>
+		</ul>
+	</form>
+	<script id="hiddenlpsubmitdiv" style="display: none;"></script>
+
+
+
+<footer class="footer brand-grey-dark">
+			<div class="footer-first">
+		<h3 class="footer-tagline">Independent, Reader-Supported Publishing</h3>
+		<p class="footer-desc">In each issue of <em>The Sun</em> you’ll find some of the most radically intimate and socially conscious writing being published today. In an age of media conglomerates, we’re something of an oddity: an ad-free, independent, reader-supported magazine.</p>
+		<ul class="footer-nav list-inline-border xsmall">
+			
+		<li class=" first">
+			<a href="https://www.thesunmagazine.org/about" 	   class=''>
+	   About <em>the Sun</em>	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/staff" 	   class=''>
+	   Staff	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/find-the-sun" 	   class=''>
+	   Find <em>The Sun</em>&nbsp;&nbsp;in a Store Near You	</a>
+		
+	</li>
+
+
+		</ul>
+	</div>
+	
+		<div class="footer-second">
+		<ul class="footer-second-social list-inline">
+			<li><a href="https://www.facebook.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-facebook"></use></svg></span> Like Us</a></li>
+			<li><a href="https://twitter.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-twitter"></use></svg></span> Follow Us</a></li>
+			<li><a href="https://instagram.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-instagram"></use></svg></span> Take a Look</a></li>
+		</ul>
+
+		<div class="footer-second-content">
+			<ul class="footer-nav list-inline-border xsmall">
+				
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/" 	   class='current '>
+	   Home	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/privacy-policy" 	   class=''>
+	   Privacy Policy	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/terms-of-use" 	   class=''>
+	   Terms of Use	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/site-map" 	   class=''>
+	   Site Map	</a>
+		
+	</li>
+
+
+			</ul>
+			<p class="footer-copyright xxsmall">Copyright &copy; 1974–2020 <em>The Sun</em>. All rights reserved.</p>
+		</div>
+	</div>
+</footer>
+
+
+
+<div class="offset-nav">
+	<ul>
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/read" 	   class='current '>
+	   Read	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/issues/current" 	   class=''>
+	   Current Issue	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/archives" 	   class=''>
+	   Archives	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/featured" 	   class=''>
+	   Featured Selections	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/topics" 	   class=''>
+	   Browse Topics	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/sections" 	   class=''>
+	   Browse Sections	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/connect" 	   class=''>
+	   Connect	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/news" 	   class=''>
+	   News from <em>The Sun</em>	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" 	   class=''>
+	   Write a Letter to the Editor	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/discussion-groups" 	   class=''>
+	   Discussion & Writing Groups	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/make-a-suggestion" 	   class=''>
+	   Make a Suggestion	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/submit" 	   class=''>
+	   Submit	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/shop" 	   class=''>
+	   Shop	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/giftsub" 	   class=''>
+	   Gift Subscriptions	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/issues" 	   class=''>
+	   Issues	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+											
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/donatemenu" 	   class='highlight'>
+	   Donate	</a>
+		
+	</li>
+
+		<li class=" last">
+														<a href="/SubscribeNav1" 					   class=''>
+						Subscribe					</a>
+									
+	</li>
+
+
+					<li>
+				<a href="https://www.thesunmagazine.org/shop/cart">Cart ( <span class="cart-item-count">  0  </span>)</a>
+			</li>
+			<li><a href="https://www.thesunmagazine.org/subscriber/login" class="link-header-logout link-alt">Sign In</a></li>
+			</ul>
+	<ul>
+		<li class=" first">
+			<a href="https://www.thesunmagazine.org/about" 	   class=''>
+	   About <em>the Sun</em>	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/staff" 	   class=''>
+	   Staff	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/find-the-sun" 	   class=''>
+	   Find <em>The Sun</em>&nbsp;&nbsp;in a Store Near You	</a>
+		
+	</li>
+
+</ul>
+	<ul>
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/" 	   class='current '>
+	   Home	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/privacy-policy" 	   class=''>
+	   Privacy Policy	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/terms-of-use" 	   class=''>
+	   Terms of Use	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/site-map" 	   class=''>
+	   Site Map	</a>
+		
+	</li>
+
+</ul>
+</div>
+
+<div id="buy-popup-message" class="buy-popup mfp-hide white-popup white-popup-block">
+	<a class="popup-modal-dismiss" href="#"></a>
+	<h5>Due to fulfillment challenges related to the novel coronavirus, print copies are temporarily unavailable for individual sale. We are offering free PDFs until we are able to resume print sales.</h5>
+	<p>Enter your e-mail address below to download this issue.</p>
+	<form method="post" id="download-single" action="https://www.thesunmagazine.org/issue/pdfFree/531.pdf">
+		<label for="email"><span class="label-text">E-mail</span><span class="label-asterisk">*</span></label>
+		<input class="buy-single-email" id="email" type="email" name="email">
+		<button type="send" class="form-buy-issue-send b b-3 b-padding-tight b-loading">Send</button>
+		<button class="form-buy-issue-download b b-3 b-padding-tight b-loading">Download pdf</button>
+		<button type="send" class="popup-modal-dismiss b b-2 b-padding-tight b-loading">Close</button>
+		<div class="g-recaptcha" style="text-align: center" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs"></div>
+
+	</form>
+</div>
+
+			<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/plugins.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/site.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/newsletter.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/js/articles.js"></script>
+		</div>
+		</div>
+
+				<script>
+		(function (doc) {
+			var scripts = doc.getElementsByTagName('script');
+			var script = scripts[scripts.length - 1];
+			var xhr = new XMLHttpRequest();
+			xhr.onload = function () {
+				var div = doc.createElement('div');
+				div.innerHTML = this.responseText;
+				div.style.display = 'none';
+				script.parentNode.insertBefore(div, script);
+			}
+			xhr.open('get', '/theme/thesun//assets/build/img/sprite/sprite.svg', true);
+			xhr.send();
+		})(document);
+
+
+
+		</script>
+
+		<script>
+			// Submit function
+            function recaptcha_callback() {
+						var getUrl = $('.form-newsletter').data( "url-send" ),
+							getName = $('input#name').val(),
+							getEmail = $('input#email').val();
+						$.ajax({
+								type: "POST",
+								url: getUrl,
+								data: {
+									name: getName,
+									email: getEmail,
+									grecaptcharesponse: grecaptcha.getResponse()
+								}
+							}).done(function(response) {
+								console.log(response);
+									$('.form-fields').fadeOut(800, function () {
+										$('.form-fields').empty().append('<div class="newsletter-confirm-message">Thank you for signing up to receive news from <em>The Sun</em>. Your first newsletter will arrive soon.<div>').fadeIn(800);
+									});
+							});
+			}
+
+		</script>
+
+		<script>
+			function getUrlCode() {
+				var url_string = window.location.href;
+				var url = new URL(url_string);
+				var c = url.searchParams.get('promotion\_key');
+				if (typeof c !== 'undefined' && c !== null) {
+					setCookie("promotion_code",c);
+				}
+			}
+
+			function setCookie(cname, cvalue) {
+				document.cookie = cname + "=" + cvalue + ";" + "path=/";
+			}
+
+			function getCookie(cname) {
+				var name = cname + "=";
+				var decodedCookie = decodeURIComponent(document.cookie);
+				var ca = decodedCookie.split(';');
+				for(var i = 0; i <ca.length; i++) {
+					var c = ca[i];
+					while (c.charAt(0) == ' ') {
+						c = c.substring(1);
+					}
+					if (c.indexOf(name) == 0) {
+						return c.substring(name.length, c.length);
+					}
+				}
+				return "";
+			}
+			window.addEventListener( "load", getUrlCode );
+		</script>
+
+
+	</body>
+</html>

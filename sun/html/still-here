@@ -1,0 +1,1236 @@
+
+<!DOCTYPE html>
+<html class="no-js" lang="en-US">
+	<head>
+		<title>Still Here - The Sun Magazine</title>
+
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		
+		<meta name="viewport" content="width=device-width, minimum-scale=1.0">
+
+		<link rel="dns-prefetch" href="//ajax.googleapis.com">
+		<link rel="dns-prefetch" href="//use.typekit.net">
+		
+		<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/modernizr.js"></script>
+		<script src="https://www.google.com/recaptcha/api.js"
+				async defer>
+		</script>
+
+		<script>(function(d) { var config = { kitId: 'kzw7ebk', scriptTimeout: 3000, async: true }, h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s) })(document);</script>
+
+
+				
+		<link rel="apple-touch-icon" sizes="57x57" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-57x57.png?v=2016">
+		<link rel="apple-touch-icon" sizes="60x60" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-60x60.png?v=2016">
+		<link rel="apple-touch-icon" sizes="72x72" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-72x72.png?v=2016">
+		<link rel="apple-touch-icon" sizes="76x76" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-76x76.png?v=2016">
+		<link rel="apple-touch-icon" sizes="114x114" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-114x114.png?v=2016">
+		<link rel="apple-touch-icon" sizes="120x120" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-120x120.png?v=2016">
+		<link rel="apple-touch-icon" sizes="144x144" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-144x144.png?v=2016">
+		<link rel="apple-touch-icon" sizes="152x152" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-152x152.png?v=2016">
+		<link rel="apple-touch-icon" sizes="180x180" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-180x180.png?v=2016">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-32x32.png?v=2016" sizes="32x32">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/android-chrome-192x192.png?v=2016" sizes="192x192">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-96x96.png?v=2016" sizes="96x96">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-16x16.png?v=2016" sizes="16x16">
+		<link rel="mask-icon" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/safari-pinned-tab.svg?v=2016" color="#444444">
+		<link rel="shortcut icon" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon.ico?v=2016">
+		<meta name="apple-mobile-web-app-title" content="The Sun Magazine">
+		<meta name="application-name" content="The Sun Magazine">
+		<meta name="msapplication-TileColor" content="#fcc330">
+		<meta name="msapplication-TileImage" content="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/mstile-144x144.png?v=2016">
+		<meta name="theme-color" content="#ffffff">
+
+				<link rel="stylesheet" type="text/css" href="https://cloud.typography.com/6578674/659928/css/fonts.css" />
+		<link rel="stylesheet" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/css/style.css">
+
+																		<meta property="og:site_name" content="The Sun Magazine">
+		<meta property="og:type" content="article">
+		<meta property="og:url" content="https://www.thesunmagazine.org/issues/360/still-here">
+		<meta property="og:image" content="http://www.thesunmagazine.org/files/2016-11/360-40-uelsmann-preview.jpg">
+		<meta property="og:title" content="Still Here - The Sun Magazine">
+		<meta property="og:description" content="My wife China, my son Ben, and I left for the hospital at five in the morning, crossing the bay on the Golden Gate Bridge. The streets of San Francisco were still gray and quiet when we parked, but the hospital halls were alive with activity. An admittance clerk questioned me about insurance, then fitted me with an ID bracelet and ushered us into a partitioned area where a gurney waited.">
+		<meta property="fb:app_id" content="158741778010551">
+
+						<link rel="image_src" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.comhttp://www.thesunmagazine.org/files/2016-11/360-40-uelsmann-preview.jpg">
+
+												<meta name="twitter:card" content="summary">
+		<meta name="twitter:title" content="Still Here - The Sun Magazine">
+		<meta name="twitter:description" content="My wife China, my son Ben, and I left for the hospital at five in the morning, crossing the bay on the Golden Gate Bridge. The streets of San Francisco were still gray and quiet when we parked, but the hospital halls were alive with activity. An admittance clerk questioned me about insurance, then fitted me with an ID bracelet and ushered us into a partitioned area where a gurney waited.">
+		<meta name="twitter:image" content="http://www.thesunmagazine.org/files/2016-11/360-40-uelsmann-preview.jpg">
+		<meta name="twitter:site" content="@thesunmagazine">
+
+				<link rel="publisher" href="https://plus.google.com/113792980827145858211">
+        
+		<meta name="Description" content="My wife China, my son Ben, and I left for the hospital at five in the morning, crossing the bay on the Golden Gate Bridge. The streets of San Francisco were still gray and quiet when we parked, but the hospital halls were alive with activity. An admittance clerk questioned me about insurance, then fitted me with an ID bracelet and ushered us into a partitioned area where a gurney waited.">
+
+		
+		<!-- Google Tag Manager -->
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-TKBHCCG');</script>
+		<!-- End Google Tag Manager -->
+
+		<!-- Google Analytics -->
+		<script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+            ga('create', 'UA-2351127-1', 'auto');  // Replace with your property ID.
+            ga('send', 'pageview');
+            ga('require', 'ecommerce');   // Load the ecommerce plug-in.
+		</script>
+		<!-- End Google Analytics -->
+	</head>
+	<body id="">
+
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TKBHCCG"
+		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+		<header class="header" data-offset-start="80">
+		<div class="header-utilities">
+				<ul class="header-utilities-user list-inline list-inline-tight xxsmall">
+							<li>
+					<span class="header-utilities-user-intro">Already A Subscriber?</span> &nbsp;
+					<a href="https://www.thesunmagazine.org/subscriber/login" class="link-text link-alt">Sign In</a>
+				</li>
+					</ul>
+		<a href="https://www.thesunmagazine.org/shop/cart" class="header-utilities-cart  link-alt link-icon tiny">
+			<span class="i"><svg><use xlink:href="#i-cart"></use></svg></span>
+			<span class="cart-item-count">
+									0 Items
+				
+			</span>
+		</a>
+			</div>
+
+		<div class="header-bar">
+		<h1 class="header-logo logo">
+			<a href="/">
+				<img src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/img/logo-thesun.svg" class="logo-thesun" alt="The Sun Magazine">
+				<img src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/img/logo-tagline.svg" class="logo-tagline" alt="">
+			</a>
+		</h1>
+
+		<ul class="header-nav">
+			
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/read" 	   class='current '>
+	   Read	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/issues/current" 	   class=''>
+	   Current Issue	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/archives" 	   class=''>
+	   Archives	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/featured" 	   class=''>
+	   Featured Selections	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/topics" 	   class=''>
+	   Browse Topics	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/sections" 	   class=''>
+	   Browse Sections	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/connect" 	   class=''>
+	   Connect	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/news" 	   class=''>
+	   News from <em>The Sun</em>	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" 	   class=''>
+	   Write a Letter to the Editor	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/discussion-groups" 	   class=''>
+	   Discussion & Writing Groups	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/make-a-suggestion" 	   class=''>
+	   Make a Suggestion	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/submit" 	   class=''>
+	   Submit	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/shop" 	   class=''>
+	   Shop	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/giftsub" 	   class=''>
+	   Gift Subscriptions	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/issues" 	   class=''>
+	   Issues	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+											
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/donatemenu" 	   class='highlight'>
+	   Donate	</a>
+		
+	</li>
+
+		<li class=" last">
+														<a href="/SubscribeNav1" 					   class=''>
+						Subscribe					</a>
+									
+	</li>
+
+
+		</ul>
+
+		<button class="header-nav-toggle"><svg><use xlink:href="#i-menu" class="i-menu"></use><use xlink:href="#i-close" class="i-close"></use></svg></button>
+		<button class="header-search-toggle" data-form-wrapper=".header-search"><svg><use xlink:href="#i-magnifier" class="i-magnifier"></use><use xlink:href="#i-close" class="i-close"></use></svg></button>
+	</div>
+
+		<div class="header-search">
+		<div class="header-search-content">
+			<form action="https://www.thesunmagazine.org/search" class="form form-search" method="get">
+				<h2 class="alt-ff brand-link">Search Our 40 Years of Archives</h2>
+				<ul class="form-search-fields form-fields form-fields-inline">
+					<li><input type="text" name="q" value=""></li>
+					<li class="form-fields-inline-button"><button class="b b-1 b-padding-tight b-loading"><svg><use xlink:href="#i-loading"></use></svg>Search</button></li>
+				</ul>
+
+				<div class="header-search-content-shortcuts">
+					<h6 class="search-advanced alt-ff"><a class="js-handle-advanced" href="https://www.thesunmagazine.org/search?advanced=1">Advanced Search</a></h6>
+					<br>
+					<h6 class="alt-ff">Popular Pages</h6>
+					<ul class="list-inline-border list-inline-tight xxsmall"><li class=" first"><a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a></li><li class=""><a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a></li><li class=""><a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a></li><li class=""><a href="https://www.thesunmagazine.org/sections/quotations" 	   class=''>
+	   Quotations	</a></li><li class=""><a href="https://www.thesunmagazine.org/sections/readers-write" 	   class=''>
+	   Readers Write	</a></li><li class=" last"><a href="https://www.thesunmagazine.org/sections/poetry" 	   class=''>
+	   Poetry	</a></li></ul>				</div>
+			</form>
+		</div>
+	</div>
+</header>
+
+	<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+	<script type="text/javascript">
+		$(document).ready(function() {
+			$('.js-handle-advanced').on('click', function (e) {
+				e.preventDefault();
+				var getSearchValue = $('.form-search-fields input').val();
+				var getURL = $(this).attr('href');
+				var newURL = getURL + '&q=' + getSearchValue;
+				window.location.href = newURL;
+			});
+		});
+	</script>
+
+		<div class="container-hidden">
+		<div class="container">
+
+				
+	
+	<article class="article ">
+		<header class="block-content block-content-l1 block-content-center">
+						<div class="block-content-header">
+				<h6 class="b-content-section heading-square"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+				<h1 class="block-content-title">Still Here</h1>
+
+				
+				<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/corey-fischer">Corey Fischer</a></li><li><a href="/issues/360">December 2005</a></li></ul>
+
+			</div>
+
+																			
+
+				<figure class="block-content-photo block-content-photo-large photo photo-outset-center-small">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 1493 1960'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/747x980r/photos/360-40-uelsmann.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/1493x1960r/photos/360-40-uelsmann.jpg
+	 alt="360 - Uelsmann - Fischer"
+	 class="lazy">
+
+										<figcaption>
+
+						
+																				<div class="photo-credit">
+								&copy;&nbsp;<a href="/contributors/jerry-n-uelsmann">Jerry N. Uelsmann</a>
+							</div>
+																		</figcaption>
+									</figure>
+
+					</header>
+
+				<div class="article-body link-text-wrap">
+																		<p class="dropcap">My wife China, my son Ben, and I left for the hospital at five in the morning, crossing the bay on the Golden Gate Bridge. The streets of San Francisco were still gray and quiet when we parked, but the hospital halls were alive with activity. An admittance clerk questioned me about insurance, then fitted me with an <span class="smallcaps">ID</span> bracelet and ushered us into a partitioned area where a gurney waited.</p>
+
+<p>I&rsquo;ve never learned how to tie a hospital gown, a backward garment vaguely reminiscent of a straitjacket. China tied mine for me. Donning one of those gowns instantly changes your place in the world, marking you as &ldquo;other.&rdquo; When the nurse came in to start an intravenous saline drip, I knew the terms of my existence had changed.</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">In February 2004, just a few days before my fifty-ninth birthday, I&rsquo;d been told that I needed to have open-heart surgery within the next three months.</p>
+
+<p>I had known since I was seventeen that I&rsquo;d inherited my mother&rsquo;s heart murmur, but for years doctors had treated it as nothing more than an object of mild curiosity. Then, in my midforties, I was advised to start having echocardiograms every couple of years to monitor my &ldquo;mitral valve prolapse.&rdquo; My heart murmur had a new name. When I was fifty-seven, my doctor said that all was still well for the moment, but I might need to consider &ldquo;doing something&rdquo; about the valve in the future.</p>
+
+<p>Throughout my childhood, my mother had undergone a number of heart operations. Each time she would return home from the hospital, her complexion gray, and lie in bed for days with the shades drawn. When she was seventy-nine, my mother had the last of her operations. Four years later she died.</p>
+
+<p>Now I was being told that I needed the same operation.</p>
+
+<p>I had convinced myself that I would never get to that point. My healthy lifestyle would protect me from my mother&rsquo;s fate, I believed. She had led a sedentary life, whereas I rode a bicycle, hiked, and went scuba diving. More importantly, I had followed my inclination toward the arts, unlike my mother, who had given up her dream of becoming a writer shortly after I was born, a decision that had weighed on her heart.</p>
+
+<p>But after I experienced shortness of breath while scuba diving, a chest <span class="smallcaps">X</span>-ray showed an enlargement of my heart, a common side effect of a leaky mitral valve: as the ventricle has to work harder to pump blood to the aorta, the heart muscle grows.</p>
+
+<p>Dr. Baer, my cardiologist, ordered an immediate echocardiogram. Lying on my side while a nurse with a winning gap between her front teeth slid the sensor over my gelled skin, I listened to the amplified burbling of my heart. A few minutes later Dr. Baer was talking surgery. It was all moving much too quickly.</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">After being told that an operation was inevitable, I dealt with my growing fears by doing research. Sitting at the computer, Googling my way through a new world, I felt in control. Perhaps I could discover something hidden in the electronic labyrinth of the Web that would change everything, something Dr. Baer had overlooked.</p>
+
+<p>Instead Google led me to a site that described, complete with color photos, the exact workings of the heart-lung machine that makes open-heart surgery possible. It&rsquo;s obvious when you think about it: you can&rsquo;t perform a delicate operation on a beating, moving, jerking heart; it has to be stopped. Then the machine takes over, pumping blue, unoxygenated blood from the right atrium into a series of artificial vessels, where oxygen is bubbled into the blood, turning it red; the oxygenated blood is then returned to circulate throughout the body. All this time, the lungs are collapsed, the heart inert, their roles usurped by the machine. I wondered: if the heart is not beating, and the lungs are not breathing, and the brain is awash in consciousness-blotting chemicals, in what sense is a person still alive?</p>
+
+<p>That night, as I lay in bed next to my wife, I could not let go of that question and all its frightening implications. I started sobbing, and China held me. &ldquo;What is it?&rdquo; she asked. I told her that I was utterly undone by what I&rsquo;d been reading. It had brought me up against my lack of faith, and without faith, I had no defense against my fear. I was afraid that when I went under the anesthesia, I would die, and that even if all went well and I came out of the operation with my body fully intact, I would no longer be the same person I&rsquo;d been.</p>
+
+<p>My wife was raised Catholic, and though she&rsquo;s been a student of Buddhism for years, she still has an ability to pray aloud and unselfconsciously. The practice is as alien to me, with my secular Jewish upbringing, as palm trees are to Kansas. But over the years, a tiny part of her ease in addressing the central mystery had rubbed off on me. That night, when she started praying, I joined her. As soon as I said the word <em>God</em> aloud, a fierce longing took hold of me, and I called out, in full voice, to something that had no face, no shape, no name. I called out for the faith I did not have. And, paradoxically, the act of calling out was its own answer. A trust in <em>something</em> &mdash; some strength that might get me through what was coming &mdash; was kindled by the friction of my doubt rubbing up against my undeniable need. I had called out in the night, unashamed.</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">The day before my surgery, after weeks of yoga and guided imagery, after a return to a daily meditation practice, after a gathering of thirty friends to mobilize the support I&rsquo;d need before and after the operation, I went for a hike in the headlands near my home. In recent years I had rarely found the time for such a leisurely stroll through stands of oak and eucalyptus, alive now with early blooms of lupine and iris. I walked a loop that I had discovered some twenty years before. Climbing a ridge to a summit from which I could see the San Francisco Bay, the Pacific Ocean, and the undulating hills of the headlands, I felt strong and healthy. In fact, in spite of what the tests had shown, I&rsquo;d felt more or less normal ever since that initial episode of breathing difficulty. For a giddy moment, I thought about calling the whole thing off. Couldn&rsquo;t I just go on as I was?</p>
+
+<p>Well, no, not according to a half dozen cardiologists and surgeons. The very fact that I was still relatively healthy made me the perfect candidate for valve repair. If I waited, the doctors told me, the valve might require replacement rather than repair, and that would entail a cascade of increasingly dangerous problems of the sort that had befallen my mother. With no idea of what awaited me the next day, I made my way back down into the valley.</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">Soon after I&rsquo;d arrived at the hospital and donned a gown, a nurse&rsquo;s assistant appeared in a tie-dyed scrub cap and started shaving my chest and pubic area. Without any preamble, he launched into a flat-voiced monologue about friends he&rsquo;d lost in Vietnam, the current situation in Iraq, and other friends who were working in counterinsurgency in Afghanistan. He might join them, he said. He intimated that he had certain skills that were useful in clandestine operations. I caught China&rsquo;s eye and queried her silently, <em>Is he for real?</em> She shrugged. The aide then anointed me with brown antibacterial paint and led us deeper into the building, now lamenting the failure of the hospital administrators to recognize his many talents.</p>
+
+<p>We sat for a while in a cramped room until the anesthesiologist arrived to ask a series of questions. I had some questions of my own. I wanted to know the names of the drugs he would give me and how they all would interact. I wanted to learn everything I could about them before they robbed me of all knowing. The old question kept dogging me: where does my consciousness &ldquo;go&rdquo; when it&rsquo;s no longer animating me?</p>
+
+<p>The anesthesiologist talked about synthetic opiates and a series of gases used for deeper anesthesia while he waggled his foot compulsively. He wanted to move the morning along, to do the thing rather than talk about it.</p>
+
+<p>Dr. Park, the heart surgeon, appeared for a last hand-clasp, and we walked a few steps to the operating room, where I said goodbye to China. Nearby, technicians tended the heart-lung machine, the bubbling mechanical entity to which I was about to entrust my life.</p>
+
+<p>The anesthesiologist asked me to lie down on the surgical bed and arranged my arms, palms up, at forty-five-degree angles out from my shoulders. Through a headset, I listened to my friend Richard Kaplan singing in Hebrew, and then to Coleman Barks reading a poem by Rumi: &ldquo;What was said to the rose that made it open was said / to me here in my chest.&rdquo; And then I was gone.</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">The time under anesthesia is completely unknowable. Only through the awareness of a before and after can we even infer this time existed. Is this what death is like? As a child I obsessed on death, trying unsuccessfully to imagine pure nonbeing. But now, as then, I come upon the age-old epistemological paradox: <em>I</em> experienced nothing. <em>I</em> had ceased to exist.</p>
+
+<p>Awareness resumed in the <span class="smallcaps">ICU</span> &mdash; bodily awareness first: the presence of a thick plastic tube in my throat; pain in my chest when I breathed; voices telling me to breathe; pressure in my bladder; mechanical sounds. I felt a good deal of pain, but it was no worse than other pains I&rsquo;d known. What was new was the huge effort it took to breathe, as if I were at the bottom of an ocean with thousand-pound chains wrapped around my chest. I remembered the breathlessness from my last dive and felt a whisper of panic. But then a technician did something &mdash; added a chemical to the mix that was flowing into my veins, adjusted the ventilator &mdash; and breath came more easily.</p>
+
+<p>China entered the room shortly after that. I wanted to know: was I breathing on my own, or was the ventilator breathing for me? (Both, I found out much later: the ventilator kicks in only when the lungs don&rsquo;t draw an adequate breath.) I felt an urgent need to urinate, but it was all being taken care of: a Foley catheter ran up my urethra and down to a drain bag under the bed.</p>
+
+<p>I had a central line running into my jugular vein and also lines in both wrists. Wires stuck to my chest monitored my heart&rsquo;s electrical output. Two tubes running up into my thoracic cavity drained the fluids that tend to collect around the heart after surgery. I was cocooned in gauze and tape, not the same body that had walked into the hospital a few hours earlier. Not the same body, and not the same consciousness. And yet a wild ecstasy pulsed beneath all the discomfort: I was alive. Unable to speak because of the tube down my throat, I managed to signal to China that I wanted a pencil and pad of paper. I wrote: <em>I&rsquo;m still here.</em></p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">The journey out had been swift; the journey back would require patience. But I had survived the knife and knew I would someday be whole again. To breathe, to know breathing, to see my wife&rsquo;s face and the love it reflected: that was enough. I&rsquo;d experienced similar moments of sufficiency here and there in my life: while making love, while scuba diving, while hiking alone on a coastal trail &mdash; fleeting moments when all striving had ceased. Now that sense was nearly continuous.</p>
+
+<p>After five days in the hospital, I was released. The effort of getting dressed, getting into the car, and readjusting to the strange experience of automotive travel kept me occupied until we were almost home. Then we reached a crest, and the hills and valleys of central Marin lay stretched out ahead of us. There had been a recent rain, and the sun illuminated the towering clouds. The hills glowed. The air was radiant. Something in my chest responded to all that beauty, and I wept with the joy of having been given the world again, new. Lifted by a wave of unconditional love for existence itself, I knew that everything I&rsquo;d been through was worth this moment.</p>
+
+<p>For a few days the painkillers prevented me from concentrating long enough to read, watch <span class="smallcaps">TV</span>, or even listen to news on the radio. I fell into deep sleeps filled with dreams of collapsing buildings and hurtling machines. I tried to write but dozed between sentences. None of this dismayed me. I could still feel ecstasy bubbling through each moment; I could delight in the taste of celery and lemon juice, the music of Beethoven, and the sunlight on a strand of my wife&rsquo;s hair. Even as I tapered off the pain medication, the joy continued.</p>
+
+<p>One afternoon Naomi, my friend and colleague of thirty-five years, came by to help out with some household tasks. As she folded laundry and emptied the dishwasher, we spoke about things that had nothing to do with work or plans or schedules, and I realized that it had been decades since we&rsquo;d talked this way. Other friends came by to prepare meals or walk with me a few yards up the street and back. One said that through visiting me, he had rediscovered what it meant to &ldquo;hang out,&rdquo; something he had not done in many years. Each visitor evoked the same feeling of joy I&rsquo;d had on the drive home from the hospital. I remember telling one friend, with a sense of terrible urgency, that I did not want to lose this feeling. The surgery had truly <em>opened</em> me. I feared that when my body healed, the rest of me would close up again too.</p>
+
+<p>Unfortunately, my fear proved correct. The first change came when the doctors told me I could start driving. No longer dependent on friends to chauffeur me here and there, I could resume my solitary ways. I could <em>do</em> more. As I went back to teaching, writing, bicycling, and planning new projects, the pure, raw delight in every moment became muted. Certainly I took pleasure in resuming the activities that had defined my sense of self, but I was losing something keener than pleasure. As the poet Jack Gilbert writes: &ldquo;We must risk delight. We can do without pleasure / but not delight.&rdquo;</p>
+
+<p>But then even pleasure began to elude me. My emotions jerked me this way and that. I found it hard to judge my physical capacities: I would overdo and then collapse. Even as I became stronger and more stable physically, I felt increasingly vulnerable and frightened. I wept without reason, as if my body itself were crying. At sundown I would get chilled, no matter how warm the evening. Deep in the night, I would wake soaked in sweat. Mornings it took me a long time to rouse myself from bed, unsure just who I was supposed to be. I got angry quicker and more intensely than ever before. In those moments, I didn&rsquo;t know myself. I wondered what had been left behind during surgery. Was my body remembering what my mind had never experienced &mdash; its own dismemberment?</p>
+
+<p>I was still on medical leave from work and had harbored hopes of using the time off to catch up on my writing, but everything I wrote seemed trite and pointless. I was experiencing what might, in other contexts, be called clinical depression, spiritual emergency, the valley of the shadow, the blues, or a nervous breakdown. Still, I managed to meditate every morning, doing <em>vipassana</em>, a Buddhist mindfulness practice. Before the surgery, a teacher had suggested that I also practice <em>metta</em>, or lovingkindness meditation. In <em>metta</em> you silently recite: &ldquo;May all beings be held in compassion. May all beings be free from suffering. May all beings dwell in peace.&rdquo; And then you repeat these phrases with yourself, your loved ones, your friends, your acquaintances, and, finally, your enemies substituted in place of &ldquo;all beings.&rdquo;</p>
+
+<p>On one particular morning, as I asked to be &ldquo;held in compassion,&rdquo; I was flooded with memories from the surgery. They were so vivid, it was as if I existed in two places at once: on my chair at home, and on the surgical bed in the operating room, my hands taped to the bed&rsquo;s extensions as the first chemicals of oblivion reached my veins. The memory triggered an explosion of grief and fear and relief. When the aftershocks had died down, I was left with a sense of abandonment. The bodily part of me, the creaturely, animal part, knew that it had been betrayed.</p>
+
+<p>At other times, though, I remembered just as vividly those moments after the surgery &mdash; coming back to life in the <span class="smallcaps">ICU</span>, being driven home from the hospital, sitting with friends when I was still too weak to do anything but sit &mdash; and felt the joy all over again and wondered at its loss.</p>
+
+<p>One day, as I sat writing at a local cafe, I thought about the first time I had ever taken <span class="smallcaps">LSD</span>. It was forty years ago, in a hilltop house in Morocco that overlooked Tangier and the Strait of Gibraltar. I&rsquo;d been fortunate enough to find a guide who approached the drug as a powerful sacrament and provided a safe, meditative setting in which to experience it. At dusk, along with the American woman and the Danish man I&rsquo;d been staying with, I took a spoonful of bicarbonate of soda laced with the drug and lay down on one of the mats provided. I relinquished my ego and soon entered a state of undifferentiated bliss. I remained in that preverbal, oceanic state until dawn the next day, when I got up off the mat and climbed to the roof. As the sun rose, I could see the Rock of Gibraltar and the strait. Looking down, I saw all manner of creatures taking form and dissolving back into the water, as if I were witnessing the origins of life on the planet.</p>
+
+<p>After breakfast, when our guide told us it was time for us to leave his house and return to Tangier, I felt a cataclysmic sense of loss, as if I&rsquo;d been exiled from Eden. I wept on the rattletrap of a bus all the way back to town.</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">It&rsquo;s no surprise that I recalled that <span class="smallcaps">LSD</span> trip when I did. The first days and weeks after surgery had been a similar time of grace and rebirth. And both times, the second birth had been followed by a long slog through the wilderness as I tried to get back to my &ldquo;normal&rdquo; life. The postrecovery wilderness was entirely internal, but in 1965 the wilderness had been literal as well. After my stay in Tangier, I&rsquo;d hitchhiked across the coastal plains of Algeria and Tunisia, crossed to Sicily, and made my way back to the European mainland before returning to Los Angeles to finish school. I felt utterly out of place at <span class="smallcaps">UCLA</span>. After a year of unrelieved angst, I formed an experimental theater company with a group of friends. We spent long nights in the basement of the theater department, dabbling in psychodrama and nonverbal improvisation. It was a place where I could express my confusion.</p>
+
+<p>I took <span class="smallcaps">LSD</span> several more times, but I never recaptured that complete freedom from discursive thought, the absence of any &ldquo;I.&rdquo; I eventually stopped using drugs and turned to other, less volatile, means of transformation.</p>
+
+<p>These days, I feel best when I&rsquo;m with my grandchildren: River, almost five, and Sebastian, three. They have recently discovered a simple game that fills them with delight: They go into another room while China and I wait, eyes on the doorway. Then they make a Big Entrance, bursting into the room, throwing their arms out wide, and trumpeting their appearance: <em>We were gone, but now we are here!</em> They have discovered theater in its most elemental form, no need for any plot more complicated than entrances and exits. Over and over they appear in the doorway. Sebastian growls like a lion while River sings gibberish. Sometimes they command us to close our eyes, so they can disappear like magic.</p>
+
+<p>Perhaps they&rsquo;re so close to the border between being and not-being that every reappearance &mdash; whether it&rsquo;s bursting into a room, or finding each other in hide-and-seek, or playing a game of peekaboo &mdash; is a rebirth. With each entrance, each moment of discovery, they emerge into being all over again.</p>
+
+<p>And the miraculous itself plays hide-and-seek with us, disappearing while our eyes are closed. Is there a way I could be more like River and Sebastian? Might I wake every day with that sense of breathtaking freshness I felt on the day I came home from the hospital? More and more, my life&rsquo;s meaning resides in cultivating that state of wonder and gratitude. I&rsquo;m coming to believe it&rsquo;s a human birthright. We have, I think, an innate capacity to experience each moment as a new birth, to connect with the world, to celebrate existence. When we lose that capacity, for whatever reason, we become crazy and depressed. We compensate by drinking or shopping or finding someone else to blame for our loss. Ultimately, it might even be the absence of wonder, connection, and joy that allows us to plunder the earth and make endless war.</p>
+
+<p>Ironically, my very yearning for continual rebirth could be the greatest barrier to attaining it. The human habit of preferring one state of being over another, of striving for &ldquo;wholeness&rdquo; or &ldquo;enlightenment,&rdquo; keeps us stuck in our discriminating minds. What I experienced in the <span class="smallcaps">ICU</span> and in the hills of Morocco was a radical acceptance of each moment in its particularity and its fullness.</p>
+
+<p>Yesterday I went back to the headlands and walked the same five-mile loop I had hiked the day before my surgery. Curiously, the physical effects of the surgery were the least noticeable. It&rsquo;s true that I reached the top much faster than I had three months earlier, but that seemed less important than how good it felt to be back in that landscape. Along the ridge toward the ocean, I opened my arms wide. The scar on my chest seemed to line up with the spine of the hill under my feet and the angle of the sun shining down. This scar, this physical emblem of my brokenness and my rebirth, is my new compass.</p>
+														</div>
+
+
+				
+<div class="sharing-bar article-sharing">
+	<div class="sharing-bar-first">
+		<a href="javascript:window.print();" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-printer"></use></svg> <span>Print</span></a>
+	</div>
+
+	<div class="sharing-bar-second">
+		<span class="alt-ff xsmall">Share:</span>
+		<a href="https://www.facebook.com/sharer/sharer.php?u=https://www.thesunmagazine.org/issues/360/still-here" target="_blank" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-facebook"></use></svg> <span>Facebook</span></a>
+		<a href="https://twitter.com/share?url=https://www.thesunmagazine.org/issues/360/still-here&amp;via=thesunmagazine" target="_blank" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-twitter"></use></svg> <span>Twitter</span></a>
+		<a href="#" class="b b-1 b-padding-tight xsmall js-toggle-mail-form"><svg><use xlink:href="#i-email"></use></svg> <span>Email</span></a>
+	</div>
+</div>
+
+<div class="send-to-friend-message-container">
+	<div class="alert alert-success xsmall">Thank you for sharing <em>The Sun</em>.</div>
+</div>
+
+<form method="post" action="/ajax/articles/send-to-a-friend" class="form fill-grey send-to-friend-form">
+		<input type="hidden" id="form_url" name="form[url]" value="https://www.thesunmagazine.org/issues/360/still-here" />
+
+	<ul class="form-fields">
+		<li><label for="form_sender_name"><span class="label-text">Your Full Name</span><span class="label-asterisk">*</span></label><input type="text" id="form_sender_name" name="form[sender_name]" required="required" /></li>
+		<li><label for="form_sender_email"><span class="label-text">Your Email Address</span><span class="label-asterisk">*</span></label><input type="email" id="form_sender_email" name="form[sender_email]" required="required" /></li>
+		<li><label for="form_recipient_name"><span class="label-text">Friend’s Name</span><span class="label-asterisk">*</span></label><input type="text" id="form_recipient_name" name="form[recipient_name]" required="required" /></li>
+		<li><label for="form_recipient_email"><span class="label-text">Friend’s Email Address</span><span class="label-asterisk">*</span></label><input type="email" id="form_recipient_email" name="form[recipient_email]" required="required" /></li>
+		<li><label for="form_message"><span class="label-text">Personalized Message</span></label><textarea id="form_message" name="form[message]"></textarea></li>
+	</ul>
+<div class="send-to-friend-message-container">
+	<div class="alert alert-error xsmall">Something went wrong. Please try again.</div>
+</div>
+
+<div class="g-recaptcha" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs"></div>
+<div class="form-actions"><button type="submit" id="form_submit" name="form[submit]"	class="form-actions-b-primary b b-1 b-loading xsmall"><svg><use xlink:href="#i-loading"></use></svg>
+		Submit
+	</button></div>
+<input type="hidden" id="form__token" name="form[_token]" value="882dde0d3c77dd0944a826ae5c5fcc4098cce2c0" /></form>
+
+<br>
+
+
+
+										<footer class="article-contributor contributors">
+									
+
+<div class="block-contributor">
+			<a href="/contributors/corey-fischer" class="block-contributor-photo">
+		
+		<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 400 400'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/80x80r/2016-06/1105-corey-fischer.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/160x160r/2016-06/1105-corey-fischer.jpg
+	 alt=""
+	 class="lazy">
+
+	</a>
+	
+
+		<div class="block-contributor-content">
+		<div class="block-contributor-bio small">
+			<p><strong><span class="smallcaps">Corey Fischer</span></strong> cofounded the Traveling Jewish Theatre in 1978 and has worked in film, television, and theater for more than thirty-five years. He lives in Kentfield, California.</p><a href="/contributors/corey-fischer" class="block-contributor-link link-alt small">More From This Contributor&nbsp;&#9656;</a>		</div>
+	</div>
+</div>
+
+							</footer>
+						</article>
+
+
+				    <div class="paywall-subscription block-product">
+			<div class="columns">
+			<div class="paywall-banner span3 cta cta-l1">
+				<div class="cta-intro">
+					<h5 class="cta-title alt-ff">One Free Selection Left </h5>
+					<p class="cta-text xsmall"><a class="link-alt" href="https://www.thesunmagazine.org/subscriber/login" data-label="Already a subscriber?">Already a subscriber? Sign in ▸</a><br><br>Read two free selections from <em>The Sun</em> each month.</p>
+				</div>
+			</div>
+			<div class="paywall-banner span9 note note-1 text-center">
+				<h4 class="cta-title alt-ff">Subscribe to <em>The Sun</em> and save 45%</h4>
+				<p class="cta-text xsmall">Subscribers get full access to the current issue and more than 40 years of archives.</p>
+				<a class="b b-1 xsmall cta-trigger"  href="/subscribe1" data-label="Subscribe" data-ctatitle="Subscribe">Subscribe</a>
+			</div>
+		</div>
+
+		<div class="columns">
+			<div class="span12 paywall-cta-bottom">
+				<p>
+					<span class="cta-title-issue">Buy the December 2005 issue for $5.95</span>
+					<span class="xsmall">Order now to get instant access to this issue, and we’ll also send you a print copy.</span>
+					<a class="b b-5 xsmall corona"  href="#" data-product-type="issues" data-id="360" data-label="Order Now ▸">Order Now ▸</a>
+				</p>
+			</div>
+		</div>
+
+		
+
+</div>
+	
+	
+	
+	<div class="spacer"></div>
+	
+
+
+
+		
+		<div class="article-correspondence-cta">
+		<div class="cta cta-l1" data-url="https://www.thesunmagazine.org/letter-to-the-editor">
+			<div class="cta-intro">
+				<h5 class="cta-title alt-ff">Thinking about writing us a letter?</h5>
+				<p class="cta-text">Give in to the temptation. We love getting mail. <br><span class="xsmall">(Of course, we reserve the right to edit.)</span></p>
+			</div>
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" class="cta-button b b-4 b-padding-tight small" data-label="Write Us A Letter!">Write Us A Letter!</a>
+		</div>
+	</div>
+	
+
+			<div class="article-also layout-item-large full-bar fill-grey-mid-light">
+		<div class="layout-item-intro">
+			<h2>Also In This Issue</h2>
+			<a href="/issues/360" class="xsmall link-alt">December 2005&nbsp;&#9656;</a>
+		</div>
+		<div class="issue-articles-l1">
+			<div class="issue-articles-l1-content1">
+				
+<div class="cover cover-l1 block-product">
+	<div>
+							<a href="/issues/360" class="cover-thumb">
+				
+				<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 727'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/import/issue/360.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/561x728r/import/issue/360.jpg
+	 alt=""
+	 class="lazy">
+
+			</a>
+		
+
+													<!-- <a href="/issues/360" data-product-type="issues" data-id="360" data-role="order" class="js-buy-single corona cover-button b b-1 b-full xsmall" data-label="Buy This Issue &#9656;">
+								Buy This Issue&nbsp;&#9656;
+			</a> -->
+			<a href="/issues/360" data-product-type="issues" data-id="360" class="js-buy-single corona cover-button b b-1 b-full xsmall" data-label="Buy This Issue &#9656;">
+								Buy This Issue&nbsp;&#9656;
+			</a>
+					
+					</div>
+</div>
+			</div>
+			<div class="issue-articles-l1-content2">
+				<div class="articles-l3">
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/360/over-the-garden-fence">Over The Garden Fence</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/jane-braswell">Jane Braswell</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/readers-write">Readers Write</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/360/tests">Tests</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/our-readers">Our Readers</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/poetry">Poetry</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/360/selected-poems-stuart-kestenbaum-issue-360">Selected Poems</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/stuart-kestenbaum">Stuart Kestenbaum</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/fiction">Fiction</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/360/the-friend-beside-the-pool">The Friend Beside The Pool</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/david-brendan-hopes">David Brendan Hopes</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+									</div>
+			</div>
+		</div>
+	</div>
+	
+
+			<div class="article-related layout-item-large full-bar fill-pattern-light">
+		<div class="layout-item-intro">
+			<h2>Related Selections</h2>
+			<ul class="list-inline list-inline-tight"><li><a href="/topics/physical-health" class="xsmall link-alt link-text">Physical Health</a></li><li><a href="/topics/medicine" class="xsmall link-alt link-text">Medicine</a></li><li><a href="/topics/fear" class="xsmall link-alt link-text">Fear</a></li><li><a href="/topics/consciousness" class="xsmall link-alt link-text">Consciousness</a></li></ul>		</div>
+
+		<div class="articles-l2">
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/quotations">Quotations</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/356/sunbeams-356">Sunbeams</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li><a href="/issues/356">August 2005</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/356" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 727'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/140x182r/import/issue/356.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/import/issue/356.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/fiction">Fiction</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/342/behold">Behold</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/tim-melley">Tim Melley</a></li><li><a href="/issues/342">June 2004</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/342" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 727'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/140x182r/import/issue/342.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/import/issue/342.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/sy-safranskys-notebook">Sy Safransky&#039;s Notebook</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/322/sy-safranskys-notebook-322">October 2002</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/sy-safransky">Sy Safransky</a></li><li><a href="/issues/322">October 2002</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/322" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 727'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/140x182r/import/issue/322.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/import/issue/322.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/fiction">Fiction</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/166/rock-sitting">Rock Sitting</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/leslie-p-shaver">Leslie P. Shaver</a></li><li><a href="/issues/166">September 1989</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/166" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 725'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/141x182r/import/issue/166.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/281x364r/import/issue/166.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+					</div>
+	</div>
+	
+	
+					<form id="newsletterForm" method="post" action="https://www.thesunmagazine.org/newsletter" data-url-send="https://www.thesunmagazine.org/newsletter" class="form form-newsletter fill-grey" enctype="multipart/form-data" target="_blank">
+
+
+
+		<div class="form-newsletter-intro">
+			<h3 class="alt-ff large">Sign Up For Our Newsletter</h3>
+			<p>We’ll let you know about new website selections, upcoming events, special offers, and more.</p>
+		</div>
+
+		<ul class="form-newsletter-fields form-fields form-fields-inline">
+			<li>
+				<input name="name" type="text" maxlength="500" id="name" placeholder="Your Name">
+			</li>
+			<li>
+				<input name="email" type="text" maxlength="500" id="email" placeholder="Your E-mail">
+			</li>
+
+			<li class="form-fields-inline-button">
+				<button disabled="disabled" class="form-newsletter-send b b-4 b-padding-tight b-loading g-recaptcha" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs" data-callback="recaptcha_callback" name="SubmitButton" id="SubmitButton">
+					<svg><use xlink:href="#i-loading"></use></svg>
+					Sign&nbsp;Up
+				</button>
+			</li>
+		</ul>
+	</form>
+	<script id="hiddenlpsubmitdiv" style="display: none;"></script>
+
+
+
+<footer class="footer brand-grey-dark">
+			<div class="footer-first">
+		<h3 class="footer-tagline">Independent, Reader-Supported Publishing</h3>
+		<p class="footer-desc">In each issue of <em>The Sun</em> you’ll find some of the most radically intimate and socially conscious writing being published today. In an age of media conglomerates, we’re something of an oddity: an ad-free, independent, reader-supported magazine.</p>
+		<ul class="footer-nav list-inline-border xsmall">
+			
+		<li class=" first">
+			<a href="https://www.thesunmagazine.org/about" 	   class=''>
+	   About <em>the Sun</em>	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/staff" 	   class=''>
+	   Staff	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/find-the-sun" 	   class=''>
+	   Find <em>The Sun</em>&nbsp;&nbsp;in a Store Near You	</a>
+		
+	</li>
+
+
+		</ul>
+	</div>
+	
+		<div class="footer-second">
+		<ul class="footer-second-social list-inline">
+			<li><a href="https://www.facebook.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-facebook"></use></svg></span> Like Us</a></li>
+			<li><a href="https://twitter.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-twitter"></use></svg></span> Follow Us</a></li>
+			<li><a href="https://instagram.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-instagram"></use></svg></span> Take a Look</a></li>
+		</ul>
+
+		<div class="footer-second-content">
+			<ul class="footer-nav list-inline-border xsmall">
+				
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/" 	   class='current '>
+	   Home	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/privacy-policy" 	   class=''>
+	   Privacy Policy	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/terms-of-use" 	   class=''>
+	   Terms of Use	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/site-map" 	   class=''>
+	   Site Map	</a>
+		
+	</li>
+
+
+			</ul>
+			<p class="footer-copyright xxsmall">Copyright &copy; 1974–2020 <em>The Sun</em>. All rights reserved.</p>
+		</div>
+	</div>
+</footer>
+
+
+
+<div class="offset-nav">
+	<ul>
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/read" 	   class='current '>
+	   Read	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/issues/current" 	   class=''>
+	   Current Issue	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/archives" 	   class=''>
+	   Archives	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/featured" 	   class=''>
+	   Featured Selections	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/topics" 	   class=''>
+	   Browse Topics	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/sections" 	   class=''>
+	   Browse Sections	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/connect" 	   class=''>
+	   Connect	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/news" 	   class=''>
+	   News from <em>The Sun</em>	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" 	   class=''>
+	   Write a Letter to the Editor	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/discussion-groups" 	   class=''>
+	   Discussion & Writing Groups	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/make-a-suggestion" 	   class=''>
+	   Make a Suggestion	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/submit" 	   class=''>
+	   Submit	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/shop" 	   class=''>
+	   Shop	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/giftsub" 	   class=''>
+	   Gift Subscriptions	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/issues" 	   class=''>
+	   Issues	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+											
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/donatemenu" 	   class='highlight'>
+	   Donate	</a>
+		
+	</li>
+
+		<li class=" last">
+														<a href="/SubscribeNav1" 					   class=''>
+						Subscribe					</a>
+									
+	</li>
+
+
+					<li>
+				<a href="https://www.thesunmagazine.org/shop/cart">Cart ( <span class="cart-item-count">  0  </span>)</a>
+			</li>
+			<li><a href="https://www.thesunmagazine.org/subscriber/login" class="link-header-logout link-alt">Sign In</a></li>
+			</ul>
+	<ul>
+		<li class=" first">
+			<a href="https://www.thesunmagazine.org/about" 	   class=''>
+	   About <em>the Sun</em>	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/staff" 	   class=''>
+	   Staff	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/find-the-sun" 	   class=''>
+	   Find <em>The Sun</em>&nbsp;&nbsp;in a Store Near You	</a>
+		
+	</li>
+
+</ul>
+	<ul>
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/" 	   class='current '>
+	   Home	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/privacy-policy" 	   class=''>
+	   Privacy Policy	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/terms-of-use" 	   class=''>
+	   Terms of Use	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/site-map" 	   class=''>
+	   Site Map	</a>
+		
+	</li>
+
+</ul>
+</div>
+
+<div id="buy-popup-message" class="buy-popup mfp-hide white-popup white-popup-block">
+	<a class="popup-modal-dismiss" href="#"></a>
+	<h5>Due to fulfillment challenges related to the novel coronavirus, print copies are temporarily unavailable for individual sale. We are offering free PDFs until we are able to resume print sales.</h5>
+	<p>Enter your e-mail address below to download this issue.</p>
+	<form method="post" id="download-single" action="https://www.thesunmagazine.org/issue/pdfFree/531.pdf">
+		<label for="email"><span class="label-text">E-mail</span><span class="label-asterisk">*</span></label>
+		<input class="buy-single-email" id="email" type="email" name="email">
+		<button type="send" class="form-buy-issue-send b b-3 b-padding-tight b-loading">Send</button>
+		<button class="form-buy-issue-download b b-3 b-padding-tight b-loading">Download pdf</button>
+		<button type="send" class="popup-modal-dismiss b b-2 b-padding-tight b-loading">Close</button>
+		<div class="g-recaptcha" style="text-align: center" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs"></div>
+
+	</form>
+</div>
+
+			<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/plugins.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/site.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/newsletter.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/js/articles.js"></script>
+		</div>
+		</div>
+
+				<script>
+		(function (doc) {
+			var scripts = doc.getElementsByTagName('script');
+			var script = scripts[scripts.length - 1];
+			var xhr = new XMLHttpRequest();
+			xhr.onload = function () {
+				var div = doc.createElement('div');
+				div.innerHTML = this.responseText;
+				div.style.display = 'none';
+				script.parentNode.insertBefore(div, script);
+			}
+			xhr.open('get', '/theme/thesun//assets/build/img/sprite/sprite.svg', true);
+			xhr.send();
+		})(document);
+
+
+
+		</script>
+
+		<script>
+			// Submit function
+            function recaptcha_callback() {
+						var getUrl = $('.form-newsletter').data( "url-send" ),
+							getName = $('input#name').val(),
+							getEmail = $('input#email').val();
+						$.ajax({
+								type: "POST",
+								url: getUrl,
+								data: {
+									name: getName,
+									email: getEmail,
+									grecaptcharesponse: grecaptcha.getResponse()
+								}
+							}).done(function(response) {
+								console.log(response);
+									$('.form-fields').fadeOut(800, function () {
+										$('.form-fields').empty().append('<div class="newsletter-confirm-message">Thank you for signing up to receive news from <em>The Sun</em>. Your first newsletter will arrive soon.<div>').fadeIn(800);
+									});
+							});
+			}
+
+		</script>
+
+		<script>
+			function getUrlCode() {
+				var url_string = window.location.href;
+				var url = new URL(url_string);
+				var c = url.searchParams.get('promotion\_key');
+				if (typeof c !== 'undefined' && c !== null) {
+					setCookie("promotion_code",c);
+				}
+			}
+
+			function setCookie(cname, cvalue) {
+				document.cookie = cname + "=" + cvalue + ";" + "path=/";
+			}
+
+			function getCookie(cname) {
+				var name = cname + "=";
+				var decodedCookie = decodeURIComponent(document.cookie);
+				var ca = decodedCookie.split(';');
+				for(var i = 0; i <ca.length; i++) {
+					var c = ca[i];
+					while (c.charAt(0) == ' ') {
+						c = c.substring(1);
+					}
+					if (c.indexOf(name) == 0) {
+						return c.substring(name.length, c.length);
+					}
+				}
+				return "";
+			}
+			window.addEventListener( "load", getUrlCode );
+		</script>
+
+
+	</body>
+</html>

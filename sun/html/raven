@@ -1,0 +1,1305 @@
+
+<!DOCTYPE html>
+<html class="no-js" lang="en-US">
+	<head>
+		<title>Raven - The Sun Magazine</title>
+
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		
+		<meta name="viewport" content="width=device-width, minimum-scale=1.0">
+
+		<link rel="dns-prefetch" href="//ajax.googleapis.com">
+		<link rel="dns-prefetch" href="//use.typekit.net">
+		
+		<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/modernizr.js"></script>
+		<script src="https://www.google.com/recaptcha/api.js"
+				async defer>
+		</script>
+
+		<script>(function(d) { var config = { kitId: 'kzw7ebk', scriptTimeout: 3000, async: true }, h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s) })(document);</script>
+
+
+				
+		<link rel="apple-touch-icon" sizes="57x57" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-57x57.png?v=2016">
+		<link rel="apple-touch-icon" sizes="60x60" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-60x60.png?v=2016">
+		<link rel="apple-touch-icon" sizes="72x72" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-72x72.png?v=2016">
+		<link rel="apple-touch-icon" sizes="76x76" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-76x76.png?v=2016">
+		<link rel="apple-touch-icon" sizes="114x114" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-114x114.png?v=2016">
+		<link rel="apple-touch-icon" sizes="120x120" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-120x120.png?v=2016">
+		<link rel="apple-touch-icon" sizes="144x144" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-144x144.png?v=2016">
+		<link rel="apple-touch-icon" sizes="152x152" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-152x152.png?v=2016">
+		<link rel="apple-touch-icon" sizes="180x180" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-180x180.png?v=2016">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-32x32.png?v=2016" sizes="32x32">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/android-chrome-192x192.png?v=2016" sizes="192x192">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-96x96.png?v=2016" sizes="96x96">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-16x16.png?v=2016" sizes="16x16">
+		<link rel="mask-icon" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/safari-pinned-tab.svg?v=2016" color="#444444">
+		<link rel="shortcut icon" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon.ico?v=2016">
+		<meta name="apple-mobile-web-app-title" content="The Sun Magazine">
+		<meta name="application-name" content="The Sun Magazine">
+		<meta name="msapplication-TileColor" content="#fcc330">
+		<meta name="msapplication-TileImage" content="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/mstile-144x144.png?v=2016">
+		<meta name="theme-color" content="#ffffff">
+
+				<link rel="stylesheet" type="text/css" href="https://cloud.typography.com/6578674/659928/css/fonts.css" />
+		<link rel="stylesheet" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/css/style.css">
+
+																		<meta property="og:site_name" content="The Sun Magazine">
+		<meta property="og:type" content="article">
+		<meta property="og:url" content="https://www.thesunmagazine.org/issues/383/raven">
+		<meta property="og:image" content="http://www.thesunmagazine.org/files/2016-10/383-24-peterson-preview.jpg">
+		<meta property="og:title" content="Raven - The Sun Magazine">
+		<meta property="og:description" content="I stared up, astonished. I thought, They are actually throwing rocks at me. The behavior is not unheard of. Ravens are known to defend their nests with such actions, but there was no nest here. This was the wrong time of year.">
+		<meta property="fb:app_id" content="158741778010551">
+
+						<link rel="image_src" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.comhttp://www.thesunmagazine.org/files/2016-10/383-24-peterson-preview.jpg">
+
+												<meta name="twitter:card" content="summary">
+		<meta name="twitter:title" content="Raven - The Sun Magazine">
+		<meta name="twitter:description" content="I stared up, astonished. I thought, They are actually throwing rocks at me. The behavior is not unheard of. Ravens are known to defend their nests with such actions, but there was no nest here. This was the wrong time of year.">
+		<meta name="twitter:image" content="http://www.thesunmagazine.org/files/2016-10/383-24-peterson-preview.jpg">
+		<meta name="twitter:site" content="@thesunmagazine">
+
+				<link rel="publisher" href="https://plus.google.com/113792980827145858211">
+        
+		<meta name="Description" content="I stared up, astonished. I thought, They are actually throwing rocks at me. The behavior is not unheard of. Ravens are known to defend their nests with such actions, but there was no nest here. This was the wrong time of year.">
+
+		
+		<!-- Google Tag Manager -->
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-TKBHCCG');</script>
+		<!-- End Google Tag Manager -->
+
+		<!-- Google Analytics -->
+		<script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+            ga('create', 'UA-2351127-1', 'auto');  // Replace with your property ID.
+            ga('send', 'pageview');
+            ga('require', 'ecommerce');   // Load the ecommerce plug-in.
+		</script>
+		<!-- End Google Analytics -->
+	</head>
+	<body id="">
+
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TKBHCCG"
+		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+		<header class="header" data-offset-start="80">
+		<div class="header-utilities">
+				<ul class="header-utilities-user list-inline list-inline-tight xxsmall">
+							<li>
+					<span class="header-utilities-user-intro">Already A Subscriber?</span> &nbsp;
+					<a href="https://www.thesunmagazine.org/subscriber/login" class="link-text link-alt">Sign In</a>
+				</li>
+					</ul>
+		<a href="https://www.thesunmagazine.org/shop/cart" class="header-utilities-cart  link-alt link-icon tiny">
+			<span class="i"><svg><use xlink:href="#i-cart"></use></svg></span>
+			<span class="cart-item-count">
+									0 Items
+				
+			</span>
+		</a>
+			</div>
+
+		<div class="header-bar">
+		<h1 class="header-logo logo">
+			<a href="/">
+				<img src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/img/logo-thesun.svg" class="logo-thesun" alt="The Sun Magazine">
+				<img src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/img/logo-tagline.svg" class="logo-tagline" alt="">
+			</a>
+		</h1>
+
+		<ul class="header-nav">
+			
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/read" 	   class='current '>
+	   Read	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/issues/current" 	   class=''>
+	   Current Issue	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/archives" 	   class=''>
+	   Archives	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/featured" 	   class=''>
+	   Featured Selections	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/topics" 	   class=''>
+	   Browse Topics	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/sections" 	   class=''>
+	   Browse Sections	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/connect" 	   class=''>
+	   Connect	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/news" 	   class=''>
+	   News from <em>The Sun</em>	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" 	   class=''>
+	   Write a Letter to the Editor	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/discussion-groups" 	   class=''>
+	   Discussion & Writing Groups	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/make-a-suggestion" 	   class=''>
+	   Make a Suggestion	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/submit" 	   class=''>
+	   Submit	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/shop" 	   class=''>
+	   Shop	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/giftsub" 	   class=''>
+	   Gift Subscriptions	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/issues" 	   class=''>
+	   Issues	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+											
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/donatemenu" 	   class='highlight'>
+	   Donate	</a>
+		
+	</li>
+
+		<li class=" last">
+														<a href="/SubscribeNav1" 					   class=''>
+						Subscribe					</a>
+									
+	</li>
+
+
+		</ul>
+
+		<button class="header-nav-toggle"><svg><use xlink:href="#i-menu" class="i-menu"></use><use xlink:href="#i-close" class="i-close"></use></svg></button>
+		<button class="header-search-toggle" data-form-wrapper=".header-search"><svg><use xlink:href="#i-magnifier" class="i-magnifier"></use><use xlink:href="#i-close" class="i-close"></use></svg></button>
+	</div>
+
+		<div class="header-search">
+		<div class="header-search-content">
+			<form action="https://www.thesunmagazine.org/search" class="form form-search" method="get">
+				<h2 class="alt-ff brand-link">Search Our 40 Years of Archives</h2>
+				<ul class="form-search-fields form-fields form-fields-inline">
+					<li><input type="text" name="q" value=""></li>
+					<li class="form-fields-inline-button"><button class="b b-1 b-padding-tight b-loading"><svg><use xlink:href="#i-loading"></use></svg>Search</button></li>
+				</ul>
+
+				<div class="header-search-content-shortcuts">
+					<h6 class="search-advanced alt-ff"><a class="js-handle-advanced" href="https://www.thesunmagazine.org/search?advanced=1">Advanced Search</a></h6>
+					<br>
+					<h6 class="alt-ff">Popular Pages</h6>
+					<ul class="list-inline-border list-inline-tight xxsmall"><li class=" first"><a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a></li><li class=""><a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a></li><li class=""><a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a></li><li class=""><a href="https://www.thesunmagazine.org/sections/quotations" 	   class=''>
+	   Quotations	</a></li><li class=""><a href="https://www.thesunmagazine.org/sections/readers-write" 	   class=''>
+	   Readers Write	</a></li><li class=" last"><a href="https://www.thesunmagazine.org/sections/poetry" 	   class=''>
+	   Poetry	</a></li></ul>				</div>
+			</form>
+		</div>
+	</div>
+</header>
+
+	<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+	<script type="text/javascript">
+		$(document).ready(function() {
+			$('.js-handle-advanced').on('click', function (e) {
+				e.preventDefault();
+				var getSearchValue = $('.form-search-fields input').val();
+				var getURL = $(this).attr('href');
+				var newURL = getURL + '&q=' + getSearchValue;
+				window.location.href = newURL;
+			});
+		});
+	</script>
+
+		<div class="container-hidden">
+		<div class="container">
+
+				
+	
+	<article class="article ">
+		<header class="block-content block-content-l1 block-content-center">
+						<div class="block-content-header">
+				<h6 class="b-content-section heading-square"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+				<h1 class="block-content-title">Raven</h1>
+
+				
+				<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/craig-childs">Craig Childs</a></li><li><a href="/issues/383">November 2007</a></li></ul>
+
+			</div>
+
+																			
+
+				<figure class="block-content-photo block-content-photo-large photo photo-outset-center-small">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 1544 1960'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/772x980r/photos/383-24-peterson.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/1544x1960r/photos/383-24-peterson.jpg
+	 alt="383 - Peterson - Childs"
+	 class="lazy">
+
+										<figcaption>
+
+						
+																				<div class="photo-credit">
+								&copy;&nbsp;<a href="/contributors/brian-peterson">Brian H. Peterson</a>
+							</div>
+																		</figcaption>
+									</figure>
+
+					</header>
+
+				<div class="article-body link-text-wrap">
+																		<p class="dropcap">When the first raven came, it was alone, a piece of blackness laboring across a cold dawn sky. I, too, was alone, walking on a winter morning in southeast Utah, crossing a hard desert basin studded with towers of eroded rock. With nothing else but Jurassic sandstone to look at, the raven and I took an immediate interest in one another. The coal-colored bird turned its head midair, its powerful beak pointing at me like a librarian&rsquo;s finger. I stopped and watched it go by.</p>
+
+<p>It was a big bird, a sorcerer wearing sleek black robes, its two talons tucked against its body as if each grasped a pearl. It altered its path slightly, making a jog around me, its wings laid out as it banked twenty feet off the ground. When it swept in close, I said good morning to it. Startled by my voice, the raven veered away from me. Its wings beat loudly as it let out a cough of a sound, a surprised <em>quork</em>, and then flew back to wherever it was going.</p>
+
+<p>Out of habit I followed the raven with my eyes, setting a line through the air, guessing where it might be heading. Ravens are always up to something. They are scheming birds: tricksters, pickpockets, scavengers. At this point I had been out walking for twenty-some days, and besides my three human companions, ravens were among the few creatures I&rsquo;d witnessed on these desolate, undulating horizons. After many years of exploring out here as a desert ecologist, I&rsquo;d learned that ravens are in charge of the desert. They use this Dr. Seuss topography of arches and spires as if in a circus, diving in and out of hoops, tucking into barrel rolls, strutting on cliff tops, fanning their feathers with an accompaniment of squawks and gripes. Every time I see them, I wonder what they are plotting, but they are gone before I can follow them, slipping over the edge of a cliff into canyons below.</p>
+
+<p>Maybe I could follow this one, find out what it was doing this morning. I watched as it kept a straight course across the basin, passing natural rock towers that stood like old chimneys whose houses had burned down long ago. It seemed a bit early for a raven to be out. Usually they wait for the sun, getting up in time to rise along a cliff&rsquo;s warming south face. Perhaps this one had an animal carcass to attend to &mdash; some dead, gristly heap of half-frozen bones belonging to a mule deer or bighorn sheep. When I projected the raven&rsquo;s flight path, however, it aimed into a bay of cliffs that had no exit, a curious destination. It entered the bay without altering its track. I thought it had better start working to get some elevation; otherwise it would smack into the rock face. But the raven kept on, as if it knew something I did not.</p>
+
+<p>Without hesitation or even slowing the beating of its wings, the raven flew straight into the wall of stone and vanished. I frowned, not sure of what I had just seen. I looked at the cliff the way you might tilt your head at a magician&rsquo;s trick.</p>
+
+<p>I admit that for a second I thought a raven had truly vanished before my very eyes. They are fabled animals, after all, full of omens. I thought of them as dark witches brooding in their canyons, stirring up trouble. I knew them to be great orators, their debates delivered loudly from cliff top to cliff top with encyclopedic vocabularies. I had never seen one vanish into a cliff face, though.</p>
+
+<p>As I looked closer, I began to see the raven&rsquo;s hoax. A thin shadow line appeared near the bottom of the cliff among skirts of fallen boulders. The shadow was a canyon mouth, a narrow crack opening into bedrock. Ravens know every turn of this country, every trick of stone. This one had shot into an obscure canyon. But why? What was it doing in there, especially at this early hour?</p>
+
+<p>To find out, I aimed for this splinter of canyon. I walked across sand washes and brittle earth, and the canyon began opening wider. I wore gloves with no fingertips and carried only a satchel. The rest of my gear had been left at camp. I was out looking for routes this morning, scouring the country ahead. Maybe this raven had a clue for me. Or, even better, maybe I could sneak up on it and see what kind of mischief it was performing with nobody around to watch it.</p>
+
+<p>Of all bird species, <em>Corvus corax</em>, the raven, is the one I most want to spy on. When an avian <span class="smallcaps">IQ</span> scale, based on the number of novel feeding behaviors any bird species exhibits, was recently invented by a Canadian researcher, ravens outranked all other birds. They pull up baited fishing lines by stepping on the line, then reeling in slack with their beaks. They do this again and again until they get the fish. Ravens also poke sticks into holes, bend wire to hook meat from between cracks, unzip backpacks, and open ice chests. Interacting in hierarchical, packlike fashion, they feed on carcasses torn open by ground predators. On occasion they even capture their own small prey, clubbing mice with rocks or sticks, snatching up snakes and dropping them out of the sky to kill them, or pecking smaller birds into lumps of feathers and blood.</p>
+
+<p>Since the raven is a proven tool user, it stands with humans as a proud minority: the class of the spatially gifted. All sorts of tests have been set up to examine this: experiments with mazes, mirrors, and mechanical problem-solving puzzles. In one recent raven trial it was soundly demonstrated that the raven has the ability to follow another&rsquo;s gaze. For example, if you glance at a peanut with interest, a raven turns to see what you&rsquo;re looking at. This is a skill documented only among the smartest animals, especially those with tight social networks like wolves and primates.</p>
+
+<p>When research revealed that ravens top the avian <span class="smallcaps">IQ</span> chart, many birders were disappointed. They had hoped for parrots or macaws &mdash; colorful, talkative birds &mdash; or maybe songbirds. But instead the king is this gloomy, oversized corvid. (Other birds in the corvid family include crows, magpies, and jays.)</p>
+
+<p>I happened to be in the center of a raven kingdom, where there were no trees to obscure them and very few other animals to attract my attention. As I walked on, hoping to catch this raven in some candid act, I heard something behind me. I turned and spotted three more ravens as they dropped over a nearby cliff edge. They were effusive as they passed into the basin&rsquo;s airspace, chatting at each other with guttural voices. Two nearly touched wingtips, and the third lagged about twenty yards behind, trying to catch up. As soon as they saw me, they went silent.</p>
+
+<p>I turned on the axis of my worn leather boots and continued watching these three large ravens swerve around high stabs of rock the way city birds navigate skyscrapers. They aimed straight for the same canyon where I had lost sight of the first raven. Now I was certain that something had died in the canyon, and the ravens were gathering for breakfast.</p>
+
+<p>One after the next, the three ravens vanished between overlapping cliff walls. I picked up my stride.</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">The canyon was larger than I&rsquo;d imagined. Its mouth stood before me, twin walls of eroded sandstone rising three or four hundred feet in the air. I walked inside, following a slim, dry wash at the bottom. I began to shrink, my sense of scale recalibrated by fallen boulders as big as buildings. I stepped through wells of shadows. Rock slides had been breached by flash floods, and whole sections of canyon had fallen in on themselves, leaving jags of boulders stuck up into the air. The walls skinnied down to a narrow passage. The sky became small.</p>
+
+<p>I expected to come around the corner and see a gang of sloppy ravens devouring a dead bighorn sheep. I lightened my step so they would not hear me. I thought I would creep up on them and study their behavior, like a child watching his parents through a door cracked open. Instead I came around the corner and saw that the ravens had been expecting me.</p>
+
+<p>Surprised, I stopped and stared. There were far more than the four I&rsquo;d anticipated. At first glance, I figured there were fifteen, each silently perched on a ledge or boulder tip. They looked like a flock of conspiracy theorists, convened here with secret knocks and handshakes. I did not move. I did not crack a smile. A few ravens leaned forward for a better look at me. Some others peered over their shoulders, as if interrupted, glancing to see who had walked in on their somber affair. I felt embarrassed. I had come in without knocking, without knowing the password.</p>
+
+<p>In the past I had seen ravens flying to places like this, waves of them coming in over the hours, but never before had I found the actual location. The next question burned in my mind: What were they doing here?</p>
+
+<p>After a minute of all of us doing nothing, I began moving again, but very slowly. The nearest ravens seemed to become agitated as I came closer. A few petulantly flexed their wings and started cawing, their tones crass, brought up from deep in their throats. I could not possibly be a threat to them so high up on their ledges. Why were they getting upset?</p>
+
+<p>The ravens&rsquo; voices turned rough and vulgar. They were definitely talking, making some kind of announcement. I tried to interpret their chatter, but all I heard was a darkening dome of sound closing over my head.</p>
+
+<p>They began leaping from perches, opening their deep black wings to catch the air. My pace faltered. Their voices became riotous and even more demanding as ravens crossed the canyon back and forth above me. I knew there had to be a simple explanation.</p>
+
+<p>Ravens are mobbers; that much I knew. They frequently gang up on invaders, generally the likes of hawks, eagles, or owls, pecking the backs of their heads, getting in their faces and screaming. They have a sense of appropriateness, attacking something that is out of place when the time is right, including assailing each other if a particular raven gets out of line. They are skilled at combining sound, motion, and direct attack with open talons from all angles to drive out, or at least befuddle, a trespasser. Ravens have sophisticated territorial boundaries. They have hierarchies, societies even: families, unions, gangs, and enemies. I was obviously an outsider, enough of an impostor to warrant a mobbing.</p>
+
+<p>I kept walking deeper into the canyon. The ravens became even more distressed, and I along with them. They swept low, close to my head. Their voices rang with even louder alarm. The air filled with black flurries, and I walked with my head hunched down into my shoulders. Ravens are large birds: heavy-breasted, big-winged, feathers gleaming like obsidian. These were especially large, overwhelming my senses. With nagging movements one raven used its beak to push a pebble off a ledge. The pebble fell fifty feet and landed on the ground some distance from me.</p>
+
+<p>&ldquo;Listen to us!&rdquo; the ravens seemed to exclaim.</p>
+
+<p>&ldquo;I don&rsquo;t speak your language,&rdquo; I called out suddenly, exasperated.</p>
+
+<p>Hearing my voice, they became more infuriated. I was dizzy, watching ravens flash around me, and I could barely stand, crushed by their blockade. I stumbled and found myself on my knees in the sand, a hand planted for support.</p>
+
+<p>&ldquo;Listen to us!&rdquo; they kept crying. &ldquo;This is not your place!&rdquo;</p>
+
+<p>Suddenly I felt something the size and weight of a pebble hit my back. I looked behind me. Another raven flew in, quickly transferred a pebble from its talon to its beak, and then released it above me. The pebble barely missed me, making a dimple in the sand near my knee.</p>
+
+<p>I stared up, astonished. I thought, <em>They are actually throwing rocks at me</em>. The behavior is not unheard of. Ravens are known to defend their nests with such actions, but there was no nest here. This was the wrong time of year.</p>
+
+<p>The only thing I saw out of place was a feather trapped beneath a stone in the middle of the wash. It was all that caught my eye, not enough to answer any questions. I stood and slowly backed away. For a moment I considered having to fight off these ravens barehanded. Such an idea was too ludicrous to consider for more than an instant: me flailing bloody hands against them, picking up rocks and pegging ravens out of the air to save myself. I was pretty sure that was not going to happen. But what did I know?</p>
+
+<p>I kept backing away, and the ravens calmed a bit. Some flew back to their places, voices simmering, until there was only light protest. Others spiraled upward, rising like a swirl of black wind between the cliffs. Those who stayed ruffled their neck and wing feathers. They looked like judges settling into their chairs, eyes grave, heads turned toward me, waiting for my imminent departure.</p>
+
+<p>I could not stay. I turned and walked out of the canyon through eroded stone gates, my mind blank with confusion. There had to be a reason for what I had just witnessed.</p>
+
+<p><figure class="photo photo-outset-center-small">
+	<div>
+					<div>
+				<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 1960 2864'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/780x1140r/photos/383-27-hogan.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/1560x2280r/photos/383-27-hogan.jpg
+	 alt="383 - Hogan - Childs"
+	 class="lazy">
+
+									<figcaption>
+																											<div class="photo-credit">
+																			© <a href="https://www.thesunmagazine.org/contributors/jamie-hogan">
+											Jamie
+																						Hogan
+										</a>
+																	</div>
+																								</figcaption>
+							</div>
+			</div>
+</figure>
+</p>
+
+<p class="dropcap">Back in the desert, my three companions were nowhere to be seen. We had scattered at dawn, vanishing into miles of stone. I had to find them before nightfall. I wanted to bring them back to this canyon and show them this spectacle.</p>
+
+<p>It took about five hours to collect my cohorts. They looked like mad desert folk with their full beards and heavily abraded gear and clothing. Tidy as one might be, you cannot help but appear this way after enough time traveling over rock piles. I told them what had happened. There was no need for protracted discussion. For those of us who travel in this spartan terrain, ravens have become gods. An observation like mine is a breakthrough, a glimpse into a world otherwise kept invisible to us. November sunlight slanted between rock towers, inclining toward evening, as we walked quickly to the canyon.</p>
+
+<p>One of my friends, a tall, handsome man, led the way, following my earlier tracks. He was a raven talker; over time in the wilderness he&rsquo;d acquired the skill of talking to ravens using their own vocal styles. This is not to suggest he understands them, or they understand him, but I have seen him carry on fifteen-minute dialogues with the birds, imitating them, cawing back and forth. Once I tried calling a raven in his presence, and he turned to me and said, &ldquo;That sounds more like a crow.&rdquo; I have never since mimicked a raven in his company.</p>
+
+<p>The raven talker was the most curious of us. He got well ahead, disappearing into the canyon. When we came up behind him, we found him standing still. The ravens that were watching him lifted their heads to peer at the rest of us.</p>
+
+<p>&ldquo;Very strange,&rdquo; the raven talker said.</p>
+
+<p>Some of the ravens I&rsquo;d seen earlier had flown away. Eight or ten remained. I wondered if they remembered me. It felt like it. Among their many uncanny talents, ravens can pick out and recall the facial features of an individual.</p>
+
+<p>We continued into the canyon, and the ravens again unfolded their wings and began calling. They were more reserved this time, not so quick to act. Maybe they felt outnumbered. Still, some left their perches and swung through the air from one side of the canyon to the other. Irritated, gravelly voices called down to us. One picked up a pebble with its beak and tossed it in our direction.</p>
+
+<p>Never had any of my companions, even the raven talker, seen such a gathering. They were in awe, their dirty faces tilted up. We had found the secret place where ravens go, a party where we were not welcome.</p>
+
+<p>&ldquo;Something happened here,&rdquo; the raven talker said resolutely. &ldquo;The ravens are protecting this place.&rdquo;</p>
+
+<p>I showed him the stone I had noticed earlier, the one capping a feather on the ground. Beneath a siege of protesting ravens, he knelt, lifted the stone, and picked up the feather.</p>
+
+<p>&ldquo;Owl,&rdquo; he said.</p>
+
+<p>My first thought was that an owl must have been caught in a rockfall or been brought in by a small flood. But the owl feather the raven talker turned between his fingers was clean and undamaged. He looked up at the ravens, puzzled, and then looked back at the feather.</p>
+
+<p>&ldquo;The ravens put it here,&rdquo; he said. &ldquo;They stuck it under this rock. That&rsquo;s why they&rsquo;re here.&rdquo;</p>
+
+<p>For me, his words were as good as any researcher&rsquo;s. He had been with ravens for a long time out here. He is not one to utter unfounded theories. We began looking around and quickly came upon more owl feathers that had been stuck in rock cracks and laid atop boulders. We called them out as we found them: five, ten, fifteen owl feathers, each carefully positioned. Those the wind might disturb had been put under rocks. Some feathers had been furiously pecked apart, their quills turned to pulp. Others stuck out of crevices high overhead. This was not an owl losing some of its feathers. This was an owl losing everything.</p>
+
+<p>I climbed to a ledge and found what looked like an altar: a stack of feathers, their quills shredded by raven pecks. I picked one up, and the ravens became incensed. I looked up at them accusingly and said, &ldquo;What happened here?&rdquo;</p>
+
+<p>It seemed that ravens had mobbed and killed an owl. It was a rare occurrence. Usually ravens will surround an owl, beating their wings and swooping in as close as they can get until the owl flies away to find some other place to wait for nightfall, when it can start hunting. Owls are raven killers. This time ravens had turned the tables. They&rsquo;d actually brought down an owl. They must have cornered it in a canyon and torn it apart. Then, like hanging victory flags, they&rsquo;d cached its feathers all around. This was a kill site, a raven triumph.</p>
+
+<p>This mobbing-and-killing explanation made sense, but what about the feather caching? I knew ravens hide their food, sometimes in surprisingly methodical ways, but this was not food. There was no functional necessity I could see in this deed. Researchers believe that among corvids caching behavior has actually led to larger brains. In order to keep track of where many items have been placed, parts of the brain &mdash; namely the hippocampus, which is directed toward spatial memory &mdash; are physically expanded. In the case of ravens, perhaps the brain grew large enough to conceive of abstractions, giving meaning to owl feathers, which sent these birds into the cliffs, where they performed a symbolic act of domination.</p>
+
+<p>Ravens have been known to murder, meaning they sometimes kill without eating. The raven biologist Bernd Heinrich has reported ravens killing their own kind, an act that Heinrich believes to be a form of maintaining social order. In one case he documented four related ravens attacking and killing a lone raven that was trying to eat their food. Even when the stranger prostrated herself and made ceaseless gestures of subservience, the others did not relent. They pecked out her eyes and killed her. Ravens have rules and stigmas that maintain community order, and violating these rules results in reprimands, banishment, attacks, or even death.</p>
+
+<p>What we found in a remote, nameless canyon was the commemoration of the ravens&rsquo; victory over their ultimate enemy: an owl. It was a long time coming. They enshrined the dead owl&rsquo;s feathers and gathered, perhaps every morning, to remember what they had done.</p>
+
+<p>With a clutch of owl feathers in my hand, I noticed my friend, the raven talker, deep in conversation on the canyon floor. He was throwing a volley of sounds at a single raven, who came back at him with equal vigor. The raven strutted, knocked back its wings, flushed its throat feathers, and my friend did as much of the same as he could. For a good half-hour the two kept up their animated display, my friend standing on the ground, the raven perched upon a pulpit of rock above him. Enough was enough, though. This was their place, their kill. We had no right to it. We were strangers. We replaced all the owl feathers where we&rsquo;d found them and slowly backed away, allowing the ravens to settle. One by one, they flew to their perches and straightened their feathers. We turned and left them alone.</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">That night we sat in the dark, no fire to light our camp, only a bath of stars. Eating dinner from battered metal pots, we discussed what we had seen. We agreed that ravens living in this desert probably formed long-lasting alliances. The same families may have been here for centuries, if not thousands of years. Given their known tendency to have regional variations in behavior and vocalizations, these groups were probably insulated out here, becoming clans of a sort, each belonging to its own part of the land. Why not imagine that they had made covens of themselves, secret societies gathered inside lost canyons? Why not envision places that live in raven memory because of events that happened there? Ravens, after all, can remember detailed events from certain places. Researchers have noticed that if something catastrophic occurs in a nesting area, dramatically reducing raven breeding success, the next season the same ravens do not come back. When a power line is cleaned of nests, the ravens will not return, even if they have been profitably nesting there for generations. It is as if they have taboos. Most birds come back no matter how many nests they lose within the space of several generations. Consider woodpeckers dauntlessly returning to plugged holes, and swallows rebuilding nests knocked down season after season. Ravens have memory, history. They remember the stories of places.</p>
+
+<p>They also have rituals to which strangers are not permitted access. We were a clumsy aberration barging in unannounced. We would pack our things and go, but the ravens would remain, shoulders hunched, sovereigns of their desert domain.</p>
+
+<hr />
+<p><em>This essay is part of Craig Childs&rsquo;s forthcoming book </em>The Animal Dialogues: Uncommon Encounters in the Wild<em>, which chronicles the desert ecologist&rsquo;s intimate encounters with a variety of animal species in the American and Canadian West. The book will be published by Little, Brown and Company in December. </em>&copy; <em>Copyright 2007 by Craig Childs.</em></p>
+
+<p class="text-right"><em>&mdash; Ed.</em></p>
+														</div>
+
+
+				
+<div class="sharing-bar article-sharing">
+	<div class="sharing-bar-first">
+		<a href="javascript:window.print();" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-printer"></use></svg> <span>Print</span></a>
+	</div>
+
+	<div class="sharing-bar-second">
+		<span class="alt-ff xsmall">Share:</span>
+		<a href="https://www.facebook.com/sharer/sharer.php?u=https://www.thesunmagazine.org/issues/383/raven" target="_blank" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-facebook"></use></svg> <span>Facebook</span></a>
+		<a href="https://twitter.com/share?url=https://www.thesunmagazine.org/issues/383/raven&amp;via=thesunmagazine" target="_blank" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-twitter"></use></svg> <span>Twitter</span></a>
+		<a href="#" class="b b-1 b-padding-tight xsmall js-toggle-mail-form"><svg><use xlink:href="#i-email"></use></svg> <span>Email</span></a>
+	</div>
+</div>
+
+<div class="send-to-friend-message-container">
+	<div class="alert alert-success xsmall">Thank you for sharing <em>The Sun</em>.</div>
+</div>
+
+<form method="post" action="/ajax/articles/send-to-a-friend" class="form fill-grey send-to-friend-form">
+		<input type="hidden" id="form_url" name="form[url]" value="https://www.thesunmagazine.org/issues/383/raven" />
+
+	<ul class="form-fields">
+		<li><label for="form_sender_name"><span class="label-text">Your Full Name</span><span class="label-asterisk">*</span></label><input type="text" id="form_sender_name" name="form[sender_name]" required="required" /></li>
+		<li><label for="form_sender_email"><span class="label-text">Your Email Address</span><span class="label-asterisk">*</span></label><input type="email" id="form_sender_email" name="form[sender_email]" required="required" /></li>
+		<li><label for="form_recipient_name"><span class="label-text">Friend’s Name</span><span class="label-asterisk">*</span></label><input type="text" id="form_recipient_name" name="form[recipient_name]" required="required" /></li>
+		<li><label for="form_recipient_email"><span class="label-text">Friend’s Email Address</span><span class="label-asterisk">*</span></label><input type="email" id="form_recipient_email" name="form[recipient_email]" required="required" /></li>
+		<li><label for="form_message"><span class="label-text">Personalized Message</span></label><textarea id="form_message" name="form[message]"></textarea></li>
+	</ul>
+<div class="send-to-friend-message-container">
+	<div class="alert alert-error xsmall">Something went wrong. Please try again.</div>
+</div>
+
+<div class="g-recaptcha" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs"></div>
+<div class="form-actions"><button type="submit" id="form_submit" name="form[submit]"	class="form-actions-b-primary b b-1 b-loading xsmall"><svg><use xlink:href="#i-loading"></use></svg>
+		Submit
+	</button></div>
+<input type="hidden" id="form__token" name="form[_token]" value="6cd4374241d8fb54d624b77899b579e5faa242eb" /></form>
+
+<br>
+
+
+
+										<footer class="article-contributor contributors">
+									
+
+<div class="block-contributor">
+		
+
+		<div class="block-contributor-content">
+		<div class="block-contributor-bio small">
+			<p><strong><span class="smallcaps">Craig Childs</span></strong> lives with his wife and two sons in the West Elk Mountains of Colorado. He recently completed a descent of an uncharted river in Tibet: 180 miles of deep gorges, white water, and villagers aghast at his and his companions&rsquo; presence. He also enjoys long walks, the longest of which so far was 120 days in the Grand Canyon. His books include <em>House of Rain: Tracking a Vanished Civilization across the American Southwest</em> (Little, Brown and Company) and <em>The Way Out: A True Story of Ruin and Survival</em> (Back Bay Books).</p><a href="/contributors/craig-childs" class="block-contributor-link link-alt small">More From This Contributor&nbsp;&#9656;</a>		</div>
+	</div>
+</div>
+
+							</footer>
+						</article>
+
+
+				    <div class="paywall-subscription block-product">
+			<div class="columns">
+			<div class="paywall-banner span3 cta cta-l1">
+				<div class="cta-intro">
+					<h5 class="cta-title alt-ff">One Free Selection Left </h5>
+					<p class="cta-text xsmall"><a class="link-alt" href="https://www.thesunmagazine.org/subscriber/login" data-label="Already a subscriber?">Already a subscriber? Sign in ▸</a><br><br>Read two free selections from <em>The Sun</em> each month.</p>
+				</div>
+			</div>
+			<div class="paywall-banner span9 note note-1 text-center">
+				<h4 class="cta-title alt-ff">Subscribe to <em>The Sun</em> and save 45%</h4>
+				<p class="cta-text xsmall">Subscribers get full access to the current issue and more than 40 years of archives.</p>
+				<a class="b b-1 xsmall cta-trigger"  href="/subscribe1" data-label="Subscribe" data-ctatitle="Subscribe">Subscribe</a>
+			</div>
+		</div>
+
+		<div class="columns">
+			<div class="span12 paywall-cta-bottom">
+				<p>
+					<span class="cta-title-issue">Buy the November 2007 issue for $5.95</span>
+					<span class="xsmall">Order now to get instant access to this issue, and we’ll also send you a print copy.</span>
+					<a class="b b-5 xsmall corona"  href="#" data-product-type="issues" data-id="383" data-label="Order Now ▸">Order Now ▸</a>
+				</p>
+			</div>
+		</div>
+
+		
+
+</div>
+	
+	
+	
+	<div class="spacer"></div>
+	
+
+
+
+			<div class="article-correspondence layout-item fill-pattern-light">
+		<div class="layout-item-intro">
+			<h2>Correspondence</h2>
+			<a class="xsmall link-alt" href="https://www.thesunmagazine.org/letter-to-the-editor">Write a Letter to the Editor&nbsp;&#9656;</a>
+		</div>
+
+		<div id="article-correspondences" class="correspondences correspondences-collapsed">
+								<div class="block-correspondence" id="1373">
+		<blockquote class="quote-2">
+			<p>Having been a vegan for twenty-one years, I was thrilled to read your November issue. <a href="/article/4103">Derrick Jensen&rsquo;s heartbreaking piece about zoos</a> made me weep for every animal in confinement. Craig Childs&rsquo;s essay &ldquo;<a href="/article/4109">Raven</a>&rdquo; made me more forgiving of the crows who sometimes wake me before I am ready to get up. <a href="/article/5305">Sunbeams</a> made me cheer to realize how many people have spoken out on behalf of animals, even when it seems that there is too much silence on the subject. Every word and photograph published in <a href="/issues/383">this issue</a> gives me hope that there are people paying attention to how we human animals relate to our fellow beings. The future does not look as bleak as it did before.</p>
+							<p class="quote-2-author">Patti Breitman<br>Fairfax, California</p>
+					</blockquote>
+	</div>
+
+								<div class="block-correspondence" id="1374">
+		<blockquote class="quote-2">
+			<p>Reading the essay &ldquo;Raven,&rdquo; by Craig Childs, reminded me of a field trip I took while attending forestry school in 1983. My class was in the White Mountains of New Hampshire, and our professor called us over to observe as he pulled out his pruning shears and cut down a spruce sapling perhaps six inches tall and less than an inch in diameter. Examining the cross section, he revealed the tree&rsquo;s age to be sixty years.</p>
+
+<p>It was an important lesson &mdash; in more ways than one. I remember being astonished that such a small tree could be that old. I also remember that the professor cut down the tree with what appeared to be no regard for its life. Although we students were on the road to becoming &ldquo;natural-resource managers,&rdquo; we would not be taught to consider the rights of the &ldquo;resources&rdquo; we were about to &ldquo;manage.&rdquo; For twenty-four years, I&rsquo;ve felt guilt about this act in which I was a participant, and gratitude to the spruce for having allowed me to learn at its expense.</p>
+
+<p>I suspect Childs is a product of a similar training, which teaches that human beings &mdash; particularly white men who have achieved academic and financial success &mdash; are at the top of the heap. When Childs entered the ravens&rsquo; canyon and recognized that he was not welcome, he left, but he returned later with three friends. With these added numbers, they discovered &mdash; and, to my mind, desecrated &mdash; a holy site of the ravens, all in the interest of &ldquo;research.&rdquo;</p>
+							<p class="quote-2-author">Mark Judelson<br>Chestnut Ridge, New York</p>
+					</blockquote>
+	</div>
+
+								<div class="block-correspondence-respond fill-pattern-light" id="1375">
+								<p><a href="/contributors/craig-childs"><strong>Craig Childs</strong></a> responds:</p>
+							<p>At the time of the raven story, my wife-to-be and I were flat broke and living in a cabin powered by one solar panel and a car battery. I had just come off seven years of living out of my truck and in the wilderness, working seasons as a river guide. So we were far from the &ldquo;top of the heap.&rdquo; This was not a story of my invading a world, but of my being a part of a world. I walked twenty-seven days in the desert to reach those ravens and have that moment of exchange. Many people can only dream of such candid encounters, and I was humbled and honored by what I witnessed. What I did was not research. It was wonder. It was living life on this earth.</p>
+	</div>
+
+
+					</div>
+
+				<div class="text-center">
+			<button class="b b-1 xsmall js-b-readmore-correspondence" data-collapsible="#article-correspondences" data-label="Read More Letters">Read More Letters</button>
+		</div>
+			</div>
+    
+		<div class="article-correspondence-cta">
+		<div class="cta cta-l1" data-url="https://www.thesunmagazine.org/letter-to-the-editor">
+			<div class="cta-intro">
+				<h5 class="cta-title alt-ff">Thinking about writing us a letter?</h5>
+				<p class="cta-text">Give in to the temptation. We love getting mail. <br><span class="xsmall">(Of course, we reserve the right to edit.)</span></p>
+			</div>
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" class="cta-button b b-4 b-padding-tight small" data-label="Write Us A Letter!">Write Us A Letter!</a>
+		</div>
+	</div>
+	
+
+			<div class="article-also layout-item-large full-bar fill-grey-mid-light">
+		<div class="layout-item-intro">
+			<h2>Also In This Issue</h2>
+			<a href="/issues/383" class="xsmall link-alt">November 2007&nbsp;&#9656;</a>
+		</div>
+		<div class="issue-articles-l1">
+			<div class="issue-articles-l1-content1">
+				
+<div class="cover cover-l1 block-product">
+	<div>
+							<a href="/issues/383" class="cover-thumb">
+				
+				<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 727'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/import/issue/383.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/561x728r/import/issue/383.jpg
+	 alt=""
+	 class="lazy">
+
+			</a>
+		
+
+													<!-- <a href="/issues/383" data-product-type="issues" data-id="383" data-role="order" class="js-buy-single corona cover-button b b-1 b-full xsmall" data-label="Buy This Issue &#9656;">
+								Buy This Issue&nbsp;&#9656;
+			</a> -->
+			<a href="/issues/383" data-product-type="issues" data-id="383" class="js-buy-single corona cover-button b b-1 b-full xsmall" data-label="Buy This Issue &#9656;">
+								Buy This Issue&nbsp;&#9656;
+			</a>
+					
+					</div>
+</div>
+			</div>
+			<div class="issue-articles-l1-content2">
+				<div class="articles-l3">
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/readers-write">Readers Write</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/383/airports">Airports</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/our-readers">Our Readers</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/fiction">Fiction</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/383/me-me-me">Me Me Me</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/april-wilder">April Wilder</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/poetry">Poetry</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/383/the-last-golden-toad">The Last Golden Toad</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/sybil-smith">Sybil Smith</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/photography">Photography</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/383/not-one-is-dissatisfied">Not One Is Dissatisfied</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+									</div>
+			</div>
+		</div>
+	</div>
+	
+
+			<div class="article-related layout-item-large full-bar fill-pattern-light">
+		<div class="layout-item-intro">
+			<h2>Related Selections</h2>
+			<ul class="list-inline list-inline-tight"><li><a href="/topics/wildlife" class="xsmall link-alt link-text">Wildlife</a></li></ul>		</div>
+
+		<div class="articles-l2">
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/poetry">Poetry</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/516/selected-poems-tony-hoagland-issue-516">Selected Poems</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/tony-hoagland">Tony Hoagland</a></li><li><a href="/issues/516">December 2018</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/516" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 727'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/140x182r/2018-11/516.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/2018-11/516.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/fiction">Fiction</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/247/the-air-around-me-was-hissing">The Air Around Me Was Hissing</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/lynn-marie-hildebrandt">Lynn Marie Hildebrandt</a></li><li><a href="/issues/247">July 1996</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/247" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 725'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/141x182r/import/issue/247.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/281x364r/import/issue/247.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/poetry">Poetry</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/189/those-trees">Those Trees</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/richard-messer">Richard Messer</a></li><li><a href="/issues/189">August 1991</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/189" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 725'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/141x182r/import/issue/189.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/281x364r/import/issue/189.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/poetry">Poetry</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/65/selected-poems-leslea-newman-issue-65">Selected Poems</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/leslea-newman">Lesléa Newman</a></li><li><a href="/issues/65">March 1981</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/65" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 725'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/141x182r/import/issue/065.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/281x364r/import/issue/065.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+					</div>
+	</div>
+	
+	
+					<form id="newsletterForm" method="post" action="https://www.thesunmagazine.org/newsletter" data-url-send="https://www.thesunmagazine.org/newsletter" class="form form-newsletter fill-grey" enctype="multipart/form-data" target="_blank">
+
+
+
+		<div class="form-newsletter-intro">
+			<h3 class="alt-ff large">Sign Up For Our Newsletter</h3>
+			<p>We’ll let you know about new website selections, upcoming events, special offers, and more.</p>
+		</div>
+
+		<ul class="form-newsletter-fields form-fields form-fields-inline">
+			<li>
+				<input name="name" type="text" maxlength="500" id="name" placeholder="Your Name">
+			</li>
+			<li>
+				<input name="email" type="text" maxlength="500" id="email" placeholder="Your E-mail">
+			</li>
+
+			<li class="form-fields-inline-button">
+				<button disabled="disabled" class="form-newsletter-send b b-4 b-padding-tight b-loading g-recaptcha" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs" data-callback="recaptcha_callback" name="SubmitButton" id="SubmitButton">
+					<svg><use xlink:href="#i-loading"></use></svg>
+					Sign&nbsp;Up
+				</button>
+			</li>
+		</ul>
+	</form>
+	<script id="hiddenlpsubmitdiv" style="display: none;"></script>
+
+
+
+<footer class="footer brand-grey-dark">
+			<div class="footer-first">
+		<h3 class="footer-tagline">Independent, Reader-Supported Publishing</h3>
+		<p class="footer-desc">In each issue of <em>The Sun</em> you’ll find some of the most radically intimate and socially conscious writing being published today. In an age of media conglomerates, we’re something of an oddity: an ad-free, independent, reader-supported magazine.</p>
+		<ul class="footer-nav list-inline-border xsmall">
+			
+		<li class=" first">
+			<a href="https://www.thesunmagazine.org/about" 	   class=''>
+	   About <em>the Sun</em>	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/staff" 	   class=''>
+	   Staff	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/find-the-sun" 	   class=''>
+	   Find <em>The Sun</em>&nbsp;&nbsp;in a Store Near You	</a>
+		
+	</li>
+
+
+		</ul>
+	</div>
+	
+		<div class="footer-second">
+		<ul class="footer-second-social list-inline">
+			<li><a href="https://www.facebook.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-facebook"></use></svg></span> Like Us</a></li>
+			<li><a href="https://twitter.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-twitter"></use></svg></span> Follow Us</a></li>
+			<li><a href="https://instagram.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-instagram"></use></svg></span> Take a Look</a></li>
+		</ul>
+
+		<div class="footer-second-content">
+			<ul class="footer-nav list-inline-border xsmall">
+				
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/" 	   class='current '>
+	   Home	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/privacy-policy" 	   class=''>
+	   Privacy Policy	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/terms-of-use" 	   class=''>
+	   Terms of Use	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/site-map" 	   class=''>
+	   Site Map	</a>
+		
+	</li>
+
+
+			</ul>
+			<p class="footer-copyright xxsmall">Copyright &copy; 1974–2020 <em>The Sun</em>. All rights reserved.</p>
+		</div>
+	</div>
+</footer>
+
+
+
+<div class="offset-nav">
+	<ul>
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/read" 	   class='current '>
+	   Read	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/issues/current" 	   class=''>
+	   Current Issue	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/archives" 	   class=''>
+	   Archives	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/featured" 	   class=''>
+	   Featured Selections	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/topics" 	   class=''>
+	   Browse Topics	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/sections" 	   class=''>
+	   Browse Sections	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/connect" 	   class=''>
+	   Connect	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/news" 	   class=''>
+	   News from <em>The Sun</em>	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" 	   class=''>
+	   Write a Letter to the Editor	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/discussion-groups" 	   class=''>
+	   Discussion & Writing Groups	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/make-a-suggestion" 	   class=''>
+	   Make a Suggestion	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/submit" 	   class=''>
+	   Submit	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/shop" 	   class=''>
+	   Shop	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/giftsub" 	   class=''>
+	   Gift Subscriptions	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/issues" 	   class=''>
+	   Issues	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+											
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/donatemenu" 	   class='highlight'>
+	   Donate	</a>
+		
+	</li>
+
+		<li class=" last">
+														<a href="/SubscribeNav1" 					   class=''>
+						Subscribe					</a>
+									
+	</li>
+
+
+					<li>
+				<a href="https://www.thesunmagazine.org/shop/cart">Cart ( <span class="cart-item-count">  0  </span>)</a>
+			</li>
+			<li><a href="https://www.thesunmagazine.org/subscriber/login" class="link-header-logout link-alt">Sign In</a></li>
+			</ul>
+	<ul>
+		<li class=" first">
+			<a href="https://www.thesunmagazine.org/about" 	   class=''>
+	   About <em>the Sun</em>	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/staff" 	   class=''>
+	   Staff	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/find-the-sun" 	   class=''>
+	   Find <em>The Sun</em>&nbsp;&nbsp;in a Store Near You	</a>
+		
+	</li>
+
+</ul>
+	<ul>
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/" 	   class='current '>
+	   Home	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/privacy-policy" 	   class=''>
+	   Privacy Policy	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/terms-of-use" 	   class=''>
+	   Terms of Use	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/site-map" 	   class=''>
+	   Site Map	</a>
+		
+	</li>
+
+</ul>
+</div>
+
+<div id="buy-popup-message" class="buy-popup mfp-hide white-popup white-popup-block">
+	<a class="popup-modal-dismiss" href="#"></a>
+	<h5>Due to fulfillment challenges related to the novel coronavirus, print copies are temporarily unavailable for individual sale. We are offering free PDFs until we are able to resume print sales.</h5>
+	<p>Enter your e-mail address below to download this issue.</p>
+	<form method="post" id="download-single" action="https://www.thesunmagazine.org/issue/pdfFree/531.pdf">
+		<label for="email"><span class="label-text">E-mail</span><span class="label-asterisk">*</span></label>
+		<input class="buy-single-email" id="email" type="email" name="email">
+		<button type="send" class="form-buy-issue-send b b-3 b-padding-tight b-loading">Send</button>
+		<button class="form-buy-issue-download b b-3 b-padding-tight b-loading">Download pdf</button>
+		<button type="send" class="popup-modal-dismiss b b-2 b-padding-tight b-loading">Close</button>
+		<div class="g-recaptcha" style="text-align: center" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs"></div>
+
+	</form>
+</div>
+
+			<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/plugins.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/site.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/newsletter.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/js/articles.js"></script>
+		</div>
+		</div>
+
+				<script>
+		(function (doc) {
+			var scripts = doc.getElementsByTagName('script');
+			var script = scripts[scripts.length - 1];
+			var xhr = new XMLHttpRequest();
+			xhr.onload = function () {
+				var div = doc.createElement('div');
+				div.innerHTML = this.responseText;
+				div.style.display = 'none';
+				script.parentNode.insertBefore(div, script);
+			}
+			xhr.open('get', '/theme/thesun//assets/build/img/sprite/sprite.svg', true);
+			xhr.send();
+		})(document);
+
+
+
+		</script>
+
+		<script>
+			// Submit function
+            function recaptcha_callback() {
+						var getUrl = $('.form-newsletter').data( "url-send" ),
+							getName = $('input#name').val(),
+							getEmail = $('input#email').val();
+						$.ajax({
+								type: "POST",
+								url: getUrl,
+								data: {
+									name: getName,
+									email: getEmail,
+									grecaptcharesponse: grecaptcha.getResponse()
+								}
+							}).done(function(response) {
+								console.log(response);
+									$('.form-fields').fadeOut(800, function () {
+										$('.form-fields').empty().append('<div class="newsletter-confirm-message">Thank you for signing up to receive news from <em>The Sun</em>. Your first newsletter will arrive soon.<div>').fadeIn(800);
+									});
+							});
+			}
+
+		</script>
+
+		<script>
+			function getUrlCode() {
+				var url_string = window.location.href;
+				var url = new URL(url_string);
+				var c = url.searchParams.get('promotion\_key');
+				if (typeof c !== 'undefined' && c !== null) {
+					setCookie("promotion_code",c);
+				}
+			}
+
+			function setCookie(cname, cvalue) {
+				document.cookie = cname + "=" + cvalue + ";" + "path=/";
+			}
+
+			function getCookie(cname) {
+				var name = cname + "=";
+				var decodedCookie = decodeURIComponent(document.cookie);
+				var ca = decodedCookie.split(';');
+				for(var i = 0; i <ca.length; i++) {
+					var c = ca[i];
+					while (c.charAt(0) == ' ') {
+						c = c.substring(1);
+					}
+					if (c.indexOf(name) == 0) {
+						return c.substring(name.length, c.length);
+					}
+				}
+				return "";
+			}
+			window.addEventListener( "load", getUrlCode );
+		</script>
+
+
+	</body>
+</html>

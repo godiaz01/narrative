@@ -1,0 +1,1528 @@
+
+<!DOCTYPE html>
+<html class="no-js" lang="en-US">
+	<head>
+		<title>Red Eggs - The Sun Magazine</title>
+
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		
+		<meta name="viewport" content="width=device-width, minimum-scale=1.0">
+
+		<link rel="dns-prefetch" href="//ajax.googleapis.com">
+		<link rel="dns-prefetch" href="//use.typekit.net">
+		
+		<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/modernizr.js"></script>
+		<script src="https://www.google.com/recaptcha/api.js"
+				async defer>
+		</script>
+
+		<script>(function(d) { var config = { kitId: 'kzw7ebk', scriptTimeout: 3000, async: true }, h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s) })(document);</script>
+
+
+				
+		<link rel="apple-touch-icon" sizes="57x57" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-57x57.png?v=2016">
+		<link rel="apple-touch-icon" sizes="60x60" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-60x60.png?v=2016">
+		<link rel="apple-touch-icon" sizes="72x72" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-72x72.png?v=2016">
+		<link rel="apple-touch-icon" sizes="76x76" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-76x76.png?v=2016">
+		<link rel="apple-touch-icon" sizes="114x114" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-114x114.png?v=2016">
+		<link rel="apple-touch-icon" sizes="120x120" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-120x120.png?v=2016">
+		<link rel="apple-touch-icon" sizes="144x144" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-144x144.png?v=2016">
+		<link rel="apple-touch-icon" sizes="152x152" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-152x152.png?v=2016">
+		<link rel="apple-touch-icon" sizes="180x180" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-180x180.png?v=2016">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-32x32.png?v=2016" sizes="32x32">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/android-chrome-192x192.png?v=2016" sizes="192x192">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-96x96.png?v=2016" sizes="96x96">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-16x16.png?v=2016" sizes="16x16">
+		<link rel="mask-icon" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/safari-pinned-tab.svg?v=2016" color="#444444">
+		<link rel="shortcut icon" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon.ico?v=2016">
+		<meta name="apple-mobile-web-app-title" content="The Sun Magazine">
+		<meta name="application-name" content="The Sun Magazine">
+		<meta name="msapplication-TileColor" content="#fcc330">
+		<meta name="msapplication-TileImage" content="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/mstile-144x144.png?v=2016">
+		<meta name="theme-color" content="#ffffff">
+
+				<link rel="stylesheet" type="text/css" href="https://cloud.typography.com/6578674/659928/css/fonts.css" />
+		<link rel="stylesheet" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/css/style.css">
+
+																		<meta property="og:site_name" content="The Sun Magazine">
+		<meta property="og:type" content="article">
+		<meta property="og:url" content="https://www.thesunmagazine.org/issues/339/red-eggs">
+		<meta property="og:image" content="http://www.thesunmagazine.org/files/2016-12/339-24-ray-preview.jpg">
+		<meta property="og:title" content="Red Eggs - The Sun Magazine">
+		<meta property="og:description" content="I am eleven, not quite a little girl, not quite a young woman. There are things I know that I should not know, things of which I am not to speak, such as: I am not supposed to know that my father is a checkout clerk, not the grocery-store manager. I am not supposed to know the dolls I play with are stolen.">
+		<meta property="fb:app_id" content="158741778010551">
+
+						<link rel="image_src" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.comhttp://www.thesunmagazine.org/files/2016-12/339-24-ray-preview.jpg">
+
+												<meta name="twitter:card" content="summary">
+		<meta name="twitter:title" content="Red Eggs - The Sun Magazine">
+		<meta name="twitter:description" content="I am eleven, not quite a little girl, not quite a young woman. There are things I know that I should not know, things of which I am not to speak, such as: I am not supposed to know that my father is a checkout clerk, not the grocery-store manager. I am not supposed to know the dolls I play with are stolen.">
+		<meta name="twitter:image" content="http://www.thesunmagazine.org/files/2016-12/339-24-ray-preview.jpg">
+		<meta name="twitter:site" content="@thesunmagazine">
+
+				<link rel="publisher" href="https://plus.google.com/113792980827145858211">
+        
+		<meta name="Description" content="I am eleven, not quite a little girl, not quite a young woman. There are things I know that I should not know, things of which I am not to speak, such as: I am not supposed to know that my father is a checkout clerk, not the grocery-store manager. I am not supposed to know the dolls I play with are stolen.">
+
+		
+		<!-- Google Tag Manager -->
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-TKBHCCG');</script>
+		<!-- End Google Tag Manager -->
+
+		<!-- Google Analytics -->
+		<script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+            ga('create', 'UA-2351127-1', 'auto');  // Replace with your property ID.
+            ga('send', 'pageview');
+            ga('require', 'ecommerce');   // Load the ecommerce plug-in.
+		</script>
+		<!-- End Google Analytics -->
+	</head>
+	<body id="">
+
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TKBHCCG"
+		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+		<header class="header" data-offset-start="80">
+		<div class="header-utilities">
+				<ul class="header-utilities-user list-inline list-inline-tight xxsmall">
+							<li>
+					<span class="header-utilities-user-intro">Already A Subscriber?</span> &nbsp;
+					<a href="https://www.thesunmagazine.org/subscriber/login" class="link-text link-alt">Sign In</a>
+				</li>
+					</ul>
+		<a href="https://www.thesunmagazine.org/shop/cart" class="header-utilities-cart  link-alt link-icon tiny">
+			<span class="i"><svg><use xlink:href="#i-cart"></use></svg></span>
+			<span class="cart-item-count">
+									0 Items
+				
+			</span>
+		</a>
+			</div>
+
+		<div class="header-bar">
+		<h1 class="header-logo logo">
+			<a href="/">
+				<img src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/img/logo-thesun.svg" class="logo-thesun" alt="The Sun Magazine">
+				<img src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/img/logo-tagline.svg" class="logo-tagline" alt="">
+			</a>
+		</h1>
+
+		<ul class="header-nav">
+			
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/read" 	   class='current '>
+	   Read	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/issues/current" 	   class=''>
+	   Current Issue	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/archives" 	   class=''>
+	   Archives	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/featured" 	   class=''>
+	   Featured Selections	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/topics" 	   class=''>
+	   Browse Topics	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/sections" 	   class=''>
+	   Browse Sections	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/connect" 	   class=''>
+	   Connect	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/news" 	   class=''>
+	   News from <em>The Sun</em>	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" 	   class=''>
+	   Write a Letter to the Editor	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/discussion-groups" 	   class=''>
+	   Discussion & Writing Groups	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/make-a-suggestion" 	   class=''>
+	   Make a Suggestion	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/submit" 	   class=''>
+	   Submit	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/shop" 	   class=''>
+	   Shop	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/giftsub" 	   class=''>
+	   Gift Subscriptions	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/issues" 	   class=''>
+	   Issues	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+											
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/donatemenu" 	   class='highlight'>
+	   Donate	</a>
+		
+	</li>
+
+		<li class=" last">
+														<a href="/SubscribeNav1" 					   class=''>
+						Subscribe					</a>
+									
+	</li>
+
+
+		</ul>
+
+		<button class="header-nav-toggle"><svg><use xlink:href="#i-menu" class="i-menu"></use><use xlink:href="#i-close" class="i-close"></use></svg></button>
+		<button class="header-search-toggle" data-form-wrapper=".header-search"><svg><use xlink:href="#i-magnifier" class="i-magnifier"></use><use xlink:href="#i-close" class="i-close"></use></svg></button>
+	</div>
+
+		<div class="header-search">
+		<div class="header-search-content">
+			<form action="https://www.thesunmagazine.org/search" class="form form-search" method="get">
+				<h2 class="alt-ff brand-link">Search Our 40 Years of Archives</h2>
+				<ul class="form-search-fields form-fields form-fields-inline">
+					<li><input type="text" name="q" value=""></li>
+					<li class="form-fields-inline-button"><button class="b b-1 b-padding-tight b-loading"><svg><use xlink:href="#i-loading"></use></svg>Search</button></li>
+				</ul>
+
+				<div class="header-search-content-shortcuts">
+					<h6 class="search-advanced alt-ff"><a class="js-handle-advanced" href="https://www.thesunmagazine.org/search?advanced=1">Advanced Search</a></h6>
+					<br>
+					<h6 class="alt-ff">Popular Pages</h6>
+					<ul class="list-inline-border list-inline-tight xxsmall"><li class=" first"><a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a></li><li class=""><a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a></li><li class=""><a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a></li><li class=""><a href="https://www.thesunmagazine.org/sections/quotations" 	   class=''>
+	   Quotations	</a></li><li class=""><a href="https://www.thesunmagazine.org/sections/readers-write" 	   class=''>
+	   Readers Write	</a></li><li class=" last"><a href="https://www.thesunmagazine.org/sections/poetry" 	   class=''>
+	   Poetry	</a></li></ul>				</div>
+			</form>
+		</div>
+	</div>
+</header>
+
+	<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+	<script type="text/javascript">
+		$(document).ready(function() {
+			$('.js-handle-advanced').on('click', function (e) {
+				e.preventDefault();
+				var getSearchValue = $('.form-search-fields input').val();
+				var getURL = $(this).attr('href');
+				var newURL = getURL + '&q=' + getSearchValue;
+				window.location.href = newURL;
+			});
+		});
+	</script>
+
+		<div class="container-hidden">
+		<div class="container">
+
+				
+	
+	<article class="article ">
+		<header class="block-content block-content-l1 block-content-center">
+						<div class="block-content-header">
+				<h6 class="b-content-section heading-square"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+				<h1 class="block-content-title">Red Eggs</h1>
+
+				
+				<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/angela-lam">Angela Lam</a></li><li><a href="/issues/339">March 2004</a></li></ul>
+
+			</div>
+
+																			
+
+				<figure class="block-content-photo block-content-photo-large photo photo-outset-center-large">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 2360 1690'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/1180x1648r/photos/339-24-ray.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/2360x3296r/photos/339-24-ray.jpg
+	 alt="339 - Ray - Lam"
+	 class="lazy">
+
+										<figcaption>
+
+						
+																				<div class="photo-credit">
+								&copy;&nbsp;<a href="/contributors/gypsy-ray">Gypsy Ray</a>
+							</div>
+																		</figcaption>
+									</figure>
+
+					</header>
+
+				<div class="article-body link-text-wrap">
+																		<p><strong>I AM ELEVEN,</strong> not quite a little girl, not quite a young woman. There are things I know that I should not know, things of which I am not to speak, such as: I am not supposed to know that my father is a checkout clerk, not the grocery-store manager. I am not supposed to know the dolls I play with are stolen. I am not supposed to know my parents have gambled away the second mortgage on the house instead of investing it in a new toilet, a shower with working doors, dual-pane windows, and a new roof. I am supposed to be a china doll, silent and submissive, an example to my sisters: Cynthia, eight, and Elizabeth, six.</p>
+
+<p>The day before my uncle&rsquo;s birthday party, my father, Chee, packs our family into the brown-and-beige Club Wagon van and shuttles us to the Valley Fair Shopping Mall in Santa Clara, where my sisters and I will have our hair cut and permed. &ldquo;To look American, like Lammie Pie,&rdquo; he says, referring to our mother, with her golden brown hair and crystal blue eyes. Ever since he was an immigrant boy growing up in San Francisco&rsquo;s Chinatown, my father has been in love with American movies and movie stars. He swears he married my mother because she looked like Doris Day. My mother, born at the end of World War <span class="smallcaps">II</span>, nine years after my father, is no longer blond and slender. After three children, she grew round and stopped highlighting her hair and taking dance lessons and going out after work for a drink with the girls. But I still think of her as beautiful. In her wedding photos, with her sleek white gown and diamond tiara, she looks like Miss America.</p>
+
+<p>My father, whose American name is Dave Lam, is a wizened brown man who smooths glossy pomade through his Elvis hair. When people ask, &ldquo;What nationality are you?&rdquo; he says,&ldquo;Hawaiian, like Don Ho, the singer.&rdquo; And, in his awkward voice, he&rsquo;ll sing &ldquo;Tiny Bubbles.&rdquo; As a child, he wanted to dance like Fred Astaire and tell jokes like Jack Benny. When that failed, he embarked on a quest to find an American wife. With an American wife, he reasoned, he could be a star. After moving to San Jose, he met my mother in the checkout line at the grocery store where he worked. (&ldquo;The Chinese checker,&rdquo; he called himself.) He had trouble pronouncing her name, Margaret, so after they married, he called her &ldquo;Lammie Pie.&rdquo; &ldquo;Lammie,&rdquo; he explained, &ldquo;because she&rsquo;s my little Lam. And Pie because it&rsquo;s my favorite dessert.&rdquo; Though my mother calls him Dave, my sisters and I think of him as Chee.</p>
+
+<p>On the way to the beauty parlor, Chee rolls through a four-way stop, punches the gas, and nearly rams the center divide as he careens onto the freeway.</p>
+
+<p>&ldquo;Slow down,&rdquo; Lammie Pie says.</p>
+
+<p>&ldquo;Aiyaah, we can&rsquo;t be late.&rdquo;</p>
+
+<p>Our appointment is for 2:30. At 2:15 the van lurches over a curb and into an empty parking space at the far end of the Valley Fair Shopping Mall. &ldquo;Don&rsquo;t want anyone scratching the paint job,&rdquo; Chee says. He hops out of the van and arches his back. The vertebrae snap into place. He sniffs the smell of hamburgers and French fries from McDonald&rsquo;s and rubs his stomach. &ldquo;Smells good. Too bad we already had lunch.&rdquo;</p>
+
+<p>Cynthia and Elizabeth hold hands and follow Chee&rsquo;s long strides through the rows of cars. I stay behind with Lammie Pie, waiting for her to roll up the windows and lock the doors.</p>
+
+<p>Chee calls to me, &ldquo;Angela, what are you waiting for? We&rsquo;ll be late.&rdquo;</p>
+
+<p>Lammie Pie shoos me along. &ldquo;Go after your father. You don&rsquo;t want him to be angry, do you?&rdquo;</p>
+
+<p>I gaze at my mother&rsquo;s frowning face. &ldquo;I want to be with you,&rdquo; I say, groping for her hand.</p>
+
+<p>Lammie Pie glowers, cutting through any tenderness I may have been feeling. &ldquo;I&rsquo;ll be right behind you. Now go.&rdquo;</p>
+
+<p>I lope after my sisters, who look like twins with their long black hair and matching dresses, which Lammie Pie sewed while watching <em>The Price Is Right</em> on <span class="smallcaps">TV</span>. I am wearing a green store-bought dress, a gift from my mother&rsquo;s sister Mildred for getting straight A&rsquo;s three quarters in a row. &ldquo;Green brings out the color of your eyes,&rdquo; Aunt Mildred said, tucking the collar under my chin. &ldquo;You have your grandfather&rsquo;s eyes. Hazel. They change with the light. Elizabeth and Cynthia, they have their father&rsquo;s dark eyes. They absorb the light. Nothing comes out.&rdquo;</p>
+
+<p>I like Aunt Mildred. She hates my father.</p>
+
+<p>At the door, we wait for Lammie Pie to catch up. She huffs and puffs. The knit top she sewed from a Butterick&rsquo;s pattern clings to her bosom, and the pastel blue polyester pants Chee shoplifted from Montgomery Ward last week are an inch too short for her legs. In the wind her perm turns into matted brown fuzz and sticks up like gnarled weeds. Cynthia and Elizabeth tilt their heads together and titter behind cupped hands. Chee slaps their shoulders. &ldquo;What&rsquo;s so funny? Have you no respect for your mother?&rdquo;</p>
+
+<p>We step into Macy&rsquo;s, and a blast of perfume assaults us. I sneeze. Chee stops at the cosmetics counter and asks about a makeover. The blond sales clerk examines Lammie Pie.</p>
+
+<p>&ldquo;No, not that one. <em>This</em> one.&rdquo; He points to me.</p>
+
+<p>&ldquo;She doesn&rsquo;t need anything,&rdquo; the clerk says. &ldquo;She&rsquo;s just a child.&rdquo;</p>
+
+<p>&ldquo;She&rsquo;s almost a teenager. She&rsquo;s going to a party. She needs makeup.&rdquo;</p>
+
+<p>He pulls me toward the counter. I jerk my arm away and gaze up at him with pleading eyes. &ldquo;Dad, I don&rsquo;t want to.&rdquo;</p>
+
+<p>&ldquo;Go. Listen to the nice lady. She&rsquo;s going to make you look beautiful. Like a movie star.&rdquo; Ever since my father discovered that I cannot play the piano or dance, his only hope has been for me to become beautiful.</p>
+
+<p>The clerk gazes sympathetically at me and leads me to a stool beside the glass counters. Gleaming black-and-gold tubes of lipstick and mascara with expensive price tags wink up at me. Chee tells Lammie Pie to take the girls to the beauty salon. We will meet them there when we are done. I watch my black-haired sisters go with Lammie Pie, the white Buddha, each holding one of her hands, as if for luck. I want to follow them up the escalator to the top floor and sit on a vinyl chair, flipping through glossy magazines.</p>
+
+<p>&ldquo;Look up,&rdquo; the clerk says, lifting my chin. &ldquo;Close your eyes halfway.&rdquo; Her hands are softly perfumed. She brushes my lids with a topaz glitter.</p>
+
+<p>&ldquo;No,&rdquo; Chee says. &ldquo;Something darker.&rdquo;</p>
+
+<p>&ldquo;Darker? She doesn&rsquo;t need darker.&rdquo;</p>
+
+<p>&ldquo;Yes. Something dark.&rdquo;</p>
+
+<p>The clerk sighs, takes out a compact with blue quartz eye shadow, and brushes it over the topaz.</p>
+
+<p>Chee smiles. &ldquo;Much better.&rdquo;</p>
+
+<p>The clerk shakes a tube of mascara and tells me to close my eyes again. She brushes black over the lashes until my eyes feel heavy.</p>
+
+<p>&ldquo;Good,&rdquo; Chee says.</p>
+
+<p>The clerk applies a peach blush across my cheekbones.</p>
+
+<p>Again Chee says, &ldquo;No, darker.&rdquo;</p>
+
+<p>The clerk frowns and sorts through an array of colors.</p>
+
+<p>&ldquo;Yes, red. That&rsquo;s it,&rdquo; Chee says, smiling.</p>
+
+<p>&ldquo;She won&rsquo;t look good in it.&rdquo;</p>
+
+<p>&ldquo;She&rsquo;ll look beautiful.&rdquo;</p>
+
+<p>The clerk brushes my cheeks with Just Right Red. Then she selects a pink gloss for my lips.</p>
+
+<p>&ldquo;No, same color as the cheeks.&rdquo;</p>
+
+<p>&ldquo;You want her to look like a woman?&rdquo; the clerk asks. &ldquo;She&rsquo;s just a baby.&rdquo;</p>
+
+<p>&ldquo;Darker. I buy everything she has on and more.&rdquo;</p>
+
+<p>The clerk crosses her arms, considering the offer, then ruffles through her samples for a lusty red. She puckers her lips to show me how to pucker mine. The soft red tube smears over them like a moist finger.</p>
+
+<p>&ldquo;How&rsquo;s that?&rdquo; the clerk asks.</p>
+
+<p>&ldquo;Beautiful. She looks like a movie star.&rdquo;</p>
+
+<p>The clerk hands me a mirror. I gaze into a stranger&rsquo;s face: the dark eyes, the swollen cheeks, the flaming mouth. Tears well up, but I do not let them show. In a way, I am glad I look different. No one will recognize me. I can pretend I am anyone, do anything. I can be like my father, who lives without consequences.</p>
+
+<p>Chee pays $150 for the makeup I am wearing. He flirts with the clerk, caressing her hand as he counts out the fifty-dollar bills into her palm: &ldquo;Fifty for you, sweetheart, fifty for your dear mother, and fifty for making my daughter look like a Charlie&rsquo;s Angel.&rdquo; With his other hand, Chee slips samples from the counter into his pocket like spare change. When the clerk is not looking, he swipes a few more items from the counter, small bottles of perfume and foundation, cleansers and toners, and drops them into the shopping bag. He smiles phonily at the clerk, who hands him the receipt and pats my hand. &ldquo;Good luck,&rdquo; she says.</p>
+
+<p>I want to hit her. Luck is something the Chinese live and die by. I do not want to be blessed with good luck in front of my father. He may seize it for himself and leave me with nothing.</p>
+
+<p>&ldquo;See, that wasn&rsquo;t so bad.&rdquo; Chee swings the bag with one hand and wraps his other arm around me as if I were his girlfriend. He whistles a Frank Sinatra tune off key. I gaze the other way, pretending I do not know him. I&rsquo;m ashamed of how I look, of whom I&rsquo;m with. As we ride the escalator up, passersby stare disapprovingly. Chee squeezes my shoulder and tugs me closer, as if I might break free.</p>
+
+<p>At the beauty salon my sisters sit side by side under the hair dryers. Lammie Pie is reading a recipe for double-chocolate souffl&eacute; in <em>McCall&rsquo;s</em>. She glances up from the magazine and takes in my transformation. &ldquo;She looks just like you,&rdquo; Chee teases, and he touches her cheek.</p>
+
+<p>Her frown deepens into a curious blend of disgust and envy, an expression I have never seen before. Chee does not notice. He hands her a trial-size bottle of perfume. She ignores it. Her blue-hot stare threatens to melt the wax-doll face I wear.</p>
+
+<p>&ldquo;I didn&rsquo;t want to do it,&rdquo; I say.</p>
+
+<p>Chee smiles. &ldquo;Don&rsquo;t you think she looks beautiful, Lammie Pie? Doesn&rsquo;t she look like a Charlie&rsquo;s Angel?&rdquo;</p>
+
+<p>Lammie Pie doesn&rsquo;t answer. Her stare causes me more shame than any stranger&rsquo;s could.</p>
+
+<p>&ldquo;I didn&rsquo;t want to do it,&rdquo; I repeat.</p>
+
+<p>A beautician calls my name and leads me to the swivel chairs and mirrors.</p>
+
+<p>Chee hustles over as the beautician wraps a tissue around my neck and drapes a burgundy cloth over my front.</p>
+
+<p>&ldquo;What do you want done today?&rdquo; she asks me.</p>
+
+<p>&ldquo;Cut and permed,&rdquo; Chee says. &ldquo;Make her look like Shirley Temple.&rdquo;</p>
+
+<p>This is what he always says. No matter what salon he takes us to, the perms always fall into stinky, wet spirals around our pudgy faces and then dry into lightning bolts that stick up all over our heads if we don&rsquo;t sleep with rollers in our wet hair every night.</p>
+
+<p>The beautician says to Chee, &ldquo;I asked her, sir, not you.&rdquo;</p>
+
+<p>&ldquo;I&rsquo;m her father. I&rsquo;m paying. She needs to look pretty for her uncle&rsquo;s birthday party tomorrow. And she looks good with a cut and perm. Just like her sisters.&rdquo; He points to Cynthia and Elizabeth, who are having the curlers taken from their hair.</p>
+
+<p>The beautician fluffs her fingers through the hair at the nape of my neck. &ldquo;I think a little body might be good,&rdquo; she says. &ldquo;Her hair is rather thick.&rdquo;</p>
+
+<p>&ldquo;Not body. Curls.&rdquo;</p>
+
+<p>The beautician nods. &ldquo;Go have a seat, and I&rsquo;ll come get you when she&rsquo;s done, <span class="smallcaps">OK</span>?&rdquo;</p>
+
+<p>When Chee leaves, I gaze at my face in the mirror. The makeup doesn&rsquo;t change my almond-shaped eyes or my yellowish skin. I sigh. I will always be half white, half Chinese. I will never be an American-style beauty.</p>
+
+<p>The beautician pinches my cheeks and says, &ldquo;You don&rsquo;t need so much makeup, honey. You&rsquo;re pretty just the way you are.&rdquo;</p>
+
+<p>My chest tightens. <em>I didn&rsquo;t want the makeup.</em> Tears stream down my cheeks.</p>
+
+<p>The beautician does not ask why I am crying. She grabs a damp washcloth from the sink and dabs at the black rivers running from my eyes. She catches my eye in the mirror and whispers, &ldquo;I know you didn&rsquo;t want it. Just like you don&rsquo;t want this cut and perm.&rdquo;</p>
+
+<p>I nod and sniff. Finally, someone who understands.</p>
+
+<p>&ldquo;But your dad&rsquo;s right. You&rsquo;re still a minor. When you grow up, though, you can wear your hair however you choose. Can you remember that for me?&rdquo;</p>
+
+<p>I nod, not sure how long I will remember. But for the moment I feel better. And with the makeup muted by tears and warm water, my face doesn&rsquo;t look so strange anymore.</p>
+
+<p class="ckeditor-shortcode"><figure class="photo photo-outset-center-small">
+	<div>
+					<div>
+				<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 1560 1036'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/780x518r/photos/339-26-carlin.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/1560x1036r/photos/339-26-carlin.jpg
+	 alt="339 - Carlin - Lam"
+	 class="lazy">
+
+									<figcaption>
+																											<div class="photo-credit">
+																			© <a href="https://www.thesunmagazine.org/contributors/jessica-carlin">
+											Jessica
+																						Carlin
+										</a>
+																	</div>
+																								</figcaption>
+							</div>
+			</div>
+</figure>
+</p>
+
+<p><strong>I DON&rsquo;T WANT TO GO</strong> to Uncle John&rsquo;s sixtieth-birthday party. I don&rsquo;t want to sit around a Lazy Susan and eat mouthful after mouthful of strange food and smile at second cousins twice removed who speak broken English and fluent Cantonese. But it&rsquo;s no good pretending to be ill. Last year Elizabeth had the flu, and she had to come anyway. &ldquo;I don&rsquo;t trust sitters,&rdquo; Chee said. &ldquo;They feed you dog food and give you bath in dirty water.&rdquo; Why couldn&rsquo;t we all stay home, we asked. &ldquo;If we don&rsquo;t go,&rdquo; he said, &ldquo;we don&rsquo;t get money.&rdquo;</p>
+
+<p>Lammie Pie says Chee doesn&rsquo;t know the Depression ended decades ago. &ldquo;We aren&rsquo;t poor,&rdquo; she tells him. &ldquo;We&rsquo;re middle-class.&rdquo; But Chee doesn&rsquo;t listen. He always needs more money, and he doesn&rsquo;t care where it comes from &mdash; sending our mother back to work as a bank teller, clipping coupons from the <em>San Jose Mercury News</em>, cashing in our Christmas savings bonds (which were meant for college), gambling at blackjack tables in Lake Tahoe, or begging handouts from his wealthy brothers. And as soon as the money is spent &mdash; on a brand-new car, or new shoes for our mother, or private tennis lessons for us girls &mdash; Chee needs more. Now.</p>
+
+<p>My sisters and I curl our freshly permed hair and slip into the cotton dresses Lammie Pie has spent every night of the last three weeks sewing. In the tiny pink hallway bathroom, Cynthia, Elizabeth, and I jostle each other in front of the mirror. It reminds me of being backstage at a 4-<span class="smallcaps">H</span> modeling show, only tonight the show is just for family, which makes it even more stressful, and more important to impress.</p>
+
+<p>At a quarter to three, Chee screams, &ldquo;Aiyaah! We don&rsquo;t want to be late! Get into the van!&rdquo;</p>
+
+<p>My sisters and I go to the bathroom one last time before filing into the Club Wagon. Cynthia and I sit in the captain&rsquo;s seats. Elizabeth sits on the big bench seat in the back, which converts into a bed so we can sleep on the ride home. Lammie Pie brings her cross-stitch and back issues of <em>McCall&rsquo;s</em>, <em>Family Circle</em>, and <em>Woman&rsquo;s Day</em>, although she will spend the entire trip navigating for Chee using the Bay Area map she picked up at <span class="smallcaps">AAA</span>.</p>
+
+<p>My mother, my sisters, and I love to listen to music, but Chee prefers <span class="smallcaps">AM</span> talk radio. He flips from station to station until he finds a topic that interests him. At stoplights, he takes notes on a pad of paper glued to the dashboard beside a medallion of the Sacred Heart of Jesus and a box of tissue. He writes down quotes, titles of books, and noteworthy facts.</p>
+
+<p>&ldquo;Can&rsquo;t we listen to music?&rdquo; Lammie Pie asks, as we turn onto the freeway.</p>
+
+<p>&ldquo;Why? It teaches you nothing. This guy talking right now has a PhD in economics from Harvard. He knows what&rsquo;s happening in the economy. Shh! Listen and learn.&rdquo;</p>
+
+<p>Lammie Pie sighs and takes out her cross-stitch. While Chee believes in learning about the stock market and current events, Lammie Pie believes in the romance and heartbreak of love. At home, when Chee is at work, she listens to the Eagles&rsquo; &ldquo;Lyin&rsquo; Eyes&rdquo; and Kenny Rogers&rsquo; &ldquo;Ruby, Don&rsquo;t Take Your Love to Town.&rdquo; I listen and learn about the dark side of love, determined to find a happily-ever-after when I grow up.</p>
+
+<p>At a quarter to five, Chee snaps off the radio and barks, &ldquo;Check your hair. Check your makeup. Practice your smiles. Remember what I taught you to say.&rdquo; He parks the van, and we shuffle into the Chinese restaurant wearing our puffy-sleeved pastel dresses with the ribbon sashes. Our curled hair looks fluffy and soft, but it&rsquo;s stiff and dry and reeks of chemicals and hairspray. Cynthia and Elizabeth wear lip gloss, and I wear blue quartz eye shadow and Just Right Red blush and lipstick. Lammie Pie applied the makeup while Chee stood over her, watching each stroke, commanding her to put on more and more. I look like a Chinese opera singer with a cowgirl hairdo.</p>
+
+<p>Lammie Pie is the only white person at the restaurant. She sashays in wearing a blue satin gown and a diamond teardrop necklace that Chee bought with money he won in Tahoe two years ago. Chee has on one of Uncle John&rsquo;s hand-me-down brown wool suits. It&rsquo;s two sizes too small, but my mother has taken down the hems and cuffs and patched the threadbare elbows. My father strides into the banquet hall like a king with his entourage. We follow him through a maze of white-linen-covered tables topped with buckets of ice and 7-Up and Seagram&rsquo;s 7.</p>
+
+<p>Uncle John, the guest of honor, is a tired-looking man with small brown eyes swimming in yellowed whites, big overlapping lips, and a sunken jaw. His concave body is mummified in a dark gray suit. I know him mostly from infrequent visits to his house and grocery store, annual family get-togethers, and the stories Chee has told us. Chee&rsquo;s favorite story about Uncle John is how he could have married a poor seamstress, but instead he chose to marry a wealthy scholar, who is now mysteriously ill. &ldquo;See how unhappy he is,&rdquo; Chee said. &ldquo;Wife can&rsquo;t work, can&rsquo;t sew, can&rsquo;t do nothing. Just stay at home sick. Money&rsquo;s not everything. You marry for love.&rdquo; And he kissed Lammie Pie and patted her on the butt to demonstrate that he&rsquo;d married for the right reason.</p>
+
+<p>At the head table, Uncle John and my father talk in Cantonese: short, choppy sentences punctuated with hand gestures. My sisters and I do not speak Cantonese. Cynthia and Elizabeth stare at me with &ldquo;What should we do?&rdquo; expressions. When Chee motions to us, I grab their hands and lead them toward Uncle John. I hug him first, then Cynthia does, and finally Elizabeth. Uncle John smiles when he squeezes Elizabeth, who is soft and chubby from eating too many of the bear claws Chee brings home from the store. Elizabeth breaks away from Uncle John and stomps over to Cynthia, who refuses to hold her hand. Cynthia is strangely aloof and, like Lammie Pie, doesn&rsquo;t like to be cuddled or touched. Failing to get Cynthia&rsquo;s sympathy, Elizabeth sidles up to me. I wrap my arms around her and give her a hug.</p>
+
+<p>Chee herds us to a table near the front, where the waiters are preparing the red eggs for my uncle. &ldquo;Red eggs are a symbol of rebirth,&rdquo; Chee tells us. &ldquo;When you turn sixty, you are born again. Like a baby. Only this time you are born into wisdom.&rdquo; He pockets one of the red eggs when the waiters are not looking. Lammie Pie glowers at him, and he shrugs. &ldquo;Don&rsquo;t worry,&rdquo; he says. &ldquo;Hard-boiled.&rdquo;</p>
+
+<p>We sit at a round table near the center of the room, and the waiters bring platter after platter of food: won tons, sweet-and-sour pork, lemon chicken, cashew chicken, tomato-beef chow mein, roast duck, steamed rice, shrimp chips, shark soup, and rice pudding. Chee scoops up noodles with his chopsticks and slams the food down on our plates. &ldquo;Good for you,&rdquo; he says. &ldquo;Make you strong.&rdquo;</p>
+
+<p>The more I eat, the tighter the seams of my dress stretch over my stomach. My bladder sloshes from one too many glasses of 7-Up, and I lean back to relieve the pressure.</p>
+
+<p>The speeches start, first in Cantonese, then in English.</p>
+
+<p>I tap my mother&rsquo;s arm. &ldquo;Can I go to the restroom?&rdquo; I ask.</p>
+
+<p>My mother shakes her head and returns her gaze to the podium. I crane my neck, but I can&rsquo;t see over the bobbing, black-haired heads. Elizabeth tries to stand on her seat to look, but Chee yanks her down and curses at her in English.</p>
+
+<p>I wave to a waiter, who balances empty platters on his long arms. He bends down and asks, &ldquo;What do you need?&rdquo;</p>
+
+<p>&ldquo;Where&rsquo;s the restroom?&rdquo; I whisper.</p>
+
+<p>He points to the door beside the kitchen on the other side of the room. I calculate the distance. I will have to pass five tables of people who might recognize me from the school photos Chee has sent them over the years. I don&rsquo;t want them to stare at me and think, <em>Why she not sit down? Her American mother let her do as she please. What a shame!</em> I imagine my father making excuses for me, to hide his embarrassment, and the bitter, stinging words on the ride home: &ldquo;Couldn&rsquo;t you have waited just five minutes? I told you to go to the bathroom before we left. Were you not listening?&rdquo;</p>
+
+<p>I wonder what I should do. I don&rsquo;t want to offend my father, which is easy to do. He is a bundle of contradictions. &ldquo;It&rsquo;s not my fault,&rdquo; he once told us. &ldquo;I&rsquo;ve lived two lives. In the morning, I went to Chinese school. The teachers called me &lsquo;Lam Chee Ning.&rsquo; In the afternoon, I went to American school. The nuns called me &lsquo;Dave Lam.&rsquo; I tried to follow the Ten Commandments, but I fought a lot. Too many people don&rsquo;t like us Chinese.&rdquo; Whenever a situation arises, I don&rsquo;t know which side of my father will respond: Chee or Dave, the Chinese fighter or the American lover. I decide to stay seated until the speeches are over. I clutch my stomach and feel my swollen bladder. Maybe if I don&rsquo;t move or breathe, I&rsquo;ll be all right.</p>
+
+<p>Peering between people&rsquo;s shoulders, I glimpse a banner someone has presented to Uncle John. Chee turns around and explains, &ldquo;It&rsquo;s written in Chinese, in red and gold, for happiness and good luck.&rdquo;</p>
+
+<p>Chopsticks click against the sides of teacups. Everyone stands and lifts his or her glass for a toast. &ldquo;Happy birthday, John! Here&rsquo;s to another sixty years!&rdquo; I tug on the waistband of my dress, but it is my skin that is too tight, not the sash. I rock my feet back and forth, trying to take my mind off the uncomfortable fullness of my stomach and bladder.</p>
+
+<p>The party ends. Guests shuffle toward the coat room for their belongings. I search for a path to the restroom, but my father pinches my elbow. &ldquo;Go hug Uncle John,&rdquo; he says. &ldquo;Wish him good luck. If he asks what you need, tell him money for braces and dance lessons for your sister.&rdquo;</p>
+
+<p>&ldquo;I have to go to the restroom,&rdquo; I say.</p>
+
+<p>&ldquo;Later.&rdquo; Chee shoves me toward the podium. &ldquo;Go hug Uncle John first.&rdquo;</p>
+
+<p>My mother leans down and says, &ldquo;Your father already tried talking to him, but he wouldn&rsquo;t listen.&rdquo;</p>
+
+<p>From my mother&rsquo;s sorrowful expression, I know the earlier conversation between Uncle John and my father involved money. I imagine what my father must have said: &ldquo;I work so hard, I almost die of an ulcer.&rdquo; It&rsquo;s true, I know, but Uncle John must have glared at him, thinking Chee was playing on his sympathies and the memory of their father, who did die of an ulcer.</p>
+
+<p>Now it is up to my sisters and me to convince Uncle John that we are worthy of any money he might give us. We make our way over to where he sits with an elbow on the table and one finger tapping his chin. His forehead is furrowed. He smiles when he sees us, but the creases do not go away. His gaze lingers over our pale skin, our half-slanted eyes, our American bodies clothed in pastels, not the dark silks his crippled wife wears. I wonder if he sees us as family or just the daughters of an American sister-in-law.</p>
+
+<p>He stands up, and Elizabeth hugs him first. When it is my turn, I press myself against the scratchy wool of his coat and hold my breath against the stench of spoiled fish.</p>
+
+<p>Uncle John tells Cynthia and Elizabeth to go to Lammie Pie and wait for me. &ldquo;I want to talk to Angela,&rdquo; he says. His claw-like hands tremble as he pulls back a chair. &ldquo;Sit,&rdquo; he says.</p>
+
+<p>I obey, smoothing my dress over my full bladder. Being taller than he is, I can see the greasy black and gray hairs on his scalp. I want to hunch down to his size, but I feel my father&rsquo;s stare and sit up straight and proud.</p>
+
+<p>Uncle John touches my hand. His skin is cool and smooth as a mango. &ldquo;Your father tells me you need braces. Is that so?&rdquo;</p>
+
+<p>I nod, recalling visits to the orthodontist, the <span class="smallcaps">X</span>-rays and consultations, suggestions to push my front teeth up to the bone to eliminate the overbite that makes me look like Bugs Bunny. &ldquo;Beaver Teeth,&rdquo; my classmates call me.</p>
+
+<p>&ldquo;And your sister Cynthia, does she dance?&rdquo;</p>
+
+<p>I nod again, remembering her last performance in <em>Giselle</em>, how she fluttered across the stage dressed in a gossamer gown my mother had sewn.</p>
+
+<p>&ldquo;Is she any good?&rdquo;</p>
+
+<p>&ldquo;She has talent. She&rsquo;s going to New York someday to be a prima ballerina.&rdquo;</p>
+
+<p>&ldquo;And you. What do you like to do?&rdquo;</p>
+
+<p>I wasn&rsquo;t expecting this question. I think for a minute. What&rsquo;s the right answer? &ldquo;Read and draw.&rdquo;</p>
+
+<p>&ldquo;What do you draw?&rdquo;</p>
+
+<p>&ldquo;Mostly people&rsquo;s faces. I like to capture their expressions.&rdquo;</p>
+
+<p>&ldquo;Could you capture me?&rdquo;</p>
+
+<p>I tilt my head, studying Uncle John in the harsh light. He seems small and frail, like a lab monkey who has suffered one too many experiments. &ldquo;I could try,&rdquo; I say, &ldquo;but I mostly draw women.&rdquo;</p>
+
+<p>&ldquo;Why women?&rdquo;</p>
+
+<p>&ldquo;They&rsquo;re more fascinating.&rdquo;</p>
+
+<p>&ldquo;Really?&rdquo; Uncle John leans back and clasps his hands between his knees. &ldquo;Do you not find me fascinating?&rdquo;</p>
+
+<p>I shrug. Chee did not coach me in how to answer such a question.</p>
+
+<p>Uncle John raises his eyebrows and shifts his body from side to side, as if modeling for an invisible camera. &ldquo;How do you see me?&rdquo; he asks.</p>
+
+<p>&ldquo;I don&rsquo;t know.&rdquo; The elastic waistband constricts my middle. I turn around, hoping to get some help from Chee, but he is standing at the other end of the room, pretending not to notice me.</p>
+
+<p>Uncle John touches my arm. Again I am shocked that skin so dry and wrinkled can feel so smooth and cool. &ldquo;What do you mean, you don&rsquo;t know?&rdquo; he says.</p>
+
+<p>Perspiration pastes the brown curls to my forehead. I tug on my waistband. I don&rsquo;t want to say anything without my father&rsquo;s approval. Already I feel I have said too much.</p>
+
+<p>Uncle John&rsquo;s grip tightens on my forearm. &ldquo;Answer me,&rdquo; he says.</p>
+
+<p>&ldquo;I can&rsquo;t.&rdquo;</p>
+
+<p>&ldquo;Why not?&rdquo;</p>
+
+<p>&ldquo;Because .&nbsp;.&nbsp;.&rdquo;</p>
+
+<p>&ldquo;Shall I tell your father you do not answer your elders when they speak?&rdquo;</p>
+
+<p>&ldquo;I don&rsquo;t want to lie.&rdquo;</p>
+
+<p>&ldquo;Then tell me the truth. How do you see me?&rdquo;</p>
+
+<p>I stare into his brown-and-yellow eyes. The hard lines of his skin, pulled tight over his unforgiving cheekbones. I remember the last time we visited his house, how he left us with his sick wife after dinner so he could watch a basketball game.</p>
+
+<p>&ldquo;You&rsquo;re a mean old man.&rdquo;</p>
+
+<p>&ldquo;Mean?&rdquo;</p>
+
+<p>&ldquo;You don&rsquo;t care about anyone except yourself.&rdquo;</p>
+
+<p>&ldquo;What makes you say that?&rdquo; he asks.</p>
+
+<p>And, without thinking of what my father would say, I tell him everything: &ldquo;You didn&rsquo;t give my dad a job when he was laid off and couldn&rsquo;t find work. You hired a stranger instead, someone who stole money from you. You laughed when my mother had to get a job. I heard you tell Uncle Jimmy, &lsquo;American women like to bring home the bacon.&rsquo; And when Elizabeth wouldn&rsquo;t hug you because you always smell like rotten fish, you told everyone, &lsquo;She&rsquo;s a spoiled brat, pure American, not an ounce of Chinese blood.&rsquo; And when my father showed you my straight-A report card, you said, &lsquo;It&rsquo;s a shame she&rsquo;s not a boy.&rsquo; How can you expect me to say nice things about you when all you do is ridicule us?&rdquo;</p>
+
+<p>I stand up, but Uncle John won&rsquo;t release my arm. He pulls me close, so close I smell his sour-milk breath. &ldquo;You&rsquo;re right,&rdquo; he says. &ldquo;I&rsquo;m all those things. But your father, he is no better. And your mother, she did no right by marrying him. But you and your sisters, it is no fault of yours. You could not choose your parents.&rdquo; He reaches into his front pocket and withdraws a red envelope bulging with crisp hundred-dollar bills. &ldquo;Here. Take this.&rdquo;</p>
+
+<p>I feel my parents and my sisters watching, holding their breath. I push Uncle John&rsquo;s hand aside and twist my arm free. My bladder sloshes like an angry storm. &ldquo;Keep it. I don&rsquo;t want it.&rdquo;</p>
+
+<p>I tip over the chair and shove past relatives toward the restroom. Inside, I wait in line for a stall. The soles of my shoes stick to the floors. The walls sweat, and the air smells of urine, disinfectant, and rodent killer. I clutch my stomach and rock back and forth on my heels. &ldquo;Hurry, hurry, hurry,&rdquo; I moan.</p>
+
+<p>Lammie Pie crashes through the door, seizes my wrist, and asks, &ldquo;What happened?&rdquo;</p>
+
+<p>&ldquo;He offered me money, but I wouldn&rsquo;t take it.&rdquo;</p>
+
+<p class="ckeditor-shortcode"><figure class="photo photo-outset-center-medium">
+	<div>
+					<div>
+				<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 1960 1380'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/980x690r/photos/339-30-wells.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/1960x1380r/photos/339-30-wells.jpg
+	 alt="339 - Wells - Lam"
+	 class="lazy">
+
+									<figcaption>
+																											<div class="photo-credit">
+																			© <a href="https://www.thesunmagazine.org/contributors/rochelle-wells">
+											Rochelle
+																						Wells
+										</a>
+																	</div>
+																								</figcaption>
+							</div>
+			</div>
+</figure>
+</p>
+
+<p>Lammie Pie frowns and shakes my arm. &ldquo;How could you? You know we need that money.&rdquo;</p>
+
+<p>Tears wet my eyes. I can see my mother&rsquo;s pain and disappointment through her anger, but I don&rsquo;t care anymore.</p>
+
+<p>Lammie Pie leads me out of the restroom. She whispers to Chee, who says to me, &ldquo;Go back and apologize immediately and ask for the money back. Tell him you didn&rsquo;t know what you were saying.&rdquo;</p>
+
+<p>&ldquo;But I <em>did </em>know what I was saying.&rdquo;</p>
+
+<p>&ldquo;We could end up homeless if you don&rsquo;t apologize to Uncle John. Now go talk to him. Say you&rsquo;re sorry, or you&rsquo;re walking home tonight.&rdquo;</p>
+
+<p>&ldquo;But we live two hours away.&rdquo;</p>
+
+<p>I imagine him leaving me there without a nickel. I imagine huddling in an alley until a cop, or someone else, finds me. This isn&rsquo;t the first time Chee has threatened to make me walk home. The previous time was when I was five and couldn&rsquo;t count to one hundred. We were in the hospital parking lot waiting for my mother to finish with her doctor&rsquo;s appointment. Every time I got to thirty-two, I hit a blank spot. Chee opened the car door and yanked on my arm. &ldquo;If you can&rsquo;t count to a hundred before your mom gets here, you&rsquo;re walking home.&rdquo;</p>
+
+<p>I trembled. Cynthia stared at me with wide eyes. I tried to remember. Thirty, thirty-one, thirty-two .&nbsp;.&nbsp;. thirty-three. I did not have to walk home that day.</p>
+
+<p>I gaze out the restaurant window. It is dark outside. I do not want to walk tonight. I tug on my skirt. &ldquo;I need to go pee. Can I do that first?&rdquo;</p>
+
+<p>&ldquo;No, he&rsquo;s leaving. Apologize and get the money. Then you can go.&rdquo;</p>
+
+<p>I sigh. Uncle John is helping Aunt Lil into a silk Chinese jacket embroidered with birds and fish.</p>
+
+<p>&ldquo;Uncle John?&rdquo;</p>
+
+<p>He turns. When he sees me, his frown blossoms into a smile. &ldquo;Yes?&rdquo;</p>
+
+<p>&ldquo;I&rsquo;m sorry.&rdquo; The words feel like mothballs in my mouth.</p>
+
+<p>He shakes his head. &ldquo;No, you&rsquo;re right. I am a mean old man. But I can start over. I have a new life.&rdquo; He withdraws a red egg from the front pocket of his jacket and raises it like a gleaming coin.</p>
+
+<p>I stare at the bulge in his other pocket, where the coveted envelope lies. &ldquo;I should have taken the money. May I have it?&rdquo;</p>
+
+<p>&ldquo;Why?&rdquo;</p>
+
+<p>&ldquo;For my parents.&rdquo;</p>
+
+<p>&ldquo;What happened to your face?&rdquo;</p>
+
+<p>I touch my cheeks and wonder how long I have been crying. Uncle John slips the red egg into his pocket and withdraws the envelope. He presses it against my palm, closing my fingers one at a time over the red paper. &ldquo;Do not tell them what I&rsquo;m going to tell you,&rdquo; he says. &ldquo;I do not give this money to them, and I don&rsquo;t want your father asking for more. I am doing this for you, so you will think fondly of me when I am dead and will not tell your children I was a mean old man. Understand?&rdquo;</p>
+
+<p>I nod. My head swirls, and my stomach tightens with cramps. I want to go to the restroom and then sleep on the drive home.</p>
+
+<p>I clutch the envelope and hug Uncle John. &ldquo;Thank you,&rdquo; I say in Cantonese.</p>
+
+<p>&ldquo;Good luck.&rdquo; He kisses me.</p>
+
+<p>Through the dissipating crowd, I see Chee standing with his feet apart, his coat folded over his crossed arms. He is waiting for me to bring the money that will sustain him for another few weeks. Elizabeth gazes sadly at me with her big brown eyes. I hand Chee the envelope, and he counts the bills. &ldquo;Two thousand,&rdquo; he says to Lammie Pie, who has just emerged from the restroom with Cynthia.</p>
+
+<p>&ldquo;I&rsquo;ll be right back.&rdquo; I catch the restroom door before it closes. &ldquo;Will you wait for me?&rdquo;</p>
+
+<p>Chee nods, looking at the money in his hands.</p>
+
+<p>In the restroom, I squeeze into a stall and relieve the ache in my bladder. My stomach still bulges beneath my dress, but it&rsquo;s no longer painful to breathe or move. I wash my hands with icy water and floral-smelling liquid soap. Cynthia and Elizabeth come in wearing their big snow jackets and ask, &ldquo;Will you tell us a story?&rdquo;</p>
+
+<p>Their bodies are cut into jigsaw puzzles by the cracked mirror. I dry my wet hands with a rough paper towel. &ldquo;What type of story?&rdquo; I ask.</p>
+
+<p>&ldquo;A story about the moon,&rdquo; Cynthia says.</p>
+
+<p>&ldquo;A happy story,&rdquo; Elizabeth says.</p>
+
+<p>With my left hand, I grasp Cynthia&rsquo;s; with my right, Elizabeth&rsquo;s. We step back into the restaurant. Lammie Pie smiles and nudges us toward the exit.</p>
+
+<p>A brisk wind whips across my face. I pull my sisters close on either side and lean into a cold gust that smells of gasoline. We walk in formation, left, right, left, right: a private march. Car engines throttle and roar. Brakes squeal. Relatives wave goodbye. We continue marching. Yellow-orange lights reflect off windshields. Dead leaves blow up around our ankles. Cynthia clutches her jacket against her throat, and Elizabeth looks up at the moonless sky. I listen to my mother&rsquo;s heels click against the concrete. My father links his arm in the crook of her elbow and asks, &ldquo;Lammie, what should we do first?&rdquo;</p>
+
+<p>&ldquo;Pay off the Visa,&rdquo; my mother says.</p>
+
+<p>&ldquo;But we need a new couch.&rdquo;</p>
+
+<p>&ldquo;The couch can wait. The bills come first.&rdquo;</p>
+
+<p>Chee unlocks the van and slides the door open. We file inside and sit in the near darkness. Chee helps Lammie Pie up the step and closes the door. He starts the engine and turns on the headlights.</p>
+
+<p>&ldquo;I know,&rdquo; he says, leaning over to turn on the heat. &ldquo;We&rsquo;ll go to Tahoe and double it.&rdquo;</p>
+														</div>
+
+
+				
+<div class="sharing-bar article-sharing">
+	<div class="sharing-bar-first">
+		<a href="javascript:window.print();" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-printer"></use></svg> <span>Print</span></a>
+	</div>
+
+	<div class="sharing-bar-second">
+		<span class="alt-ff xsmall">Share:</span>
+		<a href="https://www.facebook.com/sharer/sharer.php?u=https://www.thesunmagazine.org/issues/339/red-eggs" target="_blank" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-facebook"></use></svg> <span>Facebook</span></a>
+		<a href="https://twitter.com/share?url=https://www.thesunmagazine.org/issues/339/red-eggs&amp;via=thesunmagazine" target="_blank" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-twitter"></use></svg> <span>Twitter</span></a>
+		<a href="#" class="b b-1 b-padding-tight xsmall js-toggle-mail-form"><svg><use xlink:href="#i-email"></use></svg> <span>Email</span></a>
+	</div>
+</div>
+
+<div class="send-to-friend-message-container">
+	<div class="alert alert-success xsmall">Thank you for sharing <em>The Sun</em>.</div>
+</div>
+
+<form method="post" action="/ajax/articles/send-to-a-friend" class="form fill-grey send-to-friend-form">
+		<input type="hidden" id="form_url" name="form[url]" value="https://www.thesunmagazine.org/issues/339/red-eggs" />
+
+	<ul class="form-fields">
+		<li><label for="form_sender_name"><span class="label-text">Your Full Name</span><span class="label-asterisk">*</span></label><input type="text" id="form_sender_name" name="form[sender_name]" required="required" /></li>
+		<li><label for="form_sender_email"><span class="label-text">Your Email Address</span><span class="label-asterisk">*</span></label><input type="email" id="form_sender_email" name="form[sender_email]" required="required" /></li>
+		<li><label for="form_recipient_name"><span class="label-text">Friend’s Name</span><span class="label-asterisk">*</span></label><input type="text" id="form_recipient_name" name="form[recipient_name]" required="required" /></li>
+		<li><label for="form_recipient_email"><span class="label-text">Friend’s Email Address</span><span class="label-asterisk">*</span></label><input type="email" id="form_recipient_email" name="form[recipient_email]" required="required" /></li>
+		<li><label for="form_message"><span class="label-text">Personalized Message</span></label><textarea id="form_message" name="form[message]"></textarea></li>
+	</ul>
+<div class="send-to-friend-message-container">
+	<div class="alert alert-error xsmall">Something went wrong. Please try again.</div>
+</div>
+
+<div class="g-recaptcha" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs"></div>
+<div class="form-actions"><button type="submit" id="form_submit" name="form[submit]"	class="form-actions-b-primary b b-1 b-loading xsmall"><svg><use xlink:href="#i-loading"></use></svg>
+		Submit
+	</button></div>
+<input type="hidden" id="form__token" name="form[_token]" value="91ff2b5517e5b964a5d3d14fcd4c76ea19920e85" /></form>
+
+<br>
+
+
+
+										<footer class="article-contributor contributors">
+									
+
+<div class="block-contributor">
+		
+
+		<div class="block-contributor-content">
+		<div class="block-contributor-bio small">
+			<p><span class="smallcaps"><strong>Angela Lam</strong></span> is a writer and fitness enthusiast living in Santa Rosa, California. Her essay in this issue is part of an unpublished book-length memoir. She is currently working on a novel.</p><a href="/contributors/angela-lam" class="block-contributor-link link-alt small">More From This Contributor&nbsp;&#9656;</a>		</div>
+	</div>
+</div>
+
+							</footer>
+						</article>
+
+
+				    <div class="paywall-subscription block-product">
+			<div class="columns">
+			<div class="paywall-banner span3 cta cta-l1">
+				<div class="cta-intro">
+					<h5 class="cta-title alt-ff">One Free Selection Left </h5>
+					<p class="cta-text xsmall"><a class="link-alt" href="https://www.thesunmagazine.org/subscriber/login" data-label="Already a subscriber?">Already a subscriber? Sign in ▸</a><br><br>Read two free selections from <em>The Sun</em> each month.</p>
+				</div>
+			</div>
+			<div class="paywall-banner span9 note note-1 text-center">
+				<h4 class="cta-title alt-ff">Subscribe to <em>The Sun</em> and save 45%</h4>
+				<p class="cta-text xsmall">Subscribers get full access to the current issue and more than 40 years of archives.</p>
+				<a class="b b-1 xsmall cta-trigger"  href="/subscribe1" data-label="Subscribe" data-ctatitle="Subscribe">Subscribe</a>
+			</div>
+		</div>
+
+		<div class="columns">
+			<div class="span12 paywall-cta-bottom">
+				<p>
+					<span class="cta-title-issue">Buy the March 2004 issue for $5.95</span>
+					<span class="xsmall">Order now to get instant access to this issue, and we’ll also send you a print copy.</span>
+					<a class="b b-5 xsmall corona"  href="#" data-product-type="issues" data-id="339" data-label="Order Now ▸">Order Now ▸</a>
+				</p>
+			</div>
+		</div>
+
+		
+
+</div>
+	
+	
+	
+	<div class="spacer"></div>
+	
+
+
+
+		
+		<div class="article-correspondence-cta">
+		<div class="cta cta-l1" data-url="https://www.thesunmagazine.org/letter-to-the-editor">
+			<div class="cta-intro">
+				<h5 class="cta-title alt-ff">Thinking about writing us a letter?</h5>
+				<p class="cta-text">Give in to the temptation. We love getting mail. <br><span class="xsmall">(Of course, we reserve the right to edit.)</span></p>
+			</div>
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" class="cta-button b b-4 b-padding-tight small" data-label="Write Us A Letter!">Write Us A Letter!</a>
+		</div>
+	</div>
+	
+
+			<div class="article-also layout-item-large full-bar fill-grey-mid-light">
+		<div class="layout-item-intro">
+			<h2>Also In This Issue</h2>
+			<a href="/issues/339" class="xsmall link-alt">March 2004&nbsp;&#9656;</a>
+		</div>
+		<div class="issue-articles-l1">
+			<div class="issue-articles-l1-content1">
+				
+<div class="cover cover-l1 block-product">
+	<div>
+							<a href="/issues/339" class="cover-thumb">
+				
+				<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 727'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/import/issue/339.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/561x728r/import/issue/339.jpg
+	 alt=""
+	 class="lazy">
+
+			</a>
+		
+
+													<!-- <a href="/issues/339" data-product-type="issues" data-id="339" data-role="order" class="js-buy-single corona cover-button b b-1 b-full xsmall" data-label="Buy This Issue &#9656;">
+								Buy This Issue&nbsp;&#9656;
+			</a> -->
+			<a href="/issues/339" data-product-type="issues" data-id="339" class="js-buy-single corona cover-button b b-1 b-full xsmall" data-label="Buy This Issue &#9656;">
+								Buy This Issue&nbsp;&#9656;
+			</a>
+					
+					</div>
+</div>
+			</div>
+			<div class="issue-articles-l1-content2">
+				<div class="articles-l3">
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/sy-safranskys-notebook">Sy Safransky&#039;s Notebook</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/339/sy-safranskys-notebook-339">March 2004</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/sy-safransky">Sy Safransky</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/poetry">Poetry</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/339/selected-poems-david-budbill-issue-339">Selected Poems</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/david-budbill">David Budbill</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/readers-write">Readers Write</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/339/deception">Deception</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/our-readers">Our Readers</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/quotations">Quotations</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/339/sunbeams-339">Sunbeams</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+									</div>
+			</div>
+		</div>
+	</div>
+	
+
+			<div class="article-related layout-item-large full-bar fill-pattern-light">
+		<div class="layout-item-intro">
+			<h2>Related Selections</h2>
+			<ul class="list-inline list-inline-tight"><li><a href="/topics/adolescence" class="xsmall link-alt link-text">Adolescence</a></li><li><a href="/topics/parents" class="xsmall link-alt link-text">Parents</a></li><li><a href="/topics/siblings" class="xsmall link-alt link-text">Siblings</a></li><li><a href="/topics/identity" class="xsmall link-alt link-text">Identity</a></li><li><a href="/topics/race" class="xsmall link-alt link-text">Race</a></li></ul>		</div>
+
+		<div class="articles-l2">
+							
+
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/457/summit-fever">Summit Fever</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/davy-rothbart">Davy Rothbart</a></li><li><a href="/issues/457">January 2014</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/457" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 727'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/140x182r/import/issue/457.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/import/issue/457.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/quotations">Quotations</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/456/sunbeams-456">Sunbeams</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li><a href="/issues/456">December 2013</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/456" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 727'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/140x182r/import/issue/456.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/import/issue/456.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/fiction">Fiction</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/302/outlaws">Outlaws</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/john-fulton">John Fulton</a></li><li><a href="/issues/302">February 2001</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/302" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 725'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/141x182r/import/issue/302.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/281x364r/import/issue/302.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/photography">Photography</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/264/photographs-by-gordon-baer">Photographs By Gordon Baer</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li><a href="/issues/264">December 1997</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/264" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 725'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/141x182r/import/issue/264.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/281x364r/import/issue/264.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+					</div>
+	</div>
+	
+	
+					<form id="newsletterForm" method="post" action="https://www.thesunmagazine.org/newsletter" data-url-send="https://www.thesunmagazine.org/newsletter" class="form form-newsletter fill-grey" enctype="multipart/form-data" target="_blank">
+
+
+
+		<div class="form-newsletter-intro">
+			<h3 class="alt-ff large">Sign Up For Our Newsletter</h3>
+			<p>We’ll let you know about new website selections, upcoming events, special offers, and more.</p>
+		</div>
+
+		<ul class="form-newsletter-fields form-fields form-fields-inline">
+			<li>
+				<input name="name" type="text" maxlength="500" id="name" placeholder="Your Name">
+			</li>
+			<li>
+				<input name="email" type="text" maxlength="500" id="email" placeholder="Your E-mail">
+			</li>
+
+			<li class="form-fields-inline-button">
+				<button disabled="disabled" class="form-newsletter-send b b-4 b-padding-tight b-loading g-recaptcha" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs" data-callback="recaptcha_callback" name="SubmitButton" id="SubmitButton">
+					<svg><use xlink:href="#i-loading"></use></svg>
+					Sign&nbsp;Up
+				</button>
+			</li>
+		</ul>
+	</form>
+	<script id="hiddenlpsubmitdiv" style="display: none;"></script>
+
+
+
+<footer class="footer brand-grey-dark">
+			<div class="footer-first">
+		<h3 class="footer-tagline">Independent, Reader-Supported Publishing</h3>
+		<p class="footer-desc">In each issue of <em>The Sun</em> you’ll find some of the most radically intimate and socially conscious writing being published today. In an age of media conglomerates, we’re something of an oddity: an ad-free, independent, reader-supported magazine.</p>
+		<ul class="footer-nav list-inline-border xsmall">
+			
+		<li class=" first">
+			<a href="https://www.thesunmagazine.org/about" 	   class=''>
+	   About <em>the Sun</em>	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/staff" 	   class=''>
+	   Staff	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/find-the-sun" 	   class=''>
+	   Find <em>The Sun</em>&nbsp;&nbsp;in a Store Near You	</a>
+		
+	</li>
+
+
+		</ul>
+	</div>
+	
+		<div class="footer-second">
+		<ul class="footer-second-social list-inline">
+			<li><a href="https://www.facebook.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-facebook"></use></svg></span> Like Us</a></li>
+			<li><a href="https://twitter.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-twitter"></use></svg></span> Follow Us</a></li>
+			<li><a href="https://instagram.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-instagram"></use></svg></span> Take a Look</a></li>
+		</ul>
+
+		<div class="footer-second-content">
+			<ul class="footer-nav list-inline-border xsmall">
+				
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/" 	   class='current '>
+	   Home	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/privacy-policy" 	   class=''>
+	   Privacy Policy	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/terms-of-use" 	   class=''>
+	   Terms of Use	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/site-map" 	   class=''>
+	   Site Map	</a>
+		
+	</li>
+
+
+			</ul>
+			<p class="footer-copyright xxsmall">Copyright &copy; 1974–2020 <em>The Sun</em>. All rights reserved.</p>
+		</div>
+	</div>
+</footer>
+
+
+
+<div class="offset-nav">
+	<ul>
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/read" 	   class='current '>
+	   Read	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/issues/current" 	   class=''>
+	   Current Issue	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/archives" 	   class=''>
+	   Archives	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/featured" 	   class=''>
+	   Featured Selections	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/topics" 	   class=''>
+	   Browse Topics	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/sections" 	   class=''>
+	   Browse Sections	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/connect" 	   class=''>
+	   Connect	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/news" 	   class=''>
+	   News from <em>The Sun</em>	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" 	   class=''>
+	   Write a Letter to the Editor	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/discussion-groups" 	   class=''>
+	   Discussion & Writing Groups	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/make-a-suggestion" 	   class=''>
+	   Make a Suggestion	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/submit" 	   class=''>
+	   Submit	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/shop" 	   class=''>
+	   Shop	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/giftsub" 	   class=''>
+	   Gift Subscriptions	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/issues" 	   class=''>
+	   Issues	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+											
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/donatemenu" 	   class='highlight'>
+	   Donate	</a>
+		
+	</li>
+
+		<li class=" last">
+														<a href="/SubscribeNav1" 					   class=''>
+						Subscribe					</a>
+									
+	</li>
+
+
+					<li>
+				<a href="https://www.thesunmagazine.org/shop/cart">Cart ( <span class="cart-item-count">  0  </span>)</a>
+			</li>
+			<li><a href="https://www.thesunmagazine.org/subscriber/login" class="link-header-logout link-alt">Sign In</a></li>
+			</ul>
+	<ul>
+		<li class=" first">
+			<a href="https://www.thesunmagazine.org/about" 	   class=''>
+	   About <em>the Sun</em>	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/staff" 	   class=''>
+	   Staff	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/find-the-sun" 	   class=''>
+	   Find <em>The Sun</em>&nbsp;&nbsp;in a Store Near You	</a>
+		
+	</li>
+
+</ul>
+	<ul>
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/" 	   class='current '>
+	   Home	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/privacy-policy" 	   class=''>
+	   Privacy Policy	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/terms-of-use" 	   class=''>
+	   Terms of Use	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/site-map" 	   class=''>
+	   Site Map	</a>
+		
+	</li>
+
+</ul>
+</div>
+
+<div id="buy-popup-message" class="buy-popup mfp-hide white-popup white-popup-block">
+	<a class="popup-modal-dismiss" href="#"></a>
+	<h5>Due to fulfillment challenges related to the novel coronavirus, print copies are temporarily unavailable for individual sale. We are offering free PDFs until we are able to resume print sales.</h5>
+	<p>Enter your e-mail address below to download this issue.</p>
+	<form method="post" id="download-single" action="https://www.thesunmagazine.org/issue/pdfFree/531.pdf">
+		<label for="email"><span class="label-text">E-mail</span><span class="label-asterisk">*</span></label>
+		<input class="buy-single-email" id="email" type="email" name="email">
+		<button type="send" class="form-buy-issue-send b b-3 b-padding-tight b-loading">Send</button>
+		<button class="form-buy-issue-download b b-3 b-padding-tight b-loading">Download pdf</button>
+		<button type="send" class="popup-modal-dismiss b b-2 b-padding-tight b-loading">Close</button>
+		<div class="g-recaptcha" style="text-align: center" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs"></div>
+
+	</form>
+</div>
+
+			<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/plugins.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/site.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/newsletter.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/js/articles.js"></script>
+		</div>
+		</div>
+
+				<script>
+		(function (doc) {
+			var scripts = doc.getElementsByTagName('script');
+			var script = scripts[scripts.length - 1];
+			var xhr = new XMLHttpRequest();
+			xhr.onload = function () {
+				var div = doc.createElement('div');
+				div.innerHTML = this.responseText;
+				div.style.display = 'none';
+				script.parentNode.insertBefore(div, script);
+			}
+			xhr.open('get', '/theme/thesun//assets/build/img/sprite/sprite.svg', true);
+			xhr.send();
+		})(document);
+
+
+
+		</script>
+
+		<script>
+			// Submit function
+            function recaptcha_callback() {
+						var getUrl = $('.form-newsletter').data( "url-send" ),
+							getName = $('input#name').val(),
+							getEmail = $('input#email').val();
+						$.ajax({
+								type: "POST",
+								url: getUrl,
+								data: {
+									name: getName,
+									email: getEmail,
+									grecaptcharesponse: grecaptcha.getResponse()
+								}
+							}).done(function(response) {
+								console.log(response);
+									$('.form-fields').fadeOut(800, function () {
+										$('.form-fields').empty().append('<div class="newsletter-confirm-message">Thank you for signing up to receive news from <em>The Sun</em>. Your first newsletter will arrive soon.<div>').fadeIn(800);
+									});
+							});
+			}
+
+		</script>
+
+		<script>
+			function getUrlCode() {
+				var url_string = window.location.href;
+				var url = new URL(url_string);
+				var c = url.searchParams.get('promotion\_key');
+				if (typeof c !== 'undefined' && c !== null) {
+					setCookie("promotion_code",c);
+				}
+			}
+
+			function setCookie(cname, cvalue) {
+				document.cookie = cname + "=" + cvalue + ";" + "path=/";
+			}
+
+			function getCookie(cname) {
+				var name = cname + "=";
+				var decodedCookie = decodeURIComponent(document.cookie);
+				var ca = decodedCookie.split(';');
+				for(var i = 0; i <ca.length; i++) {
+					var c = ca[i];
+					while (c.charAt(0) == ' ') {
+						c = c.substring(1);
+					}
+					if (c.indexOf(name) == 0) {
+						return c.substring(name.length, c.length);
+					}
+				}
+				return "";
+			}
+			window.addEventListener( "load", getUrlCode );
+		</script>
+
+
+	</body>
+</html>

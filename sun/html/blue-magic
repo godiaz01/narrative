@@ -1,0 +1,1252 @@
+
+<!DOCTYPE html>
+<html class="no-js" lang="en-US">
+	<head>
+		<title>Blue Magic - The Sun Magazine</title>
+
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		
+		<meta name="viewport" content="width=device-width, minimum-scale=1.0">
+
+		<link rel="dns-prefetch" href="//ajax.googleapis.com">
+		<link rel="dns-prefetch" href="//use.typekit.net">
+		
+		<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/modernizr.js"></script>
+		<script src="https://www.google.com/recaptcha/api.js"
+				async defer>
+		</script>
+
+		<script>(function(d) { var config = { kitId: 'kzw7ebk', scriptTimeout: 3000, async: true }, h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s) })(document);</script>
+
+
+				
+		<link rel="apple-touch-icon" sizes="57x57" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-57x57.png?v=2016">
+		<link rel="apple-touch-icon" sizes="60x60" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-60x60.png?v=2016">
+		<link rel="apple-touch-icon" sizes="72x72" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-72x72.png?v=2016">
+		<link rel="apple-touch-icon" sizes="76x76" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-76x76.png?v=2016">
+		<link rel="apple-touch-icon" sizes="114x114" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-114x114.png?v=2016">
+		<link rel="apple-touch-icon" sizes="120x120" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-120x120.png?v=2016">
+		<link rel="apple-touch-icon" sizes="144x144" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-144x144.png?v=2016">
+		<link rel="apple-touch-icon" sizes="152x152" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-152x152.png?v=2016">
+		<link rel="apple-touch-icon" sizes="180x180" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-180x180.png?v=2016">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-32x32.png?v=2016" sizes="32x32">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/android-chrome-192x192.png?v=2016" sizes="192x192">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-96x96.png?v=2016" sizes="96x96">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-16x16.png?v=2016" sizes="16x16">
+		<link rel="mask-icon" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/safari-pinned-tab.svg?v=2016" color="#444444">
+		<link rel="shortcut icon" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon.ico?v=2016">
+		<meta name="apple-mobile-web-app-title" content="The Sun Magazine">
+		<meta name="application-name" content="The Sun Magazine">
+		<meta name="msapplication-TileColor" content="#fcc330">
+		<meta name="msapplication-TileImage" content="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/mstile-144x144.png?v=2016">
+		<meta name="theme-color" content="#ffffff">
+
+				<link rel="stylesheet" type="text/css" href="https://cloud.typography.com/6578674/659928/css/fonts.css" />
+		<link rel="stylesheet" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/css/style.css">
+
+																		<meta property="og:site_name" content="The Sun Magazine">
+		<meta property="og:type" content="article">
+		<meta property="og:url" content="https://www.thesunmagazine.org/issues/460/blue-magic">
+		<meta property="og:image" content="http://www.thesunmagazine.org/files/2016-03/460-29-vizireanu-preview.jpg">
+		<meta property="og:title" content="Blue Magic - The Sun Magazine">
+		<meta property="og:description" content="Every Friday night when I was twelve, I&amp;rsquo;d watch my cousin Derrick, fourteen, get ready to go out with a girl or to a junior-high-school dance. He&amp;rsquo;d take thick dabs of a hair grease called Blue Magic and rub it between the palms of his hands.">
+		<meta property="fb:app_id" content="158741778010551">
+
+						<link rel="image_src" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.comhttp://www.thesunmagazine.org/files/2016-03/460-29-vizireanu-preview.jpg">
+
+												<meta name="twitter:card" content="summary">
+		<meta name="twitter:title" content="Blue Magic - The Sun Magazine">
+		<meta name="twitter:description" content="Every Friday night when I was twelve, I&amp;rsquo;d watch my cousin Derrick, fourteen, get ready to go out with a girl or to a junior-high-school dance. He&amp;rsquo;d take thick dabs of a hair grease called Blue Magic and rub it between the palms of his hands.">
+		<meta name="twitter:image" content="http://www.thesunmagazine.org/files/2016-03/460-29-vizireanu-preview.jpg">
+		<meta name="twitter:site" content="@thesunmagazine">
+
+				<link rel="publisher" href="https://plus.google.com/113792980827145858211">
+        
+		<meta name="Description" content="Every Friday night when I was twelve, I&amp;rsquo;d watch my cousin Derrick, fourteen, get ready to go out with a girl or to a junior-high-school dance. He&amp;rsquo;d take thick dabs of a hair grease called Blue Magic and rub it between the palms of his hands.">
+
+		
+		<!-- Google Tag Manager -->
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-TKBHCCG');</script>
+		<!-- End Google Tag Manager -->
+
+		<!-- Google Analytics -->
+		<script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+            ga('create', 'UA-2351127-1', 'auto');  // Replace with your property ID.
+            ga('send', 'pageview');
+            ga('require', 'ecommerce');   // Load the ecommerce plug-in.
+		</script>
+		<!-- End Google Analytics -->
+	</head>
+	<body id="">
+
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TKBHCCG"
+		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+		<header class="header" data-offset-start="80">
+		<div class="header-utilities">
+				<ul class="header-utilities-user list-inline list-inline-tight xxsmall">
+							<li>
+					<span class="header-utilities-user-intro">Already A Subscriber?</span> &nbsp;
+					<a href="https://www.thesunmagazine.org/subscriber/login" class="link-text link-alt">Sign In</a>
+				</li>
+					</ul>
+		<a href="https://www.thesunmagazine.org/shop/cart" class="header-utilities-cart  link-alt link-icon tiny">
+			<span class="i"><svg><use xlink:href="#i-cart"></use></svg></span>
+			<span class="cart-item-count">
+									0 Items
+				
+			</span>
+		</a>
+			</div>
+
+		<div class="header-bar">
+		<h1 class="header-logo logo">
+			<a href="/">
+				<img src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/img/logo-thesun.svg" class="logo-thesun" alt="The Sun Magazine">
+				<img src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/img/logo-tagline.svg" class="logo-tagline" alt="">
+			</a>
+		</h1>
+
+		<ul class="header-nav">
+			
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/read" 	   class='current '>
+	   Read	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/issues/current" 	   class=''>
+	   Current Issue	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/archives" 	   class=''>
+	   Archives	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/featured" 	   class=''>
+	   Featured Selections	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/topics" 	   class=''>
+	   Browse Topics	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/sections" 	   class=''>
+	   Browse Sections	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/connect" 	   class=''>
+	   Connect	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/news" 	   class=''>
+	   News from <em>The Sun</em>	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" 	   class=''>
+	   Write a Letter to the Editor	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/discussion-groups" 	   class=''>
+	   Discussion & Writing Groups	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/make-a-suggestion" 	   class=''>
+	   Make a Suggestion	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/submit" 	   class=''>
+	   Submit	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/shop" 	   class=''>
+	   Shop	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/giftsub" 	   class=''>
+	   Gift Subscriptions	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/issues" 	   class=''>
+	   Issues	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+											
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/donatemenu" 	   class='highlight'>
+	   Donate	</a>
+		
+	</li>
+
+		<li class=" last">
+														<a href="/SubscribeNav1" 					   class=''>
+						Subscribe					</a>
+									
+	</li>
+
+
+		</ul>
+
+		<button class="header-nav-toggle"><svg><use xlink:href="#i-menu" class="i-menu"></use><use xlink:href="#i-close" class="i-close"></use></svg></button>
+		<button class="header-search-toggle" data-form-wrapper=".header-search"><svg><use xlink:href="#i-magnifier" class="i-magnifier"></use><use xlink:href="#i-close" class="i-close"></use></svg></button>
+	</div>
+
+		<div class="header-search">
+		<div class="header-search-content">
+			<form action="https://www.thesunmagazine.org/search" class="form form-search" method="get">
+				<h2 class="alt-ff brand-link">Search Our 40 Years of Archives</h2>
+				<ul class="form-search-fields form-fields form-fields-inline">
+					<li><input type="text" name="q" value=""></li>
+					<li class="form-fields-inline-button"><button class="b b-1 b-padding-tight b-loading"><svg><use xlink:href="#i-loading"></use></svg>Search</button></li>
+				</ul>
+
+				<div class="header-search-content-shortcuts">
+					<h6 class="search-advanced alt-ff"><a class="js-handle-advanced" href="https://www.thesunmagazine.org/search?advanced=1">Advanced Search</a></h6>
+					<br>
+					<h6 class="alt-ff">Popular Pages</h6>
+					<ul class="list-inline-border list-inline-tight xxsmall"><li class=" first"><a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a></li><li class=""><a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a></li><li class=""><a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a></li><li class=""><a href="https://www.thesunmagazine.org/sections/quotations" 	   class=''>
+	   Quotations	</a></li><li class=""><a href="https://www.thesunmagazine.org/sections/readers-write" 	   class=''>
+	   Readers Write	</a></li><li class=" last"><a href="https://www.thesunmagazine.org/sections/poetry" 	   class=''>
+	   Poetry	</a></li></ul>				</div>
+			</form>
+		</div>
+	</div>
+</header>
+
+	<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+	<script type="text/javascript">
+		$(document).ready(function() {
+			$('.js-handle-advanced').on('click', function (e) {
+				e.preventDefault();
+				var getSearchValue = $('.form-search-fields input').val();
+				var getURL = $(this).attr('href');
+				var newURL = getURL + '&q=' + getSearchValue;
+				window.location.href = newURL;
+			});
+		});
+	</script>
+
+		<div class="container-hidden">
+		<div class="container">
+
+				
+	
+	<article class="article ">
+		<header class="block-content block-content-l1 block-content-center">
+						<div class="block-content-header">
+				<h6 class="b-content-section heading-square"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+				<h1 class="block-content-title">Blue Magic</h1>
+
+				
+				<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/jb-mccray">J.B. McCray</a></li><li><a href="/issues/460">April 2014</a></li></ul>
+
+			</div>
+
+																			
+
+				<figure class="block-content-photo block-content-photo-large photo photo-outset-center-large">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 2360 1580'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/1180x1763r/photos/460-29-vizireanu.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/2360x3525r/photos/460-29-vizireanu.jpg
+	 alt="460 - Vizireanu - McCray"
+	 class="lazy">
+
+										<figcaption>
+
+						
+																				<div class="photo-credit">
+								&copy;&nbsp;<a href="/contributors/anita-vizireanu">Anita Vizireanu</a>
+							</div>
+																		</figcaption>
+									</figure>
+
+					</header>
+
+				<div class="article-body link-text-wrap">
+																		<p><em>Every Negro boy &mdash; in my situation during those years, at least &mdash; who reaches this point realizes, at once, profoundly, because he wants to live, that he stands in great peril and must find, with speed, a &ldquo;thing,&rdquo; a gimmick, to lift him out, to start him on his way.</em></p>
+
+<p class="text-right"><em>&mdash; James Baldwin</em></p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">Every Friday night when I was twelve, I&rsquo;d watch my cousin Derrick, fourteen, get ready to go out with a girl or to a junior-high-school dance. He&rsquo;d take thick dabs of a hair grease called Blue Magic and rub it between the palms of his hands. When it was the right consistency, he&rsquo;d apply it evenly all over his scalp. Then he&rsquo;d brush his hair into immaculate waves, the intricate patterns circling his head like the engravings of a crown.</p>
+
+<p>He would do this in the hall bathroom, and I&rsquo;d watch him from a seat at the dining-room table, one foot on the chair and my chin resting on my knee. He&rsquo;d stand at the bathroom sink in black pants and socks, no shirt, and study himself in the mirror. He put a lot of work into being handsome &mdash; the long hours exercising, the hair grease, the acne soaps that I sometimes mistook for hand soap &mdash; but it wasn&rsquo;t necessary. He was light skinned and naturally good-looking. His long lashes gave his face an impish quality, and he wasn&rsquo;t overly muscular, despite being an all-around athlete: baseball, basketball, and football.</p>
+
+<p>Sometimes, as he was checking the side of his face for a blemish, Derrick would notice me sitting there and say, &ldquo;What are you looking at?&rdquo;</p>
+
+<p>If I felt like a shy, insecure fatty that day, I&rsquo;d reply, &ldquo;Nothing.&rdquo; If I felt like a sassy, defensive fatty, I&rsquo;d say, &ldquo;I don&rsquo;t know. Why don&rsquo;t you tell me what I&rsquo;m looking at?&rdquo; But being a smart aleck was dangerous, because with two strides Derrick could have me in a headlock or down on the floor, and then he&rsquo;d pummel me.</p>
+
+<p>But most of the time Derrick didn&rsquo;t care if I watched him. Occasionally he&rsquo;d even let me help him get ready for his dates, as if I were his valet for the night. In those moments he seemed to forget about how I liked to read books and watch <em>Guiding Light</em> with Gran and how I never sank a shot playing basketball. He would show me his dance moves while getting dressed. Once, he said he hoped his friends had bought extra rubbers; he didn&rsquo;t like going to Walgreens to buy them. &ldquo;That shit,&rdquo; he said, &ldquo;is fucking embarrassing.&rdquo;</p>
+
+<p>Derrick and I both lived in our grandmother&rsquo;s house, which had become a haven for the grandkids her children couldn&rsquo;t or wouldn&rsquo;t raise on their own. Her home was the epicenter of the family: a brick two-story with a basement, a garage, and decorative woodwork that made it resemble a gingerbread house. It was in an older suburb where middle-class whites were moving out and working-class blacks were moving in.</p>
+
+<p>My grandmother had five adult children who were always coming and going as they lost and found jobs or spouses. Despite all the demand for rooms, she always had a place for you to stay and something for you to eat; no one ever went hungry or homeless. She kept a spotless house and decorated it with gilded lamps and furniture encased in plastic.</p>
+
+<p>She&rsquo;d taken me in at the age of eleven after my dad went to prison for robbery. My cousins would tease me that my daddy was in jail and my mother didn&rsquo;t want me. I didn&rsquo;t talk much, tried (and failed) not to eat too much, and volunteered to help Gran as often as I could. I clipped coupons, fetched her glasses of water, and massaged her dry, diabetic feet. I loved to sit and eavesdrop as she gossiped on the phone. I made myself into a caricature of what I thought the perfect child should be: studious, silent, and always grateful &mdash; for a big piece of chicken, a new pair of Lee jeans, those turquoise sweat pants with white piping down the legs. I didn&rsquo;t express my own opinions but told people what they wanted to hear. <em>Yes, your makeup&rsquo;s on straight. No, your feet aren&rsquo;t too dry.</em> When pressed by my teachers for an original thought, I played dumb. I was soft and quiet and never disruptive. I was afraid of being seen.</p>
+
+<p>I hadn&rsquo;t always been so self-conscious. I remember when I was six or seven and everyone had gathered at my grandmother&rsquo;s for a birthday party, some of my aunts were laughing at the way I danced to the disco song &ldquo;To Be Real,&rdquo; by Cheryl Lynn. It starts with horns so sweet that I couldn&rsquo;t help but move my hips. Whenever that song was playing, I flailed with abandon and unchecked joy, bumping into chairs and tables. By the looks on their faces, everyone loved it. They played the song over and over, so I would never stop dancing.</p>
+
+<p>But by middle school I knew not to draw attention to myself. My cousins heard the swish in my voice and recognized it as the enemy. They said, &ldquo;You run with too much sugar in your tank.&rdquo; They tried to teach me: <em>This is how you hold a bat. This is how you throw a pass. This is how you dribble and drive to the hoop.</em> But the lessons didn&rsquo;t take. I understood characters in stories better than I did other kids my age. I interacted with the world as a passive observer &mdash; a note taker, a scribbler.</p>
+
+<p>The other kids on our street knew I was odd, too. Proper boys didn&rsquo;t behave the way I did. Even though I idolized the Six Million Dollar Man and Luke Skywalker like the rest of the boys, I found the heroes&rsquo; eyes terribly intriguing. I especially liked Christopher Reeve as Clark Kent. He was <span class="smallcaps">OK</span> in his blue Superman tights, but I preferred him as the bumbling Kent, constantly readjusting his glasses. There was something sweet about the way he covered up his superhero persona with ties, brimmed hats, and goofy aplomb. I, too, wanted a secret identity to hide behind.</p>
+
+<p>At least my father loved me. From the time I was able to read, he had bought me comic books. He would go to the store and return with a pint of whiskey, a bag of Doritos, and a <em>Justice League of America</em> comic. On Saturdays, after he mowed the lawn in cutoff shorts and dress socks, he&rsquo;d drive me to the library, where I&rsquo;d check out books on Greek and Norse mythology. Thor with his hammer and Apollo with his golden chariot kept me company. Dad brought home white copy paper from work so I could draw my own comics. He bought encyclopedias at the grocery store, one volume at a time, and proudly told me, &ldquo;These are <em>your</em> books.&rdquo;</p>
+
+<p>Dad knew I was different. I laughed at inappropriate times, liked being chased, and fell down too easily. I was sensitive and prone to long bouts of daydreaming. By buying me books, he was giving me a way to survive in the world without him.</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">On Saturday mornings at my grandmother&rsquo;s house I got up early, before anyone else, to read my comics. I&rsquo;d lie on my belly in the far corner of the dining room, surrounded by houseplants, and I&rsquo;d play with the white particles in the potting soil while reading about the exploits of the New Teen Titans or the Uncanny X-Men. My cousin Derrick was usually the second person to wake. When I heard the click of his bedroom door, I held my breath.</p>
+
+<p>I&rsquo;d come to expect Derrick&rsquo;s crusty-eyed sneers on Saturday mornings. His face told the story of the night before. If he&rsquo;d gone out and danced and maybe even grinded on a girl but hadn&rsquo;t gotten laid, I might get a grunt, a punch in the arm, or a muttered command to get out of his way. But on good days, the morning-after-sex days, I got a &ldquo;Hey&rdquo; with just enough casual heartiness that I somehow believed he actually liked me. Those days were few and far between. We weren&rsquo;t friends and had nothing in common but our mutual abandonment.</p>
+
+<p>Even before Dad had gone to prison, my mother had boarded a plane back to her native land. The American Dream had not worked out for either one of them. He&rsquo;d labored too hard for a life they couldn&rsquo;t afford, and she&rsquo;d been unable to adjust to a world where every gesture and custom needed to be decoded. Maybe it was simply the demands of motherhood that drove her away. Often she sat in the bedroom smoking cigarette after cigarette, looking after a child who grew increasingly alien to her with each new English word he learned. She&rsquo;d been diagnosed as a severe schizophrenic and manic-depressive but refused to take her medications. As the marriage had deteriorated into frequent bouts of fury, she&rsquo;d decided to return to her home country.</p>
+
+<p>Derrick&rsquo;s mother occasionally visited him. I don&rsquo;t know what happened to his father. My grandmother raised Derrick as if he were her own and tried to give him the love of two parents, but it wasn&rsquo;t enough. He was all inarticulate rage and articulate force. But it was his speed, not his strength, that put trophies on the mantel. The coaches raved about his quickness. No matter what he was doing, his motions were confident and sure. When we were small, an uncle had tried to teach us both how to box in our grandmother&rsquo;s backyard. I&rsquo;d resisted the lesson. The whole premise was anathema to me, and I couldn&rsquo;t even slip the bloated red gloves over my hands without help. But boxing came naturally to my cousin: block, jab, uppercut.</p>
+
+<p>In our working-class suburb his reputation for fighting grew even larger than his reputation for athletics. He hung out with neighborhood boys who ran in the streets and fought and laughed and watched each other&rsquo;s backs. While I was reading about the Trojan War, my cousin was painting the name of his crew on his jean jacket and carrying brass knuckles in his pocket. There was always a beef with someone, a territory to defend, or a rival who had talked too much smack.</p>
+
+<p>The first time I held a knife was in Derrick&rsquo;s room. He closed the door and showed it to me and another cousin, brandishing it the way the warrior Achilles might a spear. I remember the frightening weight of it in my hand. The blade was about the length of my forearm. Derrick said it was a hunting knife, and he practiced throwing it as if he were in a kung fu movie. It would stick in the wall and quiver.</p>
+
+<p>In junior high the other kids made fun of me for being fat and not dressing in the latest styles. But what I hated most was being called &ldquo;fag,&rdquo; which made me feel as if someone had ripped off my clothes in the middle of a school assembly. Once kids learned that Derrick was my cousin, despite our different last names, they knew to leave me alone. Derrick bullied all the runts in the family and never let us forget that we were weaker than he was, but no one else could touch us without paying the price. When it came to family, he had a strange sense of honor. I witnessed this once when a neighborhood boy struck our cousin Jason. Derrick got wind of the skirmish while it was occurring and walked straight down the street and into the fray. Though I took no pleasure in heavyweight matches on <span class="smallcaps">HBO</span>, I marveled at how precisely he moved &mdash; block, jab, uppercut &mdash; as if violence were encoded in his <span class="smallcaps">DNA</span>. The neighbor crumpled beneath the barrage, but my cousin just kept on punching.</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">Derrick didn&rsquo;t understand me. He didn&rsquo;t think of me as a boy, because all my gender indicators were askew. What my cousin despised and made fun of in public, however, he took advantage of in private.</p>
+
+<p>Late at night, when our uncles and aunts had settled in and shut their doors, he would sneak into my room and enter my bed. I would put up a minor struggle, then silently acquiesce. It wasn&rsquo;t entirely that he was stronger and could hurt me; it was partly the pleasure of having another person touch me. I had never had someone&rsquo;s mouth on my nipple. It felt right and created a buzzing in my brain. But then came the pain of his turning me over and mounting me &mdash; attempting to cram himself inside. I managed to avoid penetration, but he would try. Over and over. Some nights he&rsquo;d use K-Y Jelly, or Vaseline, or Blue Magic.</p>
+
+<p>At twelve I wasn&rsquo;t equipped to figure out the body&rsquo;s mysteries. Why did the pulse race and the mind go away? Like a cat that yearns to be petted, I briefly took joy in having Derrick&rsquo;s hands on me, but the overwhelming sense was of being dominated, of being forced into a submissive role. I longed for the simplicity of comic books, where the lines between heroes and villains were clear-cut. It was as if my cousin had a secret identity unknown to everyone but me. Had he used his <span class="smallcaps">X</span>-ray vision to see through the barricade of books to a boy who wanted to be touched? By coming to my room and putting his mouth on me and forcing me onto my stomach, was he acknowledging my own secret identity or trying to obliterate it?</p>
+
+<p>I should have been furious, but instead I apologized &mdash; not to Derrick or anyone else in particular. Mostly to God. I apologized for sitting in the house too long. For eating too much. For not being like the other kids. I sat with hunched shoulders, my warped posture a mea culpa, a prayer for invisibility. The heroes of fiction weren&rsquo;t going to save me. I was out of the range of even Superman&rsquo;s hearing, and Wonder Woman&rsquo;s Paradise Island just didn&rsquo;t exist.</p>
+
+<p>I wished life were like the <em>Choose Your Own Adventure</em> books I bought from the bookmobile at school: You either ran toward the scream from the ogre&rsquo;s cave (<em>Turn to page 93</em>) or continued on your journey toward the wizard&rsquo;s castle (<em>Turn to page 75</em>). Safe choices inevitably led to grisly traps while bold actions were generously rewarded. I tried to imagine my real life as a series of such choices, but it seemed each page held only disaster.</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">My father&rsquo;s letters from prison always ended the same way: &ldquo;Be strong. Be good. Read your Bible. Love, Dad.&rdquo; When he wasn&rsquo;t reading paperback westerns about tough do-gooders and golden-hearted hookers, he read the Bible himself. He&rsquo;d joined a prayer group in prison and a faith-based baseball team called the God Squad.</p>
+
+<p>My father was a different person in his letters. His handwriting, which I&rsquo;d never seen before he went to prison, was slanted and elongated. Without his physical presence, I couldn&rsquo;t gauge his expression to know how he felt, so I had to believe he meant whatever he wrote.</p>
+
+<p>I wrote back, but I couldn&rsquo;t tell him what was happening with my cousin &mdash; not in a letter. When Dad told me to &ldquo;be strong,&rdquo; I wondered if, like Spider-Man, he had a sixth sense that told him I was in danger. Most likely he didn&rsquo;t need one. He knew me, and he knew his family: his mother, his brothers and sisters, and their children.</p>
+
+<p>Inspired by my father&rsquo;s urging, I read the Bible. I wanted to be righteous. Unfortunately I didn&rsquo;t understand it. I read passages again and again until I fell asleep at the foot of my grandmother&rsquo;s bed.</p>
+
+<p>So I prayed to absorb Christianity through osmosis, and meanwhile I stood my ground against Derrick. One day I gave him attitude and started to walk away, but he grabbed my arm and threatened to tell everyone that I&rsquo;d tried to feel <em>him</em> up, that I&rsquo;d <em>asked</em> to suck his dick. Who did I think they&rsquo;d believe? I thought of my grandmother and my aunts and uncles. I thought of all the trophies on my grandmother&rsquo;s mantel, the lineup of tiny, hollow men. And I knew the answer.</p>
+
+<p>Seeing no other hope of salvation, I clung to the fact that my father would soon be home. His parole was imminent. With him around, I&rsquo;d be safe. I imagined his return as if it were a scene from a family sitcom: My father would hold me at arm&rsquo;s length and look down at me with affection. The theme song would play, and the end credits would roll.</p>
+
+<p>The reality was different. Prison had changed him. He was thinner, and there was something unusual about his eyes. He kept saying, &ldquo;You&rsquo;ve gotten so big. Man, you&rsquo;ve gotten so big.&rdquo; I wanted to hold him, to keep him in my sight. I believed if I was always around, he couldn&rsquo;t do anything that might send him back to prison.</p>
+
+<p>Like the gunslingers he idolized, Dad had been a noble outlaw. In his version of the tale, he&rsquo;d tried to rob a bank so that his mother wouldn&rsquo;t lose her house. As the oldest child, he carried the heaviest burden of responsibility. When he was young, he told me, he and one of his sisters would go shoplifting so Gran could put food on the table. I thought of him as Robin Hood.</p>
+
+<p>But when my dad was released from prison, there was no swagger in his gait. He seemed constantly startled at how the world had changed, how his family lived, how his son had turned out. The way the hours of the day drifted by in the free world seemed incomprehensible to him. He couldn&rsquo;t process what he was seeing, so he dulled his senses. He stayed in my grandmother&rsquo;s basement and drank whiskey, gin, vodka, and wine. He slept on the gold sofa in front of the <span class="smallcaps">TV</span>, cramming his hours with all the shows he had missed, like <em>The Rockford Files</em> and <em>Magnum P.I.</em> As the network signed off and he snored, I stared at him in the blue cathode light and thought, What did they do to you?</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">By the time my father regained his senses, my grandmother had lost her house. My aunts and uncles were left to fend for themselves, and Gran moved in with my aunt Phyllis, who had a stable job and a home of her own. Gran brought Derrick and me with her &mdash; until &ldquo;further arrangements&rdquo; could be made. My father came by on weekends to see me. Phyllis also had a son, my cousin Jason, who became Derrick&rsquo;s disciple.</p>
+
+<p>Phyllis&rsquo;s home was smaller than Gran&rsquo;s, which meant there was little privacy for anyone, including her. It also meant there were fewer opportunities for Derrick to get me alone. So instead of his penis, he used his fists. He punched, elbowed, and jabbed me whenever the adults weren&rsquo;t looking. Getting older and experiencing my own eruptions of acne and moodiness, I was no longer as accepting of his abuse. I began saying no. Emphatically. It wasn&rsquo;t so much courage I felt as safety in those close quarters, knowing someone was always around the corner in the kitchen or the living room.</p>
+
+<p>Derrick learned to hit me quick, before anyone could notice. On one such occasion my anger flared. I&rsquo;d had enough. In tears I grabbed my backpack and started to leave. I remember Aunt Phyllis asking me what was wrong, but I was screaming and crying too hard to talk. Years of mute suffering came out in a single agonizing wail.</p>
+
+<p>The screen door slammed behind me, and I walked down the sidewalk in the dark, not knowing where I was going. My aunt jumped in her car and drove beside me, asking me with concern in her voice to get in, but I refused. She wouldn&rsquo;t understand. No one could. If I went back, I thought, I would die. I was trying to be bold, to turn to page 93 of my adventure, but after several blocks I realized there was no page 93. I stopped walking. I got in her car.</p>
+
+<p>While I&rsquo;d been gone, this tight unit I had thought of as my family had made their choice. My behavior was outrageous and confirmed what they&rsquo;d already suspected: I just wasn&rsquo;t right in the head. My mother had been unstable, and I had followed suit. Disgusted, my grandmother said I was ungrateful and unworthy. Derrick said I was a liar and swore he&rsquo;d never punched me. That afternoon, when Dad called to arrange a visit, my aunt told him to come and get me. She wanted me out of her house. &ldquo;He can&rsquo;t stay here. I don&rsquo;t care what you do. Just come get him. Now.&rdquo;</p>
+
+<p>So there we were, the ex-con and his overweight son, homeless and walking the street in the dark. &ldquo;You fucked up, boy,&rdquo; my father said. &ldquo;You fucked up.&rdquo; He shook his head. He had no place for us to go. He&rsquo;d been staying downtown at the drop-in shelter and said he couldn&rsquo;t take me there.</p>
+
+<p>I readjusted the straps of my book bag. &ldquo;Why not?&rdquo;</p>
+
+<p>&ldquo;It&rsquo;s nothing but grown men, junkies, and thieves.&rdquo; He saw me tremble. &ldquo;You couldn&rsquo;t put up with it just a little longer, until I was in a better position?&rdquo; His pace grew brisk.</p>
+
+<p>&ldquo;No,&rdquo; I said, blubbering. &ldquo;He was picking on me. He wouldn&rsquo;t stop.&rdquo;</p>
+
+<p>&ldquo;He was <em>picking</em> on you? Fuck that. Boy, you gotta toughen up.&rdquo;</p>
+
+<p>&ldquo;You don&rsquo;t understand.&rdquo; My legs were tired. I couldn&rsquo;t keep up with him.</p>
+
+<p>&ldquo;Boy, if you don&rsquo;t hurry up, so help me God, I will leave your ass here. I will leave you in the street.&rdquo;</p>
+
+<p>At the thought of being left, I stopped under a streetlamp, exhausted. I&rsquo;d been memorizing the street names, just in case I had to walk back to Aunt Phyllis&rsquo;s house, but I had lost track. How had I ended up here? I got good grades. I did my homework. I said, &ldquo;Yes, sir,&rdquo; and, &ldquo;Yes, ma&rsquo;am.&rdquo; I&rsquo;d even rubbed my grandmother&rsquo;s feet. I&rsquo;d worked so hard to be good, to blend in.</p>
+
+<p>My father grabbed my arm and jerked me forward. I tripped over my size-twelve feet and tried to wipe snot from my nose.</p>
+
+<p>&ldquo;What is <em>wrong</em> with you?&rdquo; He let the indictment hang there. My mouth fell open in sorrow. In the eyes of my father I had gone from wondrous to wrong. What <em>was</em> wrong with me?</p>
+
+<p>He held me by the collar of my shirt. &ldquo;Laying up under that damn boy like some fucking animal. Like some fucking fag. You know better. Letting that boy lay on top of you like that. It ain&rsquo;t right.&rdquo;</p>
+
+<p>He balled his fist and raised it as if to strike me. My chest caved from shame and fear. How did my father know about my cousin and me? I had no clue.</p>
+
+<p>He lowered his fist and loosened his hold on my collar. &ldquo;That boy ain&rsquo;t no good. He&rsquo;s always been a rotten son of a bitch since the day he was born.&rdquo;</p>
+
+<p>We walked on through the entrance of the park, and a certain type of quiet that arrives at three in the morning settled upon us. It wasn&rsquo;t my fault, my father told me. My cousin was a predator. I couldn&rsquo;t have done anything against him. He was dangerous. He paused and held me in his gaze. &ldquo;But, boy, I need you to be strong. I need you to be stronger than this. You got to be a whole lot stronger.&rdquo;</p>
+
+<p>Though it was summer, there was a chill in the air. The park&rsquo;s open field was slick and dark and stretched into the even-deeper darkness of the woods. My father walked over to the picnic tables. &ldquo;Come on. We&rsquo;re gonna sleep here. Lay down.&rdquo; He put his own backpack down for me to use as a pillow. Then he took off his worn leather coat and draped it over my shoulders. &ldquo;You go to sleep, man. You go to sleep.&rdquo; And he sat over me. I believe he sat up all night.</p>
+														</div>
+
+
+				
+<div class="sharing-bar article-sharing">
+	<div class="sharing-bar-first">
+		<a href="javascript:window.print();" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-printer"></use></svg> <span>Print</span></a>
+	</div>
+
+	<div class="sharing-bar-second">
+		<span class="alt-ff xsmall">Share:</span>
+		<a href="https://www.facebook.com/sharer/sharer.php?u=https://www.thesunmagazine.org/issues/460/blue-magic" target="_blank" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-facebook"></use></svg> <span>Facebook</span></a>
+		<a href="https://twitter.com/share?url=https://www.thesunmagazine.org/issues/460/blue-magic&amp;via=thesunmagazine" target="_blank" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-twitter"></use></svg> <span>Twitter</span></a>
+		<a href="#" class="b b-1 b-padding-tight xsmall js-toggle-mail-form"><svg><use xlink:href="#i-email"></use></svg> <span>Email</span></a>
+	</div>
+</div>
+
+<div class="send-to-friend-message-container">
+	<div class="alert alert-success xsmall">Thank you for sharing <em>The Sun</em>.</div>
+</div>
+
+<form method="post" action="/ajax/articles/send-to-a-friend" class="form fill-grey send-to-friend-form">
+		<input type="hidden" id="form_url" name="form[url]" value="https://www.thesunmagazine.org/issues/460/blue-magic" />
+
+	<ul class="form-fields">
+		<li><label for="form_sender_name"><span class="label-text">Your Full Name</span><span class="label-asterisk">*</span></label><input type="text" id="form_sender_name" name="form[sender_name]" required="required" /></li>
+		<li><label for="form_sender_email"><span class="label-text">Your Email Address</span><span class="label-asterisk">*</span></label><input type="email" id="form_sender_email" name="form[sender_email]" required="required" /></li>
+		<li><label for="form_recipient_name"><span class="label-text">Friend’s Name</span><span class="label-asterisk">*</span></label><input type="text" id="form_recipient_name" name="form[recipient_name]" required="required" /></li>
+		<li><label for="form_recipient_email"><span class="label-text">Friend’s Email Address</span><span class="label-asterisk">*</span></label><input type="email" id="form_recipient_email" name="form[recipient_email]" required="required" /></li>
+		<li><label for="form_message"><span class="label-text">Personalized Message</span></label><textarea id="form_message" name="form[message]"></textarea></li>
+	</ul>
+<div class="send-to-friend-message-container">
+	<div class="alert alert-error xsmall">Something went wrong. Please try again.</div>
+</div>
+
+<div class="g-recaptcha" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs"></div>
+<div class="form-actions"><button type="submit" id="form_submit" name="form[submit]"	class="form-actions-b-primary b b-1 b-loading xsmall"><svg><use xlink:href="#i-loading"></use></svg>
+		Submit
+	</button></div>
+<input type="hidden" id="form__token" name="form[_token]" value="46109d9ed88e5fbe2ff9b665f16192b105ac10b3" /></form>
+
+<br>
+
+
+
+										<footer class="article-contributor contributors">
+									
+
+<div class="block-contributor">
+		
+
+		<div class="block-contributor-content">
+		<div class="block-contributor-bio small">
+			<p><strong><span class="smallcaps">J.B. McCray</span></strong> lives in the South and is a cupcake and dim sum enthusiast, despite having high blood pressure.</p><a href="/contributors/jb-mccray" class="block-contributor-link link-alt small">More From This Contributor&nbsp;&#9656;</a>		</div>
+	</div>
+</div>
+
+							</footer>
+						</article>
+
+
+				    <div class="paywall-subscription block-product">
+			<div class="columns">
+			<div class="paywall-banner span3 cta cta-l1">
+				<div class="cta-intro">
+					<h5 class="cta-title alt-ff">One Free Selection Left </h5>
+					<p class="cta-text xsmall"><a class="link-alt" href="https://www.thesunmagazine.org/subscriber/login" data-label="Already a subscriber?">Already a subscriber? Sign in ▸</a><br><br>Read two free selections from <em>The Sun</em> each month.</p>
+				</div>
+			</div>
+			<div class="paywall-banner span9 note note-1 text-center">
+				<h4 class="cta-title alt-ff">Subscribe to <em>The Sun</em> and save 45%</h4>
+				<p class="cta-text xsmall">Subscribers get full access to the current issue and more than 40 years of archives.</p>
+				<a class="b b-1 xsmall cta-trigger"  href="/subscribe1" data-label="Subscribe" data-ctatitle="Subscribe">Subscribe</a>
+			</div>
+		</div>
+
+		<div class="columns">
+			<div class="span12 paywall-cta-bottom">
+				<p>
+					<span class="cta-title-issue">Buy the April 2014 issue for $5.95</span>
+					<span class="xsmall">Order now to get instant access to this issue, and we’ll also send you a print copy.</span>
+					<a class="b b-5 xsmall corona"  href="#" data-product-type="issues" data-id="460" data-label="Order Now ▸">Order Now ▸</a>
+				</p>
+			</div>
+		</div>
+
+		
+
+</div>
+	
+	
+	
+	<div class="spacer"></div>
+	
+
+
+
+		
+		<div class="article-correspondence-cta">
+		<div class="cta cta-l1" data-url="https://www.thesunmagazine.org/letter-to-the-editor">
+			<div class="cta-intro">
+				<h5 class="cta-title alt-ff">Thinking about writing us a letter?</h5>
+				<p class="cta-text">Give in to the temptation. We love getting mail. <br><span class="xsmall">(Of course, we reserve the right to edit.)</span></p>
+			</div>
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" class="cta-button b b-4 b-padding-tight small" data-label="Write Us A Letter!">Write Us A Letter!</a>
+		</div>
+	</div>
+	
+
+			<div class="article-also layout-item-large full-bar fill-grey-mid-light">
+		<div class="layout-item-intro">
+			<h2>Also In This Issue</h2>
+			<a href="/issues/460" class="xsmall link-alt">April 2014&nbsp;&#9656;</a>
+		</div>
+		<div class="issue-articles-l1">
+			<div class="issue-articles-l1-content1">
+				
+<div class="cover cover-l1 block-product">
+	<div>
+							<a href="/issues/460" class="cover-thumb">
+				
+				<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 727'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/import/issue/460.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/561x728r/import/issue/460.jpg
+	 alt=""
+	 class="lazy">
+
+			</a>
+		
+
+													<!-- <a href="/issues/460" data-product-type="issues" data-id="460" data-role="order" class="js-buy-single corona cover-button b b-1 b-full xsmall" data-label="Buy This Issue &#9656;">
+								Buy This Issue&nbsp;&#9656;
+			</a> -->
+			<a href="/issues/460" data-product-type="issues" data-id="460" class="js-buy-single corona cover-button b b-1 b-full xsmall" data-label="Buy This Issue &#9656;">
+								Buy This Issue&nbsp;&#9656;
+			</a>
+					
+					</div>
+</div>
+			</div>
+			<div class="issue-articles-l1-content2">
+				<div class="articles-l3">
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/poetry">Poetry</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/460/at-last-1">At Last</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/richard-lehnert">Richard Lehnert</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/dog-eared-page">The Dog-Eared Page</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/460/excerpted-from-who-dies"><em>excerpted from</em><br />Who Dies?</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/stephen-and-ondrea-levine">Stephen and Ondrea Levine</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/readers-write">Readers Write</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/460/cash">Cash</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/our-readers">Our Readers</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/460/the-art-of-dying">The Art Of Dying</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/katy-butler">Katy Butler</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+									</div>
+			</div>
+		</div>
+	</div>
+	
+
+			<div class="article-related layout-item-large full-bar fill-pattern-light">
+		<div class="layout-item-intro">
+			<h2>Related Selections</h2>
+			<ul class="list-inline list-inline-tight"><li><a href="/topics/siblings" class="xsmall link-alt link-text">Siblings</a></li><li><a href="/topics/childhood" class="xsmall link-alt link-text">Childhood</a></li><li><a href="/topics/parents" class="xsmall link-alt link-text">Parents</a></li><li><a href="/topics/identity" class="xsmall link-alt link-text">Identity</a></li></ul>		</div>
+
+		<div class="articles-l2">
+							
+
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/photography">Photography</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/524/on-the-shore">On The Shore</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li><a href="/issues/524">August 2019</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/524" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 727'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/140x182r/2019-07/524.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/2019-07/524.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/329/health-care">Health Care</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/al-neipris">Al Neipris</a></li><li><a href="/issues/329">May 2003</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/329" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 727'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/140x182r/import/issue/329.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/import/issue/329.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/262/virus">Virus</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/alison-luterman">Alison Luterman</a></li><li><a href="/issues/262">October 1997</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/262" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 725'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/141x182r/import/issue/262.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/281x364r/import/issue/262.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/218/stuck">Stuck</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/r-brad-epperson">R. Brad Epperson</a></li><li><a href="/issues/218">February 1994</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/218" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 728'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/140x182r/import/issue/218.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/import/issue/218.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+					</div>
+	</div>
+	
+	
+					<form id="newsletterForm" method="post" action="https://www.thesunmagazine.org/newsletter" data-url-send="https://www.thesunmagazine.org/newsletter" class="form form-newsletter fill-grey" enctype="multipart/form-data" target="_blank">
+
+
+
+		<div class="form-newsletter-intro">
+			<h3 class="alt-ff large">Sign Up For Our Newsletter</h3>
+			<p>We’ll let you know about new website selections, upcoming events, special offers, and more.</p>
+		</div>
+
+		<ul class="form-newsletter-fields form-fields form-fields-inline">
+			<li>
+				<input name="name" type="text" maxlength="500" id="name" placeholder="Your Name">
+			</li>
+			<li>
+				<input name="email" type="text" maxlength="500" id="email" placeholder="Your E-mail">
+			</li>
+
+			<li class="form-fields-inline-button">
+				<button disabled="disabled" class="form-newsletter-send b b-4 b-padding-tight b-loading g-recaptcha" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs" data-callback="recaptcha_callback" name="SubmitButton" id="SubmitButton">
+					<svg><use xlink:href="#i-loading"></use></svg>
+					Sign&nbsp;Up
+				</button>
+			</li>
+		</ul>
+	</form>
+	<script id="hiddenlpsubmitdiv" style="display: none;"></script>
+
+
+
+<footer class="footer brand-grey-dark">
+			<div class="footer-first">
+		<h3 class="footer-tagline">Independent, Reader-Supported Publishing</h3>
+		<p class="footer-desc">In each issue of <em>The Sun</em> you’ll find some of the most radically intimate and socially conscious writing being published today. In an age of media conglomerates, we’re something of an oddity: an ad-free, independent, reader-supported magazine.</p>
+		<ul class="footer-nav list-inline-border xsmall">
+			
+		<li class=" first">
+			<a href="https://www.thesunmagazine.org/about" 	   class=''>
+	   About <em>the Sun</em>	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/staff" 	   class=''>
+	   Staff	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/find-the-sun" 	   class=''>
+	   Find <em>The Sun</em>&nbsp;&nbsp;in a Store Near You	</a>
+		
+	</li>
+
+
+		</ul>
+	</div>
+	
+		<div class="footer-second">
+		<ul class="footer-second-social list-inline">
+			<li><a href="https://www.facebook.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-facebook"></use></svg></span> Like Us</a></li>
+			<li><a href="https://twitter.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-twitter"></use></svg></span> Follow Us</a></li>
+			<li><a href="https://instagram.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-instagram"></use></svg></span> Take a Look</a></li>
+		</ul>
+
+		<div class="footer-second-content">
+			<ul class="footer-nav list-inline-border xsmall">
+				
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/" 	   class='current '>
+	   Home	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/privacy-policy" 	   class=''>
+	   Privacy Policy	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/terms-of-use" 	   class=''>
+	   Terms of Use	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/site-map" 	   class=''>
+	   Site Map	</a>
+		
+	</li>
+
+
+			</ul>
+			<p class="footer-copyright xxsmall">Copyright &copy; 1974–2020 <em>The Sun</em>. All rights reserved.</p>
+		</div>
+	</div>
+</footer>
+
+
+
+<div class="offset-nav">
+	<ul>
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/read" 	   class='current '>
+	   Read	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/issues/current" 	   class=''>
+	   Current Issue	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/archives" 	   class=''>
+	   Archives	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/featured" 	   class=''>
+	   Featured Selections	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/topics" 	   class=''>
+	   Browse Topics	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/sections" 	   class=''>
+	   Browse Sections	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/connect" 	   class=''>
+	   Connect	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/news" 	   class=''>
+	   News from <em>The Sun</em>	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" 	   class=''>
+	   Write a Letter to the Editor	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/discussion-groups" 	   class=''>
+	   Discussion & Writing Groups	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/make-a-suggestion" 	   class=''>
+	   Make a Suggestion	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/submit" 	   class=''>
+	   Submit	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/shop" 	   class=''>
+	   Shop	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/giftsub" 	   class=''>
+	   Gift Subscriptions	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/issues" 	   class=''>
+	   Issues	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+											
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/donatemenu" 	   class='highlight'>
+	   Donate	</a>
+		
+	</li>
+
+		<li class=" last">
+														<a href="/SubscribeNav1" 					   class=''>
+						Subscribe					</a>
+									
+	</li>
+
+
+					<li>
+				<a href="https://www.thesunmagazine.org/shop/cart">Cart ( <span class="cart-item-count">  0  </span>)</a>
+			</li>
+			<li><a href="https://www.thesunmagazine.org/subscriber/login" class="link-header-logout link-alt">Sign In</a></li>
+			</ul>
+	<ul>
+		<li class=" first">
+			<a href="https://www.thesunmagazine.org/about" 	   class=''>
+	   About <em>the Sun</em>	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/staff" 	   class=''>
+	   Staff	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/find-the-sun" 	   class=''>
+	   Find <em>The Sun</em>&nbsp;&nbsp;in a Store Near You	</a>
+		
+	</li>
+
+</ul>
+	<ul>
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/" 	   class='current '>
+	   Home	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/privacy-policy" 	   class=''>
+	   Privacy Policy	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/terms-of-use" 	   class=''>
+	   Terms of Use	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/site-map" 	   class=''>
+	   Site Map	</a>
+		
+	</li>
+
+</ul>
+</div>
+
+<div id="buy-popup-message" class="buy-popup mfp-hide white-popup white-popup-block">
+	<a class="popup-modal-dismiss" href="#"></a>
+	<h5>Due to fulfillment challenges related to the novel coronavirus, print copies are temporarily unavailable for individual sale. We are offering free PDFs until we are able to resume print sales.</h5>
+	<p>Enter your e-mail address below to download this issue.</p>
+	<form method="post" id="download-single" action="https://www.thesunmagazine.org/issue/pdfFree/531.pdf">
+		<label for="email"><span class="label-text">E-mail</span><span class="label-asterisk">*</span></label>
+		<input class="buy-single-email" id="email" type="email" name="email">
+		<button type="send" class="form-buy-issue-send b b-3 b-padding-tight b-loading">Send</button>
+		<button class="form-buy-issue-download b b-3 b-padding-tight b-loading">Download pdf</button>
+		<button type="send" class="popup-modal-dismiss b b-2 b-padding-tight b-loading">Close</button>
+		<div class="g-recaptcha" style="text-align: center" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs"></div>
+
+	</form>
+</div>
+
+			<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/plugins.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/site.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/newsletter.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/js/articles.js"></script>
+		</div>
+		</div>
+
+				<script>
+		(function (doc) {
+			var scripts = doc.getElementsByTagName('script');
+			var script = scripts[scripts.length - 1];
+			var xhr = new XMLHttpRequest();
+			xhr.onload = function () {
+				var div = doc.createElement('div');
+				div.innerHTML = this.responseText;
+				div.style.display = 'none';
+				script.parentNode.insertBefore(div, script);
+			}
+			xhr.open('get', '/theme/thesun//assets/build/img/sprite/sprite.svg', true);
+			xhr.send();
+		})(document);
+
+
+
+		</script>
+
+		<script>
+			// Submit function
+            function recaptcha_callback() {
+						var getUrl = $('.form-newsletter').data( "url-send" ),
+							getName = $('input#name').val(),
+							getEmail = $('input#email').val();
+						$.ajax({
+								type: "POST",
+								url: getUrl,
+								data: {
+									name: getName,
+									email: getEmail,
+									grecaptcharesponse: grecaptcha.getResponse()
+								}
+							}).done(function(response) {
+								console.log(response);
+									$('.form-fields').fadeOut(800, function () {
+										$('.form-fields').empty().append('<div class="newsletter-confirm-message">Thank you for signing up to receive news from <em>The Sun</em>. Your first newsletter will arrive soon.<div>').fadeIn(800);
+									});
+							});
+			}
+
+		</script>
+
+		<script>
+			function getUrlCode() {
+				var url_string = window.location.href;
+				var url = new URL(url_string);
+				var c = url.searchParams.get('promotion\_key');
+				if (typeof c !== 'undefined' && c !== null) {
+					setCookie("promotion_code",c);
+				}
+			}
+
+			function setCookie(cname, cvalue) {
+				document.cookie = cname + "=" + cvalue + ";" + "path=/";
+			}
+
+			function getCookie(cname) {
+				var name = cname + "=";
+				var decodedCookie = decodeURIComponent(document.cookie);
+				var ca = decodedCookie.split(';');
+				for(var i = 0; i <ca.length; i++) {
+					var c = ca[i];
+					while (c.charAt(0) == ' ') {
+						c = c.substring(1);
+					}
+					if (c.indexOf(name) == 0) {
+						return c.substring(name.length, c.length);
+					}
+				}
+				return "";
+			}
+			window.addEventListener( "load", getUrlCode );
+		</script>
+
+
+	</body>
+</html>

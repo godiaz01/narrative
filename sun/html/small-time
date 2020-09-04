@@ -1,0 +1,1269 @@
+
+<!DOCTYPE html>
+<html class="no-js" lang="en-US">
+	<head>
+		<title>Small Time - The Sun Magazine</title>
+
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		
+		<meta name="viewport" content="width=device-width, minimum-scale=1.0">
+
+		<link rel="dns-prefetch" href="//ajax.googleapis.com">
+		<link rel="dns-prefetch" href="//use.typekit.net">
+		
+		<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/modernizr.js"></script>
+		<script src="https://www.google.com/recaptcha/api.js"
+				async defer>
+		</script>
+
+		<script>(function(d) { var config = { kitId: 'kzw7ebk', scriptTimeout: 3000, async: true }, h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s) })(document);</script>
+
+
+				
+		<link rel="apple-touch-icon" sizes="57x57" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-57x57.png?v=2016">
+		<link rel="apple-touch-icon" sizes="60x60" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-60x60.png?v=2016">
+		<link rel="apple-touch-icon" sizes="72x72" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-72x72.png?v=2016">
+		<link rel="apple-touch-icon" sizes="76x76" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-76x76.png?v=2016">
+		<link rel="apple-touch-icon" sizes="114x114" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-114x114.png?v=2016">
+		<link rel="apple-touch-icon" sizes="120x120" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-120x120.png?v=2016">
+		<link rel="apple-touch-icon" sizes="144x144" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-144x144.png?v=2016">
+		<link rel="apple-touch-icon" sizes="152x152" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-152x152.png?v=2016">
+		<link rel="apple-touch-icon" sizes="180x180" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-180x180.png?v=2016">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-32x32.png?v=2016" sizes="32x32">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/android-chrome-192x192.png?v=2016" sizes="192x192">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-96x96.png?v=2016" sizes="96x96">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-16x16.png?v=2016" sizes="16x16">
+		<link rel="mask-icon" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/safari-pinned-tab.svg?v=2016" color="#444444">
+		<link rel="shortcut icon" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon.ico?v=2016">
+		<meta name="apple-mobile-web-app-title" content="The Sun Magazine">
+		<meta name="application-name" content="The Sun Magazine">
+		<meta name="msapplication-TileColor" content="#fcc330">
+		<meta name="msapplication-TileImage" content="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/mstile-144x144.png?v=2016">
+		<meta name="theme-color" content="#ffffff">
+
+				<link rel="stylesheet" type="text/css" href="https://cloud.typography.com/6578674/659928/css/fonts.css" />
+		<link rel="stylesheet" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/css/style.css">
+
+																		<meta property="og:site_name" content="The Sun Magazine">
+		<meta property="og:type" content="article">
+		<meta property="og:url" content="https://www.thesunmagazine.org/issues/472/small-time">
+		<meta property="og:image" content="http://www.thesunmagazine.org/files/2016-05/472-14-adams-preview.jpg">
+		<meta property="og:title" content="Small Time - The Sun Magazine">
+		<meta property="og:description" content="From outside, Jumbo&amp;rsquo;s was nothing more than a black-painted steel door in a brick wall, above which was a sign with a grinning yellow clown. When a customer came or went, the door would open for a moment, and I could glimpse the rich blackness of its interior and smell stale beer and cigarette smoke. Especially in the evenings, the illuminated yellow clown sign called out to me.">
+		<meta property="fb:app_id" content="158741778010551">
+
+						<link rel="image_src" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.comhttp://www.thesunmagazine.org/files/2016-05/472-14-adams-preview.jpg">
+
+												<meta name="twitter:card" content="summary">
+		<meta name="twitter:title" content="Small Time - The Sun Magazine">
+		<meta name="twitter:description" content="From outside, Jumbo&amp;rsquo;s was nothing more than a black-painted steel door in a brick wall, above which was a sign with a grinning yellow clown. When a customer came or went, the door would open for a moment, and I could glimpse the rich blackness of its interior and smell stale beer and cigarette smoke. Especially in the evenings, the illuminated yellow clown sign called out to me.">
+		<meta name="twitter:image" content="http://www.thesunmagazine.org/files/2016-05/472-14-adams-preview.jpg">
+		<meta name="twitter:site" content="@thesunmagazine">
+
+				<link rel="publisher" href="https://plus.google.com/113792980827145858211">
+        
+		<meta name="Description" content="From outside, Jumbo&amp;rsquo;s was nothing more than a black-painted steel door in a brick wall, above which was a sign with a grinning yellow clown. When a customer came or went, the door would open for a moment, and I could glimpse the rich blackness of its interior and smell stale beer and cigarette smoke. Especially in the evenings, the illuminated yellow clown sign called out to me.">
+
+		
+		<!-- Google Tag Manager -->
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-TKBHCCG');</script>
+		<!-- End Google Tag Manager -->
+
+		<!-- Google Analytics -->
+		<script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+            ga('create', 'UA-2351127-1', 'auto');  // Replace with your property ID.
+            ga('send', 'pageview');
+            ga('require', 'ecommerce');   // Load the ecommerce plug-in.
+		</script>
+		<!-- End Google Analytics -->
+	</head>
+	<body id="">
+
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TKBHCCG"
+		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+		<header class="header" data-offset-start="80">
+		<div class="header-utilities">
+				<ul class="header-utilities-user list-inline list-inline-tight xxsmall">
+							<li>
+					<span class="header-utilities-user-intro">Already A Subscriber?</span> &nbsp;
+					<a href="https://www.thesunmagazine.org/subscriber/login" class="link-text link-alt">Sign In</a>
+				</li>
+					</ul>
+		<a href="https://www.thesunmagazine.org/shop/cart" class="header-utilities-cart  link-alt link-icon tiny">
+			<span class="i"><svg><use xlink:href="#i-cart"></use></svg></span>
+			<span class="cart-item-count">
+									0 Items
+				
+			</span>
+		</a>
+			</div>
+
+		<div class="header-bar">
+		<h1 class="header-logo logo">
+			<a href="/">
+				<img src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/img/logo-thesun.svg" class="logo-thesun" alt="The Sun Magazine">
+				<img src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/img/logo-tagline.svg" class="logo-tagline" alt="">
+			</a>
+		</h1>
+
+		<ul class="header-nav">
+			
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/read" 	   class='current '>
+	   Read	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/issues/current" 	   class=''>
+	   Current Issue	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/archives" 	   class=''>
+	   Archives	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/featured" 	   class=''>
+	   Featured Selections	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/topics" 	   class=''>
+	   Browse Topics	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/sections" 	   class=''>
+	   Browse Sections	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/connect" 	   class=''>
+	   Connect	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/news" 	   class=''>
+	   News from <em>The Sun</em>	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" 	   class=''>
+	   Write a Letter to the Editor	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/discussion-groups" 	   class=''>
+	   Discussion & Writing Groups	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/make-a-suggestion" 	   class=''>
+	   Make a Suggestion	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/submit" 	   class=''>
+	   Submit	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/shop" 	   class=''>
+	   Shop	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/giftsub" 	   class=''>
+	   Gift Subscriptions	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/issues" 	   class=''>
+	   Issues	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+											
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/donatemenu" 	   class='highlight'>
+	   Donate	</a>
+		
+	</li>
+
+		<li class=" last">
+														<a href="/SubscribeNav1" 					   class=''>
+						Subscribe					</a>
+									
+	</li>
+
+
+		</ul>
+
+		<button class="header-nav-toggle"><svg><use xlink:href="#i-menu" class="i-menu"></use><use xlink:href="#i-close" class="i-close"></use></svg></button>
+		<button class="header-search-toggle" data-form-wrapper=".header-search"><svg><use xlink:href="#i-magnifier" class="i-magnifier"></use><use xlink:href="#i-close" class="i-close"></use></svg></button>
+	</div>
+
+		<div class="header-search">
+		<div class="header-search-content">
+			<form action="https://www.thesunmagazine.org/search" class="form form-search" method="get">
+				<h2 class="alt-ff brand-link">Search Our 40 Years of Archives</h2>
+				<ul class="form-search-fields form-fields form-fields-inline">
+					<li><input type="text" name="q" value=""></li>
+					<li class="form-fields-inline-button"><button class="b b-1 b-padding-tight b-loading"><svg><use xlink:href="#i-loading"></use></svg>Search</button></li>
+				</ul>
+
+				<div class="header-search-content-shortcuts">
+					<h6 class="search-advanced alt-ff"><a class="js-handle-advanced" href="https://www.thesunmagazine.org/search?advanced=1">Advanced Search</a></h6>
+					<br>
+					<h6 class="alt-ff">Popular Pages</h6>
+					<ul class="list-inline-border list-inline-tight xxsmall"><li class=" first"><a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a></li><li class=""><a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a></li><li class=""><a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a></li><li class=""><a href="https://www.thesunmagazine.org/sections/quotations" 	   class=''>
+	   Quotations	</a></li><li class=""><a href="https://www.thesunmagazine.org/sections/readers-write" 	   class=''>
+	   Readers Write	</a></li><li class=" last"><a href="https://www.thesunmagazine.org/sections/poetry" 	   class=''>
+	   Poetry	</a></li></ul>				</div>
+			</form>
+		</div>
+	</div>
+</header>
+
+	<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+	<script type="text/javascript">
+		$(document).ready(function() {
+			$('.js-handle-advanced').on('click', function (e) {
+				e.preventDefault();
+				var getSearchValue = $('.form-search-fields input').val();
+				var getURL = $(this).attr('href');
+				var newURL = getURL + '&q=' + getSearchValue;
+				window.location.href = newURL;
+			});
+		});
+	</script>
+
+		<div class="container-hidden">
+		<div class="container">
+
+				
+	
+	<article class="article ">
+		<header class="block-content block-content-l1 block-content-center">
+						<div class="block-content-header">
+				<h6 class="b-content-section heading-square"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+				<h1 class="block-content-title">Small Time</h1>
+
+				
+				<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/alex-r-jones">Alex R. Jones</a></li><li><a href="/issues/472">April 2015</a></li></ul>
+
+			</div>
+
+																			
+
+				<figure class="block-content-photo block-content-photo-large photo photo-outset-center-large">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 2360 1573'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/1180x1770r/photos/472-14-adams.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/2360x3541r/photos/472-14-adams.jpg
+	 alt="472 - Adams - Jones"
+	 class="lazy">
+
+										<figcaption>
+
+						
+																				<div class="photo-credit">
+								&copy;&nbsp;<a href="/contributors/ian-thomas-adams">Ian Thomas Adams</a>
+							</div>
+																		</figcaption>
+									</figure>
+
+					</header>
+
+				<div class="article-body link-text-wrap">
+																		<p><strong><span class="large">Jumbo&rsquo;s Clown Room</span></strong> was a bar and strip club on the north side of Hollywood Boulevard. In the late eighties, when I was just out of college, I lived up the street, and in the evenings after work I would walk past its doorway on my way to the Thai liquor store for a candy bar or a newspaper. (Buying a newspaper back then felt very adult.) From outside, Jumbo&rsquo;s was nothing more than a black-painted steel door in a brick wall, above which was a sign with a grinning yellow clown. When a customer came or went, the door would open for a moment, and I could glimpse the rich blackness of its interior and smell stale beer and cigarette smoke. Especially in the evenings, the illuminated yellow clown sign called out to me.</p>
+
+<p>I&rsquo;d moved to that part of town because I could afford it, and, being new to the city, I didn&rsquo;t know where else to go. At night East Hollywood had the seductive charm of a misty <em>Blade Runner</em>&ndash;like realm of Third World intrigue and procured pleasures, but in daytime it was nothing more than a scab of Thai markets and sun-bleached tenements, massage parlors, failing restaurants and thriving adult shops. The <span class="smallcaps">RTD</span> buses roared by, exhaling vertical plumes of black smoke into the dull blue sky as the neighborhood Armenian men slalomed around them in Buicks or Oldsmobiles, each with his seat steeply reclined to an angle of panache, one hand on the wheel, the other dangling out the window, clutching a burning cigarette.</p>
+
+<p>&nbsp;</p>
+
+<p><strong><span class="large">In those days,</span></strong> more than anything else, I wanted to write, which I understood to be a pedestrian affair: lots of revisions, the learning of craft, years of mediocrity followed by bare competence. And that was, at least theoretically, okay with me. But lurking inside <em>that</em> dream, like the sickening-sweet center of a Russell Stover chocolate, emerging only in the presence of exuberance or alcohol, seldom acknowledged, never disclosed, was a cloying but standard-issue idolization of Hemingway as man and writer, with the inevitable hope that I could be great like him. Yes, good old Papa, with his <em>Paris Review</em> interview, his curtness, his turtleneck. Hemingway of the Nick Adams stories. Hemingway gazing confidently into eternity in countless black-and-white photos. Most of all, Hemingway the artist, revising the ending of <em>A Farewell to Arms</em> thirty-nine times to get the words right. My admiration of Hemingway was, at its core, a belief that with hard work and attention to craft, everything could turn out all right. I was a big believer in those days. I believed then as I no longer do, believed with a power like conjuring, and when I worked every night on my stories in the darkness of my apartment, tapping away on my word processor, I liked to think that if Papa was looking down on me, he would have approved of my efforts.</p>
+
+<p>To support my writing, I had, in a perfunctory sort of way, taken law classes &mdash; contracts, civil procedure, uniform commercial code &mdash; and gotten my first real job as a paralegal at a small Beverly Hills law firm. I prided myself on a covert artistic disdain toward the world of wage grubbing. My plan was to use my position to pay the bills while writing at night, until fire burst forth from my work; then I would chuck that job like a bad habit for a life of Hemingway-like profundity, fan veneration, and the occasional issuance of elegant, well-reviewed short-story collections. That was the dream.</p>
+
+<p>But when I wasn&rsquo;t in reverie, I was shot full of adrenaline panic, armpits drenched, because I understood that I knew almost nothing about anything. The writing part I could fumble around with in private, but my job was different: I didn&rsquo;t have a clue. What I did have going for me, though, were two new suits I had purchased from a C&amp;R Clothiers at a strip mall in Oxnard. They were pinstriped and cuffless, one gray, one dark blue; the blue one was a three-piece, so that was extra special. My favorite outfit was the blue suit with a striped pink Yves Saint Laurent shirt, a red silk tie, and black penny loafers. Everything seemed better when I wore that. Wearing suits was new to me then, and in private moments I would spend time in front of the mirror, turning from side to side, while frowning in a way that I thought made me look grave. I kept a gold Cross pen tucked in my shirt breast pocket, ready to produce if needed. One night while out drinking, I found a decent attach&eacute; case in a dumpster, and this, along with a yellow legal pad I bought at Thrifty&rsquo;s, became the flimsy props of my charade of maturity and know-how. Besuited, glorious pen winking from my breast pocket, well-worn attach&eacute; case in hand, empty except for my legal pad, I was set for destiny, arrogant, terrified, and ready all at once for everything and nothing.</p>
+
+<p>&nbsp;</p>
+
+<p class="ckeditor-shortcode"><figure class="photo photo-outset-right">
+	<div>
+					<div>
+				<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 760 1146'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/380x573r/photos/1464201998_472-16-galbavy.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/760x1146r/photos/1464201998_472-16-galbavy.jpg
+	 alt="472 - Galbavy - Jones"
+	 class="lazy">
+
+									<figcaption>
+																											<div class="photo-credit">
+																			© <a href="https://www.thesunmagazine.org/contributors/pash-galbavy">
+											Pash
+																						Galbavy
+										</a>
+																	</div>
+																								</figcaption>
+							</div>
+			</div>
+</figure>
+</p>
+
+<p><strong><span class="large">I took up residency</span></strong> in the Villa Winona Apartments, which was a good place to start from nowhere. The sign outside claimed &ldquo;Tropical Gardens,&rdquo; which turned out to be three stunted rubber trees in the courtyard set in a concrete-block planter in which the tenants&rsquo; children hid their action figures. With its sagging balconies, faded paint, and barred windows, the Villa Winona presided over the street like a decaying layer cake. It was home to the dreamers, the yellers, the would-be&rsquo;s, the broke. <span class="smallcaps">TV</span> sets murmured through the walls, and the hallways were shadowy and redolent of shish kebab, kimchi, and carpet dust. The best feature was a swimming pool that was as nice as any in the city except for the occasional clump of black hairs that drifted here and there with the breeze.</p>
+
+<p>My place was a second-floor single with a worn linoleum-tiled kitchen, pale-orange carpeting &mdash; lightly stained in only a few spots &mdash; varnished wood paneling, a couple of checkered convertible sofas, and a generous closet in which to hang my two suits. There was a dimness to the place despite the large window, which, through the grime, looked east over the tenements of Hollywood. I came from the yellow fields of rural Ventura County, and Los Angeles stunned me with its vastness and filth. Every night when I sat at my desk to write, out that window in the oncoming evening I could see the incendiary red-and-white streak of Sunset Boulevard shooting first east and then, as though expended, listing southward through darkness to the distant lights of downtown.</p>
+
+<p>&nbsp;</p>
+
+<p><strong><span class="large">In the morning</span></strong> the orange sun rose over Dodger Stadium. I would dress in the faint blue light, get in my car, and drive down Western to Sunset, then down the steep hill on La Cienega, feeling a rush like destiny, until I was in Beverly Hills, my stomach tightening with every block. If Hollywood Boulevard east of the freeway was like a defunct carnival after the elephants had died, all faded colors and blowing trash, then Wilshire west of the Ambassador Hotel was like a pretty girl&rsquo;s leg in a silk stocking. The buildings were tall and white, the marble touched by the morning sun. The pavement was clean and smooth. The law office, located on the second floor of a once-impressive building on Robertson Boulevard, featured a lone ficus in a deserted waiting room, an undistinguished docket of cases, and a deep longing in its employees to be somewhere else.</p>
+
+<p>I was to split my time working for two lawyers. Bachman was a squat, potbellied man in his middle years who wore ties that were neither cheap nor nice and laundered shirts whose white brilliance I secretly envied. His face was a florid ham of disappointment from frustrated plans, years of spirit-crushing deadlines, and too many client lunches that began with optimism and ended with something between nostalgia and sadness. All he really had was the firm, and although I doubt he was a man given to self-reflection, he must have known that it wasn&rsquo;t much.</p>
+
+<p>As best I could tell, Bachman&rsquo;s dream was to lure the better clients from the Westside and downtown firms out to Beverly Hills. But despite his charity work and well-placed ads in the <em>Daily Journal</em>, our clients did not include the likes of <span class="smallcaps">IBM</span> or American Airlines or any company you&rsquo;ve ever heard of. Bachman prided himself on being the rainmaker &mdash; not that there was much &mdash; and farmed his litigation out to his sallow-faced colleague, Lowenstein. In his thirties, Lowenstein was older than me, but younger than Bachman, and hadn&rsquo;t yet been swallowed by the whale. Besides his own meager practice, which appeared to specialize in the representation of clients both vengeful and broke, he had other aspirations. Buried in the strata of unanswered discovery and unpaid bills on his desk were movie scripts featuring titles like <em>The Serpent Master Returns</em>, which he tried to broker. &ldquo;I like to help people out,&rdquo; he explained with an insincere modesty. Seldom discussed, shimmering quietly among the stacks of unfiled pleadings and swiss-coffee walls of his office, Lowenstein&rsquo;s Hollywood-player ambitions seemed to have been better kept than the cases, which, with their myriad deadlines, provided frequent reminder of the harsh penalty of ever-passing time.</p>
+
+<p>As for me, all day long I sat in my suit out in the hallway at a chipped veneer desk under merciless fluorescent lights that exposed the paleness of my hands along with my complete incompetence. My prior job experience from back home had been picking avocados, digging ditches, and a summer at Taco Bell. It was amazing how few skills from those jobs transferred to office work. At first I didn&rsquo;t even know how to answer the phone &mdash; one of those large putty-colored ones with the row of lights at the bottom that blinked insistently before mysteriously going out. When a call came in, I would stare at it, my mouth agape. Then the lights would stop blinking, and I would look around, hoping that nobody had noticed.</p>
+
+<p>Because I was new, I was ignored for days at a time. I tried to learn by watching. While ostensibly studying Witkin&rsquo;s <em>California Procedure</em>, I passed my time in covert observation. Bachman padded into the office at nine in the morning, in a reasonably good mood until the mail came, bringing the daily slings and arrows against the firm: perhaps receipt of a new motion, neatly captioned, on crisp white pleading paper, which showcased another firm&rsquo;s competence as well as demanded from his own a timely response; or a curt letter from opposing counsel denying a request for yet another continuance; and always, inevitably, more bills.</p>
+
+<p>Bachman seemed to hold in a sacrosanct corner of his mind an ideal of what his firm should be, and when the mail brought something which offended that ideal, he would burst from his office with the item gripped in one adipose hand and storm into Lowenstein&rsquo;s. Once the door was closed, violent shouting ensued, which would descend first into a muffled monologue of Bachman&rsquo;s, his voice rising and falling, and then into an angry silence. Finally the door would open, and Bachman would exit with a triumphant nod, satisfied that he had straightened everything out. Lowenstein would emerge later, collar unbuttoned, shaking his head, styrofoam cup of coffee in one hand and a contemptuous smile on his face. He&rsquo;d make an off-color quip about the plunge of the receptionist&rsquo;s blouse, and everything would be back to what we knew as normal.</p>
+
+<p>Then I would have a lone lunch at a sidewalk cafe, followed by a somnolent afternoon researching questions like <em>In what circumstances is parole evidence admissible to prove an oral modification of a written contract under the California Civil Code?</em> as the phone rang, Bachman bellowed letters into his dictaphone, and the light outside faded, usurped by the cold fluorescents, until it was time to go home.</p>
+
+<p><strong><span class="large">Each night at 8</span></strong> <span class="smallcaps">PM</span> I sat down in my floral-patterned kitchen chair in front of my tiny particleboard desk and tried to write, the apartment dark except for my college study lamp, the sound from the <span class="smallcaps">TV</span> next door pulsing through the wall. By then evening had fallen, the lights in the apartments along Normandie were on, and from my desk I could see people walking from room to room. From my window came the sounds of Hollywood: the mutters and squeals of the cars, the crash of a bus hitting a pothole on the boulevard, and somebody far away shouting in anger or lunacy.</p>
+
+<p>There were nights when my dreams came of the river of my childhood, of the sun crossing the sky overhead like a fiery torch, of the trails and fields I had known, and on those nights I wrote well. But there were other nights: nights when the writing was flat, and nights when there was no writing. And there were nights when the words I wrote seemed not just awful and amateurish but, worse, indelibly flawed by my own shortcomings in a way that I couldn&rsquo;t see ever changing. It was on those nights that, over time, I gave up on old Hemingway, that bastard, or maybe he gave up on me, and from the dimness surrounding my desk came a silent pronouncement, a verdict: that my writing was a foolish venture, that I was going nowhere, that I was, and forever would remain, small time. I would stare out the window. Beyond the tenements, in the black distance, the lights of downtown gleamed a greenish silver, as though it were a distant fabled kingdom.</p>
+
+<p>&nbsp;</p>
+
+<p><strong><span class="large">Jumbo&rsquo;s Clown Room</span></strong> was a place to watch without being seen, in the proximity of men, their faces half shadowed, who came alone, left alone, and understood the value of silence. The darkness in Jumbo&rsquo;s was pure and dreamlike, a complete darkness except for the cigarette machine, a necklace of festive lights strung above the bar, and, on the other side of the room, a stage bathed in a warm spotlight, backdropped by a red velvet curtain. In the center of the stage was a brass pole which shone like gold under the light.</p>
+
+<p>Sitting at the bar, I could see the whole room. The bartender placed a sweating Budweiser before me on a blood-red cocktail napkin, then walked back to the other end to talk to a woman sitting there. From the street came the Doppler howl and bang of the Number 1 going west down Hollywood. The woman looked at her watch, crossed the room, and went behind the curtain at the back of the stage.</p>
+
+<p>A few minutes later she stepped onstage under the warm light in red high heels and a matching red <span class="smallcaps">G</span>-string. Her body was pale, a bit too soft, attractive but not perfect. From somewhere a Steely Dan song started to play. Without a word she walked to the center of the stage and stared out into the darkness, unseeing. With one delicate hand she grasped the pole.</p>
+
+<p>There is a moment of optimism in the room when a dancer starts her swing, an instant of time in which it seems that every plan can work out, and we can all live as the gods that we are. She extended a pale arm, and, leaning precariously into space, began an orbit. She was tentative, and I think it was her uncertainty, her newness to this world, that drew us in. We watched in silence. My whole life I had sought out beauty, and now here it was. She had thick black hair that touched her shoulders and shone, and as she spun, her free arm swung low, nearly touching the men. After she did one turn, she hooked her leg around the pole and spun lower, reaching farther into the darkness. She had a slight belly, and a flower tattooed above her hipbone. As she turned, her skin changed from light to shadow, and her face held no expression. The men at the stage placed crumpled dollar bills in front of them. They seemed to watch not with desire but with the memory of desire, as though they were seeing through her someone else they had known a long time ago. The dancer stared into the darkness, and we stared back at her. Now she was on her knees, now she arched her back, her ankles under her. Her breasts rose, and under the lights her skin was smooth and bluish white. A man reached over and slid a dollar into her <span class="smallcaps">G</span>-string.</p>
+
+<p>When the music stopped, it was suddenly quiet, as though a trance had been lifted. The men drew sips from their beers and seemed to breathe again. The dancer stood up and walked around the edge of the stage, carefully picking up the dollar bills. It was all over.</p>
+
+<p>&nbsp;</p>
+
+<p><strong><span class="large">As the months passed,</span></strong> the firm got to me. I won&rsquo;t trouble you with my gradual ascendancy there, from being ignored to being menial, and from being menial to being entrusted with the critical work of collecting retainer checks from old ladies in the Hollywood Hills and Scotch-breathed clients at hotel bars. This wasn&rsquo;t what I had been hired for. But I had become good at something, and I liked the feeling. It was February. The winter days in Hollywood have a clarity and brightness; the air is clean. But the afternoons fall quickly to the evenings, the shadows become dark and cold, and the passing of each day feels like a reckoning.</p>
+
+<p>Our client was a small tooling manufacturer who had been hit with litigation. We had answered on his behalf, and he&rsquo;d promised to messenger over a retainer, which of course hadn&rsquo;t happened. We&rsquo;d seen this game before. But my own indignation surprised me: I was starting to identify with the firm. This guy, like our other clients, acted as if legal services should, like the rain or the wind, be provided free of charge. But now he was in town to verify some documents, and he&rsquo;d sworn to Bachman that this time he would have a check for us.</p>
+
+<p>He was staying at the Holiday Inn on Highland and Hollywood. It was a nothing place. A few years back it was remodeled into a Loews, a high-thread-count destination where harried tourist fathers plead with their children to put down their iPhones in return for a star tour or a <span class="smallcaps">T</span>-shirt. But when I went there, it was the end of the line, a relic with a hunter-green interior and a lobby as dim as a bad dream. It was the perfect place for one of our clients. I parked my car in the structure across the street and walked past a man sitting on the sidewalk, shaking a can of pennies. Inside, the desk clerk was reading a paperback. There was a mirror on one wall of the lobby. I stopped before it and set down my attach&eacute; case. I checked my reflection, arranging my pen and straightening my tie.</p>
+
+<p>The elevator smelled of Lysol and jerked upward with a primal cry, opening onto a dim hallway. There was an abandoned room-service cart at the end. I went down the hall and knocked on the client&rsquo;s door. When it opened, I found myself staring into the face of an older man. I don&rsquo;t know how old he was, but at the time I was quite certain I would never be so old, because I would not allow it. He asked me in, then walked over and sat down on the bed. I stood for a moment in the center of the room. He wore a sport coat, which only made him seem older. Outside, the sky over the boulevard was already turning into evening. The buildings on one side were lit with sunlight; on the other, veiled in shadow.</p>
+
+<p>There is nothing more depressing than an old man sitting on the edge of a hotel bed in the late afternoon of a winter day. He stooped over, his hands in his lap, staring down at the green carpet. Who else had sat on that bed? The actress dreaming of the part, the salesman, the inventor &mdash; each in the company of the cheap desk, the too-old <span class="smallcaps">TV</span> &mdash; while staring out the window waiting for a phone call that never comes? Down on Hollywood Boulevard the cars inched by, sun glinting off them in the intersections. I couldn&rsquo;t wait to get out of there.</p>
+
+<p>I had him verify some documents. I placed them on the bedspread next to him and gave him my pen. He didn&rsquo;t read them but just reached out and signed where I pointed. I could hear a maid knocking on a door at the end of the hallway.</p>
+
+<p>That&rsquo;s when I told him that we needed the retainer check. He didn&rsquo;t say anything. His face had a faraway expression, and his eyes were fixed on a spot of carpet in front of him.</p>
+
+<p>&ldquo;I sent the check to the office.&rdquo; He said this to the floor.</p>
+
+<p>&ldquo;The office sent me here,&rdquo; I said. He didn&rsquo;t reply, and the room was quiet. &ldquo;I&rsquo;m going to need that check,&rdquo; I repeated. I was an agent of the firm, and though it was a small firm, and I its least member, respect would nevertheless be shown. I would see to it. There was the sound of a car horn from the intersection below. &ldquo;It&rsquo;s three thousand dollars,&rdquo; I said.</p>
+
+<p>He looked up at me, and our eyes met. He shook his head.</p>
+
+<p>&ldquo;You&rsquo;re all the same,&rdquo; he said. He repeated it. &ldquo;You&rsquo;re all the same.&rdquo; He said this with real bitterness. He pulled a checkbook out of his breast pocket, scrawled in it, tore out the check, and tossed it onto the bedspread between us, where it landed upside down.</p>
+
+<p>It was just a scrap of paper. I reached over and picked it up, and as I did, I noted that the white cuff of my shirt extended the correct length past my suit sleeve. I folded the check in half and slid it into my breast pocket. I got up and grabbed my attach&eacute; case. When I got to the door, I turned back toward him.</p>
+
+<p>&ldquo;Thank you,&rdquo; I said. But he was staring down at the floor and didn&rsquo;t respond. I closed the door and rode the elevator downstairs. I went to a pay phone in the lobby and called the office. They put Lowenstein on.</p>
+
+<p>&ldquo;I got it,&rdquo; I said.</p>
+
+<p>&ldquo;Fantastic,&rdquo; he said. His voice dropped. &ldquo;He got it,&rdquo; I heard him say to someone, and then there was whooping. He addressed me again. &ldquo;Come on back now, and we&rsquo;ll deposit it before he puts a stop on it.&rdquo; His voice was exultant. &ldquo;I&rsquo;m buying you a drink.&rdquo;</p>
+
+<p>I put the receiver back in its cradle, checked the coin return, and walked across the lobb<a id="_idTextAnchor000"></a>y, the carpet a plush green ocean beneath my loafers. At that moment I felt proud to have been relied upon, to have been, perhaps for the first time in my adult life, <em>of use</em> to someone. I would press on, writing night after night, from habit if nothing else, but my dreams somehow became common and lost their color.</p>
+
+<p>I walked out the glass door onto the sidewalk of Hollywood Boulevard, people all around me, the sun blazing gold off the tops of the old buildings as though they were glorious temples, but failing to reach the blue dimness of the streets. It was the end of the day. On the sidewalk street people juggled balls and hawked <span class="smallcaps">T</span>-shirts, businessmen in suits hurried back to their cars, and a guy with a bullhorn preached about the salvation of Christ. My loafers shone black against the stained sidewalk, my trousers were pressed just so. I walked down the street, twenty-three years of age, and into all that, I disappeared.</p>
+
+<hr />
+<p><em>Names and some identifying details have been changed to protect privacy.</em></p>
+
+<p class="text-right"><em>&mdash; Ed.</em></p>
+														</div>
+
+
+				
+<div class="sharing-bar article-sharing">
+	<div class="sharing-bar-first">
+		<a href="javascript:window.print();" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-printer"></use></svg> <span>Print</span></a>
+	</div>
+
+	<div class="sharing-bar-second">
+		<span class="alt-ff xsmall">Share:</span>
+		<a href="https://www.facebook.com/sharer/sharer.php?u=https://www.thesunmagazine.org/issues/472/small-time" target="_blank" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-facebook"></use></svg> <span>Facebook</span></a>
+		<a href="https://twitter.com/share?url=https://www.thesunmagazine.org/issues/472/small-time&amp;via=thesunmagazine" target="_blank" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-twitter"></use></svg> <span>Twitter</span></a>
+		<a href="#" class="b b-1 b-padding-tight xsmall js-toggle-mail-form"><svg><use xlink:href="#i-email"></use></svg> <span>Email</span></a>
+	</div>
+</div>
+
+<div class="send-to-friend-message-container">
+	<div class="alert alert-success xsmall">Thank you for sharing <em>The Sun</em>.</div>
+</div>
+
+<form method="post" action="/ajax/articles/send-to-a-friend" class="form fill-grey send-to-friend-form">
+		<input type="hidden" id="form_url" name="form[url]" value="https://www.thesunmagazine.org/issues/472/small-time" />
+
+	<ul class="form-fields">
+		<li><label for="form_sender_name"><span class="label-text">Your Full Name</span><span class="label-asterisk">*</span></label><input type="text" id="form_sender_name" name="form[sender_name]" required="required" /></li>
+		<li><label for="form_sender_email"><span class="label-text">Your Email Address</span><span class="label-asterisk">*</span></label><input type="email" id="form_sender_email" name="form[sender_email]" required="required" /></li>
+		<li><label for="form_recipient_name"><span class="label-text">Friend’s Name</span><span class="label-asterisk">*</span></label><input type="text" id="form_recipient_name" name="form[recipient_name]" required="required" /></li>
+		<li><label for="form_recipient_email"><span class="label-text">Friend’s Email Address</span><span class="label-asterisk">*</span></label><input type="email" id="form_recipient_email" name="form[recipient_email]" required="required" /></li>
+		<li><label for="form_message"><span class="label-text">Personalized Message</span></label><textarea id="form_message" name="form[message]"></textarea></li>
+	</ul>
+<div class="send-to-friend-message-container">
+	<div class="alert alert-error xsmall">Something went wrong. Please try again.</div>
+</div>
+
+<div class="g-recaptcha" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs"></div>
+<div class="form-actions"><button type="submit" id="form_submit" name="form[submit]"	class="form-actions-b-primary b b-1 b-loading xsmall"><svg><use xlink:href="#i-loading"></use></svg>
+		Submit
+	</button></div>
+<input type="hidden" id="form__token" name="form[_token]" value="9925b0723f4f8fc8ba49f96d65107b522dc0218f" /></form>
+
+<br>
+
+
+
+										<footer class="article-contributor contributors">
+									
+
+<div class="block-contributor">
+		
+
+		<div class="block-contributor-content">
+		<div class="block-contributor-bio small">
+			<p><strong><span class="smallcaps">Alex R. Jones</span></strong> lives in Los Angeles, California. His essays have appeared in <em>The Harvard Review</em>, <em>The Threepenny Review</em>, and elsewhere. One was listed as a notable essay in 2014&rsquo;s <em>Best American Essays</em>.</p><a href="/contributors/alex-r-jones" class="block-contributor-link link-alt small">More From This Contributor&nbsp;&#9656;</a>		</div>
+	</div>
+</div>
+
+							</footer>
+						</article>
+
+
+				    <div class="paywall-subscription block-product">
+			<div class="columns">
+			<div class="paywall-banner span3 cta cta-l1">
+				<div class="cta-intro">
+					<h5 class="cta-title alt-ff">One Free Selection Left </h5>
+					<p class="cta-text xsmall"><a class="link-alt" href="https://www.thesunmagazine.org/subscriber/login" data-label="Already a subscriber?">Already a subscriber? Sign in ▸</a><br><br>Read two free selections from <em>The Sun</em> each month.</p>
+				</div>
+			</div>
+			<div class="paywall-banner span9 note note-1 text-center">
+				<h4 class="cta-title alt-ff">Subscribe to <em>The Sun</em> and save 45%</h4>
+				<p class="cta-text xsmall">Subscribers get full access to the current issue and more than 40 years of archives.</p>
+				<a class="b b-1 xsmall cta-trigger"  href="/subscribe1" data-label="Subscribe" data-ctatitle="Subscribe">Subscribe</a>
+			</div>
+		</div>
+
+		<div class="columns">
+			<div class="span12 paywall-cta-bottom">
+				<p>
+					<span class="cta-title-issue">Buy the April 2015 issue for $5.95</span>
+					<span class="xsmall">Order now to get instant access to this issue, and we’ll also send you a print copy.</span>
+					<a class="b b-5 xsmall corona"  href="#" data-product-type="issues" data-id="472" data-label="Order Now ▸">Order Now ▸</a>
+				</p>
+			</div>
+		</div>
+
+		
+
+</div>
+	
+	
+	
+	<div class="spacer"></div>
+	
+
+
+
+			<div class="article-correspondence layout-item fill-pattern-light">
+		<div class="layout-item-intro">
+			<h2>Correspondence</h2>
+			<a class="xsmall link-alt" href="https://www.thesunmagazine.org/letter-to-the-editor">Write a Letter to the Editor&nbsp;&#9656;</a>
+		</div>
+
+		<div id="article-correspondences" class="correspondences correspondences-collapsed">
+								<div class="block-correspondence" id="25">
+		<blockquote class="quote-2">
+			<p>I was unfamiliar with Alex R. Jones before reading &ldquo;<a href="/article/5035">Small Time</a>&rdquo; [April 2015], but I&rsquo;m going to search out more of his work. As a hopeful writer, I know about those nights when words won&rsquo;t come, and those days spent making someone else&rsquo;s dreams come true. His prose sounds so effortless when I suspect it is anything but. Thank you for helping me keep my own dreams afloat.</p>
+							<p class="quote-2-author">Tanya Hayslette<br>Durango, Colorado</p>
+					</blockquote>
+	</div>
+
+								<div class="block-correspondence" id="81">
+		<blockquote class="quote-2">
+			<p>Alex R. Jones&rsquo;s &ldquo;<a href="/article/5035">Small Time</a>&rdquo; [April 2015] showed the mixture of success and hollowness in the author&rsquo;s slow rise through a dead-end law firm, and a feel of time and place in his description of Hollywood twenty years ago. I particularly liked the following: &ldquo;The winter days in Hollywood have a clarity and brightness; the air is clean. But the afternoons fall quickly to the evenings, the shadows become dark and cold, and the passing of each day feels like a reckoning.&rdquo;</p>
+							<p class="quote-2-author">Jeff Droubay<br>Upland, California</p>
+					</blockquote>
+	</div>
+
+					</div>
+
+				<div class="text-center">
+			<button class="b b-1 xsmall js-b-readmore-correspondence" data-collapsible="#article-correspondences" data-label="Read More Letters">Read More Letters</button>
+		</div>
+			</div>
+    
+		<div class="article-correspondence-cta">
+		<div class="cta cta-l1" data-url="https://www.thesunmagazine.org/letter-to-the-editor">
+			<div class="cta-intro">
+				<h5 class="cta-title alt-ff">Thinking about writing us a letter?</h5>
+				<p class="cta-text">Give in to the temptation. We love getting mail. <br><span class="xsmall">(Of course, we reserve the right to edit.)</span></p>
+			</div>
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" class="cta-button b b-4 b-padding-tight small" data-label="Write Us A Letter!">Write Us A Letter!</a>
+		</div>
+	</div>
+	
+
+			<div class="article-also layout-item-large full-bar fill-grey-mid-light">
+		<div class="layout-item-intro">
+			<h2>Also In This Issue</h2>
+			<a href="/issues/472" class="xsmall link-alt">April 2015&nbsp;&#9656;</a>
+		</div>
+		<div class="issue-articles-l1">
+			<div class="issue-articles-l1-content1">
+				
+<div class="cover cover-l1 block-product">
+	<div>
+							<a href="/issues/472" class="cover-thumb">
+				
+				<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 727'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/import/issue/472.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/561x728r/import/issue/472.jpg
+	 alt=""
+	 class="lazy">
+
+			</a>
+		
+
+													<!-- <a href="/issues/472" data-product-type="issues" data-id="472" data-role="order" class="js-buy-single corona cover-button b b-1 b-full xsmall" data-label="Buy This Issue &#9656;">
+								Buy This Issue&nbsp;&#9656;
+			</a> -->
+			<a href="/issues/472" data-product-type="issues" data-id="472" class="js-buy-single corona cover-button b b-1 b-full xsmall" data-label="Buy This Issue &#9656;">
+								Buy This Issue&nbsp;&#9656;
+			</a>
+					
+					</div>
+</div>
+			</div>
+			<div class="issue-articles-l1-content2">
+				<div class="articles-l3">
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/472/the-endless-soliloquy-of-the-interior-paramour">The Endless Soliloquy Of The Interior Paramour</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/sybil-smith">Sybil Smith</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/poetry">Poetry</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/472/fathers-and-sons-issue-472">Fathers And Sons</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/david-mason">David Mason</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/dog-eared-page">The Dog-Eared Page</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/472/shakepeares-sister">Shakespeare’s Sister</a></h3>
+					<p class="block-content-subtitle subtitle"><em >excerpted from</em><br />A Room Of One&rsquo;s Own</p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/virginia-woolf">Virginia Woolf</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/fiction">Fiction</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/472/a-kiss-for-mrs-sissle">A Kiss For Mrs. Sissle</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/poe-ballantine">Poe Ballantine</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+									</div>
+			</div>
+		</div>
+	</div>
+	
+
+			<div class="article-related layout-item-large full-bar fill-pattern-light">
+		<div class="layout-item-intro">
+			<h2>Related Selections</h2>
+			<ul class="list-inline list-inline-tight"><li><a href="/topics/identity" class="xsmall link-alt link-text">Identity</a></li><li><a href="/topics/art-and-creativity" class="xsmall link-alt link-text">Art and Creativity</a></li><li><a href="/topics/cities" class="xsmall link-alt link-text">Cities</a></li><li><a href="/topics/vocation" class="xsmall link-alt link-text">Vocation</a></li><li><a href="/topics/writing" class="xsmall link-alt link-text">Writing</a></li></ul>		</div>
+
+		<div class="articles-l2">
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/announcements">Announcements</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/516/tony-hoagland-1953-2018">Tony Hoagland: 1953–2018</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li><a href="/issues/516">December 2018</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/516" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 727'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/140x182r/2018-11/516.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/2018-11/516.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/dog-eared-page">The Dog-Eared Page</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/487/em-from-em-br-we-ve-had-a-hundred-years-of-psychotherapy-and-the-world-s-getting-worse"><em>excerpted from</em><br />We’ve Had A Hundred Years Of Psychotherapy — And The World’s Getting Worse</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/james-hillman">James Hillman</a> &amp;&nbsp;<a class="meta-article-contributors" href="/contributors/michael-ventura">Michael Ventura</a></li><li><a href="/issues/487">July 2016</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/487" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 561 728'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/140x182r/2016-06/487.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/281x364r/2016-06/487.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/fiction">Fiction</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/395/somewhere-in-his-eyes">Somewhere In His Eyes</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/gary-l-lark">Gary L. Lark</a></li><li><a href="/issues/395">November 2008</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/395" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 727'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/140x182r/import/issue/395.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/import/issue/395.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/readers-write">Readers Write</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/349/hero-worship">Hero Worship</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/our-readers">Our Readers</a></li><li><a href="/issues/349">January 2005</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/349" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 727'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/140x182r/import/issue/349.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/import/issue/349.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+					</div>
+	</div>
+	
+	
+					<form id="newsletterForm" method="post" action="https://www.thesunmagazine.org/newsletter" data-url-send="https://www.thesunmagazine.org/newsletter" class="form form-newsletter fill-grey" enctype="multipart/form-data" target="_blank">
+
+
+
+		<div class="form-newsletter-intro">
+			<h3 class="alt-ff large">Sign Up For Our Newsletter</h3>
+			<p>We’ll let you know about new website selections, upcoming events, special offers, and more.</p>
+		</div>
+
+		<ul class="form-newsletter-fields form-fields form-fields-inline">
+			<li>
+				<input name="name" type="text" maxlength="500" id="name" placeholder="Your Name">
+			</li>
+			<li>
+				<input name="email" type="text" maxlength="500" id="email" placeholder="Your E-mail">
+			</li>
+
+			<li class="form-fields-inline-button">
+				<button disabled="disabled" class="form-newsletter-send b b-4 b-padding-tight b-loading g-recaptcha" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs" data-callback="recaptcha_callback" name="SubmitButton" id="SubmitButton">
+					<svg><use xlink:href="#i-loading"></use></svg>
+					Sign&nbsp;Up
+				</button>
+			</li>
+		</ul>
+	</form>
+	<script id="hiddenlpsubmitdiv" style="display: none;"></script>
+
+
+
+<footer class="footer brand-grey-dark">
+			<div class="footer-first">
+		<h3 class="footer-tagline">Independent, Reader-Supported Publishing</h3>
+		<p class="footer-desc">In each issue of <em>The Sun</em> you’ll find some of the most radically intimate and socially conscious writing being published today. In an age of media conglomerates, we’re something of an oddity: an ad-free, independent, reader-supported magazine.</p>
+		<ul class="footer-nav list-inline-border xsmall">
+			
+		<li class=" first">
+			<a href="https://www.thesunmagazine.org/about" 	   class=''>
+	   About <em>the Sun</em>	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/staff" 	   class=''>
+	   Staff	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/find-the-sun" 	   class=''>
+	   Find <em>The Sun</em>&nbsp;&nbsp;in a Store Near You	</a>
+		
+	</li>
+
+
+		</ul>
+	</div>
+	
+		<div class="footer-second">
+		<ul class="footer-second-social list-inline">
+			<li><a href="https://www.facebook.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-facebook"></use></svg></span> Like Us</a></li>
+			<li><a href="https://twitter.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-twitter"></use></svg></span> Follow Us</a></li>
+			<li><a href="https://instagram.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-instagram"></use></svg></span> Take a Look</a></li>
+		</ul>
+
+		<div class="footer-second-content">
+			<ul class="footer-nav list-inline-border xsmall">
+				
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/" 	   class='current '>
+	   Home	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/privacy-policy" 	   class=''>
+	   Privacy Policy	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/terms-of-use" 	   class=''>
+	   Terms of Use	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/site-map" 	   class=''>
+	   Site Map	</a>
+		
+	</li>
+
+
+			</ul>
+			<p class="footer-copyright xxsmall">Copyright &copy; 1974–2020 <em>The Sun</em>. All rights reserved.</p>
+		</div>
+	</div>
+</footer>
+
+
+
+<div class="offset-nav">
+	<ul>
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/read" 	   class='current '>
+	   Read	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/issues/current" 	   class=''>
+	   Current Issue	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/archives" 	   class=''>
+	   Archives	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/featured" 	   class=''>
+	   Featured Selections	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/topics" 	   class=''>
+	   Browse Topics	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/sections" 	   class=''>
+	   Browse Sections	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/connect" 	   class=''>
+	   Connect	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/news" 	   class=''>
+	   News from <em>The Sun</em>	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" 	   class=''>
+	   Write a Letter to the Editor	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/discussion-groups" 	   class=''>
+	   Discussion & Writing Groups	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/make-a-suggestion" 	   class=''>
+	   Make a Suggestion	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/submit" 	   class=''>
+	   Submit	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/shop" 	   class=''>
+	   Shop	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/giftsub" 	   class=''>
+	   Gift Subscriptions	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/issues" 	   class=''>
+	   Issues	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+											
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/donatemenu" 	   class='highlight'>
+	   Donate	</a>
+		
+	</li>
+
+		<li class=" last">
+														<a href="/SubscribeNav1" 					   class=''>
+						Subscribe					</a>
+									
+	</li>
+
+
+					<li>
+				<a href="https://www.thesunmagazine.org/shop/cart">Cart ( <span class="cart-item-count">  0  </span>)</a>
+			</li>
+			<li><a href="https://www.thesunmagazine.org/subscriber/login" class="link-header-logout link-alt">Sign In</a></li>
+			</ul>
+	<ul>
+		<li class=" first">
+			<a href="https://www.thesunmagazine.org/about" 	   class=''>
+	   About <em>the Sun</em>	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/staff" 	   class=''>
+	   Staff	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/find-the-sun" 	   class=''>
+	   Find <em>The Sun</em>&nbsp;&nbsp;in a Store Near You	</a>
+		
+	</li>
+
+</ul>
+	<ul>
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/" 	   class='current '>
+	   Home	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/privacy-policy" 	   class=''>
+	   Privacy Policy	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/terms-of-use" 	   class=''>
+	   Terms of Use	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/site-map" 	   class=''>
+	   Site Map	</a>
+		
+	</li>
+
+</ul>
+</div>
+
+<div id="buy-popup-message" class="buy-popup mfp-hide white-popup white-popup-block">
+	<a class="popup-modal-dismiss" href="#"></a>
+	<h5>Due to fulfillment challenges related to the novel coronavirus, print copies are temporarily unavailable for individual sale. We are offering free PDFs until we are able to resume print sales.</h5>
+	<p>Enter your e-mail address below to download this issue.</p>
+	<form method="post" id="download-single" action="https://www.thesunmagazine.org/issue/pdfFree/531.pdf">
+		<label for="email"><span class="label-text">E-mail</span><span class="label-asterisk">*</span></label>
+		<input class="buy-single-email" id="email" type="email" name="email">
+		<button type="send" class="form-buy-issue-send b b-3 b-padding-tight b-loading">Send</button>
+		<button class="form-buy-issue-download b b-3 b-padding-tight b-loading">Download pdf</button>
+		<button type="send" class="popup-modal-dismiss b b-2 b-padding-tight b-loading">Close</button>
+		<div class="g-recaptcha" style="text-align: center" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs"></div>
+
+	</form>
+</div>
+
+			<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/plugins.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/site.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/newsletter.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/js/articles.js"></script>
+		</div>
+		</div>
+
+				<script>
+		(function (doc) {
+			var scripts = doc.getElementsByTagName('script');
+			var script = scripts[scripts.length - 1];
+			var xhr = new XMLHttpRequest();
+			xhr.onload = function () {
+				var div = doc.createElement('div');
+				div.innerHTML = this.responseText;
+				div.style.display = 'none';
+				script.parentNode.insertBefore(div, script);
+			}
+			xhr.open('get', '/theme/thesun//assets/build/img/sprite/sprite.svg', true);
+			xhr.send();
+		})(document);
+
+
+
+		</script>
+
+		<script>
+			// Submit function
+            function recaptcha_callback() {
+						var getUrl = $('.form-newsletter').data( "url-send" ),
+							getName = $('input#name').val(),
+							getEmail = $('input#email').val();
+						$.ajax({
+								type: "POST",
+								url: getUrl,
+								data: {
+									name: getName,
+									email: getEmail,
+									grecaptcharesponse: grecaptcha.getResponse()
+								}
+							}).done(function(response) {
+								console.log(response);
+									$('.form-fields').fadeOut(800, function () {
+										$('.form-fields').empty().append('<div class="newsletter-confirm-message">Thank you for signing up to receive news from <em>The Sun</em>. Your first newsletter will arrive soon.<div>').fadeIn(800);
+									});
+							});
+			}
+
+		</script>
+
+		<script>
+			function getUrlCode() {
+				var url_string = window.location.href;
+				var url = new URL(url_string);
+				var c = url.searchParams.get('promotion\_key');
+				if (typeof c !== 'undefined' && c !== null) {
+					setCookie("promotion_code",c);
+				}
+			}
+
+			function setCookie(cname, cvalue) {
+				document.cookie = cname + "=" + cvalue + ";" + "path=/";
+			}
+
+			function getCookie(cname) {
+				var name = cname + "=";
+				var decodedCookie = decodeURIComponent(document.cookie);
+				var ca = decodedCookie.split(';');
+				for(var i = 0; i <ca.length; i++) {
+					var c = ca[i];
+					while (c.charAt(0) == ' ') {
+						c = c.substring(1);
+					}
+					if (c.indexOf(name) == 0) {
+						return c.substring(name.length, c.length);
+					}
+				}
+				return "";
+			}
+			window.addEventListener( "load", getUrlCode );
+		</script>
+
+
+	</body>
+</html>

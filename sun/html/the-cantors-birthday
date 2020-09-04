@@ -1,0 +1,1334 @@
+
+<!DOCTYPE html>
+<html class="no-js" lang="en-US">
+	<head>
+		<title>The Cantor’s Birthday - The Sun Magazine</title>
+
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		
+		<meta name="viewport" content="width=device-width, minimum-scale=1.0">
+
+		<link rel="dns-prefetch" href="//ajax.googleapis.com">
+		<link rel="dns-prefetch" href="//use.typekit.net">
+		
+		<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/modernizr.js"></script>
+		<script src="https://www.google.com/recaptcha/api.js"
+				async defer>
+		</script>
+
+		<script>(function(d) { var config = { kitId: 'kzw7ebk', scriptTimeout: 3000, async: true }, h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s) })(document);</script>
+
+
+				
+		<link rel="apple-touch-icon" sizes="57x57" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-57x57.png?v=2016">
+		<link rel="apple-touch-icon" sizes="60x60" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-60x60.png?v=2016">
+		<link rel="apple-touch-icon" sizes="72x72" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-72x72.png?v=2016">
+		<link rel="apple-touch-icon" sizes="76x76" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-76x76.png?v=2016">
+		<link rel="apple-touch-icon" sizes="114x114" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-114x114.png?v=2016">
+		<link rel="apple-touch-icon" sizes="120x120" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-120x120.png?v=2016">
+		<link rel="apple-touch-icon" sizes="144x144" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-144x144.png?v=2016">
+		<link rel="apple-touch-icon" sizes="152x152" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-152x152.png?v=2016">
+		<link rel="apple-touch-icon" sizes="180x180" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-180x180.png?v=2016">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-32x32.png?v=2016" sizes="32x32">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/android-chrome-192x192.png?v=2016" sizes="192x192">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-96x96.png?v=2016" sizes="96x96">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-16x16.png?v=2016" sizes="16x16">
+		<link rel="mask-icon" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/safari-pinned-tab.svg?v=2016" color="#444444">
+		<link rel="shortcut icon" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon.ico?v=2016">
+		<meta name="apple-mobile-web-app-title" content="The Sun Magazine">
+		<meta name="application-name" content="The Sun Magazine">
+		<meta name="msapplication-TileColor" content="#fcc330">
+		<meta name="msapplication-TileImage" content="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/mstile-144x144.png?v=2016">
+		<meta name="theme-color" content="#ffffff">
+
+				<link rel="stylesheet" type="text/css" href="https://cloud.typography.com/6578674/659928/css/fonts.css" />
+		<link rel="stylesheet" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/css/style.css">
+
+																		<meta property="og:site_name" content="The Sun Magazine">
+		<meta property="og:type" content="article">
+		<meta property="og:url" content="https://www.thesunmagazine.org/issues/246/the-cantors-birthday">
+		<meta property="og:image" content="http://www.thesunmagazine.org/files/import/issue/246.jpg">
+		<meta property="og:title" content="The Cantor’s Birthday - The Sun Magazine">
+		<meta property="og:description" content="Before they kissed, they cried. With her head against his shoulder, they ended the war. With his lips brushing her eyelids, they ended the war. With her fingers mapping the lines of his face, they ended the war. With his knees tucked into the hollow of her knees, they ended the war.">
+		<meta property="fb:app_id" content="158741778010551">
+
+						<link rel="image_src" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.comhttp://www.thesunmagazine.org/files/import/issue/246.jpg">
+
+												<meta name="twitter:card" content="summary">
+		<meta name="twitter:title" content="The Cantor’s Birthday - The Sun Magazine">
+		<meta name="twitter:description" content="Before they kissed, they cried. With her head against his shoulder, they ended the war. With his lips brushing her eyelids, they ended the war. With her fingers mapping the lines of his face, they ended the war. With his knees tucked into the hollow of her knees, they ended the war.">
+		<meta name="twitter:image" content="http://www.thesunmagazine.org/files/import/issue/246.jpg">
+		<meta name="twitter:site" content="@thesunmagazine">
+
+				<link rel="publisher" href="https://plus.google.com/113792980827145858211">
+        
+		<meta name="Description" content="Before they kissed, they cried. With her head against his shoulder, they ended the war. With his lips brushing her eyelids, they ended the war. With her fingers mapping the lines of his face, they ended the war. With his knees tucked into the hollow of her knees, they ended the war.">
+
+		
+		<!-- Google Tag Manager -->
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-TKBHCCG');</script>
+		<!-- End Google Tag Manager -->
+
+		<!-- Google Analytics -->
+		<script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+            ga('create', 'UA-2351127-1', 'auto');  // Replace with your property ID.
+            ga('send', 'pageview');
+            ga('require', 'ecommerce');   // Load the ecommerce plug-in.
+		</script>
+		<!-- End Google Analytics -->
+	</head>
+	<body id="">
+
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TKBHCCG"
+		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+		<header class="header" data-offset-start="80">
+		<div class="header-utilities">
+				<ul class="header-utilities-user list-inline list-inline-tight xxsmall">
+							<li>
+					<span class="header-utilities-user-intro">Already A Subscriber?</span> &nbsp;
+					<a href="https://www.thesunmagazine.org/subscriber/login" class="link-text link-alt">Sign In</a>
+				</li>
+					</ul>
+		<a href="https://www.thesunmagazine.org/shop/cart" class="header-utilities-cart  link-alt link-icon tiny">
+			<span class="i"><svg><use xlink:href="#i-cart"></use></svg></span>
+			<span class="cart-item-count">
+									0 Items
+				
+			</span>
+		</a>
+			</div>
+
+		<div class="header-bar">
+		<h1 class="header-logo logo">
+			<a href="/">
+				<img src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/img/logo-thesun.svg" class="logo-thesun" alt="The Sun Magazine">
+				<img src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/img/logo-tagline.svg" class="logo-tagline" alt="">
+			</a>
+		</h1>
+
+		<ul class="header-nav">
+			
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/read" 	   class='current '>
+	   Read	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/issues/current" 	   class=''>
+	   Current Issue	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/archives" 	   class=''>
+	   Archives	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/featured" 	   class=''>
+	   Featured Selections	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/topics" 	   class=''>
+	   Browse Topics	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/sections" 	   class=''>
+	   Browse Sections	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/connect" 	   class=''>
+	   Connect	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/news" 	   class=''>
+	   News from <em>The Sun</em>	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" 	   class=''>
+	   Write a Letter to the Editor	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/discussion-groups" 	   class=''>
+	   Discussion & Writing Groups	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/make-a-suggestion" 	   class=''>
+	   Make a Suggestion	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/submit" 	   class=''>
+	   Submit	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/shop" 	   class=''>
+	   Shop	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/giftsub" 	   class=''>
+	   Gift Subscriptions	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/issues" 	   class=''>
+	   Issues	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+											
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/donatemenu" 	   class='highlight'>
+	   Donate	</a>
+		
+	</li>
+
+		<li class=" last">
+														<a href="/SubscribeNav1" 					   class=''>
+						Subscribe					</a>
+									
+	</li>
+
+
+		</ul>
+
+		<button class="header-nav-toggle"><svg><use xlink:href="#i-menu" class="i-menu"></use><use xlink:href="#i-close" class="i-close"></use></svg></button>
+		<button class="header-search-toggle" data-form-wrapper=".header-search"><svg><use xlink:href="#i-magnifier" class="i-magnifier"></use><use xlink:href="#i-close" class="i-close"></use></svg></button>
+	</div>
+
+		<div class="header-search">
+		<div class="header-search-content">
+			<form action="https://www.thesunmagazine.org/search" class="form form-search" method="get">
+				<h2 class="alt-ff brand-link">Search Our 40 Years of Archives</h2>
+				<ul class="form-search-fields form-fields form-fields-inline">
+					<li><input type="text" name="q" value=""></li>
+					<li class="form-fields-inline-button"><button class="b b-1 b-padding-tight b-loading"><svg><use xlink:href="#i-loading"></use></svg>Search</button></li>
+				</ul>
+
+				<div class="header-search-content-shortcuts">
+					<h6 class="search-advanced alt-ff"><a class="js-handle-advanced" href="https://www.thesunmagazine.org/search?advanced=1">Advanced Search</a></h6>
+					<br>
+					<h6 class="alt-ff">Popular Pages</h6>
+					<ul class="list-inline-border list-inline-tight xxsmall"><li class=" first"><a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a></li><li class=""><a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a></li><li class=""><a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a></li><li class=""><a href="https://www.thesunmagazine.org/sections/quotations" 	   class=''>
+	   Quotations	</a></li><li class=""><a href="https://www.thesunmagazine.org/sections/readers-write" 	   class=''>
+	   Readers Write	</a></li><li class=" last"><a href="https://www.thesunmagazine.org/sections/poetry" 	   class=''>
+	   Poetry	</a></li></ul>				</div>
+			</form>
+		</div>
+	</div>
+</header>
+
+	<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+	<script type="text/javascript">
+		$(document).ready(function() {
+			$('.js-handle-advanced').on('click', function (e) {
+				e.preventDefault();
+				var getSearchValue = $('.form-search-fields input').val();
+				var getURL = $(this).attr('href');
+				var newURL = getURL + '&q=' + getSearchValue;
+				window.location.href = newURL;
+			});
+		});
+	</script>
+
+		<div class="container-hidden">
+		<div class="container">
+
+				
+	
+	<article class="article ">
+		<header class="block-content block-content-l1 block-content-center">
+						<div class="block-content-header">
+				<h6 class="b-content-section heading-square"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+				<h1 class="block-content-title">The Cantor’s Birthday</h1>
+
+				
+				<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/nina-wise">Nina Wise</a></li><li><a href="/issues/246">June 1996</a></li></ul>
+
+			</div>
+
+								</header>
+
+				<div class="article-body link-text-wrap">
+																		<p><span class="dropcap">I</span>t was nearly 11 <span class="smallcaps">P.M.</span>, and I was packing for an early morning flight, bushwhacking through the closet trying to guess my mood and the weather for the next month. Clothing occupied my bed like an invading army. Shoes were aligned in a frozen march across the floor.</p>
+
+<p>Shoes are the most difficult item to pack: bulky, heavy, and significant. I used to be more casual about shoes until a friend advised me that, when you walk into a room, people look at your feet first: they can assess your entire character, class, and potential by your shoes. Luckily, I was headed for Eastern Europe, where, I&rsquo;d heard, Nikes could double as evening wear. But I was still wondering: Should I look arty, or posh? If I pack my lace teddy, will I fall in love? How many socks does it take to get through four weeks? Can I live without my overalls? I decided to take a break and call my father to remind him I was leaving the country for a while.</p>
+
+<p>&ldquo;Hi, Pops. Are you still awake?&rdquo;</p>
+
+<p>&ldquo;Yes,&rdquo; he said, but his voice sounded thick, so I knew he was already in his striped flannel pajamas. &ldquo;So, <em>nu</em>, what&rsquo;s up, Ninkela <em>meine</em>?&rdquo;</p>
+
+<p>&ldquo;I&rsquo;m leaving for Europe tomorrow, remember?&rdquo;</p>
+
+<p>&ldquo;Remind me. Where are you going?&rdquo;</p>
+
+<p>&ldquo;Prague. I&rsquo;ve been invited to give a performance at a conference on science and &mdash;&rdquo; My mind braked like a driver glimpsing sudden movement in her headlights. I couldn&rsquo;t use the word <em>spirituality</em> in a conversation with my father. He&rsquo;s a scientist, a materialist, and I&rsquo;m a performance artist on a spiritual quest. Over the years our mutual ground has been reduced to a narrow isthmus between very rough waters.</p>
+
+<p>&ldquo;&mdash; an international conference on science and religion,&rdquo; I finessed. Then I remembered to add, &ldquo;David Bohm is going to be there.&rdquo;</p>
+
+<p>&ldquo;Oh, yes, David Bohm, the Nobel laureate, a physicist. We went to the University of Chicago together. Be sure to give him my regards. I&rsquo;m proud of you.&rdquo;</p>
+
+<p>I pirouetted in my high-heeled pumps, testing their versatility and celebrating this rare moment of parental approval.</p>
+
+<p>&ldquo;And Prague is a beautiful city, I hear. You&rsquo;re flying nonstop?&rdquo; He always asks about flight routes so he can follow my progress in his atlas.</p>
+
+<p>&ldquo;No, I fly to Frankfurt first. I&rsquo;m staying with this guy Peter, a friend of a friend, for a few days. He&rsquo;ll show me around Germany before I go to Czechoslovakia.&rdquo;</p>
+
+<p>A long silence opened like a crevice in the conversation; I began a slow-motion tumble into it. I tried to regain stability by staring at the array of shoes &mdash; combat boots, loafers, sandals, slippers. Finally, my father spoke.</p>
+
+<p>&ldquo;So, how do you feel about going to Germany?&rdquo; His voice was thin, like the first ice crusting a winter lake.</p>
+
+<p>&ldquo;Fine. Peter seemed quite nice on the telephone.&rdquo; I spoke slowly, attempting to inject calm into the conversation. I hadn&rsquo;t given much consideration to the fact that I would be visiting Germany. I get frequent-flyer miles on Northwest, and Frankfurt was the closest city to Prague that the airline served. The travel agent hadn&rsquo;t asked me about my family history or religious background.</p>
+
+<p>&ldquo;I wouldn&rsquo;t spend my money in that country,&rdquo; my father said. &ldquo;I don&rsquo;t even remember my German anymore, and I won&rsquo;t buy a German car &mdash; you know me. But you, you have a wonderful time. And don&rsquo;t forget your raincoat, the one I got you for your birthday. It rains a lot in Germany.&rdquo; He hung up, forgetting to ask where he could reach me while I was gone.</p>
+
+<p>I went back to packing, and noticed I was now stuffing only black garb into my suitcase: black T-shirt, black jeans, black shoes, black panties, black dress, black belt, black hat, black raincoat. At least everything matched.</p>
+
+<p>&nbsp;</p>
+
+<p>At the airline counter the next morning, I asked for a window seat, and in the air I studied the patterns of the sea, land, and sky, the shapes the clouds make. I was disappointed when the flight attendant came by and insisted that I lower my shade, sincere in her mission to have everyone on the airplane watch in undisturbed darkness one of the worst movies ever created. I attempted to sleep but was interrupted every few hours for a triple-plastic-wrapped feeding because it was time for breakfast where I came from, or lunch where I was flying over, or dinner where I was headed. I appreciate the efforts the airlines make to keep you on track, but I&rsquo;m usually still confused about what I&rsquo;m hungry for by the time I arrive anywhere.</p>
+
+<p>Turbulence dispelled my drowsiness as the plane began its descent through the Frankfurt fog bank, and an uncomfortable feeling began to hum inside my bones, to spin around my genetic structure, insinuating itself between the layers of my skin, jittering my nerves like a percussionist on speed vamping on an old family ballad. <em>This isn&rsquo;t my fear</em>, I repeated to myself. <em>This is my father&rsquo;s fear, my grandfather&rsquo;s fear, the fear of a gaggle of relatives no one in my family ever talks about</em>.</p>
+
+<p>But my anxiety continued unabated as I handed my passport to a man in a stiff uniform. <em>He&rsquo;s studying my last name. I have blue eyes, but my nose</em> .&nbsp;.&nbsp;. He stamped my passport, and I walked down the gleaming airport corridors, past S&amp;M shops featuring silver-studded whips and halters, newspaper stalls displaying German headlines, bars blasting German television. I stood on the curb, buttoned up my raincoat (<em>It rains a lot in Germany</em>), appreciated that <em>taxi</em> is the same in all languages (<em>I don&rsquo;t even remember my German anymore</em>), slid like a sleepless night into the back seat of a waiting Mercedes cab (<em>I won&rsquo;t buy a German car</em>), and studied the numbers on my foreign bills (<em>I wouldn&rsquo;t spend my money in that country</em>). I stared through fogged windows at sleet pounding the streets, telling myself not to wonder what the driver&rsquo;s father and uncles were doing during the war. I clasped my hands together and prayed silently for protection to a God my father had taught me not to believe in.</p>
+
+<p>The taxi driver dropped me off at a tall brick building. I hefted my suitcase over my shoulder, tramped to the front door, took a deep breath, told myself to relax &mdash; <em>At least act relaxed, you&rsquo;re just exhausted, try to make a good impression, you don&rsquo;t know this person, smile, traveling is fun</em> &mdash; and rang the bell. A man in his thirties with his hair gelled into stiff spikes, wearing torn jeans and a black T-shirt, opened the door. I felt a jolt of relief. He looked familiar, like someone you&rsquo;d meet in SoHo or South of Market.</p>
+
+<p>&ldquo;Nina?&rdquo; he said.</p>
+
+<p>&ldquo;Peter?&rdquo; I answered, like a secret code.</p>
+
+<p>He grinned, took my bag, trotted up the steep stairs, and led me down a narrow, dark hall to the kitchen.</p>
+
+<p>&ldquo;Tea?&rdquo; he asked, putting on the kettle.</p>
+
+<p>I was determined to act calm. My religious consternation was a personal issue.</p>
+
+<p>&ldquo;Your kitchen is lovely,&rdquo; I offered, grasping for mutual territory as if negotiating a peace treaty.</p>
+
+<p><em>He can&rsquo;t tell I&rsquo;m Jewish.</em></p>
+
+<p>&ldquo;What a sweet teapot, and muesli cookies; we have those in California, too.&rdquo;</p>
+
+<p><em>Maybe he can tell by my name. He&rsquo;s probably not thinking about it. I shouldn&rsquo;t be thinking about it, either. Stop thinking about it.</em></p>
+
+<p>&ldquo;Peppermint tea. You say <em>pferfferminz</em>? That&rsquo;s easy. I&rsquo;ll have to learn some German.&rdquo;</p>
+
+<p>The confessional urge was rising like lava from a molten core.</p>
+
+<p>&ldquo;My father .&nbsp;.&nbsp;.&rdquo;</p>
+
+<p><em>Don&rsquo;t talk about it, for God&rsquo;s sake. Don&rsquo;t bring it up.</em></p>
+
+<p>&ldquo;.&nbsp;.&nbsp;. he hates peppermint tea, I mean <em>pferfferminz</em>. Is that right? I&rsquo;m very tired.&rdquo;</p>
+
+<p>And then it erupted of its own accord, an act of nature.</p>
+
+<p>&ldquo;I&rsquo;m Jewish!&rdquo; I blurted out, nearly levitating from my chair. &ldquo;My father escaped, he won&rsquo;t come back, I shouldn&rsquo;t be here either, you seem to be a nice person, but your father .&nbsp;.&nbsp;. I&rsquo;m just .&nbsp;.&nbsp;. I never expected .&nbsp;.&nbsp;.&rdquo;</p>
+
+<p>Peter smiled calmly, as if I were acting like a normal tourist. &ldquo;I will take you to visit my friend Naomi in Heidelberg. Her father was the first rabbi to come back to Germany after the war. Perhaps you would enjoy to meet her?&rdquo;</p>
+
+<p>&ldquo;Sure,&rdquo; I said, relieved he hadn&rsquo;t suggested I move to a hotel.</p>
+
+<p>&ldquo;She will take care of you,&rdquo; he said.</p>
+
+<p>&nbsp;</p>
+
+<p>Naomi&rsquo;s apartment was on the fifth floor of a stone building on a narrow cobblestone street in the old part of Heidelberg, by the river. Peter and I climbed the musty stairway and knocked on the sturdy wooden door.</p>
+
+<p>&ldquo;I&rsquo;m so happy you made it here. Peter&rsquo;s told me all about you,&rdquo; Naomi said breathlessly in impeccable Brooklynese, giving me a strong hug. She was tiny, blue-eyed, and blond, but her beaklike nose revealed her Semitic bloodline. &ldquo;And how perfectly divine that it&rsquo;s Friday so I&rsquo;ll take you to shul. Isn&rsquo;t it <em>wunderbar</em> the way life is? Come, sit down. Coffee?&rdquo;</p>
+
+<p>We drank espresso laced with a sweet liqueur from demitasse cups and ate kuchen marbled with thick veins of poppy seeds &mdash; <em>m&ouml;hn</em>, we call it at home, my father&rsquo;s favorite pastry.</p>
+
+<p>&ldquo;Your English is perfect,&rdquo; I marveled.</p>
+
+<p>&ldquo;Of course it is. I grew up in New York,&rdquo; she said with a laugh, rolling a cigarette with tobacco from a silver tin. &ldquo;I was seven when my father decided to move back.&rdquo;</p>
+
+<p>&ldquo;So what&rsquo;s it like?&rdquo; I ventured, emboldened by her forthright manner. &ldquo;I mean, how is it to be a Jew in Germany?&rdquo;</p>
+
+<p>&ldquo;It&rsquo;s <em>wunderbar</em>, fantastic. Do you know the word <em>sch&ouml;n</em>? It means &lsquo;nice, pleasant, good.&rsquo; You must learn this word. Now practice: <em>sch&ouml;n</em>.&rdquo;</p>
+
+<p>&ldquo;<em>Sch&ouml;n</em>,&rdquo; I said, moving the vowel to the back of my throat, trying to imitate her precisely.</p>
+
+<p>&ldquo;<em>Wunderbar</em>! Excellent! You have German in your blood,&rdquo; she said, shaking a finger at me. &ldquo;I love it here. It&rsquo;s my home, where my family&rsquo;s from, my ancestors. And what do you think of Franz?&rdquo; She glanced discreetly at a young, thin blond man with an Aryan profile, sitting in the next room reading a book. &ldquo;<em>Sch&ouml;n</em>, no? He&rsquo;s twenty, college exams next week. He&rsquo;s a cellist. Have you ever .&nbsp;.&nbsp;. with a musician? Those fingers &mdash; delicate, <em>wunderbar</em>! Oh, my husband doesn&rsquo;t mind; we have an agreement. And have you ever with such a young .&nbsp;.&nbsp;. ? I recommend it for that premenopausal chemistry; it just gets your hormones whirring and spinning again. Better than taking chemicals, don&rsquo;t you think? I mean, good heavens, the doctors these days believe so much in pills.&rdquo;</p>
+
+<p>I let my eyes travel Franz&rsquo;s body, lingering on his long, thin fingers. &ldquo;<em>Sch&ouml;n</em>,&rdquo; I agreed, wondering what my father would say if I brought home a German lover.</p>
+
+<p>&ldquo;Now you <em>must</em> come to shul tonight. Of course, as you can imagine, I&rsquo;m <em>very</em> involved with the politics here, and it&rsquo;s <em>very</em> exciting. You&rsquo;re going to have a <em>wunderbar</em> time!&rdquo;</p>
+
+<p>That night, we drove through the rain, parked in the basement of a shopping mall, took the elevator up three levels, walked past a neon-lit beer hall, a shoe store, and an ice-cream parlor, and entered the unmarked doorway of the shopping-mall shul. The floor was covered with cheap commercial carpet, the ceiling muted with acoustic tile. A tangle of languages braided the air: German, Yiddish, Russian, Hebrew. The women sat on one side, the men on the other, and the cantor stood in the front of the room, chanting prayers I remembered from my childhood. As he intoned the liturgy, he rocked back and forth on his heels the way Jews do all over the world, tumbling forward as if they&rsquo;ve been hit on the back of the knees, then catching themselves with a backward lurch. I could have been anywhere &mdash; Los Angeles, Miami, Paris, Jerusalem &mdash; but I was in Germany.</p>
+
+<p>Naomi led me to a seat on the women&rsquo;s side, greeting her friends with a peck on each cheek as she walked through the crowd. &ldquo;Almost half the congregation are Russian immigrants,&rdquo; she whispered to me as we sat down. &ldquo;Most of them have just arrived. They come with almost nothing, so we provide housing for them, and food, and help them find jobs.&rdquo;</p>
+
+<p>&ldquo;And how do they feel about being in Germany?&rdquo; I asked.</p>
+
+<p>&ldquo;Oh, they love it here. They could have gone to Israel, or Canada, but they are European, they say, and they wanted to stay in Europe.&rdquo;</p>
+
+<p>The cantor motioned for us all to stand and chant the Shema, the prayer Jews sing before going to sleep, and on the Sabbath, on High Holy Days, and when they are dying.</p>
+
+<p>&nbsp;</p>
+
+<blockquote>
+<pre><em><span class="poem-line">Shema yisrael,</span>
+<span class="poem-line">adonai eloheinu,</span>
+<span class="poem-line">adonai echod.</span></em>
+
+<span class="poem-line">(Listen, people of Israel,</span>
+<span class="poem-line">God, the Creator,</span>
+<span class="poem-line">God is One.)</span></pre>
+</blockquote>
+
+<p>&nbsp;</p>
+
+<p>The cantor lifted his hands and bellowed the cry to God, mournful and joyful at the same time. Then he motioned us to sit.</p>
+
+<p>&ldquo;Two months ago, the cantor turned seventy,&rdquo; Naomi whispered. (This is the tradition in shul: while the men pray, the women fill each other in on love affairs, divorces, births, illnesses, deaths, feuds, recipes.) &ldquo;We had a big celebration. You see, when the cantor was in his twenties, he was taken to Auschwitz. His wife, Miriam, was taken to Buchenwald. He never saw her again, and after the war he moved into a small boarding house outside of Heidelberg.&nbsp;.&nbsp;.&nbsp;.&rdquo;</p>
+
+<p>&nbsp;</p>
+
+<p>.&nbsp;.&nbsp;. He spent most of his time in his room, lying in bed and staring out the window, or sitting at his desk, studying the holy books. A German woman ran the house; her husband, a Nazi soldier, had been lost on the Russian front in the winter. (I imagine her stout, with full breasts, ample hips, an apron she ironed fresh each morning, practical shoes.) She would get up at dawn to prepare a breakfast of warm sour bread, and serve it with sweet butter and jam she had made from wild berries. For lunch she would cook a hot soup with potatoes, carrots, cabbage, and small chunks of meat. For dinner she would roast a chicken or fry a fish, stuff cabbage with ground beef, or, on special days, she would baste a turkey all afternoon.</p>
+
+<p>Often, the cantor was so lost in his books that he would forget to come to meals. She was worried about him, still so thin from the camp, his bones protruding, so she would knock on his door to remind him it was time for a meal. He would come and sit at the heavy wooden table, eating slowly, silently. She would watch the way he held his fork, his hands slim from hunger, but steady. And she always offered him an extra piece of meat.</p>
+
+<p>One evening, not wanting to distract him from his studies, she prepared a tray. On a clean white linen that had belonged to her grandmother, she arranged plates of food: a thick slice of roast, two potatoes with sour cream, a heaping mound of sweet-and-sour cabbage, and a whole loaf of bread nestled in a warm napkin. She rapped lightly on his door, not wanting to wake him if he were asleep. She heard his voice, soft, inviting her to enter.</p>
+
+<p>He was lying on his bed in his wool shirt and pants. Only his eyes greeted her; then he turned back to the window. She laid the tray on the table, being careful not to disturb any of the holy books. He beckoned her to come look out the window. She stood near the bed and followed his gaze: at the end of a bare winter branch, a single pink blossom.</p>
+
+<p>At first, she wasn&rsquo;t sure what was happening. His hand grazed her wrist like an accident. She thought about her husband. Then she felt the bow loosen behind her back, her apron slip to the floor. She turned slowly, like a weather vane in a subtle shift of wind. And before they kissed, they cried. With her head against his shoulder, they ended the war. With his lips brushing her eyelids, they ended the war. With her fingers mapping the lines of his face, they ended the war. With his knees tucked into the hollow of her knees, they ended the war.</p>
+
+<p>The German woman became pregnant. She and the cantor were planning to make the announcement to her family and friends when, one night, there was a knock at the door. A gaunt man in a tattered uniform, a Nazi insignia still pinned to his lapel, shivered in the cold. His hair was in clumps; he hadn&rsquo;t shaved for days; he had a raw look in his eyes. She didn&rsquo;t recognize him. Then, like a tree in a storm, she fell into her husband&rsquo;s arms. And before they kissed, they cried.</p>
+
+<p>The husband moved back into the house with his wife. And the cantor moved to Heidelberg, where he became the cantor for a handful of Jews who had survived &mdash; not even enough for a minyan, but still they prayed on Shabbos and celebrated the holidays. Every Friday, the cantor cooked a meal in his small kitchen &mdash; chicken soup or borscht, tsimmes, a challah &mdash; and after praying he would serve the congregation supper. Again on Saturdays, after the prayers and the reading from the Torah, the cantor served the congregation &mdash; poppy-seed cake, or <em>apfelkuchen</em>, or honey cake with coffee. In this way, praying and eating together, the congregation grew. Relatives found one another and moved to Heidelberg. There were marriages, births, brises, bar mitzvahs. The cantor chanted, and cooked blintzes, <em>latkes</em>, stuffed cabbage, and brisket. He chanted for Rosh Hashanah, Yom Kippur, Purim, Shavuot, Pesach, and cooked noodle kugel, kasha, kreplach, and <em>hamentaschen</em>. For forty years, the cantor served the congregation food and prayers. And now more than two hundred people crowded the shopping-mall shul.</p>
+
+<p>&nbsp;</p>
+
+<p>&ldquo;So two months ago, on his seventieth birthday, we threw a big party for the cantor,&rdquo; Naomi whispered.</p>
+
+<p>The Russians had smuggled vodka into the country under their heavy winter coats, and at the party the men were drinking and toasting, drinking and toasting, the way Russians do.</p>
+
+<p>&ldquo;To the cantor! May you live another seventy years!&rdquo;</p>
+
+<p>&ldquo;To the greatest cantor in Germany! <em>Mazel tov</em>!&rdquo;</p>
+
+<p>&ldquo;For his birthday! For his chicken soup!&rdquo;</p>
+
+<p>&ldquo;For his forty years of praying &mdash; such a voice, such a cook!&rdquo;</p>
+
+<p>In the back of the room a woman stood holding a bouquet of red roses, a woman no one recognized. She waited until the toasting was over, and then approached the cantor. Her knees were shaking; her mouth was dry. She looked at the floor, blushed, stuttered.</p>
+
+<p>&ldquo;Happy birthday,&rdquo; she finally managed. &ldquo;Congratulations. I&rsquo;m .&nbsp;.&nbsp;. I&rsquo;m your daughter.&rdquo;</p>
+
+<p>And then an avalanche of words.</p>
+
+<p>&ldquo;My mother died ten years ago and never told me. My father died two months ago. I was standing by his grave, praying, and my mother&rsquo;s best friend whispered to me so no one else could hear: &lsquo;He wasn&rsquo;t your real father. Your real father is the cantor in Heidelberg.&rsquo;&nbsp;&rdquo;</p>
+
+<p>Her tears fell onto the flowers she gripped in her hands.</p>
+
+<p>&ldquo;Happy birthday, Father,&rdquo; she said, handing the bouquet to the cantor. &ldquo;My name is Miriam. My mother named me after your wife, who died at Buchenwald.&rdquo;</p>
+
+<p>The cantor was silent, his tears, too, falling on rose petals.</p>
+
+<p>&ldquo;I have four children,&rdquo; Miriam continued. &ldquo;You have four grandchildren. And they have children, six. You have six great-grandchildren. I want you to come home with me, to meet your family. I want you to come home.&rdquo;</p>
+
+<p>&nbsp;</p>
+
+<p>&ldquo;So now, every other weekend, the cantor goes home with Miriam,&rdquo; Naomi whispered to me as we rose for the final prayer. &ldquo;And she cooks soup for him: chicken soup. A good chicken soup, he tells me. It&rsquo;s in the genes. And who cooks for us when the cantor is gone? The Russians. They, too, make a great chicken soup, and a fantastic borscht.&rdquo; She kissed her fingers. &ldquo;<em>Sch&ouml;n</em>. Isn&rsquo;t it <em>wunderbar</em> the way life is?&rdquo;</p>
+
+<p>I looked at the cantor in his long white tallis, rocking back and forth on his heels, lifting his arms to heaven as he greeted the Sabbath, his voice weaving sorrow, joy, and love, like the braided threads of a loaf of challah.</p>
+
+<p>&ldquo;He bought his daughter a coat for winter,&rdquo; Naomi whispered. &ldquo;He was so excited, he brought it to my house to show me and asked if I thought she would like it. &lsquo;Such a coat,&rsquo; I said. &lsquo;Not an inexpensive coat.&rsquo;</p>
+
+<p>&ldquo;&nbsp;&lsquo;Three hundred marks,&rsquo; he said. &lsquo;A beautiful coat for the winter.&rsquo;</p>
+
+<p>&ldquo;I should have such a father.&rdquo; Naomi poked me with her elbow.</p>
+
+<p>The services were over. People greeted one another with kisses on both cheeks.</p>
+
+<p>&ldquo;Gut Shabbos.&rdquo;</p>
+
+<p>&ldquo;Gut Yontov.&rdquo;</p>
+
+<p>I wanted to call home. I wanted to say, &ldquo;Pops, the cantor has a daughter. He visits her on weekends. He bought her a coat for the winter. Pops, they&rsquo;re still singing the same prayers you sang when you were a boy. They&rsquo;re still eating chicken soup.&rdquo;</p>
+
+<p>Naomi guided me into the adjoining room, where tables were laid with white linen and wine glasses. The Russians carried plates of steaming food from the kitchen. The cantor stood at the head table and chanted the Sabbath blessing over the candles, the wine, the bread. And, together, we ate.</p>
+														</div>
+
+
+				
+<div class="sharing-bar article-sharing">
+	<div class="sharing-bar-first">
+		<a href="javascript:window.print();" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-printer"></use></svg> <span>Print</span></a>
+	</div>
+
+	<div class="sharing-bar-second">
+		<span class="alt-ff xsmall">Share:</span>
+		<a href="https://www.facebook.com/sharer/sharer.php?u=https://www.thesunmagazine.org/issues/246/the-cantors-birthday" target="_blank" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-facebook"></use></svg> <span>Facebook</span></a>
+		<a href="https://twitter.com/share?url=https://www.thesunmagazine.org/issues/246/the-cantors-birthday&amp;via=thesunmagazine" target="_blank" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-twitter"></use></svg> <span>Twitter</span></a>
+		<a href="#" class="b b-1 b-padding-tight xsmall js-toggle-mail-form"><svg><use xlink:href="#i-email"></use></svg> <span>Email</span></a>
+	</div>
+</div>
+
+<div class="send-to-friend-message-container">
+	<div class="alert alert-success xsmall">Thank you for sharing <em>The Sun</em>.</div>
+</div>
+
+<form method="post" action="/ajax/articles/send-to-a-friend" class="form fill-grey send-to-friend-form">
+		<input type="hidden" id="form_url" name="form[url]" value="https://www.thesunmagazine.org/issues/246/the-cantors-birthday" />
+
+	<ul class="form-fields">
+		<li><label for="form_sender_name"><span class="label-text">Your Full Name</span><span class="label-asterisk">*</span></label><input type="text" id="form_sender_name" name="form[sender_name]" required="required" /></li>
+		<li><label for="form_sender_email"><span class="label-text">Your Email Address</span><span class="label-asterisk">*</span></label><input type="email" id="form_sender_email" name="form[sender_email]" required="required" /></li>
+		<li><label for="form_recipient_name"><span class="label-text">Friend’s Name</span><span class="label-asterisk">*</span></label><input type="text" id="form_recipient_name" name="form[recipient_name]" required="required" /></li>
+		<li><label for="form_recipient_email"><span class="label-text">Friend’s Email Address</span><span class="label-asterisk">*</span></label><input type="email" id="form_recipient_email" name="form[recipient_email]" required="required" /></li>
+		<li><label for="form_message"><span class="label-text">Personalized Message</span></label><textarea id="form_message" name="form[message]"></textarea></li>
+	</ul>
+<div class="send-to-friend-message-container">
+	<div class="alert alert-error xsmall">Something went wrong. Please try again.</div>
+</div>
+
+<div class="g-recaptcha" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs"></div>
+<div class="form-actions"><button type="submit" id="form_submit" name="form[submit]"	class="form-actions-b-primary b b-1 b-loading xsmall"><svg><use xlink:href="#i-loading"></use></svg>
+		Submit
+	</button></div>
+<input type="hidden" id="form__token" name="form[_token]" value="9bfe19eabd00e62e8dd23e7eb9b60a2a207d790a" /></form>
+
+<br>
+
+
+
+										<footer class="article-contributor contributors">
+									
+
+<div class="block-contributor">
+		
+
+		<div class="block-contributor-content">
+		<div class="block-contributor-bio small">
+			<p><strong><span class="smallcaps">Nina Wise</span></strong> is a performance artist living in San Rafael, California. She conducts workshops at the Motion Studio and is writing a book titled <em>Guidebook for a Lonely Planet</em>.</p><a href="/contributors/nina-wise" class="block-contributor-link link-alt small">More From This Contributor&nbsp;&#9656;</a>		</div>
+	</div>
+</div>
+
+							</footer>
+						</article>
+
+
+				    <div class="paywall-subscription block-product">
+			<div class="columns">
+			<div class="paywall-banner span3 cta cta-l1">
+				<div class="cta-intro">
+					<h5 class="cta-title alt-ff">One Free Selection Left </h5>
+					<p class="cta-text xsmall"><a class="link-alt" href="https://www.thesunmagazine.org/subscriber/login" data-label="Already a subscriber?">Already a subscriber? Sign in ▸</a><br><br>Read two free selections from <em>The Sun</em> each month.</p>
+				</div>
+			</div>
+			<div class="paywall-banner span9 note note-1 text-center">
+				<h4 class="cta-title alt-ff">Subscribe to <em>The Sun</em> and save 45%</h4>
+				<p class="cta-text xsmall">Subscribers get full access to the current issue and more than 40 years of archives.</p>
+				<a class="b b-1 xsmall cta-trigger"  href="/subscribe1" data-label="Subscribe" data-ctatitle="Subscribe">Subscribe</a>
+			</div>
+		</div>
+
+		<div class="columns">
+			<div class="span12 paywall-cta-bottom">
+				<p>
+					<span class="cta-title-issue">Buy the June 1996 issue for $5.95</span>
+					<span class="xsmall">Order now to get instant access to this issue, and we’ll also send you a print copy.</span>
+					<a class="b b-5 xsmall corona"  href="#" data-product-type="issues" data-id="246" data-label="Order Now ▸">Order Now ▸</a>
+				</p>
+			</div>
+		</div>
+
+		
+
+</div>
+	
+	
+	
+	<div class="spacer"></div>
+	
+
+
+
+			<div class="article-correspondence layout-item fill-pattern-light">
+		<div class="layout-item-intro">
+			<h2>Correspondence</h2>
+			<a class="xsmall link-alt" href="https://www.thesunmagazine.org/letter-to-the-editor">Write a Letter to the Editor&nbsp;&#9656;</a>
+		</div>
+
+		<div id="article-correspondences" class="correspondences correspondences-collapsed">
+								<div class="block-correspondence" id="2733">
+		<blockquote class="quote-2">
+			<p>I am German. As a child, I unwittingly came across pictures of the liberation of Auschwitz. I dared not cry, nor ask questions. Since then, the Holocaust has haunted me. I have spent countless hours trying to understand it and to come to terms with my roots.</p>
+
+<p>When I read Nina Wise&rsquo;s &ldquo;<a href="/article/1757">The Cantor&rsquo;s Birthday</a>&rdquo; [June 1996], I felt a lump in my throat. That night, I dreamed of the story and woke up sobbing, able to cry about the Holocaust for the first time in my life.</p>
+							<p class="quote-2-author">Christine Schoefer<br>Berkeley, California</p>
+					</blockquote>
+	</div>
+
+					</div>
+
+			</div>
+    
+		<div class="article-correspondence-cta">
+		<div class="cta cta-l1" data-url="https://www.thesunmagazine.org/letter-to-the-editor">
+			<div class="cta-intro">
+				<h5 class="cta-title alt-ff">Thinking about writing us a letter?</h5>
+				<p class="cta-text">Give in to the temptation. We love getting mail. <br><span class="xsmall">(Of course, we reserve the right to edit.)</span></p>
+			</div>
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" class="cta-button b b-4 b-padding-tight small" data-label="Write Us A Letter!">Write Us A Letter!</a>
+		</div>
+	</div>
+	
+
+			<div class="article-also layout-item-large full-bar fill-grey-mid-light">
+		<div class="layout-item-intro">
+			<h2>Also In This Issue</h2>
+			<a href="/issues/246" class="xsmall link-alt">June 1996&nbsp;&#9656;</a>
+		</div>
+		<div class="issue-articles-l1">
+			<div class="issue-articles-l1-content1">
+				
+<div class="cover cover-l1 block-product">
+	<div>
+							<a href="/issues/246" class="cover-thumb">
+				
+				<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 725'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/281x364r/import/issue/246.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/562x728r/import/issue/246.jpg
+	 alt=""
+	 class="lazy">
+
+			</a>
+		
+
+													<!-- <a href="/issues/246" data-product-type="issues" data-id="246" data-role="order" class="js-buy-single corona cover-button b b-1 b-full xsmall" data-label="Buy This Issue &#9656;">
+								Buy This Issue&nbsp;&#9656;
+			</a> -->
+			<a href="/issues/246" data-product-type="issues" data-id="246" class="js-buy-single corona cover-button b b-1 b-full xsmall" data-label="Buy This Issue &#9656;">
+								Buy This Issue&nbsp;&#9656;
+			</a>
+					
+					</div>
+</div>
+			</div>
+			<div class="issue-articles-l1-content2">
+				<div class="articles-l3">
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/readers-write">Readers Write</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/246/faces-issue-246">Faces</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/our-readers">Our Readers</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/246/on-being-beautiful">On Being Beautiful</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/nancy-huston">Nancy Huston</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/poetry">Poetry</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/246/beds">Beds</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/kim-addonizio">Kim Addonizio</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/246/losing-gretchen">Losing Gretchen</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/tom-crider">Tom Crider</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+									</div>
+			</div>
+		</div>
+	</div>
+	
+
+			<div class="article-related layout-item-large full-bar fill-pattern-light">
+		<div class="layout-item-intro">
+			<h2>Related Selections</h2>
+			<ul class="list-inline list-inline-tight"><li><a href="/topics/friendship" class="xsmall link-alt link-text">Friendship</a></li><li><a href="/topics/parents" class="xsmall link-alt link-text">Parents</a></li><li><a href="/topics/war" class="xsmall link-alt link-text">War</a></li><li><a href="/topics/death" class="xsmall link-alt link-text">Death</a></li><li><a href="/topics/judaism" class="xsmall link-alt link-text">Judaism</a></li></ul>		</div>
+
+		<div class="articles-l2">
+							
+
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/515/the-garden-center">The Garden Center</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/j-malcolm-garcia">J. Malcolm Garcia</a></li><li><a href="/issues/515">November 2018</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/515" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 727'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/140x182r/2018-10/515.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/2018-10/515.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/sun-interview">The Sun Interview</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/512/our-grand-delusion">Our Grand Delusion</a></h3>
+					<p class="block-content-subtitle subtitle">Norman Fischer On The Tyranny Of The Self</p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/corey-fischer">Corey Fischer</a></li><li><a href="/issues/512">August 2018</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/512" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 727'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/140x182r/2018-07/512.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/2018-07/512.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/fiction">Fiction</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/326/the-word-1">The Word</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/robley-wilson">Robley Wilson</a></li><li><a href="/issues/326">February 2003</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/326" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 726'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/140x182r/import/issue/326.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/281x364r/import/issue/326.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/214/venice-shimmers">Venice Shimmers</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/sy-safransky">Sy Safransky</a></li><li><a href="/issues/214">October 1993</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/214" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 725'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/141x182r/import/issue/214.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/281x364r/import/issue/214.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+					</div>
+	</div>
+	
+	
+					<form id="newsletterForm" method="post" action="https://www.thesunmagazine.org/newsletter" data-url-send="https://www.thesunmagazine.org/newsletter" class="form form-newsletter fill-grey" enctype="multipart/form-data" target="_blank">
+
+
+
+		<div class="form-newsletter-intro">
+			<h3 class="alt-ff large">Sign Up For Our Newsletter</h3>
+			<p>We’ll let you know about new website selections, upcoming events, special offers, and more.</p>
+		</div>
+
+		<ul class="form-newsletter-fields form-fields form-fields-inline">
+			<li>
+				<input name="name" type="text" maxlength="500" id="name" placeholder="Your Name">
+			</li>
+			<li>
+				<input name="email" type="text" maxlength="500" id="email" placeholder="Your E-mail">
+			</li>
+
+			<li class="form-fields-inline-button">
+				<button disabled="disabled" class="form-newsletter-send b b-4 b-padding-tight b-loading g-recaptcha" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs" data-callback="recaptcha_callback" name="SubmitButton" id="SubmitButton">
+					<svg><use xlink:href="#i-loading"></use></svg>
+					Sign&nbsp;Up
+				</button>
+			</li>
+		</ul>
+	</form>
+	<script id="hiddenlpsubmitdiv" style="display: none;"></script>
+
+
+
+<footer class="footer brand-grey-dark">
+			<div class="footer-first">
+		<h3 class="footer-tagline">Independent, Reader-Supported Publishing</h3>
+		<p class="footer-desc">In each issue of <em>The Sun</em> you’ll find some of the most radically intimate and socially conscious writing being published today. In an age of media conglomerates, we’re something of an oddity: an ad-free, independent, reader-supported magazine.</p>
+		<ul class="footer-nav list-inline-border xsmall">
+			
+		<li class=" first">
+			<a href="https://www.thesunmagazine.org/about" 	   class=''>
+	   About <em>the Sun</em>	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/staff" 	   class=''>
+	   Staff	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/find-the-sun" 	   class=''>
+	   Find <em>The Sun</em>&nbsp;&nbsp;in a Store Near You	</a>
+		
+	</li>
+
+
+		</ul>
+	</div>
+	
+		<div class="footer-second">
+		<ul class="footer-second-social list-inline">
+			<li><a href="https://www.facebook.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-facebook"></use></svg></span> Like Us</a></li>
+			<li><a href="https://twitter.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-twitter"></use></svg></span> Follow Us</a></li>
+			<li><a href="https://instagram.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-instagram"></use></svg></span> Take a Look</a></li>
+		</ul>
+
+		<div class="footer-second-content">
+			<ul class="footer-nav list-inline-border xsmall">
+				
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/" 	   class='current '>
+	   Home	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/privacy-policy" 	   class=''>
+	   Privacy Policy	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/terms-of-use" 	   class=''>
+	   Terms of Use	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/site-map" 	   class=''>
+	   Site Map	</a>
+		
+	</li>
+
+
+			</ul>
+			<p class="footer-copyright xxsmall">Copyright &copy; 1974–2020 <em>The Sun</em>. All rights reserved.</p>
+		</div>
+	</div>
+</footer>
+
+
+
+<div class="offset-nav">
+	<ul>
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/read" 	   class='current '>
+	   Read	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/issues/current" 	   class=''>
+	   Current Issue	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/archives" 	   class=''>
+	   Archives	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/featured" 	   class=''>
+	   Featured Selections	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/topics" 	   class=''>
+	   Browse Topics	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/sections" 	   class=''>
+	   Browse Sections	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/connect" 	   class=''>
+	   Connect	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/news" 	   class=''>
+	   News from <em>The Sun</em>	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" 	   class=''>
+	   Write a Letter to the Editor	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/discussion-groups" 	   class=''>
+	   Discussion & Writing Groups	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/make-a-suggestion" 	   class=''>
+	   Make a Suggestion	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/submit" 	   class=''>
+	   Submit	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/shop" 	   class=''>
+	   Shop	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/giftsub" 	   class=''>
+	   Gift Subscriptions	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/issues" 	   class=''>
+	   Issues	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+											
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/donatemenu" 	   class='highlight'>
+	   Donate	</a>
+		
+	</li>
+
+		<li class=" last">
+														<a href="/SubscribeNav1" 					   class=''>
+						Subscribe					</a>
+									
+	</li>
+
+
+					<li>
+				<a href="https://www.thesunmagazine.org/shop/cart">Cart ( <span class="cart-item-count">  0  </span>)</a>
+			</li>
+			<li><a href="https://www.thesunmagazine.org/subscriber/login" class="link-header-logout link-alt">Sign In</a></li>
+			</ul>
+	<ul>
+		<li class=" first">
+			<a href="https://www.thesunmagazine.org/about" 	   class=''>
+	   About <em>the Sun</em>	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/staff" 	   class=''>
+	   Staff	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/find-the-sun" 	   class=''>
+	   Find <em>The Sun</em>&nbsp;&nbsp;in a Store Near You	</a>
+		
+	</li>
+
+</ul>
+	<ul>
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/" 	   class='current '>
+	   Home	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/privacy-policy" 	   class=''>
+	   Privacy Policy	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/terms-of-use" 	   class=''>
+	   Terms of Use	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/site-map" 	   class=''>
+	   Site Map	</a>
+		
+	</li>
+
+</ul>
+</div>
+
+<div id="buy-popup-message" class="buy-popup mfp-hide white-popup white-popup-block">
+	<a class="popup-modal-dismiss" href="#"></a>
+	<h5>Due to fulfillment challenges related to the novel coronavirus, print copies are temporarily unavailable for individual sale. We are offering free PDFs until we are able to resume print sales.</h5>
+	<p>Enter your e-mail address below to download this issue.</p>
+	<form method="post" id="download-single" action="https://www.thesunmagazine.org/issue/pdfFree/531.pdf">
+		<label for="email"><span class="label-text">E-mail</span><span class="label-asterisk">*</span></label>
+		<input class="buy-single-email" id="email" type="email" name="email">
+		<button type="send" class="form-buy-issue-send b b-3 b-padding-tight b-loading">Send</button>
+		<button class="form-buy-issue-download b b-3 b-padding-tight b-loading">Download pdf</button>
+		<button type="send" class="popup-modal-dismiss b b-2 b-padding-tight b-loading">Close</button>
+		<div class="g-recaptcha" style="text-align: center" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs"></div>
+
+	</form>
+</div>
+
+			<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/plugins.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/site.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/newsletter.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/js/articles.js"></script>
+		</div>
+		</div>
+
+				<script>
+		(function (doc) {
+			var scripts = doc.getElementsByTagName('script');
+			var script = scripts[scripts.length - 1];
+			var xhr = new XMLHttpRequest();
+			xhr.onload = function () {
+				var div = doc.createElement('div');
+				div.innerHTML = this.responseText;
+				div.style.display = 'none';
+				script.parentNode.insertBefore(div, script);
+			}
+			xhr.open('get', '/theme/thesun//assets/build/img/sprite/sprite.svg', true);
+			xhr.send();
+		})(document);
+
+
+
+		</script>
+
+		<script>
+			// Submit function
+            function recaptcha_callback() {
+						var getUrl = $('.form-newsletter').data( "url-send" ),
+							getName = $('input#name').val(),
+							getEmail = $('input#email').val();
+						$.ajax({
+								type: "POST",
+								url: getUrl,
+								data: {
+									name: getName,
+									email: getEmail,
+									grecaptcharesponse: grecaptcha.getResponse()
+								}
+							}).done(function(response) {
+								console.log(response);
+									$('.form-fields').fadeOut(800, function () {
+										$('.form-fields').empty().append('<div class="newsletter-confirm-message">Thank you for signing up to receive news from <em>The Sun</em>. Your first newsletter will arrive soon.<div>').fadeIn(800);
+									});
+							});
+			}
+
+		</script>
+
+		<script>
+			function getUrlCode() {
+				var url_string = window.location.href;
+				var url = new URL(url_string);
+				var c = url.searchParams.get('promotion\_key');
+				if (typeof c !== 'undefined' && c !== null) {
+					setCookie("promotion_code",c);
+				}
+			}
+
+			function setCookie(cname, cvalue) {
+				document.cookie = cname + "=" + cvalue + ";" + "path=/";
+			}
+
+			function getCookie(cname) {
+				var name = cname + "=";
+				var decodedCookie = decodeURIComponent(document.cookie);
+				var ca = decodedCookie.split(';');
+				for(var i = 0; i <ca.length; i++) {
+					var c = ca[i];
+					while (c.charAt(0) == ' ') {
+						c = c.substring(1);
+					}
+					if (c.indexOf(name) == 0) {
+						return c.substring(name.length, c.length);
+					}
+				}
+				return "";
+			}
+			window.addEventListener( "load", getUrlCode );
+		</script>
+
+
+	</body>
+</html>

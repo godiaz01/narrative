@@ -1,0 +1,1221 @@
+
+<!DOCTYPE html>
+<html class="no-js" lang="en-US">
+	<head>
+		<title>Real Work - The Sun Magazine</title>
+
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		
+		<meta name="viewport" content="width=device-width, minimum-scale=1.0">
+
+		<link rel="dns-prefetch" href="//ajax.googleapis.com">
+		<link rel="dns-prefetch" href="//use.typekit.net">
+		
+		<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/modernizr.js"></script>
+		<script src="https://www.google.com/recaptcha/api.js"
+				async defer>
+		</script>
+
+		<script>(function(d) { var config = { kitId: 'kzw7ebk', scriptTimeout: 3000, async: true }, h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s) })(document);</script>
+
+
+				
+		<link rel="apple-touch-icon" sizes="57x57" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-57x57.png?v=2016">
+		<link rel="apple-touch-icon" sizes="60x60" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-60x60.png?v=2016">
+		<link rel="apple-touch-icon" sizes="72x72" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-72x72.png?v=2016">
+		<link rel="apple-touch-icon" sizes="76x76" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-76x76.png?v=2016">
+		<link rel="apple-touch-icon" sizes="114x114" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-114x114.png?v=2016">
+		<link rel="apple-touch-icon" sizes="120x120" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-120x120.png?v=2016">
+		<link rel="apple-touch-icon" sizes="144x144" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-144x144.png?v=2016">
+		<link rel="apple-touch-icon" sizes="152x152" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-152x152.png?v=2016">
+		<link rel="apple-touch-icon" sizes="180x180" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/apple-touch-icon-180x180.png?v=2016">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-32x32.png?v=2016" sizes="32x32">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/android-chrome-192x192.png?v=2016" sizes="192x192">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-96x96.png?v=2016" sizes="96x96">
+		<link rel="icon" type="image/png" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon-16x16.png?v=2016" sizes="16x16">
+		<link rel="mask-icon" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/safari-pinned-tab.svg?v=2016" color="#444444">
+		<link rel="shortcut icon" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/favicon.ico?v=2016">
+		<meta name="apple-mobile-web-app-title" content="The Sun Magazine">
+		<meta name="application-name" content="The Sun Magazine">
+		<meta name="msapplication-TileColor" content="#fcc330">
+		<meta name="msapplication-TileImage" content="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/mstile-144x144.png?v=2016">
+		<meta name="theme-color" content="#ffffff">
+
+				<link rel="stylesheet" type="text/css" href="https://cloud.typography.com/6578674/659928/css/fonts.css" />
+		<link rel="stylesheet" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/css/style.css">
+
+																		<meta property="og:site_name" content="The Sun Magazine">
+		<meta property="og:type" content="article">
+		<meta property="og:url" content="https://www.thesunmagazine.org/issues/434/real-work">
+		<meta property="og:image" content="http://www.thesunmagazine.org/files/2016-05/434-20-ryan-preview.jpg">
+		<meta property="og:title" content="Real Work - The Sun Magazine">
+		<meta property="og:description" content="My first day was unbearable, much worse than I could have imagined, a textbook lesson in humility. My strength, stamina, and intelligence &amp;mdash; in other words, my superiority &amp;mdash; ended up not being worth a bent nail. Stepping onto the job site that first day at 6:45 AM, I had no idea what a hod was, even though the word had been embedded in my family lexicon, seared into my unconscious.">
+		<meta property="fb:app_id" content="158741778010551">
+
+						<link rel="image_src" href="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.comhttp://www.thesunmagazine.org/files/2016-05/434-20-ryan-preview.jpg">
+
+												<meta name="twitter:card" content="summary">
+		<meta name="twitter:title" content="Real Work - The Sun Magazine">
+		<meta name="twitter:description" content="My first day was unbearable, much worse than I could have imagined, a textbook lesson in humility. My strength, stamina, and intelligence &amp;mdash; in other words, my superiority &amp;mdash; ended up not being worth a bent nail. Stepping onto the job site that first day at 6:45 AM, I had no idea what a hod was, even though the word had been embedded in my family lexicon, seared into my unconscious.">
+		<meta name="twitter:image" content="http://www.thesunmagazine.org/files/2016-05/434-20-ryan-preview.jpg">
+		<meta name="twitter:site" content="@thesunmagazine">
+
+				<link rel="publisher" href="https://plus.google.com/113792980827145858211">
+        
+		<meta name="Description" content="My first day was unbearable, much worse than I could have imagined, a textbook lesson in humility. My strength, stamina, and intelligence &amp;mdash; in other words, my superiority &amp;mdash; ended up not being worth a bent nail. Stepping onto the job site that first day at 6:45 AM, I had no idea what a hod was, even though the word had been embedded in my family lexicon, seared into my unconscious.">
+
+		
+		<!-- Google Tag Manager -->
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-TKBHCCG');</script>
+		<!-- End Google Tag Manager -->
+
+		<!-- Google Analytics -->
+		<script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+            ga('create', 'UA-2351127-1', 'auto');  // Replace with your property ID.
+            ga('send', 'pageview');
+            ga('require', 'ecommerce');   // Load the ecommerce plug-in.
+		</script>
+		<!-- End Google Analytics -->
+	</head>
+	<body id="">
+
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TKBHCCG"
+		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+		<header class="header" data-offset-start="80">
+		<div class="header-utilities">
+				<ul class="header-utilities-user list-inline list-inline-tight xxsmall">
+							<li>
+					<span class="header-utilities-user-intro">Already A Subscriber?</span> &nbsp;
+					<a href="https://www.thesunmagazine.org/subscriber/login" class="link-text link-alt">Sign In</a>
+				</li>
+					</ul>
+		<a href="https://www.thesunmagazine.org/shop/cart" class="header-utilities-cart  link-alt link-icon tiny">
+			<span class="i"><svg><use xlink:href="#i-cart"></use></svg></span>
+			<span class="cart-item-count">
+									0 Items
+				
+			</span>
+		</a>
+			</div>
+
+		<div class="header-bar">
+		<h1 class="header-logo logo">
+			<a href="/">
+				<img src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/img/logo-thesun.svg" class="logo-thesun" alt="The Sun Magazine">
+				<img src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/img/logo-tagline.svg" class="logo-tagline" alt="">
+			</a>
+		</h1>
+
+		<ul class="header-nav">
+			
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/read" 	   class='current '>
+	   Read	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/issues/current" 	   class=''>
+	   Current Issue	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/archives" 	   class=''>
+	   Archives	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/featured" 	   class=''>
+	   Featured Selections	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/topics" 	   class=''>
+	   Browse Topics	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/sections" 	   class=''>
+	   Browse Sections	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/connect" 	   class=''>
+	   Connect	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/news" 	   class=''>
+	   News from <em>The Sun</em>	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" 	   class=''>
+	   Write a Letter to the Editor	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/discussion-groups" 	   class=''>
+	   Discussion & Writing Groups	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/make-a-suggestion" 	   class=''>
+	   Make a Suggestion	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/submit" 	   class=''>
+	   Submit	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/shop" 	   class=''>
+	   Shop	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/giftsub" 	   class=''>
+	   Gift Subscriptions	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/issues" 	   class=''>
+	   Issues	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+											
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/donatemenu" 	   class='highlight'>
+	   Donate	</a>
+		
+	</li>
+
+		<li class=" last">
+														<a href="/SubscribeNav1" 					   class=''>
+						Subscribe					</a>
+									
+	</li>
+
+
+		</ul>
+
+		<button class="header-nav-toggle"><svg><use xlink:href="#i-menu" class="i-menu"></use><use xlink:href="#i-close" class="i-close"></use></svg></button>
+		<button class="header-search-toggle" data-form-wrapper=".header-search"><svg><use xlink:href="#i-magnifier" class="i-magnifier"></use><use xlink:href="#i-close" class="i-close"></use></svg></button>
+	</div>
+
+		<div class="header-search">
+		<div class="header-search-content">
+			<form action="https://www.thesunmagazine.org/search" class="form form-search" method="get">
+				<h2 class="alt-ff brand-link">Search Our 40 Years of Archives</h2>
+				<ul class="form-search-fields form-fields form-fields-inline">
+					<li><input type="text" name="q" value=""></li>
+					<li class="form-fields-inline-button"><button class="b b-1 b-padding-tight b-loading"><svg><use xlink:href="#i-loading"></use></svg>Search</button></li>
+				</ul>
+
+				<div class="header-search-content-shortcuts">
+					<h6 class="search-advanced alt-ff"><a class="js-handle-advanced" href="https://www.thesunmagazine.org/search?advanced=1">Advanced Search</a></h6>
+					<br>
+					<h6 class="alt-ff">Popular Pages</h6>
+					<ul class="list-inline-border list-inline-tight xxsmall"><li class=" first"><a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a></li><li class=""><a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a></li><li class=""><a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a></li><li class=""><a href="https://www.thesunmagazine.org/sections/quotations" 	   class=''>
+	   Quotations	</a></li><li class=""><a href="https://www.thesunmagazine.org/sections/readers-write" 	   class=''>
+	   Readers Write	</a></li><li class=" last"><a href="https://www.thesunmagazine.org/sections/poetry" 	   class=''>
+	   Poetry	</a></li></ul>				</div>
+			</form>
+		</div>
+	</div>
+</header>
+
+	<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+	<script type="text/javascript">
+		$(document).ready(function() {
+			$('.js-handle-advanced').on('click', function (e) {
+				e.preventDefault();
+				var getSearchValue = $('.form-search-fields input').val();
+				var getURL = $(this).attr('href');
+				var newURL = getURL + '&q=' + getSearchValue;
+				window.location.href = newURL;
+			});
+		});
+	</script>
+
+		<div class="container-hidden">
+		<div class="container">
+
+				
+	
+	<article class="article ">
+		<header class="block-content block-content-l1 block-content-center">
+						<div class="block-content-header">
+				<h6 class="b-content-section heading-square"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+				<h1 class="block-content-title">Real Work</h1>
+
+				
+				<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/joseph-bathanti">Joseph Bathanti</a></li><li><a href="/issues/434">February 2012</a></li></ul>
+
+			</div>
+
+																			
+
+				<figure class="block-content-photo block-content-photo-large photo photo-outset-center-small">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 1930 1960'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/965x980r/photos/1475711673_434-20-ryan.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/1930x1960r/photos/1475711673_434-20-ryan.jpg
+	 alt="434 - Ryan - Bathanti"
+	 class="lazy">
+
+										<figcaption>
+
+						
+																				<div class="photo-credit">
+								&copy;&nbsp;<a href="/contributors/grant-m-ryan">Grant M. Ryan</a>
+							</div>
+																		</figcaption>
+									</figure>
+
+					</header>
+
+				<div class="article-body link-text-wrap">
+																		<p class="dropcap">In the summer of 1976, the bicentennial year &mdash; the year I would leave my hometown of Pittsburgh for good in the fall to work in a North Carolina prison as a <span class="smallcaps">VISTA</span> volunteer &mdash; I was employed as a laborer, a hod carrier to be precise, by my uncle Leo, one of my mother&rsquo;s brothers, a wealthy brick contractor. A millionaire, the family whispered. My pay was $2.75 an hour, by far the highest wage I had ever earned.</p>
+
+<p>On my application to <span class="smallcaps">VISTA</span> (Volunteers in Service to America) I had listed Montana as my number-one choice for a job location, simply because Montana struck me as grand and unfathomable. However, because I fit the &ldquo;generalist&rdquo; rubric &mdash; meaning that I had no specific skill of any kind &mdash; I&rsquo;d fetched an assignment at Huntersville Prison, deep in the Carolina country twelve miles north of Charlotte.</p>
+
+<p>I had applied to <span class="smallcaps">VISTA</span> not because I knew it was what I wanted to do, but because the list of jobs I couldn&rsquo;t stomach doing was so ponderously long. Smoldering in me as well was the desire to leave Pittsburgh, not because I felt trapped or nursed a grudge against the city &mdash; on the contrary &mdash; but because I was sure that leaving was the right thing to do. As if I had received a spiritual imprimatur. Had I been rejected by <span class="smallcaps">VISTA</span>, my friend David Friday and I planned to buy brand-new Harleys, throttle them cross-country to California, sell them in the Golden State for a grubstake, and see what happened. I also had half a dozen law-school applications stacked on my bedroom desk. My mother salivated over them, but I never filled them out.</p>
+
+<p>That summer I was taking my last course toward completion of a master&rsquo;s degree in English from the University of Pittsburgh, where I had, a mere twelve months earlier, earned my undergraduate degree in English literature. The class was Latin American Literature, taught by Harry Mooney, my advisor, whom I idolized. He was a 1951 graduate of Pittsburgh Central Catholic High School, from which I had graduated in 1971.</p>
+
+<p>In the seventies Latin American literature was esoteric. The world had not yet been hyphenated. My family was still Italian, though soon, without realizing it, we would become &ldquo;Italian-Americans,&rdquo; the benefits of which I&rsquo;m still not sure I&rsquo;ve realized. I had never heard of the canonical Latin American writers: Jorge Luis Borges, Julio Cort&aacute;zar, Carlos Fuentes. I&rsquo;d never even heard of Gabriel Garc&iacute;a M&aacute;rquez&rsquo;s <em>One Hundred Years of Solitude</em>, considered by many to be the greatest novel of the twentieth century. I was three credits shy of a master&rsquo;s degree in literature, and I had never heard of the greatest novel of the twentieth century. That was just the tip of the iceberg of my ignorance.</p>
+
+<p>Prior to laboring for my uncle, I had been fired from my previous two jobs: driving a delivery truck for a flower shop and moving boxes at a toy warehouse. I&rsquo;d decided that I wanted to be a writer, but of course I didn&rsquo;t know what that entailed or how you arranged to become one. I had taken one undergraduate creative-writing class at Pitt &mdash; Advanced Poetry Workshop &mdash; and had emerged from it with a sheaf of benighted verse that my professor had been kind about critiquing, though I now imagine him reading a couplet or two aloud to his colleagues for laughs. Nevertheless I had fabricated for myself, at least in my mind, an identity as a writer.</p>
+
+<p>More than anything, I wanted someone to pay me to read books. That was the position I was looking for. In fact, I had lost my job at the toy warehouse because I had built a hide-out from enormous boxes in the top rack of shelves, up against the warehouse ceiling, and I&rsquo;d perched there, five stories above the concrete floor, reading Dostoyevsky (I made it all the way through <em>The Idiot</em> before the ax fell) and eating Junior Mints and deviled crab from Munch&rsquo;s lunch truck until it was time to punch out and head for beer at Sam and Ann&rsquo;s Bar.</p>
+
+<p>I don&rsquo;t suppose I wanted the job laboring for my uncle, but among my relatives, carrying a hod for Uncle Leo at least one summer was a rite of passage, the measure of your backbone. Even my father had labored for Leo when he was on strike from the mill. So I told myself a durable tale, something cobbled together to mythologize what was sure to be agony: that carrying a hod (whatever that was) was noble and honest, keenly romantic; that working construction was men&rsquo;s work, outside, under the sun, no shirt, khakis, clodhoppers, and a Pirates baseball cap. I had been an athlete all my life and was in terrific shape. What&rsquo;s more, I was twenty-two years old, a grown man by anyone&rsquo;s calculation, a chap who clearly fit the Hemingway code and could handle whatever hardship a day&rsquo;s wages blew his way. I might suffer internally, but I would never cry out.</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">In his essay &ldquo;The Myth of Sisyphus,&rdquo; Albert Camus reminds us that the gods &ldquo;had thought with some reason that there is no more dreadful punishment than futile and hopeless labor.&rdquo; This rang witheringly true to me, even the first time I&rsquo;d read it as a sixteen-year-old, and it was what I sought to escape by leaving Pittsburgh in the fall. In the meantime I would work construction.</p>
+
+<p>My first day was unbearable, much worse than I could have imagined, a textbook lesson in humility. My strength, stamina, and intelligence &mdash; in other words, my superiority &mdash; ended up not being worth a bent nail. Stepping onto the job site that first day at 6:45 <span class="smallcaps">AM</span>, I had no idea what a hod was, even though the word had been embedded in my family lexicon, seared into my unconscious. According to <em>Webster&rsquo;s</em>, a hod is &ldquo;an open box attached to a long pole in which bricks or mortar are carried on the shoulder.&rdquo; I find this an oversimplified definition, but adequate. The box is really a wedge that you load with bricks or mortar, then assume the sharp weight of on your trapezius, balancing the entire affair with a pole the length of a hoe handle. You then totter across the pocked and littered job site toward the bricklayers, who are screaming at you to &ldquo;hurry the fuck up!&rdquo;</p>
+
+<p>I loaded my first hod full of oozing mortar, situated myself at the hod stand, and stepped away with it on my shoulder. It was precisely like having a hundred pounds of concrete loaded onto your spine. I staggered like a drunkard for a moment, mortar spilling over my face and torso, then managed to get the hod back onto the stand before I toppled. I took a few more cracks at it, the bricklayers yapping unmercifully for me to hustle, but I just couldn&rsquo;t carry the contraption. The physics of it were too befuddling, not to mention that I lacked the necessary Herculean strength. I found a couple of five-gallon metal buckets, shoveled them full of mortar, took one in each hand, and humped mud like that all day under the blistering sun. My attempt to transport bricks in the hod was equally pathetic, so I ended up using brick tongs, a clamped span of ten bricks in each hand.</p>
+
+<p>Of course, the bricklayers and the other laborers made fun of me, Leo&rsquo;s nephew, the sissy college kid. The day was sheer misery. By quitting time at 3:30, I felt as if I had been worked over by a squad of nuns. I didn&rsquo;t know how I&rsquo;d be able to last the summer. But more than anything, I was terrified I&rsquo;d have to quit. The disgrace of admitting defeat would have been too much to bear, a deathblow to my early manhood. Day by day, lurch by lurch, I got the hang of it and became an adequate laborer. I even developed the kind of masochistic affection for the job that runners sometimes feel upon finishing a race that nearly kills them.</p>
+
+<p>After going steady all day with the hod, I&rsquo;d drive home in my sodden work clothes, take a shower, and eat supper with my parents &mdash; one less night we had left together under the same roof. My father, a millwright on the open hearth at Edgar Thomson Steel Works, the first steel mill Andrew Carnegie had opened in America, had been home since 4:30. A swell cook, he had supper on the table when my mother, a seamstress at the Brooks Brothers tailor shop, barged in from the bus stop, laden with packages and a chip on her shoulder. Like me, she bristled at authority.</p>
+
+<p>Wednesday evenings I showed up, still in my mortar-encrusted clothes, at Pitt for my three-hour seminar with Dr. Mooney, the high priest of literature, who bought his pristine shirts, suits, and blazers at Brooks Brothers. My mother might have basted his cuffs or hemmed his trousers. His club ties matched his argyles, and his wingtips shone. Half glasses sitting at the tip of his long nose, he fulminated and sighed and theatrically read aloud long passages from the texts, which he called &ldquo;miracles of compression&rdquo; and &ldquo;marvels of economy.&rdquo; Six foot five and as willowy as Prince Myshkin in <em>The Idiot</em>, he was gentle, a purist, unabashedly wed to literature. It seems obvious to me that Dr. Mooney was my inspiration for becoming a teacher, though as I sat in his class back then, clad in the honest filth of my peasant forebears, the thought of wearing his robes or possessing even a jot of his intellect was as foreign to me as the books on my syllabus.</p>
+
+<p>The other grad students were much older than I, PhD candidates whose vocabularies were exquisitely superior and intoxicating. They stared at me as if I were a janitor instead of a working-class hero. Cowled in brick and mortar dust, I never felt I belonged among them any more than I felt at home among the bricklayers and carpenters, plumbers and electricians.</p>
+
+<p>Some evenings I hung out with my best friends, neighborhood kids I&rsquo;d known all my life and gone to Catholic school with. We were like brothers, my love for them complete. Finally old enough to drink legally after all those years of using fake <span class="smallcaps">ID</span>s and frequenting dives in the university district that would have served toddlers if they&rsquo;d been tall enough to plunk their pennies on the bar, we&rsquo;d split a cheap pitcher at Lou&rsquo;s Lounge or Taylor&rsquo;s. I can&rsquo;t remember a thing we said, just the sound of their voices. Or, if I was feeling maudlin and profound because the muse was teasing me &mdash; along with the fact that I was always secretly in love and tongue-tied and jilted in the bargain &mdash; I&rsquo;d drive to the dark, smoky Mardi Gras bar, play sad songs by Graham Nash and Joni Mitchell on its kaleidoscopic jukebox, and drink exactly two cold bottles of Schmidt&rsquo;s of Philadelphia. Laboring kept me in a state of constant thirst. Beer had never tasted so good.</p>
+
+<p>On Sunday mornings I played softball in an industrial league against teams from worn-out steel neighborhoods across the Allegheny River. I had put together a team I called the &ldquo;Deer,&rdquo; comprised of those same old friends, some of whom played well and some of whom didn&rsquo;t. The team was a lark, a kind of absurdist flourish to my last summer in Pittsburgh, where playing baseball had meant more to me than anything else, even more than books. Becoming a ballplayer had been my first dream, but it finally faded on those run-down, treacherous fields, littered with glass and gravel, playing against guys who looked more like hung-over defensive linemen than baseball players. They grunted as they rocketed boozy homers over rusty chain-link fences and into the dingy cobblestone streets of Beechview and Carrick. They beat us to death and talked shit in the bargain: the <em>Deer</em>, whatever the hell that meant, in our foppish, too-nice uniforms. Egotistically orchestrating my own swan song, I kept stats and played as if my life depended on it. We won three games the entire summer.</p>
+
+<p>Most nights I stayed home. My father read the newspaper while my mother sat with needle and thread. (She had taken up quilting.) The <span class="smallcaps">TV</span> would be on. Eventually it would put them to sleep. Jimmy Carter was running for president. Gerald Ford was a good guy; Nixon, deposed and disgraced, was, in the words of my mother, &ldquo;a sneaky bastard.&rdquo; I&rsquo;d sit and have ice cream with them and a cup of tea. Already I&rsquo;d begun to despise television. Then I&rsquo;d climb the stairs to my bedroom, which was still decked with the prizes of my boyhood: trophies and pennants, the mammoth poster of Babe Ruth above my bed and, orbiting it, small cameos of Muhammad Ali, Roberto Clemente, Ernest Hemingway, and F. Scott Fitzgerald. The requisite crucifix lent a pious air. Congregated atop my dresser were statues of the Blessed Mother, the Sacred Heart, and Saints Joseph, Francis, and Anthony.</p>
+
+<p>I climbed between the immaculate sheets &mdash; my mother still made my bed &mdash; and read about the boiling heat of Garc&iacute;a M&aacute;rquez&rsquo;s Macondo, where characters thrive on meals of damp soil, spit butterflies, and levitate; where a &ldquo;very old man with enormous wings&rdquo; plummets to earth one day and is locked in a chicken coop; where the unearthly and the inexplicable are married to the mundane. I&rsquo;d been unable to finish Carlos Fuentes&rsquo;s <em>The Death of Artemio Cruz</em>. It had made me feel as if jagged pieces of metal were grinding inside me. Latin American literature was like <span class="smallcaps">LSD</span>: disorienting, spiriting me off to the realm of magical realism &mdash; an esoteric term in 1976. These literary hallucinogens made me want to write, though I never did. Maybe I&rsquo;d scribble on a bar napkin that wouldn&rsquo;t make it out of my pocket. But in the main I read the Latin Americans and fell asleep early, sometimes chancing a cigarette in the bedroom of my boyhood, though my mother would give me hell about it the next day. <em>What&rsquo;s this <span class="smallcaps">VISTA</span> bullshit anyway?</em> She was brokenhearted that I was leaving. My father was too, though he said nothing (thank God), as was his wont.</p>
+
+<p>&nbsp;</p>
+
+<p class="dropcap">Every morning I had to get up at 5:30 and drive to the job site in my black <span class="smallcaps">VW</span> Beetle with no reverse and work under the merciless sun carrying hods of brick and mortar. Real work.</p>
+
+<p>I was preparing, I thought, to walk away from my past. I was glad to be leaving to volunteer for <span class="smallcaps">VISTA</span>, though the joyous anticipation I felt when contemplating my escape from home and family filled me with guilt. How odd I must have seemed to my dear parents in those last days of my life as an only child. (My older sister, Marie, had married six years earlier.) I was the first person in my family ever to walk into a college classroom. And now, by God, I was getting a master&rsquo;s degree in English literature &mdash; whatever that was &mdash; and traipsing off to volunteer in a prison five hundred miles away.</p>
+
+<p>Fridays after work I drove straight home and left my battered boots at the back door with the three other pairs already queued on the stoop. Around the table in the kitchen were my dad, then only sixty-one; my godfather, Paul Pagano; and Paul&rsquo;s son-in-law Ronnie Villani.</p>
+
+<p>Paul was a cement finisher, the son of a cement finisher who had emigrated from Napoli and my dad&rsquo;s eldest sister, Vincenza. At age seventeen he was drafted into the navy. Weeks later he boarded the USS<em> North Carolina, Battleboat 55</em>, the most decorated seafaring vessel of World War <span class="smallcaps">II</span>, then raced across the Pacific to join the fleet for the invasion of Japan &mdash; though the bombs were dropped on Hiroshima and Nagasaki while he was en route.</p>
+
+<p>Ronnie had grown up on Lenora Street, behind Larimer Field. He&rsquo;d played for Pete D&rsquo;Imperio&rsquo;s famous &rsquo;64 City League single-wing football champs at Westinghouse High, the only white kid on the all-black team, the only white kid in his all-black graduating class. All-city tackle. Stronger than Samson. Big and hairy and beneficent, with beautiful teeth. He worked heavy construction, carried sheetrock up and down eighty stories, all day, with his bare hands.</p>
+
+<p>Quiet and steady, my dad rose daily in the dark, packed my lunch, scribbled my name in pencil on the brown bag, brewed a thermos of coffee for me, and often left a few bucks on the front seat of my <span class="smallcaps">VW</span>. By the time I stepped on the site at 6:45 &mdash; wearing his boots and gloves, his hat with his name on it &mdash; he&rsquo;d long since been punched in and was sweating at the mouth of a blast furnace or belted to a boom-crane gantry high above the Monongahela River.</p>
+
+<p>I wanted to be like these men. And Dr. Mooney, too.</p>
+
+<p>The four of us were shirtless and brown. Crosses on chains glinted on our tanned chests. Along with his cross Ronnie sported the tribal horn to ward off the <em>malocchio</em>, the evil eye. On the table gleamed the bottle of Black Velvet, twinkling amber in the late-afternoon sun like a holy icon. Squat bottles of cold Iron City rested in front of each of us to chase the shots we canted neatly into cordial glasses. Piled on a platter were provolone and salami, olives and tomatoes, fresh Sicilian bread my dad had purchased at dawn at Rimini&rsquo;s down on Larimer Avenue. A cast-iron vat of hot sausage and peppers, my dad&rsquo;s specialty, simmered on the stove. The screen door was open. The summer birds sang in Italian.</p>
+
+<p>When I disappeared from that kitchen thirty-five years ago and walked onto a North Carolina prison yard, into the new, unlikely life that awaited me, I left behind the harrowing necessity of sweating and punishing my body to score a paycheck, a tradition in my family as far back as anyone can reckon. I eventually became a teacher and a writer, a man with soft hands, pressed shirts, and clean shoes that I no longer had to leave at the back door. The dream of my ancestors &mdash; when they&rsquo;d hobbled onto those ships along Italy&rsquo;s impoverished coast, possessed only of tools, bread, and the clothes on their backs &mdash; was that I and my brethren would never know what William Faulkner calls &ldquo;the old thrill and the old despair of a penny more or less.&rdquo; I don&rsquo;t know how to be thankful enough that I stumbled into this life of books. It is a catechism lesson in undeserved grace.</p>
+
+<p>Yet the instinct toward manual labor, that Calvinist bent of mortifying the flesh, still nags me. I find myself addled with a sense of unworthiness if I do not submit daily to a ritual of self-imposed physical hardship. Other than the usual house maintenance &mdash; the occasional coat of paint; regular grass cutting, weed eating, and snow shoveling; efforts to keep the cars roadworthy &mdash; how does the garden-variety English professor sublimate the guilt arising from his suspicion that a life of the mind, unleavened by blue-collar toil, is not quite enough, that it leads, perhaps, to a spiritual quandary?</p>
+
+<p>I run every day, regardless of geography or weather. I pray reflexively as I log the miles, as if storing up indulgences &mdash; as instructed by the nuns who savagely taught me &mdash; to whittle time off my stay in purgatory. Running is no-nonsense work without a whit of glamour: often punishing, most of the time uncomfortable, and glorious in not-so-obvious ways. Ever the poet, Saint Paul said it nicely in 2 Corinthians: &ldquo;Wherefore we labor, that, whether present or absent, we may be accepted of Him.&rdquo; The worst indictment I ever heard from my father was when he would say of another man, &ldquo;He&rsquo;s so lazy he stinks.&rdquo;</p>
+
+<p>My dad, Paul, and Ronnie: they smiled when I appeared at the threshold on Friday afternoons. These were my people, and, strolling into my parents&rsquo; kitchen, grimy and happy that my week with the hod and the grad students was over, I had become a <em>manovale</em>, a real worker, like the men of my family. My dad jumped up and fetched me a beer. Paul poured me a shot. Ronnie clapped me on the back &mdash; it was like being smacked with a sack of mortar &mdash; and proclaimed, &ldquo;My man.&rdquo;</p>
+
+<p>They laughed and asked how the hell I was going to make it on the two grand a year I&rsquo;d be earning as a <span class="smallcaps">VISTA</span> volunteer; I couldn&rsquo;t have learned too much with all that college. Then they really laughed. I laughed too. I didn&rsquo;t know how the hell I&rsquo;d make it. In just a few weeks I&rsquo;d be on a prison yard. I&rsquo;d have a Cuban roommate whose father was locked in one of Castro&rsquo;s jails. I&rsquo;d tour death row and the gas chamber. I&rsquo;d fall precipitously in love with a woman from Georgia and marry her fourteen months later. I&rsquo;d begin the labor that I&rsquo;d engage in for the rest of my life: the sustained toil, the real work, of writing. I&rsquo;d wandered out of one world, through a secret portal, and lurched into another.</p>
+
+<p>Together we lifted the shots &mdash; <em>Saluto</em> &mdash; threw them back, and chased them with an Iron.</p>
+														</div>
+
+
+				
+<div class="sharing-bar article-sharing">
+	<div class="sharing-bar-first">
+		<a href="javascript:window.print();" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-printer"></use></svg> <span>Print</span></a>
+	</div>
+
+	<div class="sharing-bar-second">
+		<span class="alt-ff xsmall">Share:</span>
+		<a href="https://www.facebook.com/sharer/sharer.php?u=https://www.thesunmagazine.org/issues/434/real-work" target="_blank" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-facebook"></use></svg> <span>Facebook</span></a>
+		<a href="https://twitter.com/share?url=https://www.thesunmagazine.org/issues/434/real-work&amp;via=thesunmagazine" target="_blank" class="b b-1 b-padding-tight xsmall"><svg><use xlink:href="#i-twitter"></use></svg> <span>Twitter</span></a>
+		<a href="#" class="b b-1 b-padding-tight xsmall js-toggle-mail-form"><svg><use xlink:href="#i-email"></use></svg> <span>Email</span></a>
+	</div>
+</div>
+
+<div class="send-to-friend-message-container">
+	<div class="alert alert-success xsmall">Thank you for sharing <em>The Sun</em>.</div>
+</div>
+
+<form method="post" action="/ajax/articles/send-to-a-friend" class="form fill-grey send-to-friend-form">
+		<input type="hidden" id="form_url" name="form[url]" value="https://www.thesunmagazine.org/issues/434/real-work" />
+
+	<ul class="form-fields">
+		<li><label for="form_sender_name"><span class="label-text">Your Full Name</span><span class="label-asterisk">*</span></label><input type="text" id="form_sender_name" name="form[sender_name]" required="required" /></li>
+		<li><label for="form_sender_email"><span class="label-text">Your Email Address</span><span class="label-asterisk">*</span></label><input type="email" id="form_sender_email" name="form[sender_email]" required="required" /></li>
+		<li><label for="form_recipient_name"><span class="label-text">Friend’s Name</span><span class="label-asterisk">*</span></label><input type="text" id="form_recipient_name" name="form[recipient_name]" required="required" /></li>
+		<li><label for="form_recipient_email"><span class="label-text">Friend’s Email Address</span><span class="label-asterisk">*</span></label><input type="email" id="form_recipient_email" name="form[recipient_email]" required="required" /></li>
+		<li><label for="form_message"><span class="label-text">Personalized Message</span></label><textarea id="form_message" name="form[message]"></textarea></li>
+	</ul>
+<div class="send-to-friend-message-container">
+	<div class="alert alert-error xsmall">Something went wrong. Please try again.</div>
+</div>
+
+<div class="g-recaptcha" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs"></div>
+<div class="form-actions"><button type="submit" id="form_submit" name="form[submit]"	class="form-actions-b-primary b b-1 b-loading xsmall"><svg><use xlink:href="#i-loading"></use></svg>
+		Submit
+	</button></div>
+<input type="hidden" id="form__token" name="form[_token]" value="e80112cfdd0c6d4dc512f44a7cef50c4ec159b82" /></form>
+
+<br>
+
+
+
+										<footer class="article-contributor contributors">
+									
+
+<div class="block-contributor">
+		
+
+		<div class="block-contributor-content">
+		<div class="block-contributor-bio small">
+			<p><span class="smallcaps"><strong>Joseph Bathanti</strong></span>&rsquo;s most recent book, a collection of poems, is <em>Restoring Sacred Art</em>. Named by the North Carolina Poetry Society as a Gilbert-Chappell Distinguished Poet, he is professor of creative writing at Appalachian State University and also writer-in-residence at the university&rsquo;s Watauga Global Community. He lives in Boone, North Carolina.</p><a href="/contributors/joseph-bathanti" class="block-contributor-link link-alt small">More From This Contributor&nbsp;&#9656;</a>		</div>
+	</div>
+</div>
+
+							</footer>
+						</article>
+
+
+				    <div class="paywall-subscription block-product">
+			<div class="columns">
+			<div class="paywall-banner span3 cta cta-l1">
+				<div class="cta-intro">
+					<h5 class="cta-title alt-ff">One Free Selection Left </h5>
+					<p class="cta-text xsmall"><a class="link-alt" href="https://www.thesunmagazine.org/subscriber/login" data-label="Already a subscriber?">Already a subscriber? Sign in ▸</a><br><br>Read two free selections from <em>The Sun</em> each month.</p>
+				</div>
+			</div>
+			<div class="paywall-banner span9 note note-1 text-center">
+				<h4 class="cta-title alt-ff">Subscribe to <em>The Sun</em> and save 45%</h4>
+				<p class="cta-text xsmall">Subscribers get full access to the current issue and more than 40 years of archives.</p>
+				<a class="b b-1 xsmall cta-trigger"  href="/subscribe1" data-label="Subscribe" data-ctatitle="Subscribe">Subscribe</a>
+			</div>
+		</div>
+
+		<div class="columns">
+			<div class="span12 paywall-cta-bottom">
+				<p>
+					<span class="cta-title-issue">Buy the February 2012 issue for $5.95</span>
+					<span class="xsmall">Order now to get instant access to this issue, and we’ll also send you a print copy.</span>
+					<a class="b b-5 xsmall corona"  href="#" data-product-type="issues" data-id="434" data-label="Order Now ▸">Order Now ▸</a>
+				</p>
+			</div>
+		</div>
+
+		
+
+</div>
+	
+	
+	
+	<div class="spacer"></div>
+	
+
+
+
+			<div class="article-correspondence layout-item fill-pattern-light">
+		<div class="layout-item-intro">
+			<h2>Correspondence</h2>
+			<a class="xsmall link-alt" href="https://www.thesunmagazine.org/letter-to-the-editor">Write a Letter to the Editor&nbsp;&#9656;</a>
+		</div>
+
+		<div id="article-correspondences" class="correspondences correspondences-collapsed">
+								<div class="block-correspondence" id="587">
+		<blockquote class="quote-2">
+			<p>I related to Joseph Bathanti&rsquo;s essay &ldquo;<a href="/article/4628">Real Work</a>&rdquo; [February 2012]. I hail from a former steel town an hour and a half from Pittsburgh, Pennsylvania, where he grew up. Here, too, hard work was our heritage. College wasn&rsquo;t an option for me.</p>
+
+<p>My daughter is now in her junior year of college. She also works part time &mdash; full time during breaks. I hope her degree allows her choices other than laboring in a power plant, scrubbing floors on her hands and knees, and unloading and stocking freight. Sometimes I wonder, though: have I done my daughter a disservice in not encouraging her to have at least one physically challenging work experience? The toll of manual labor is written in the scars on her father&rsquo;s knees and in my weekly visit to the chiropractor (while we still have health insurance). Of course, in this economy, my daughter faces no guarantee of a great job as a reward for all her studying.</p>
+
+<p>I understand Bathanti&rsquo;s need to feel a physical reminder of labor to justify his accomplishments. I commend his efforts. Anything worthwhile is acquired only by real work &mdash; at least, that used to be the case.</p>
+							<p class="quote-2-author">Jackie Allison<br>Johnstown, Pennsylvania</p>
+					</blockquote>
+	</div>
+
+					</div>
+
+			</div>
+    
+		<div class="article-correspondence-cta">
+		<div class="cta cta-l1" data-url="https://www.thesunmagazine.org/letter-to-the-editor">
+			<div class="cta-intro">
+				<h5 class="cta-title alt-ff">Thinking about writing us a letter?</h5>
+				<p class="cta-text">Give in to the temptation. We love getting mail. <br><span class="xsmall">(Of course, we reserve the right to edit.)</span></p>
+			</div>
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" class="cta-button b b-4 b-padding-tight small" data-label="Write Us A Letter!">Write Us A Letter!</a>
+		</div>
+	</div>
+	
+
+			<div class="article-also layout-item-large full-bar fill-grey-mid-light">
+		<div class="layout-item-intro">
+			<h2>Also In This Issue</h2>
+			<a href="/issues/434" class="xsmall link-alt">February 2012&nbsp;&#9656;</a>
+		</div>
+		<div class="issue-articles-l1">
+			<div class="issue-articles-l1-content1">
+				
+<div class="cover cover-l1 block-product">
+	<div>
+							<a href="/issues/434" class="cover-thumb">
+				
+				<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 727'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/import/issue/434.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/561x728r/import/issue/434.jpg
+	 alt=""
+	 class="lazy">
+
+			</a>
+		
+
+													<!-- <a href="/issues/434" data-product-type="issues" data-id="434" data-role="order" class="js-buy-single corona cover-button b b-1 b-full xsmall" data-label="Buy This Issue &#9656;">
+								Buy This Issue&nbsp;&#9656;
+			</a> -->
+			<a href="/issues/434" data-product-type="issues" data-id="434" class="js-buy-single corona cover-button b b-1 b-full xsmall" data-label="Buy This Issue &#9656;">
+								Buy This Issue&nbsp;&#9656;
+			</a>
+					
+					</div>
+</div>
+			</div>
+			<div class="issue-articles-l1-content2">
+				<div class="articles-l3">
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/sun-interview">The Sun Interview</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/434/capitalism-and-its-discontents">Capitalism And Its Discontents</a></h3>
+					<p class="block-content-subtitle subtitle">Richard Wolff On What Went Wrong</p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/david-barsamian">David Barsamian</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/readers-write">Readers Write</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/434/warning-signs">Warning Signs</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/our-readers">Our Readers</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/434/no-ears-have-heard">No Ears Have Heard</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/lee-martin">Lee Martin</a></li></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+											
+	
+
+<article class="block-content block-content-l1">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/quotations">Quotations</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/434/sunbeams-434">Sunbeams</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"></ul>
+
+		
+
+					</div>
+
+
+		
+</article>
+
+									</div>
+			</div>
+		</div>
+	</div>
+	
+
+			<div class="article-related layout-item-large full-bar fill-pattern-light">
+		<div class="layout-item-intro">
+			<h2>Related Selections</h2>
+			<ul class="list-inline list-inline-tight"><li><a href="/topics/vocation" class="xsmall link-alt link-text">Vocation</a></li><li><a href="/topics/art-and-creativity" class="xsmall link-alt link-text">Art and Creativity</a></li><li><a href="/topics/employment" class="xsmall link-alt link-text">Employment</a></li><li><a href="/topics/parents" class="xsmall link-alt link-text">Parents</a></li></ul>		</div>
+
+		<div class="articles-l2">
+							
+
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/sun-interview">The Sun Interview</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/436/the-butterfly-effect">The Butterfly Effect</a></h3>
+					<p class="block-content-subtitle subtitle">Julia Butterfly Hill On Activism, Tax Resistance, And What She Learned From A Thousand-Year-Old Redwood</p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/leslee-goodman">Leslee Goodman</a></li><li><a href="/issues/436">April 2012</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/436" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 727'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/140x182r/import/issue/436.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/import/issue/436.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/sun-interview">The Sun Interview</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/398/in-the-jesters-court">In The Jester’s Court</a></h3>
+					<p class="block-content-subtitle subtitle">Paul Krassner On The Virtues Of Irreverence, Indecency, And Illegal Drugs</p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/david-kupfer">David Kupfer</a></li><li><a href="/issues/398">February 2009</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/398" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 727'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/140x182r/import/issue/398.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/280x364r/import/issue/398.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/essays-memoirs-true-stories">Essays, Memoirs, and True Stories</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/287/the-artists-mother">The Artist’s Mother</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/peter-najarian">Peter Najarian</a></li><li><a href="/issues/287">November 1999</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/287" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 725'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/141x182r/import/issue/287.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/281x364r/import/issue/287.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+							
+	
+
+<article class="block-content block-content-l5 block-content-reversed">
+		
+
+	<div class="block-content-header">
+							<h6 class="b-content-section heading-square heading-border"><a href="/sections/readers-write">Readers Write</a></h6>
+		
+
+				<h3 class="block-content-title"><a href="/issues/131/the-library-issue-131">The Library</a></h3>
+					<p class="block-content-subtitle subtitle"></p>
+		
+
+							<ul class="block-content-meta list-inline-border tiny"><li>
+							By <a class="meta-article-contributors" href="/contributors/our-readers">Our Readers</a></li><li><a href="/issues/131">October 1986</a></li></ul>
+
+		
+
+					</div>
+
+
+														<a href="/issues/131" class="block-content-photo cover-thumb">
+					
+					<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 560 725'%2F%3E"
+		data-src=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/141x182r/import/issue/131.jpg data-src-retina=https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/thumbs/281x364r/import/issue/131.jpg
+	 alt=""
+	 class="lazy">
+
+				</a>
+			
+			
+</article>
+
+					</div>
+	</div>
+	
+	
+					<form id="newsletterForm" method="post" action="https://www.thesunmagazine.org/newsletter" data-url-send="https://www.thesunmagazine.org/newsletter" class="form form-newsletter fill-grey" enctype="multipart/form-data" target="_blank">
+
+
+
+		<div class="form-newsletter-intro">
+			<h3 class="alt-ff large">Sign Up For Our Newsletter</h3>
+			<p>We’ll let you know about new website selections, upcoming events, special offers, and more.</p>
+		</div>
+
+		<ul class="form-newsletter-fields form-fields form-fields-inline">
+			<li>
+				<input name="name" type="text" maxlength="500" id="name" placeholder="Your Name">
+			</li>
+			<li>
+				<input name="email" type="text" maxlength="500" id="email" placeholder="Your E-mail">
+			</li>
+
+			<li class="form-fields-inline-button">
+				<button disabled="disabled" class="form-newsletter-send b b-4 b-padding-tight b-loading g-recaptcha" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs" data-callback="recaptcha_callback" name="SubmitButton" id="SubmitButton">
+					<svg><use xlink:href="#i-loading"></use></svg>
+					Sign&nbsp;Up
+				</button>
+			</li>
+		</ul>
+	</form>
+	<script id="hiddenlpsubmitdiv" style="display: none;"></script>
+
+
+
+<footer class="footer brand-grey-dark">
+			<div class="footer-first">
+		<h3 class="footer-tagline">Independent, Reader-Supported Publishing</h3>
+		<p class="footer-desc">In each issue of <em>The Sun</em> you’ll find some of the most radically intimate and socially conscious writing being published today. In an age of media conglomerates, we’re something of an oddity: an ad-free, independent, reader-supported magazine.</p>
+		<ul class="footer-nav list-inline-border xsmall">
+			
+		<li class=" first">
+			<a href="https://www.thesunmagazine.org/about" 	   class=''>
+	   About <em>the Sun</em>	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/staff" 	   class=''>
+	   Staff	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/find-the-sun" 	   class=''>
+	   Find <em>The Sun</em>&nbsp;&nbsp;in a Store Near You	</a>
+		
+	</li>
+
+
+		</ul>
+	</div>
+	
+		<div class="footer-second">
+		<ul class="footer-second-social list-inline">
+			<li><a href="https://www.facebook.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-facebook"></use></svg></span> Like Us</a></li>
+			<li><a href="https://twitter.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-twitter"></use></svg></span> Follow Us</a></li>
+			<li><a href="https://instagram.com/thesunmagazine" target="_blank" class="link-icon link-alt brand-link xsmall"><span class="i"><svg><use xlink:href="#i-instagram"></use></svg></span> Take a Look</a></li>
+		</ul>
+
+		<div class="footer-second-content">
+			<ul class="footer-nav list-inline-border xsmall">
+				
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/" 	   class='current '>
+	   Home	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/privacy-policy" 	   class=''>
+	   Privacy Policy	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/terms-of-use" 	   class=''>
+	   Terms of Use	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/site-map" 	   class=''>
+	   Site Map	</a>
+		
+	</li>
+
+
+			</ul>
+			<p class="footer-copyright xxsmall">Copyright &copy; 1974–2020 <em>The Sun</em>. All rights reserved.</p>
+		</div>
+	</div>
+</footer>
+
+
+
+<div class="offset-nav">
+	<ul>
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/read" 	   class='current '>
+	   Read	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/issues/current" 	   class=''>
+	   Current Issue	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/archives" 	   class=''>
+	   Archives	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/issues/featured" 	   class=''>
+	   Featured Selections	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/topics" 	   class=''>
+	   Browse Topics	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/sections" 	   class=''>
+	   Browse Sections	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/connect" 	   class=''>
+	   Connect	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/events" 	   class=''>
+	   Events	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/news" 	   class=''>
+	   News from <em>The Sun</em>	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/letter-to-the-editor" 	   class=''>
+	   Write a Letter to the Editor	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/discussion-groups" 	   class=''>
+	   Discussion & Writing Groups	</a>
+		
+	</li>
+
+																	<li class=" last">
+			<a href="https://www.thesunmagazine.org/make-a-suggestion" 	   class=''>
+	   Make a Suggestion	</a>
+		
+	</li>
+
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/submit" 	   class=''>
+	   Submit	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/shop" 	   class=''>
+	   Shop	</a>
+		
+			<ul class="subnav">
+													<li class=" first">
+			<a href="https://www.thesunmagazine.org/giftsub" 	   class=''>
+	   Gift Subscriptions	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/issues" 	   class=''>
+	   Issues	</a>
+		
+	</li>
+
+																	<li class="">
+			<a href="https://www.thesunmagazine.org/shop/category/books" 	   class=''>
+	   Books	</a>
+		
+	</li>
+
+											
+									</ul>
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/donatemenu" 	   class='highlight'>
+	   Donate	</a>
+		
+	</li>
+
+		<li class=" last">
+														<a href="/SubscribeNav1" 					   class=''>
+						Subscribe					</a>
+									
+	</li>
+
+
+					<li>
+				<a href="https://www.thesunmagazine.org/shop/cart">Cart ( <span class="cart-item-count">  0  </span>)</a>
+			</li>
+			<li><a href="https://www.thesunmagazine.org/subscriber/login" class="link-header-logout link-alt">Sign In</a></li>
+			</ul>
+	<ul>
+		<li class=" first">
+			<a href="https://www.thesunmagazine.org/about" 	   class=''>
+	   About <em>the Sun</em>	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/faq" 	   class=''>
+	   FAQ	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/contact-us" 	   class=''>
+	   Contact Us	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/staff" 	   class=''>
+	   Staff	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/find-the-sun" 	   class=''>
+	   Find <em>The Sun</em>&nbsp;&nbsp;in a Store Near You	</a>
+		
+	</li>
+
+</ul>
+	<ul>
+		<li class=" first active">
+			<a href="https://www.thesunmagazine.org/" 	   class='current '>
+	   Home	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/privacy-policy" 	   class=''>
+	   Privacy Policy	</a>
+		
+	</li>
+
+		<li class="">
+			<a href="https://www.thesunmagazine.org/terms-of-use" 	   class=''>
+	   Terms of Use	</a>
+		
+	</li>
+
+		<li class=" last">
+			<a href="https://www.thesunmagazine.org/site-map" 	   class=''>
+	   Site Map	</a>
+		
+	</li>
+
+</ul>
+</div>
+
+<div id="buy-popup-message" class="buy-popup mfp-hide white-popup white-popup-block">
+	<a class="popup-modal-dismiss" href="#"></a>
+	<h5>Due to fulfillment challenges related to the novel coronavirus, print copies are temporarily unavailable for individual sale. We are offering free PDFs until we are able to resume print sales.</h5>
+	<p>Enter your e-mail address below to download this issue.</p>
+	<form method="post" id="download-single" action="https://www.thesunmagazine.org/issue/pdfFree/531.pdf">
+		<label for="email"><span class="label-text">E-mail</span><span class="label-asterisk">*</span></label>
+		<input class="buy-single-email" id="email" type="email" name="email">
+		<button type="send" class="form-buy-issue-send b b-3 b-padding-tight b-loading">Send</button>
+		<button class="form-buy-issue-download b b-3 b-padding-tight b-loading">Download pdf</button>
+		<button type="send" class="popup-modal-dismiss b b-2 b-padding-tight b-loading">Close</button>
+		<div class="g-recaptcha" style="text-align: center" data-sitekey="6LeShC4UAAAAABclGhyTmdyYKcWKkxsgjqVPZXBs"></div>
+
+	</form>
+</div>
+
+			<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/plugins.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/site.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/build/js/newsletter.js"></script>
+			<script src="https://226391-691236-raikfcquaxqncofqfm.stackpathdns.com/theme/thesun/assets/js/articles.js"></script>
+		</div>
+		</div>
+
+				<script>
+		(function (doc) {
+			var scripts = doc.getElementsByTagName('script');
+			var script = scripts[scripts.length - 1];
+			var xhr = new XMLHttpRequest();
+			xhr.onload = function () {
+				var div = doc.createElement('div');
+				div.innerHTML = this.responseText;
+				div.style.display = 'none';
+				script.parentNode.insertBefore(div, script);
+			}
+			xhr.open('get', '/theme/thesun//assets/build/img/sprite/sprite.svg', true);
+			xhr.send();
+		})(document);
+
+
+
+		</script>
+
+		<script>
+			// Submit function
+            function recaptcha_callback() {
+						var getUrl = $('.form-newsletter').data( "url-send" ),
+							getName = $('input#name').val(),
+							getEmail = $('input#email').val();
+						$.ajax({
+								type: "POST",
+								url: getUrl,
+								data: {
+									name: getName,
+									email: getEmail,
+									grecaptcharesponse: grecaptcha.getResponse()
+								}
+							}).done(function(response) {
+								console.log(response);
+									$('.form-fields').fadeOut(800, function () {
+										$('.form-fields').empty().append('<div class="newsletter-confirm-message">Thank you for signing up to receive news from <em>The Sun</em>. Your first newsletter will arrive soon.<div>').fadeIn(800);
+									});
+							});
+			}
+
+		</script>
+
+		<script>
+			function getUrlCode() {
+				var url_string = window.location.href;
+				var url = new URL(url_string);
+				var c = url.searchParams.get('promotion\_key');
+				if (typeof c !== 'undefined' && c !== null) {
+					setCookie("promotion_code",c);
+				}
+			}
+
+			function setCookie(cname, cvalue) {
+				document.cookie = cname + "=" + cvalue + ";" + "path=/";
+			}
+
+			function getCookie(cname) {
+				var name = cname + "=";
+				var decodedCookie = decodeURIComponent(document.cookie);
+				var ca = decodedCookie.split(';');
+				for(var i = 0; i <ca.length; i++) {
+					var c = ca[i];
+					while (c.charAt(0) == ' ') {
+						c = c.substring(1);
+					}
+					if (c.indexOf(name) == 0) {
+						return c.substring(name.length, c.length);
+					}
+				}
+				return "";
+			}
+			window.addEventListener( "load", getUrlCode );
+		</script>
+
+
+	</body>
+</html>
